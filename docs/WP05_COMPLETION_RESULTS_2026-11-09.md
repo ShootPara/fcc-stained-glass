@@ -179,3 +179,28 @@ No software blocker is currently known. Remaining work at this checkpoint is
 public source-ZIP verification,
 publication and live verification. Physical-device/print checks stay explicitly
 unperformed rather than being converted into passes.
+
+## Publication follow-up
+
+Anonymous source-ZIP verification passed for commit
+`ce261ca97d748337e1398f59b3af14b85d7549f7`: 618,369,518 bytes,
+SHA-256 `c07c1ef2d105a4c60f706aa63d88663e9b929f26f6c4f5d9cf278093520ee865`.
+All archive paths were checked before extraction into a folder with spaces.
+With no Git checkout, npm ci and the release build passed; all 1,004 served
+files matched their receipt hashes, and design-002 colored successfully.
+
+GitHub Actions run 42692179829 built successfully on Ubuntu with Node v24.22.2
+and npm 11.19.1: install, typecheck, 306 tests, strict build and upload passed.
+Both deployment attempts timed out after ten minutes in GitHub Pages file
+synchronization (the second reached finished_file_sync). The public URL still
+returned 404. This was a hosting failure, not a passing deployment.
+Logs are preserved in .work/wp05-pages-failed.log and
+.work/wp05-pages-attempt2-failed.log.
+
+The build now omits only unreferenced photo derivatives and accessibility
+metadata from staging. All originals, source files, old geometry packages,
+frozen recipes and metadata for all 97 catalog versions remain preserved.
+The working public directory is not pruned. Strict release gates and exact
+hash checks remain unchanged. One focused selection regression test was added;
+Windows typecheck and all **307 tests / 23 files** pass.
+The reduced deployment is being built and verified before another Pages attempt.

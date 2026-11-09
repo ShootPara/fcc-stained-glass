@@ -10,6 +10,7 @@ import { PROJECT_ROOT, assertSafeProjectPath, assertRegularProjectFile } from '.
 import { jsonBytes,sha256File } from './lib/digests.js';
 import { CliError,isMain,runCli } from './lib/cli.js';
 import { deploymentBase } from '../vite.config.js';
+import { publicFileSelector } from './lib/public-files.js';
 
 export function resolveSiteBase(env:NodeJS.ProcessEnv,customDomain?:string|null) {
  if(env.SITE_BASE!==undefined)return deploymentBase(env.SITE_BASE,env.FCC_PORTABLE_BUILD==='1');
@@ -38,16 +39,18 @@ export async function buildSite(root=PROJECT_ROOT){
   const base=resolveSiteBase(process.env,project.customDomain);
   const stage=`.work/site-stage-${randomUUID()}`;
   await build({root,configFile:false,base,build:{outDir:stage,emptyOutDir:true,target:'es2022'}});
-  await unlink(path.join(root,stage,'catalog.dev.json')).catch(error=>{if(error.code!=='ENOENT')throw error;});
+  const includePublicFile=publicFileSelector(catalog);
+  const publicFiles=await fileInventory(root,'public');
+  const excluded=publicFiles.filter(f=>!includePublicFile(f.path));
+  for(const file of excluded)await unlink(await assertRegularProjectFile(`${stage}/${file.path}`,root));
   const files=await fileInventory(root,stage);const bytes=files.reduce((n,f)=>n+f.bytes,0);
   if(bytes>=1024**3)throw new Error('Built site exceeds the 1 GiB Pages guard.');
   if(!files.some(f=>f.path==='index.html')||!files.some(f=>/worker.*\.js$/.test(f.path))||files.some(f=>f.path.startsWith('source/')||f.path.includes('node_modules/')))throw new Error('Built runtime inventory is incomplete or includes source-only files.');
   // Every catalog download and package was validated before staging; require its
   // exact public bytes in the output too, including retained restoration versions.
-  const publicFiles=await fileInventory(root,'public');
-  for(const file of publicFiles.filter(f=>f.path!=='catalog.dev.json'))if(!files.some(f=>f.path===file.path&&f.sha256===file.sha256))throw new Error(`Missing or altered deployed asset: ${file.path}`);
+  for(const file of publicFiles.filter(f=>includePublicFile(f.path)))if(!files.some(f=>f.path===file.path&&f.sha256===file.sha256))throw new Error(`Missing or altered deployed asset: ${file.path}`);
   let commit:string|null=null,dirty=false;try{commit=(await promisify(execFile)('git',['rev-parse','HEAD'],{cwd:root})).stdout.trim();dirty=Boolean((await promisify(execFile)('git',['status','--porcelain'],{cwd:root})).stdout.trim());}catch{}
-  const receipt={schemaVersion:1,projectVersion:project.projectVersion,base,repositoryUrl:catalog.repositoryUrl,commit,dirty,node:process.version,catalogSha256:await sha256File(path.join(root,'public/catalog.json')),deployedBytes:bytes,files};
+  const receipt={schemaVersion:1,projectVersion:project.projectVersion,base,repositoryUrl:catalog.repositoryUrl,commit,dirty,node:process.version,catalogSha256:await sha256File(path.join(root,'public/catalog.json')),deployedBytes:bytes,excludedPublicFiles:excluded,files};
   const updates=files.map(f=>({path:`dist/${f.path}`,fromFile:path.join(root,stage,f.path)}));
   await promoteBatch(root,'build-site',[...updates,{path:'dist/build-receipt.json',bytes:jsonBytes(receipt)}]);
   // Remove only obsolete regular files from the named output, never source work.
