@@ -20,7 +20,7 @@ checkpoint publication exception is authorized by the superseded deploy-now idea
 The November 9
 studio layout supersedes older presentation guidance: icon-only accessible
 swatches, arrow Undo/Redo beside the palette, Clear, and no coloring header or
-visible region chooser. No public release is recorded. The owner authorized
+visible region chooser. WP05 is deployed and live verification is recorded in STATUS.md. The owner authorized
 publishing/deployment at agent discretion on November 9; unfinished release
 checks still apply. Keep progress saving browser-local only.
 

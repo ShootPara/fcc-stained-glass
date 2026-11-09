@@ -1,5 +1,8 @@
 # FCC stained-glass coloring
 
+[Open the live site](https://shootpara.github.io/fcc-stained-glass/) ·
+[Download the 51-page book](https://shootpara.github.io/fcc-stained-glass/downloads/fcc-coloring-book.pdf)
+
 48 coloring pages based on the supplied photographs of First Congregational
 Church, Kalamazoo; 55 photographs; 48 printable Letter PDFs; a 51-page book.
 

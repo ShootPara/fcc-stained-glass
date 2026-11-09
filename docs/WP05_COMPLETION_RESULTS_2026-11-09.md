@@ -203,4 +203,62 @@ frozen recipes and metadata for all 97 catalog versions remain preserved.
 The working public directory is not pruned. Strict release gates and exact
 hash checks remain unchanged. One focused selection regression test was added;
 Windows typecheck and all **307 tests / 23 files** pass.
-The reduced deployment is being built and verified before another Pages attempt.
+The reduced build and actual HTTP audit passed: 845 files / 275,213,438 bytes
+for the local root build. Catalog, all-assets and strict print/editorial release
+validation ran as part of that production build without weakening any gate.
+
+## Final outcome — complete and live
+
+Application commit: `7e658c29bb3df2631679ff2d19bf54afd077bebe`.
+Repository: https://github.com/ShootPara/fcc-stained-glass
+Live site: https://shootpara.github.io/fcc-stained-glass/
+Book: https://shootpara.github.io/fcc-stained-glass/downloads/fcc-coloring-book.pdf
+
+Pages run https://github.com/ShootPara/fcc-stained-glass/actions/runs/42697115127
+passed build and deployment, finishing at 20:54:34 UTC on November 9.
+Verify run 42697115316 also passed. GitHub Linux reran install, typecheck,
+all **307 tests / 23 files**, strict build and artifact upload successfully.
+Deployment took about 16 seconds on this attempt. Earlier provider timeouts
+are preserved above; reducing obsolete payload preceded success, but does not
+prove a particular internal GitHub failure cause.
+
+The public HTTP audit fetched **all 845 files / 275,213,546 bytes** and matched
+every length and SHA-256, including every current and retained coloring package,
+48 individual PDFs and the 51-page book. Report:
+`.work/reports/audit-site-2026-11-09T20-54-57-891Z-f902ab12.json`.
+Successful CI/deployment logs: `.work/wp05-pages-success.log`.
+
+Live browser checks passed: fresh design-009 drawing, tap-filled Blue head/neck,
+keyboard-selected independent Yellow lip, Undo/Redo, original-photo toggle,
+reload with colors/palette restored locally, and navigation to gallery and back.
+All 48 PDF links and the whole-book link were present. Console errors/warnings:
+none. A real click downloaded `C:\Users\brian\Downloads\fcc-coloring-book (2).pdf`;
+its SHA-256 is the final reviewed
+`977a14b0a94ea8f2fd5ff7c4c93a3dcaa5b1d9ede3203cff2b8794516341432a`.
+Screenshot: `.work/wp05-live.jpg`.
+
+Final portable ZIP supersedes the earlier larger ZIP measurements:
+`release-artifacts/fcc-stained-glass-site.zip`, **265,187,145 bytes**, SHA-256
+`0aeb747f5ab9cb85efef58f81aa8d29eb9da12dc213bc60c924f55a14d687f56`.
+Its safe paths, absence of symlinks, exact entry count, relative base and every
+one of the 845 payload hashes were independently checked with Python zipfile.
+Result: `.work/wp05-final-zip-audit.json`. It retains all restoration versions.
+Earlier extracted-ZIP browser checks remain applicable to the unchanged runtime;
+the final archive's reduced selection received the additional exact-byte audit.
+
+**Passed:** all 47 reviews, design-009 repair, local and Linux typecheck/tests,
+catalog/assets/strict release validation, print/book review, clean regeneration,
+anonymous source/ZIP portability, deployment, live file/download and browser checks.
+**Failed then resolved:** two earlier Pages timeouts; final deployment passed.
+**Blocked:** none known.
+**Not run:** physical touch/pinch, physical screen reader, paper printing and
+independent worker-process/memory-leak measurement. These remain limitations.
+No account or server-side saving was added; saves remain in local IndexedDB.
+The studio layout and all originals/old save geometry remain preserved.
+Final documentation-only evidence updates follow the deployed application commit
+and do not change runtime inputs or require another deployment.
+
+Temporary agent preview servers on 5174–5177, 5181 and 5182 were stopped after
+checking their process commands. The pre-existing project Vite server on 5173
+was left running. All evidence, disposable verification copies and prior backups
+remain local. The live repaired page was left open in the browser.

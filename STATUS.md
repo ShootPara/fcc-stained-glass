@@ -1,7 +1,7 @@
 # Project status
 
 **Project:** FCC Stained Glass · version 0.1.0
-**Checkpoint:** WP05 content and local release checks complete; portability/publication verification in progress, 9 November 2026.
+**Checkpoint:** WP05 complete and deployed; public runtime and downloads verified, 9 November 2026.
 **Owner direction:** finish WP05, then deploy. Keep saves local and preserve the current studio.
 
 ## Implemented and reviewed
@@ -39,7 +39,7 @@ all numbered sheets and source/credit pages. Corrected captions for 009, 037 and
 ## Verified locally
 
 Node **v24.13.0**, npm **11.6.2**, Windows.
-- Typecheck passed; final full suite **306/306 tests across 23 files** passed.
+- Typecheck passed; final full suite **307/307 tests across 23 files** passed on Windows and GitHub Linux.
 - Catalog/source validation: all 110 originals, **258,074,562 bytes**, unchanged.
 - Full assets: 48 drawings, **97 versions**, 55 derivatives, zero pending reviews.
 - Strict release validation and production build passed, with current editorial,
@@ -51,21 +51,29 @@ Node **v24.13.0**, npm **11.6.2**, Windows.
   Clear/Undo, photo toggle, native PNG and print downloads.
 - Root, renamed subpath and the extracted portable ZIP each served all 1,004
   audited files with exact hashes. Largest active design: 032, **581 regions**.
-- Portable ZIP built: release-artifacts/fcc-stained-glass-site.zip, 304,142,959
-  bytes; extracted and served successfully.
+- Final portable ZIP: release-artifacts/fcc-stained-glass-site.zip, 265,187,145
+  bytes; all 845 enclosed runtime files independently hash-verified. Earlier
+  full-payload ZIPs were also extracted, served and browser-tested.
 - Clean copy in a path with spaces: npm ci and all-source verification passed.
   Independent regeneration passed: all 97 versions and 55 photo derivatives match byte-for-byte. All 48 PDFs and the book were independently regenerated exactly; no-Git release build and normal development startup passed.
 
-The root production build is about 315 MB, below the 1 GiB hosting guard. Every
+The final public production build is 275,213,546 bytes, below the 1 GiB hosting guard. Every
 file is below the 95 MiB per-file guard. Raw source-tree size includes retained
 frozen recipes; final repository/ZIP measurements accompany publication evidence.
 
 ## Publication
 
 Repository identity: https://github.com/ShootPara/fcc-stained-glass
-Intended site: https://shootpara.github.io/fcc-stained-glass/
-**Not yet recorded as deployed.** Complete independent regeneration comparison,
-anonymous source/ZIP checks, then deploy and verify the public runtime/downloads.
+Live site: https://shootpara.github.io/fcc-stained-glass/
+Deployed application commit: `7e658c29bb3df2631679ff2d19bf54afd077bebe`.
+Pages run 42697115127 and Verify run 42697115316 passed. All 845 live files
+match their receipt hashes, including 48 sheets and the 51-page book. The actual
+browser-downloaded final book matches SHA-256 above. Live design-009 tap/keyboard
+coloring, history, photo toggle and local reload restoration passed.
+Two earlier Pages synchronization timeouts are recorded in the completion report;
+after excluding only unreferenced derivatives from staging, deployment succeeded.
+All 97 saved-version packages remain included. No original public/source files
+were pruned. Anonymous clone, source ZIP and independent regeneration passed.
 
 ## Not physically tested
 
@@ -80,9 +88,9 @@ and final publication updates. The queue and authored observations are under
 docs/region-reviews and docs/WP05_COLORING_REVIEW_QUEUE.json. Print and historical
 review JSON bind exact current content.
 
-Next concrete action: finish the clean regeneration/anonymous-source checks,
-publish and verify the reviewed site. Do not start a new work package or redesign
-the studio. Preserve all sources, old saves and retained geometry.
+No remaining WP05 software or publication blocker is known. Use the live site;
+physical-device and paper-print checks remain explicitly unperformed. Do not start
+a new work package or redesign the studio. Preserve old saves and retained geometry.
 
 Older checkpoint wording is preserved in
 docs/STATUS_ARCHIVE_PRE_RELEASE_2026-11-09.md and the WP01–WP05 reports. Their
