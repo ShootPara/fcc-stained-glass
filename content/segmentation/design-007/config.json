@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Detailed source/overlay crops inspected in .work/region-crops/design-007/small-01.png through small-04.png and shaft-and-fold.png at 8x. Explicit tip IDs recorded in scripts/repair-diagonal-shaft.ts. Seven shaft-interior components reconnected, and six components in a SEPARATE thin shirt fold reconnected only within that fold. Diagonal staircase corners use the lighter interior pixel and refuse adjacency to unrelated panes. Shaft and fold remain distinct. Twenty-six disconnected acute tips masked; tiny closed hair curl, shoulder dot center, edge pane and toe detail retained. All unrelated panes verified one-to-one; source/canonical ink unchanged. Previous package retained. Bridge pixels: [[354,686],[354,688],[355,689],[358,691],[358,693],[361,697],[823,1090],[824,1091],[826,1091],[828,1094],[830,1094]]",
+  "schemaVersion": 1
+}

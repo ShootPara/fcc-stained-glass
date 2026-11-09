@@ -1,0 +1,13 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Complete source/numbered overlay and all 53 small-component crops inspected. Forty-two explicit acute raster tips excluded. Retain the small helmet fitting, eye white/highlight, enclosed ear slit, cuff gap, three small circular decoration centers, two closed hoof curls and a small hoof gap. Fan/plume wedges, helmet band, staff, gripping hand, forearm/cuff and garment strips remain separately bounded. Chariot hull scroll openings and pedestal-like details retain enclosed triangles and stems. Curved rim separates hull and horse ornament. Eight wheel petals, center ring/disc and surrounding wedge spaces remain distinct. The horse-like right ornament and foot outline retain open contour strokes; tiny closed curl details remain available. Names describe visible components without declaring a historical scene or location. Canonical drawing and earlier packages remain unchanged. Explicit inspected tip IDs: 9,15,17,20,22,23,24,35,36,40,48,50,57,66,69,76,77,79,98,105,110,112,114,115,116,118,120,122,125,133,137,145,149,159,160,170,172,187,188,191,192,195. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

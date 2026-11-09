@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected the full numbered source and five sheets of small components. Keep the true eye whites, ear dot, closed nostril and ornament interstices. Reconnect the fragmented thin brow line, closed nostril and narrow diagonal outlines where paths remain isolated. Exclude explicit acute endpoints only; small enclosed triangles and the cuff opening remain. Names distinguish upper face and veil, round head ornaments, bearded figure and raised hand, staff, vessel, horse profile and surrounding fabric bands. Source and canonical ink stay unchanged and prior packages remain available. Explicit inspected tip IDs: 22,27,30,58,95,117,128,140,148,157,196,197,201,207. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

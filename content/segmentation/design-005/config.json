@@ -1,0 +1,13 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Detailed paired 4x source/overlay crop review in .work/region-crops/design-005/small-01.png through small-03.png. Retain tiny closed triangle 7, small pane below the cat's jaw 67, left-edge triangle 99, and tiny eye-corner details 107 and 109 (original IDs). Explicit connectivity-only mask for the other 31 inspected sub-25-pixel disconnected raster tips; no automatic size cutoff. Original source and canonical ink unchanged; previous geometry retained. White outer margin excluded. Owner approved closing the open monkey shoulder gap on 2026-11-09 while keeping the visible drawing unchanged. Explicit connectivity-only bridge follows (215,462) to (221,472); exact pixels are in scripts/repair-monkey-shoulder.ts. Monkey body and background now separate; canonical ink is unchanged.",
+  "schemaVersion": 1
+}

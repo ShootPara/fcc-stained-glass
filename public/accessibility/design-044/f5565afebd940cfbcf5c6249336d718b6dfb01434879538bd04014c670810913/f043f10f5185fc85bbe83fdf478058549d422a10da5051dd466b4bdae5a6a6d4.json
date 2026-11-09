@@ -1,0 +1,772 @@
+{
+  "artworkId": "design-044",
+  "contentVersion": "f5565afebd940cfbcf5c6249336d718b6dfb01434879538bd04014c670810913",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper background and border, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Upper background and border, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Upper background and border, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Upper background and border, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Dove's body, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Upper background and border, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Upper background and border, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Dove's wings and enclosed wing ovals, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Upper background and border, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Dove's wings and enclosed wing ovals, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Dove's wings and enclosed wing ovals, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Dove's wings and enclosed wing ovals, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Dove's wings and enclosed wing ovals, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Dove's wings and enclosed wing ovals, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Dove's wings and enclosed wing ovals, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Upper background and border, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Upper background and border, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Dove's wings and enclosed wing ovals, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Dove's wings and enclosed wing ovals, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Upper background and border, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Dove's wings and enclosed wing ovals, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Dove's wings and enclosed wing ovals, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Upper background and border, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Dove's wings and enclosed wing ovals, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Dove's wings and enclosed wing ovals, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Dove's lower wing bands, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Dove's lower wing bands, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Dove's wings and enclosed wing ovals, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Dove's wings and enclosed wing ovals, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Radiating beams and central flame, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Radiating beams and central flame, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Upper right flame and scalloped arch, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Fine outline fragment beside Dove's lower wing bands, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Radiating beams and central flame, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Radiating beams and central flame, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Radiating beams and central flame, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Radiating beams and central flame, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Radiating beams and central flame, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Radiating beams and central flame, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Radiating beams and central flame, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Radiating beams and central flame, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Radiating beams and central flame, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Radiating beams and central flame, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Radiating beams and central flame, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Radiating beams and central flame, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Upper left flame and arch, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Radiating beams and central flame, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Upper right flame and scalloped arch, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Upper left flame and arch, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Upper left flame and arch, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Upper right flame and scalloped arch, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Upper left flame and arch, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Upper left flame and arch, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Upper left flame and arch, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Upper left flame and arch, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Upper left flame and arch, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Upper right flame and scalloped arch, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Upper left flame and arch, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Upper left flame and arch, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Upper left flame and arch, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Upper left flame and arch, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Upper left flame and arch, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Upper right flame and scalloped arch, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Upper left flame and arch, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Upper left flame and arch, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Upper left flame and arch, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Upper left flame and arch, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Upper left flame and arch, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Upper right flame and scalloped arch, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Upper left flame and arch, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Upper left flame and arch, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Fine outline fragment beside Upper left flame and arch, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Upper left flame and arch, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Middle center flame and pointed arch, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Upper right flame and scalloped arch, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Middle center flame and pointed arch, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Middle left flame and scalloped arch, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Middle right flame and scalloped arch, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Middle left flame and scalloped arch, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Middle right flame and scalloped arch, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Middle center flame and pointed arch, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Middle left flame and scalloped arch, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Middle center flame and pointed arch, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Middle right flame and scalloped arch, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Middle left flame and scalloped arch, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Middle center flame and pointed arch, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Middle right flame and scalloped arch, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Lower right decorated arch and flame, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Lower left dotted arch and flame, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Cropped left flame and arch, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Cropped right flame and arch, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Lower right decorated arch and flame, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Lower right decorated arch and flame, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Lower left dotted arch and flame, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Cropped left flame and arch, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Lower left dotted arch and flame, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Lower right decorated arch and flame, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Lower left dotted arch and flame, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Cropped right flame and arch, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Lower right decorated arch and flame, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Lower left dotted arch and flame, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Cropped left flame and arch, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Fine outline fragment beside Middle right flame and scalloped arch, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Cropped left flame and arch, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Lower right decorated arch and flame, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Lower left dotted arch and flame, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Lower right decorated arch and flame, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Lower right decorated arch and flame, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Cropped left flame and arch, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Lower left dotted arch and flame, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Lower left dotted arch and flame, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Lower left dotted arch and flame, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Cropped right flame and arch, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Lower right decorated arch and flame, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Lower right decorated arch and flame, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Lower left dotted arch and flame, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Cropped left flame and arch, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Cropped left flame and arch, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Lower left dotted arch and flame, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Cropped right flame and arch, retained section 120",
+      "order": 120
+    },
+    {
+      "id": 121,
+      "name": "Lower right decorated arch and flame, retained section 121",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Cropped left flame and arch, retained section 122",
+      "order": 122
+    },
+    {
+      "id": 123,
+      "name": "Cropped left flame and arch, retained section 123",
+      "order": 123
+    },
+    {
+      "id": 124,
+      "name": "Lower left dotted arch and flame, retained section 124",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Bottom left flame medallion and ornaments, retained section 125",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Bottom center flame medallion and ornaments, retained section 126",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Bottom left flame medallion and ornaments, retained section 127",
+      "order": 127
+    },
+    {
+      "id": 128,
+      "name": "Bottom right flame medallion and ornaments, retained section 128",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Bottom center flame medallion and ornaments, retained section 129",
+      "order": 129
+    },
+    {
+      "id": 130,
+      "name": "Bottom left flame medallion and ornaments, retained section 130",
+      "order": 130
+    },
+    {
+      "id": 131,
+      "name": "Bottom center flame medallion and ornaments, retained section 131",
+      "order": 131
+    },
+    {
+      "id": 132,
+      "name": "Bottom center flame medallion and ornaments, retained section 132",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Bottom center flame medallion and ornaments, retained section 133",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Bottom left flame medallion and ornaments, retained section 134",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Bottom center flame medallion and ornaments, retained section 135",
+      "order": 135
+    },
+    {
+      "id": 136,
+      "name": "Bottom left flame medallion and ornaments, retained section 136",
+      "order": 136
+    },
+    {
+      "id": 137,
+      "name": "Bottom left flame medallion and ornaments, retained section 137",
+      "order": 137
+    },
+    {
+      "id": 138,
+      "name": "Bottom right flame medallion and ornaments, retained section 138",
+      "order": 138
+    },
+    {
+      "id": 139,
+      "name": "Bottom center flame medallion and ornaments, retained section 139",
+      "order": 139
+    },
+    {
+      "id": 140,
+      "name": "Bottom center flame medallion and ornaments, retained section 140",
+      "order": 140
+    },
+    {
+      "id": 141,
+      "name": "Bottom center flame medallion and ornaments, retained section 141",
+      "order": 141
+    },
+    {
+      "id": 142,
+      "name": "Bottom right flame medallion and ornaments, retained section 142",
+      "order": 142
+    },
+    {
+      "id": 143,
+      "name": "Bottom left flame medallion and ornaments, retained section 143",
+      "order": 143
+    },
+    {
+      "id": 144,
+      "name": "Fine outline fragment beside Bottom left flame medallion and ornaments, retained section 144",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Fine outline fragment beside Bottom left flame medallion and ornaments, retained section 145",
+      "order": 145
+    },
+    {
+      "id": 146,
+      "name": "Bottom left flame medallion and ornaments, retained section 146",
+      "order": 146
+    },
+    {
+      "id": 147,
+      "name": "Bottom background wedges, retained section 147",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Bottom right flame medallion and ornaments, retained section 148",
+      "order": 148
+    },
+    {
+      "id": 149,
+      "name": "Bottom right flame medallion and ornaments, retained section 149",
+      "order": 149
+    },
+    {
+      "id": 150,
+      "name": "Bottom center flame medallion and ornaments, retained section 150",
+      "order": 150
+    },
+    {
+      "id": 151,
+      "name": "Bottom center flame medallion and ornaments, retained section 151",
+      "order": 151
+    },
+    {
+      "id": 152,
+      "name": "Bottom background wedges, retained section 152",
+      "order": 152
+    },
+    {
+      "id": 153,
+      "name": "Bottom background wedges, retained section 153",
+      "order": 153
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,1643 @@
+{
+  "files": [
+    {
+      "bytes": 1486541,
+      "height": 1254,
+      "id": "cover-front",
+      "originalFilename": "Design_01_Front.png",
+      "path": "source/cover/Design_01_Front.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1z-WPDPDjXZU0wUxdoGHGDboSNEXq2xef/view",
+        "sourceId": "COVER"
+      },
+      "role": "cover",
+      "sha256": "e12a04c30c1333e86867bebca57ae297d1c599c073c7e3584c572badc7bcaef3",
+      "width": 1254
+    },
+    {
+      "bytes": 1475014,
+      "height": 1536,
+      "id": "design-002",
+      "originalFilename": "002.png",
+      "path": "source/coloring/002.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1WboMc59cw0kYgwsH1iPDTTJh-9kHDpDw/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "013578d8ab487e7f2dfe1c0af61bbf296353f464940436da1d9b6a5bbb0a4a73",
+      "width": 1024
+    },
+    {
+      "bytes": 1433046,
+      "height": 1536,
+      "id": "design-003",
+      "originalFilename": "003.png",
+      "path": "source/coloring/003.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/17PR92RqOQwglRjGgv0ZXKEnZz_A68Gz5/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "604704c46091b7d68c7730988e543139870d1642d911e56d30d0479bd52b8fb8",
+      "width": 1024
+    },
+    {
+      "bytes": 1553817,
+      "height": 1536,
+      "id": "design-004",
+      "originalFilename": "004.png",
+      "path": "source/coloring/004.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/148shUUtX7UREiwUQ6NCODtDts4vLs_Q7/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "850e9ed5480d1257e216e05ecdedf4fbc92fc98d24e63bd6d8e83dcac28c1d4f",
+      "width": 1024
+    },
+    {
+      "bytes": 1573797,
+      "height": 1536,
+      "id": "design-005",
+      "originalFilename": "005.png",
+      "path": "source/coloring/005.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/11x7aPhr5yBlD5NcMCAXT1_y8wEHKxs3b/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "a658b75981fb211e261cdc3655bcfaa3977cc495e28ec450dcfbeea0713f40e9",
+      "width": 1024
+    },
+    {
+      "bytes": 1733797,
+      "height": 1536,
+      "id": "design-006",
+      "originalFilename": "006.png",
+      "path": "source/coloring/006.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1QdfwBz_uF6CMIQ8C0Sdn14uF2lQDcUez/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "786c701bbcd1467505090bb380de08bcbf6fc936788e7536da3a6fbf27fdd7f3",
+      "width": 1024
+    },
+    {
+      "bytes": 1654442,
+      "height": 1536,
+      "id": "design-007",
+      "originalFilename": "007.png",
+      "path": "source/coloring/007.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1sAa8mX1uVXSlCOKb4bpBgkg1VCcZ6Jjd/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "b6abe84881ccbbbddedb3e87607d62b856a2147b799344584adb01733675c1ea",
+      "width": 1024
+    },
+    {
+      "bytes": 1499326,
+      "height": 1536,
+      "id": "design-008",
+      "originalFilename": "008.png",
+      "path": "source/coloring/008.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1XRj8W7LiK-C35B6x73_-K1YVOFimbk10/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "fd156a6f786dc2693c27538859c1a3fe75c85987db9ce3209aeb76ef94b3726e",
+      "width": 1024
+    },
+    {
+      "bytes": 1726440,
+      "height": 1536,
+      "id": "design-009",
+      "originalFilename": "009.png",
+      "path": "source/coloring/009.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1fTtC5DqKGdRNr8nSBZQR2AS-p9WZT-yn/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "3d76f18ea1060f448e01b6c533853d31ba623ee89e92cf7ebb95fff1f633ab30",
+      "width": 1024
+    },
+    {
+      "bytes": 1816874,
+      "height": 1536,
+      "id": "design-010",
+      "originalFilename": "010.png",
+      "path": "source/coloring/010.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/17SIeeW6a65sERkEhLQdVfBTthYNaNCSf/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "6a7fa4a433721388cd63bc42980d0bfc1aa15f38ec77604d1cb4884e605542a6",
+      "width": 1024
+    },
+    {
+      "bytes": 1407171,
+      "height": 1536,
+      "id": "design-011",
+      "originalFilename": "011.png",
+      "path": "source/coloring/011.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1SOVod4s1wOlNl3MRmx13JasF5Rn13Vk_/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "7796bc3dbbe5da101d5bfc94f0417dff3535e8baa9d08257c7d0bc6b7184d446",
+      "width": 1024
+    },
+    {
+      "bytes": 1546339,
+      "height": 1536,
+      "id": "design-012",
+      "originalFilename": "012.png",
+      "path": "source/coloring/012.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1ziFESMGNqAXeX4KCfH0OB9qcPbe6hzA9/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "4697a0a1f9e2961748dc04dae45f96d3e5332b7af89125d265fe4acdb3894e2a",
+      "width": 1024
+    },
+    {
+      "bytes": 1844603,
+      "height": 1536,
+      "id": "design-013",
+      "originalFilename": "013.png",
+      "path": "source/coloring/013.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1jmyI8qDLevzDqIWx49DQg-c2QRw3pqDQ/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "8a75d28da1cb552d24e3d742e22f0e34485e03b30cf6d80ba2335088022bb85c",
+      "width": 1024
+    },
+    {
+      "bytes": 1429438,
+      "height": 1535,
+      "id": "design-014",
+      "originalFilename": "014.png",
+      "path": "source/coloring/014.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1sJrjta1-sOh9lEkdkeIFCFY5KXHOVaqj/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "ea167437e812d6f998da9a74836a4a077ae50266f6ea81137eacee0b6135c80a",
+      "width": 1024
+    },
+    {
+      "bytes": 1520240,
+      "height": 1536,
+      "id": "design-015",
+      "originalFilename": "015.png",
+      "path": "source/coloring/015.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1lJtXr_K78CDk-PSp4r00T_mUf3_lrg5A/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "1893a74d63fae1b0f6f8ab13e7f5d6c17420d61a913f9fadbf35932fd29a201a",
+      "width": 1024
+    },
+    {
+      "bytes": 1840813,
+      "height": 1536,
+      "id": "design-016",
+      "originalFilename": "016.png",
+      "path": "source/coloring/016.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1iIGtFUTRvFoX3fmkHK7xLmwyBscfMDJk/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "d6788d9e9b1bf64585372ce0552bdb1ffa922cd44566ee526a4a5f7d60b4893d",
+      "width": 1024
+    },
+    {
+      "bytes": 1764349,
+      "height": 1536,
+      "id": "design-017",
+      "originalFilename": "017.png",
+      "path": "source/coloring/017.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1tDNjD4uoyDAwBrrnICRVvLOqNI9niAcx/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "114f5d4aeb98484ecc68c391932b51c3124af01caca4bc01aece118b66c6f4ab",
+      "width": 1024
+    },
+    {
+      "bytes": 1675589,
+      "height": 1536,
+      "id": "design-018",
+      "originalFilename": "018.png",
+      "path": "source/coloring/018.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/146kMxJSx1-qwnivMZD1ZNeGFVxwPeNLw/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "c1a6a5aeaa229a7c99e81c3a9e138cf40e32c34dd33ad476f4a9c945f239f046",
+      "width": 1024
+    },
+    {
+      "bytes": 1597025,
+      "height": 1536,
+      "id": "design-019",
+      "originalFilename": "019.png",
+      "path": "source/coloring/019.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1cqLa9yNJkT31UoTUY4tyyzcImdCM8KyV/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "cf49a7e0486d6fab9e34a771dd3a0a516995c9dbe93df2968e0820806eb265c6",
+      "width": 1024
+    },
+    {
+      "bytes": 1408629,
+      "height": 1536,
+      "id": "design-020",
+      "originalFilename": "020.png",
+      "path": "source/coloring/020.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1seYT2JIeLT6gGBKDXsOzVuzdPi65arxm/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "588067ebc0762f29d354ce59ebb3ea846958cfd8c1b5207aaeda7723baf04e9e",
+      "width": 1024
+    },
+    {
+      "bytes": 1662896,
+      "height": 1536,
+      "id": "design-021",
+      "originalFilename": "021.png",
+      "path": "source/coloring/021.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1Z6oXToZ_ShSnpZuCdHf4BX_grbXwbEkj/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "6292c4d6a6b0d04f887d85144cbb34f6ff5a7eed0384500add2acb7bd17639f5",
+      "width": 1024
+    },
+    {
+      "bytes": 1720349,
+      "height": 1536,
+      "id": "design-022",
+      "originalFilename": "022.png",
+      "path": "source/coloring/022.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1n9WlOIKfgItU1VZxwKIt4nrVyYOUwgiK/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "3a8d629771912ac5d3decc23241bc6e53942b47c7691f47168d651734513bbef",
+      "width": 1024
+    },
+    {
+      "bytes": 1767318,
+      "height": 1536,
+      "id": "design-023",
+      "originalFilename": "023.png",
+      "path": "source/coloring/023.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1-Z6s6EvGfU6fBbxXHr-57n8_GGbzPa37/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "5e26affe416195474644675c76d783a975498b939aceaabc4097cab17fd56e2b",
+      "width": 1024
+    },
+    {
+      "bytes": 1674724,
+      "height": 1536,
+      "id": "design-024",
+      "originalFilename": "024.png",
+      "path": "source/coloring/024.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1zLmK_H7Otr8IfgbCuGaxYx9bc23GeKU3/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "60225ecca76c7f2ed1477d7ca9f1940b30f4b34352d2eb9d06a2af70bf7ff9d0",
+      "width": 1024
+    },
+    {
+      "bytes": 1497314,
+      "height": 1536,
+      "id": "design-025",
+      "originalFilename": "025.png",
+      "path": "source/coloring/025.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1OgXsiJvu7vGIvdUcGTY8RLDeGPcH89wx/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "716128c7f03508e92cf862c8bc63c04c49fcd1354ffa4b97251432d6ba027294",
+      "width": 1024
+    },
+    {
+      "bytes": 1644080,
+      "height": 1536,
+      "id": "design-026",
+      "originalFilename": "026.png",
+      "path": "source/coloring/026.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1Jate_lBDPFU63dlANMoqdBGgLr8l6jqm/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "bb60d5ac007d1a47619dd3175c27f8b9c8465be1286fe909b044a7be2544f451",
+      "width": 1024
+    },
+    {
+      "bytes": 1746670,
+      "height": 1511,
+      "id": "design-027",
+      "originalFilename": "027.png",
+      "path": "source/coloring/027.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1nvz92LKjmH8dZNnnjj7q7Si3OlhIYRLb/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "e7aa5ca88d24d18f3282a10be87baff141da844a8c14b53cef5330aa4bc566e9",
+      "width": 1041
+    },
+    {
+      "bytes": 1642123,
+      "height": 1597,
+      "id": "design-028",
+      "originalFilename": "028.png",
+      "path": "source/coloring/028.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1TmAPWgWAXvGjIGnvvlQZvM-tI9iwX7DC/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "bb11c923d19ce17b49c80823e7a72897ae829dc3c5776c59bf6ad60ad7021f8a",
+      "width": 985
+    },
+    {
+      "bytes": 1643596,
+      "height": 1597,
+      "id": "design-029",
+      "originalFilename": "029.png",
+      "path": "source/coloring/029.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1Bhy-AkizJ10q5JUKT1EjW_0qfMTlmA_6/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "41784d8a66b1bb2197b33f0abae618225b109cf6fc762d85d1eb6232b315fe98",
+      "width": 985
+    },
+    {
+      "bytes": 1659332,
+      "height": 1536,
+      "id": "design-030",
+      "originalFilename": "030.png",
+      "path": "source/coloring/030.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1YjFe_AbgijTKLDn48O66wlPVBYYiiMv_/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "c98508b428acafd0bfaccf3f2684287e6a232dc73db8db67470d82d3cb33b01f",
+      "width": 1024
+    },
+    {
+      "bytes": 1666981,
+      "height": 1528,
+      "id": "design-031",
+      "originalFilename": "031.png",
+      "path": "source/coloring/031.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1u_sH1D6MXtkWbqVkRWy8285xZeD9Vvj3/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "dfab1d31db063613f6ed76750635240cbb07db87a5cc45c13a40955e63519b97",
+      "width": 1029
+    },
+    {
+      "bytes": 1840706,
+      "height": 1536,
+      "id": "design-032",
+      "originalFilename": "032.png",
+      "path": "source/coloring/032.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1uubOTf5dSUDirYAiBldNyD-77k5-A6XH/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "f9fb528777c9b9423cfb33e16bbd25105fba12251df7ef76b8430a1dd6935687",
+      "width": 1024
+    },
+    {
+      "bytes": 1551308,
+      "height": 1589,
+      "id": "design-033",
+      "originalFilename": "033.png",
+      "path": "source/coloring/033.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/11EmdHC4300NsVyDhlamVT3jzCJRc7W_a/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "620305a6186da161df3f1b66010f2ae17fc11e7eefa1823b7f332f552ed47199",
+      "width": 990
+    },
+    {
+      "bytes": 1677106,
+      "height": 1550,
+      "id": "design-034",
+      "originalFilename": "034.png",
+      "path": "source/coloring/034.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1xRkz_OVj2JniMOexZsT6yZvU2ydqosAT/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "3337f1a3379946d90dc5302f234d628cd6007bc7ce1d5483ae791b7ee58dd70b",
+      "width": 1014
+    },
+    {
+      "bytes": 1511190,
+      "height": 1538,
+      "id": "design-035",
+      "originalFilename": "035.png",
+      "path": "source/coloring/035.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1pX5c4I17zSfQ6LcuSVgdUjbCH0xN6Rt0/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "d75e5d9e518b3c9cb40ebfd7d93fd69c169b443f4cc60449a7dd75d663ff970a",
+      "width": 1023
+    },
+    {
+      "bytes": 1737185,
+      "height": 1536,
+      "id": "design-036",
+      "originalFilename": "036.png",
+      "path": "source/coloring/036.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1wPdAuP8Q14Igd2w5jb5p9wFu6ao0VcGr/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "e187180a7b71a0f3a7ef0e3f40729f4a75afcb04892e2902c02addad46fa945a",
+      "width": 1024
+    },
+    {
+      "bytes": 1611791,
+      "height": 1584,
+      "id": "design-037",
+      "originalFilename": "037.png",
+      "path": "source/coloring/037.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/10ERgy-8CnvH-Ow7ifhcyC5wdUa1bAf5e/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "4661db9fc29945e20066b7564c4b40227e7b9300a3e5e0777e2850a510ee8140",
+      "width": 993
+    },
+    {
+      "bytes": 1573478,
+      "height": 1539,
+      "id": "design-038",
+      "originalFilename": "038.png",
+      "path": "source/coloring/038.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1KTmvU4Hzq1SYvFnXVRjqORqbTbD7uBV0/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "814cc6904f0baf4f7183236b8e45cf6987459efa577bf8b73d225327cd355eb6",
+      "width": 1022
+    },
+    {
+      "bytes": 1393267,
+      "height": 1530,
+      "id": "design-039",
+      "originalFilename": "039.png",
+      "path": "source/coloring/039.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1de2ak2hoAmUB2ip2MLfVCuAE-1t5qFvt/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "191140f4d5392f26ce2ddc7359603d4f3d49876c2d88fefef5468f71e9501833",
+      "width": 1028
+    },
+    {
+      "bytes": 1472747,
+      "height": 1606,
+      "id": "design-040",
+      "originalFilename": "040.png",
+      "path": "source/coloring/040.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1ZR-pg7qNO3y9-Y8jFE1LqBDJvqO_TcMx/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "0bcd1485c411da1fb6a3042ea3465d454e4e491f7f23d7c527103a851d9c4c86",
+      "width": 979
+    },
+    {
+      "bytes": 1671027,
+      "height": 1537,
+      "id": "design-041",
+      "originalFilename": "041.png",
+      "path": "source/coloring/041.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1br64FQYEsernxea4xMOjilvEyf4shSIn/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "7f4e15340e0f3bdab23468582c3db30eb92209f0927b10255cdef1d0ad317cf4",
+      "width": 1023
+    },
+    {
+      "bytes": 1271111,
+      "height": 1550,
+      "id": "design-042",
+      "originalFilename": "042.png",
+      "path": "source/coloring/042.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1eoSXuD9SOVF9ZOEESm82qTSabdJjn1CD/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "fecd1d78cb1123da1a043eca78053deaf93b046da4e24056e40e229c7bf9413b",
+      "width": 1015
+    },
+    {
+      "bytes": 1511311,
+      "height": 1538,
+      "id": "design-043",
+      "originalFilename": "043.png",
+      "path": "source/coloring/043.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/16hhNRmSXOQppE-mwJgdIYoI7BfGmap2C/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "e56d6c2a7cc1c9f92b80844733197a1f5679adf7dfd87b3c8bf2f5ece9b9b3be",
+      "width": 1022
+    },
+    {
+      "bytes": 1597569,
+      "height": 1610,
+      "id": "design-044",
+      "originalFilename": "044.png",
+      "path": "source/coloring/044.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1Yp3Cb0vRApCxJH3_U17qSD2wNncg8oQo/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "236b6d18d9179998bad1d99b16adbe658771ece3eac5f068c6d0145d177cf51b",
+      "width": 977
+    },
+    {
+      "bytes": 1569675,
+      "height": 1595,
+      "id": "design-045",
+      "originalFilename": "045.png",
+      "path": "source/coloring/045.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1mUztupp-LLQmDxFiQAthu6ENzogmEJGR/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "47a3534e6c307b37cac908f6b2538ff584fb102de58ce2111a5def305e49095e",
+      "width": 986
+    },
+    {
+      "bytes": 1770354,
+      "height": 1536,
+      "id": "design-046",
+      "originalFilename": "046.png",
+      "path": "source/coloring/046.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1j3GhR64KNoADKuIQ1V131PKi7iKuVYSa/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "9319e99b1c676b0fb0a62dbd788bd4768f3055f2172a67beb5d543d60405c0cc",
+      "width": 1024
+    },
+    {
+      "bytes": 1679250,
+      "height": 1605,
+      "id": "design-047",
+      "originalFilename": "047.png",
+      "path": "source/coloring/047.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1pr-RRwVwXtBIZlIDRGq6uYcTyI6ujvOw/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "fe52c711fdbe46ff42b0731a414cbbe06c0dff7fd8088c85e7c08d1b1a582ebd",
+      "width": 980
+    },
+    {
+      "bytes": 1778358,
+      "height": 1536,
+      "id": "design-048",
+      "originalFilename": "048.png",
+      "path": "source/coloring/048.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1taZMnrWcTWLo44gueFq615JcK_Ea22BV/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "15f6e9fa88aa6331380761466fc3d83141ab6bffc107cf8d6f0ff03824cd207d",
+      "width": 1024
+    },
+    {
+      "bytes": 1687677,
+      "height": 1536,
+      "id": "design-049",
+      "originalFilename": "049.png",
+      "path": "source/coloring/049.png",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/15pLreBlJ0uHj32PQlJn3-P0nEGY-36DW/view",
+        "sourceId": "COLORING-COLLECTION"
+      },
+      "role": "coloring",
+      "sha256": "a467c998a5dfcaf0b672cd633e12da515183386ddb390de34cc53886607a6e84",
+      "width": 1024
+    },
+    {
+      "bytes": 4414,
+      "id": "font-liberation-license",
+      "originalFilename": "OFL-Liberation.txt",
+      "path": "source/fonts/OFL-Liberation.txt",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://github.com/liberationfonts/liberation-fonts",
+        "sourceId": "FONT"
+      },
+      "role": "font",
+      "sha256": "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b"
+    },
+    {
+      "bytes": 410712,
+      "id": "font-liberation-sans-regular",
+      "originalFilename": "LiberationSans-Regular.ttf",
+      "path": "source/fonts/LiberationSans-Regular.ttf",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://github.com/liberationfonts/liberation-fonts",
+        "sourceId": "FONT"
+      },
+      "role": "font",
+      "sha256": "76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8"
+    },
+    {
+      "bytes": 103328,
+      "id": "H28",
+      "originalFilename": "Church History 1928.docx",
+      "path": "source/histories/h28.txt",
+      "provenance": {
+        "form": "transcription",
+        "referenceUrl": "https://docs.google.com/document/d/1T3kosR0CzgFJ3xJ5yNAYd5hSyFChfieG/edit",
+        "sourceId": "H28"
+      },
+      "role": "history",
+      "sha256": "87a744b87c85783b64537b2d7b839437ec73c6f5ab0416370a621b9598285f3a"
+    },
+    {
+      "bytes": 77991,
+      "id": "H28-DOCX",
+      "originalFilename": "Church History 1928.docx",
+      "path": "source/histories/Church History 1928.docx",
+      "provenance": {
+        "form": "transcription",
+        "referenceUrl": "https://docs.google.com/document/d/1T3kosR0CzgFJ3xJ5yNAYd5hSyFChfieG/edit",
+        "sourceId": "H28"
+      },
+      "role": "history",
+      "sha256": "965975604c82582a15fa926ba4e09ebeacddd4302a0e80dbd53e2d17a26bb2e8"
+    },
+    {
+      "bytes": 63069,
+      "id": "H35",
+      "originalFilename": "Church History 1935.docx",
+      "path": "source/histories/h35.txt",
+      "provenance": {
+        "form": "transcription",
+        "referenceUrl": "https://docs.google.com/document/d/1TNf7BWNSTjjxA8QsqVFQNwwg75sk_ADr/edit",
+        "sourceId": "H35"
+      },
+      "role": "history",
+      "sha256": "230374686effcf0bb61f7f2755f09d76310d709bc31ea38573c36eeddb4b8b14"
+    },
+    {
+      "bytes": 48807,
+      "id": "H35-DOCX",
+      "originalFilename": "Church History 1935.docx",
+      "path": "source/histories/Church History 1935.docx",
+      "provenance": {
+        "form": "transcription",
+        "referenceUrl": "https://docs.google.com/document/d/1TNf7BWNSTjjxA8QsqVFQNwwg75sk_ADr/edit",
+        "sourceId": "H35"
+      },
+      "role": "history",
+      "sha256": "2a384603f2cfd8fca2e3df12ddeabcf159a7effed4411947e64fb8648a305a0b"
+    },
+    {
+      "bytes": 16325926,
+      "height": 10081,
+      "id": "photo-001",
+      "originalFilename": "001 FCC Window First Congo South Window Pan4.jpg",
+      "path": "source/photos/001 FCC Window First Congo South Window Pan4.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1sNRlxTy3gLrMpu4NaGuDfXPE_Ibyv05d/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "39beff9a2f1740118992dc3142cdf4f6d9880b1f042c4cd26216d1ff6bee8615",
+      "width": 6770
+    },
+    {
+      "bytes": 3056120,
+      "height": 4350,
+      "id": "photo-002",
+      "originalFilename": "002 FCC Window Igp4048 Tu2.jpg",
+      "path": "source/photos/002 FCC Window Igp4048 Tu2.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1YMfSgtKGvlcwzOyYsRwEjTgT9DkWzBAx/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "b5ac465f05f2282835a663c9a3cf3ef39fdd2fd1b07cafeb9f1a9df678c60563",
+      "width": 2880
+    },
+    {
+      "bytes": 3703016,
+      "height": 4360,
+      "id": "photo-003",
+      "originalFilename": "003 FCC Window Igp4056.jpg",
+      "path": "source/photos/003 FCC Window Igp4056.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1BMI6y4ytRthMJ3IVGuviktA-xKWq9jqN/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "ac97044e66e461a08c63d6faedb1a9224a1619bd833836c8e55b41519c5d9c13",
+      "width": 2894
+    },
+    {
+      "bytes": 2140309,
+      "height": 4198,
+      "id": "photo-004",
+      "originalFilename": "004 FCC Window Igp4060.jpg",
+      "path": "source/photos/004 FCC Window Igp4060.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1tyzsNyhWtlfjnHVrkh2Gem-pCplT-Y42/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "c9198bd4a57d47a120f0808ad9d8ca31d57399e0259abbb3eb05bbd564ddc580",
+      "width": 2626
+    },
+    {
+      "bytes": 2638562,
+      "height": 4345,
+      "id": "photo-005",
+      "originalFilename": "005 FCC Window Igp4064.jpg",
+      "path": "source/photos/005 FCC Window Igp4064.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1xTTtVruuJOqpsqWS7kghD8hmRdqSTTnO/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "1e5fb4d9eb6f286186e3dd75ae8548395ee0564cb4c96d0ebca5a6aa834ac683",
+      "width": 2634
+    },
+    {
+      "bytes": 2281671,
+      "height": 4175,
+      "id": "photo-006",
+      "originalFilename": "006 FCC Window Igp4075.jpg",
+      "path": "source/photos/006 FCC Window Igp4075.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1Nz8riQ3teCE4oRGy6hWS4x49CbaJ5uci/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "8b2daf9c6e3f9cd4469f25aa782b9146ff1d30355b8a8839e0186f4b85dd8bed",
+      "width": 2560
+    },
+    {
+      "bytes": 1734096,
+      "height": 3535,
+      "id": "photo-007",
+      "originalFilename": "007 FCC Window Igp4089.jpg",
+      "path": "source/photos/007 FCC Window Igp4089.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1bg7P-sWsC-DBcv8RB7r_HkqE7dAdmKsw/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "3b367743fa387fdfb12318b5be0918cc684fe321605143baf2750d4c51453b34",
+      "width": 2356
+    },
+    {
+      "bytes": 1979768,
+      "height": 3531,
+      "id": "photo-008",
+      "originalFilename": "008 FCC Window Igp4095.jpg",
+      "path": "source/photos/008 FCC Window Igp4095.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1_OmBkOImhJPuG4JpMHdzRit0LezBs-xo/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "a679c0f23749374d6b4c0c09a974b45e500d48eb97a1e71c8eeb6896cbad70ae",
+      "width": 2362
+    },
+    {
+      "bytes": 2962715,
+      "height": 5114,
+      "id": "photo-009",
+      "originalFilename": "009 FCC Window Igp4104.jpg",
+      "path": "source/photos/009 FCC Window Igp4104.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/16sNEXP6AV7gP9YK3Tu8JPcLsqzc6uzc1/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "3ede160ea04c36955984b98be24528bcd0d447afa38cbb2b3cf0bd50deb49573",
+      "width": 3185
+    },
+    {
+      "bytes": 3338567,
+      "height": 5105,
+      "id": "photo-010",
+      "originalFilename": "010 FCC Window Igp4108.jpg",
+      "path": "source/photos/010 FCC Window Igp4108.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1xK6pJoQEaZYbH6u1igL_ihbcGpzFmc87/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "5a671d18d6ebd5089545f9b852cb3a9da97b7c05499d3a22ebde859f0b13eba1",
+      "width": 3033
+    },
+    {
+      "bytes": 2974812,
+      "height": 5063,
+      "id": "photo-011",
+      "originalFilename": "011 FCC Window Igp4115.jpg",
+      "path": "source/photos/011 FCC Window Igp4115.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1Du1lJvFh4LLUrC0tJodFNWtnEIabWjNR/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "282d1a949e2a2227f2af882e2bd62e1d60433b8459ed3ee532f0cc3831626d15",
+      "width": 3076
+    },
+    {
+      "bytes": 2812401,
+      "height": 4368,
+      "id": "photo-012",
+      "originalFilename": "012 FCC Window Igp4119.jpg",
+      "path": "source/photos/012 FCC Window Igp4119.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1GYh5GwiZLddZCZ6_DG6Sl1BA5qLISCgM/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "75a8c34c8502205e656edcbb87c92345b79673dc0d01519e4184848d3a7f775b",
+      "width": 2926
+    },
+    {
+      "bytes": 2952058,
+      "height": 4504,
+      "id": "photo-013",
+      "originalFilename": "013 FCC Window Igp4123.jpg",
+      "path": "source/photos/013 FCC Window Igp4123.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1v2FSfXWrM4axVdIsTG4vXBY19h00BKN3/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "dc33c1c3c7fcb9a4bb03fb489437b7e3c695c5f16b622d536f75220ee8c6ddbf",
+      "width": 2877
+    },
+    {
+      "bytes": 2764425,
+      "height": 4261,
+      "id": "photo-014",
+      "originalFilename": "014 FCC Window Igp4131.jpg",
+      "path": "source/photos/014 FCC Window Igp4131.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1kIdsIrzEO2QGIsPQ-qD05mzhuAy5G14Y/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "318425b6ff4bd642bc5c0ab93dd71545562c68599130ea32797a923385a39fb4",
+      "width": 2847
+    },
+    {
+      "bytes": 2438975,
+      "height": 4123,
+      "id": "photo-015",
+      "originalFilename": "015 FCC Window Igp4134.jpg",
+      "path": "source/photos/015 FCC Window Igp4134.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1cVUrrfE9_dUt-39n_MINIjlL9_8mlU9Z/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "ef71a5014910d1c8ee1d726c644546ac0abcd0e25e0b46e8fa3d861de22f3ae8",
+      "width": 2786
+    },
+    {
+      "bytes": 3948901,
+      "height": 5050,
+      "id": "photo-016",
+      "originalFilename": "016 FCC Window Igp4140.jpg",
+      "path": "source/photos/016 FCC Window Igp4140.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1JwVDBBech-2u8eeQWQrWX_9XeoF9O3RO/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "a04400e956d0c32c667388ad5525c3fa71e2ebf3a12af8d975c1a1bd1184890a",
+      "width": 3329
+    },
+    {
+      "bytes": 3345146,
+      "height": 5075,
+      "id": "photo-017",
+      "originalFilename": "017 FCC Window Igp4145.jpg",
+      "path": "source/photos/017 FCC Window Igp4145.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1wN-1psu0w58YMuqd9yqgIRUVOXDr8Px3/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "98f141d8ee2cb97b80cb60070c15f8a606fd625e44462de0486c34fb57a578be",
+      "width": 3148
+    },
+    {
+      "bytes": 3590129,
+      "height": 5059,
+      "id": "photo-018",
+      "originalFilename": "018 FCC Window Igp4162.jpg",
+      "path": "source/photos/018 FCC Window Igp4162.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1LnUnCepzBOa1E-EnrSOianILp3q1u46Q/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "d8fd1beaf91e4c6ea285c38892065644ec3ff309cb30ac1b6692b5f37627170b",
+      "width": 3116
+    },
+    {
+      "bytes": 3093740,
+      "height": 5119,
+      "id": "photo-019",
+      "originalFilename": "019 FCC Window Igp4165.jpg",
+      "path": "source/photos/019 FCC Window Igp4165.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1oQ-PB9dzwUv7E1HQp7N_xTBXuG8vzFE4/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "068b3898a02e744fcb25ff48ce2c64e01a5436186a12b3245430ee69d84c9bf6",
+      "width": 3131
+    },
+    {
+      "bytes": 2222003,
+      "height": 4369,
+      "id": "photo-020",
+      "originalFilename": "020 FCC Window Igp4170.jpg",
+      "path": "source/photos/020 FCC Window Igp4170.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/17GBjauCKlsaKsKMly8ckthLTcxDqJmov/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "0f2f3a176f1ecb9ad996ad8b7f8b8423b089a3784a721d07764c9e67540e22f5",
+      "width": 2862
+    },
+    {
+      "bytes": 2926471,
+      "height": 4345,
+      "id": "photo-021",
+      "originalFilename": "021 FCC Window Igp4181.jpg",
+      "path": "source/photos/021 FCC Window Igp4181.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1uOPfx96Zn21zuJd78J8CTveia2e4e9CU/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "d582879bdd210237fe56ff526d7b4c0cf3c710bae2285331a01e7ecb6fde711a",
+      "width": 2910
+    },
+    {
+      "bytes": 2625718,
+      "height": 4340,
+      "id": "photo-022",
+      "originalFilename": "022 FCC Window Igp4185.jpg",
+      "path": "source/photos/022 FCC Window Igp4185.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1Py6kGREJP53uuXbpuowqUsvoyCGqhMGY/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "8dd73bffae06e320135491912120ae34c4474ee03d503a05266621c751bb1ced",
+      "width": 3140
+    },
+    {
+      "bytes": 3760774,
+      "height": 4380,
+      "id": "photo-023",
+      "originalFilename": "023 FCC Window Igp4190.jpg",
+      "path": "source/photos/023 FCC Window Igp4190.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/10JqQa2W4ldSxxUw-ZKfrJBDaBuus19Iw/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "b0c8a69e7451edae05b202b9192f2b34425699044c145d06099963ddcfc25c8b",
+      "width": 3058
+    },
+    {
+      "bytes": 2990234,
+      "height": 5223,
+      "id": "photo-024",
+      "originalFilename": "024 FCC Window Igp4233.jpg",
+      "path": "source/photos/024 FCC Window Igp4233.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/14r4gS2Qr5epY4doEyZ82gF-jzMIUipnz/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "a41bd4fbe9b315feacf0b01b27ec4627d5b0143573a8f83f7af31690d69e3a7b",
+      "width": 3276
+    },
+    {
+      "bytes": 4067004,
+      "height": 5200,
+      "id": "photo-025",
+      "originalFilename": "025 FCC Window Igp4240.jpg",
+      "path": "source/photos/025 FCC Window Igp4240.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1idGv6dJDuL6QHszyY31vzmXyL4UQv-fI/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "3984d727d9175a79b910df1a5ec5fa5f582b7193603d38acb2162b29b21f9555",
+      "width": 3221
+    },
+    {
+      "bytes": 2315564,
+      "height": 4797,
+      "id": "photo-026",
+      "originalFilename": "026 FCC Window Igp4245.jpg",
+      "path": "source/photos/026 FCC Window Igp4245.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1xJ4Q_Vp13LEqubs5FVS0TTr635ZLq7Pc/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "0b2821157df684da5f74a95fd0b76bac06a57263f40150c1d3848dedab8bcaea",
+      "width": 3003
+    },
+    {
+      "bytes": 3051380,
+      "height": 4394,
+      "id": "photo-027",
+      "originalFilename": "027 FCC Window Igp4265.jpg",
+      "path": "source/photos/027 FCC Window Igp4265.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1oEuzZGykzOXL-ZOa20F0ZuRKWE8p7TRl/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "90e35ec98ae19348e4822a6d46ce8124ec14e76dce27778160b4498f15cdeb17",
+      "width": 3028
+    },
+    {
+      "bytes": 3719707,
+      "height": 5364,
+      "id": "photo-028",
+      "originalFilename": "028 FCC Window Igp4270.jpg",
+      "path": "source/photos/028 FCC Window Igp4270.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1gzXAwwOFdpVu4fFscSNZgc34EzfkZ-rZ/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "c73ba62a173b5bc32be2ce316410d75e33f4b794845ed4895effee8497328a81",
+      "width": 3296
+    },
+    {
+      "bytes": 3518908,
+      "height": 5371,
+      "id": "photo-029",
+      "originalFilename": "029 FCC Window Igp4275.jpg",
+      "path": "source/photos/029 FCC Window Igp4275.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1g686HFRpXIrgWicExZROw7oDZue6OOhb/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "cbe59d0ad7558bc154dd0e72985ebec1769322325131e04859e77fce8b207909",
+      "width": 3313
+    },
+    {
+      "bytes": 2227202,
+      "height": 4206,
+      "id": "photo-030",
+      "originalFilename": "030 FCC Window Igp4280.jpg",
+      "path": "source/photos/030 FCC Window Igp4280.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1-sY32FqpIYnuIaVlTmBWtzYy1nOiIq93/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "ff336ca6a4522d2c3a1bce346d1046d379c429dc2cfc25b9185de257e8fa3e27",
+      "width": 2792
+    },
+    {
+      "bytes": 2891388,
+      "height": 4215,
+      "id": "photo-031",
+      "originalFilename": "031 FCC Window Igp4289.jpg",
+      "path": "source/photos/031 FCC Window Igp4289.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1ZdZcjBYAiNZ2bmnwD3Lq-MtCoyXHT3B5/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "22f16087f16e957b57ee9140b718121a1e985722336f7732ab98521e120ba842",
+      "width": 2840
+    },
+    {
+      "bytes": 3304006,
+      "height": 5120,
+      "id": "photo-032",
+      "originalFilename": "032 FCC Window Igp4296.jpg",
+      "path": "source/photos/032 FCC Window Igp4296.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1xHgXoXaZBdkq029r-9w3DE-9Rfz4BJXi/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "35ebc1e7af242337f0a1c71896c02c265493251faace6d9b6536bccbc42e2144",
+      "width": 3106
+    },
+    {
+      "bytes": 3363008,
+      "height": 5000,
+      "id": "photo-033",
+      "originalFilename": "033 FCC Window Igp4302.jpg",
+      "path": "source/photos/033 FCC Window Igp4302.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1MqesgGqaeEWEGphaGeM-v6is6-Fr6L9t/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "e990413f9dcd0fca69e403f3dddffc1d12ac2705810b97bba295c43080783176",
+      "width": 3109
+    },
+    {
+      "bytes": 2813214,
+      "height": 4414,
+      "id": "photo-034",
+      "originalFilename": "034 FCC Window Igp4305.jpg",
+      "path": "source/photos/034 FCC Window Igp4305.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1JTkLX61mDwloP50TTee3ACBCnhFelhqS/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "25777733bdb93218f2ebd28bdfde8a9678089093d94c40a752f1e25d299c1124",
+      "width": 2891
+    },
+    {
+      "bytes": 2528186,
+      "height": 4252,
+      "id": "photo-035",
+      "originalFilename": "035 FCC Window Igp4320.jpg",
+      "path": "source/photos/035 FCC Window Igp4320.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1mBKV_TIKPsotPOYqmpBTgF9a1jOr4UMd/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "bc21797ac4ff7e9f77c62489027b90afa73d395fe38c1120bfe55fcf6a9b756e",
+      "width": 2829
+    },
+    {
+      "bytes": 3469744,
+      "height": 5019,
+      "id": "photo-036",
+      "originalFilename": "036 FCC Window Igp4325.jpg",
+      "path": "source/photos/036 FCC Window Igp4325.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1RaIAatK3L1s3iDUg_jLKHKLJVq0fLZJI/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "333999683ab3b1fa7a09817254b0947655af3f9ef51f6746b15bf832c9c9fd9f",
+      "width": 3101
+    },
+    {
+      "bytes": 3028733,
+      "height": 4979,
+      "id": "photo-037",
+      "originalFilename": "037 FCC Window Igp4330.jpg",
+      "path": "source/photos/037 FCC Window Igp4330.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1-OuHYgb7AQPnlb1JOSq8dJ2mtCIEGdgs/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "29a830952575e87e35d01512af05956a2099785b794f8f9fa698ba42c8674059",
+      "width": 3117
+    },
+    {
+      "bytes": 2325676,
+      "height": 4192,
+      "id": "photo-038",
+      "originalFilename": "038 FCC Window Igp4334.jpg",
+      "path": "source/photos/038 FCC Window Igp4334.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/114--KJfjxZPFQQ1hajUcKXf4lbZChyR3/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "add880d4e5bc7ab0a858959be95b82e9e23b047bc1b35219dd67dfa63cc9deba",
+      "width": 2782
+    },
+    {
+      "bytes": 2485159,
+      "height": 4184,
+      "id": "photo-039",
+      "originalFilename": "039 FCC Window Igp4338.jpg",
+      "path": "source/photos/039 FCC Window Igp4338.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1az-fp9zHkvlHiC45xf5n3dhT616xWTi-/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "b277db81c3447a7c26b0e508c0bec2bd8f4aed3800165ea07c9912691b5311c6",
+      "width": 2821
+    },
+    {
+      "bytes": 2829683,
+      "height": 4946,
+      "id": "photo-040",
+      "originalFilename": "040 FCC Window Igp4343.jpg",
+      "path": "source/photos/040 FCC Window Igp4343.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/13MdPE89TmeUlG-_fPYC79JeRpaPvuHx_/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "2f8ecc203062e2f46ee28fa688df18342843cb590a8685e6f6b7268d62d3f86b",
+      "width": 3009
+    },
+    {
+      "bytes": 2519379,
+      "height": 5012,
+      "id": "photo-041",
+      "originalFilename": "041 FCC Window Igp4351.jpg",
+      "path": "source/photos/041 FCC Window Igp4351.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1jHt_qxdkmG6nhc2FIGxW3YLBlonxmGuD/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "9c2d8bcfd9526922f27c1f65a09965ea882288a788fbbc2b96978d43d08bcb10",
+      "width": 3030
+    },
+    {
+      "bytes": 3025628,
+      "height": 4288,
+      "id": "photo-042",
+      "originalFilename": "042 FCC Window Igp4353.jpg",
+      "path": "source/photos/042 FCC Window Igp4353.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1PCmwvXC-XouGKG9Cd3s9-k9b2cuS3kAn/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "81e5f8b90a65842bf10f18db1c44ee15961523258e9bd86d9f0eb646e39ff19b",
+      "width": 2807
+    },
+    {
+      "bytes": 2598709,
+      "height": 4431,
+      "id": "photo-043",
+      "originalFilename": "043 FCC Window Igp4360.jpg",
+      "path": "source/photos/043 FCC Window Igp4360.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1yJG1cB7q-LH7sUCPwTZwMZcllvzQlDNP/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "d4e0e7ef65d10635c3c83c1867ff182f5e47c6e5893a402320ba20452db18975",
+      "width": 2951
+    },
+    {
+      "bytes": 4717852,
+      "height": 5072,
+      "id": "photo-044",
+      "originalFilename": "044 FCC Window Igp4365.jpg",
+      "path": "source/photos/044 FCC Window Igp4365.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1YsaBFpZ9H4yp8rkY_WsLrUKtV65uNwRI/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "6d3ab8cb1caac15c38aac469b4c8ae7622bcafd1c5718a90eedda03c9b30d8f6",
+      "width": 3075
+    },
+    {
+      "bytes": 4054779,
+      "height": 5069,
+      "id": "photo-045",
+      "originalFilename": "045 FCC Window Igp4370.jpg",
+      "path": "source/photos/045 FCC Window Igp4370.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1iQP_r5zyfAoHCuvb9ivByMEIVPMKyO6v/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "9dd05fd87710dd40c5e4417cbff17288168205131299bbd99b6679ae798c8ce3",
+      "width": 3132
+    },
+    {
+      "bytes": 3483611,
+      "height": 5008,
+      "id": "photo-046",
+      "originalFilename": "046 FCC Window Igp4375.jpg",
+      "path": "source/photos/046 FCC Window Igp4375.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1brC1FdN3B7VP7-ZmF2LjMTDD6DwptL1g/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "f5cb2a9d6f9c400a6cc3d8ba9353ed422a1110557a00be6e3b1089bef96d225c",
+      "width": 3049
+    },
+    {
+      "bytes": 2997428,
+      "height": 5093,
+      "id": "photo-047",
+      "originalFilename": "047 FCC Window Igp4380.jpg",
+      "path": "source/photos/047 FCC Window Igp4380.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1jEKUbCqa2UiIuzO2rKUlWP_wqcI9xvII/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "80e052199a2d9dbf532544a5f67a4dc9ee5711d3cd343266c27d165734c9e73e",
+      "width": 3109
+    },
+    {
+      "bytes": 2760602,
+      "height": 4288,
+      "id": "photo-048",
+      "originalFilename": "048 FCC Window Igp4385.jpg",
+      "path": "source/photos/048 FCC Window Igp4385.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1MOwfrq8P7P1O7A2EIXwUbEJT8_g2Sj1f/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "d90a3ac58659fece6f1e3aa7c3b24ddd5681149f00b57c23ee745a99109c6cdf",
+      "width": 2844
+    },
+    {
+      "bytes": 2508281,
+      "height": 4486,
+      "id": "photo-049",
+      "originalFilename": "049 FCC Window Igp4398.jpg",
+      "path": "source/photos/049 FCC Window Igp4398.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1LdXuozndvVrnE1iqk2tWWBO00R3yvLcq/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "d402caa0473cb7125d06393200f566f2e94831b12de9279d0c4e626e63c217c6",
+      "width": 2911
+    },
+    {
+      "bytes": 2300244,
+      "height": 3598,
+      "id": "photo-050",
+      "originalFilename": "050 FCC Window Igp4487 8 9 Tonemapped.jpg",
+      "path": "source/photos/050 FCC Window Igp4487 8 9 Tonemapped.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1RV3tmF4av_41dtYMItgvmX1ELzaER2QF/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "509250a0e5ec1e174ac221a0330a29e6344e2b27e56fdc411258ff6e649cc060",
+      "width": 1846
+    },
+    {
+      "bytes": 3012002,
+      "height": 3578,
+      "id": "photo-051",
+      "originalFilename": "051 FCC Window Igp4495 6 7 Tonemapped.jpg",
+      "path": "source/photos/051 FCC Window Igp4495 6 7 Tonemapped.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1u4exMMsTow6sU0uqn8DBf_p12i7vMuzQ/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "7ddd531ea4cfab20ad8c0c13d38096771e54d5ae7d47546848e10b121b57b798",
+      "width": 1820
+    },
+    {
+      "bytes": 2789855,
+      "height": 3632,
+      "id": "photo-052",
+      "originalFilename": "052 FCC Window Igp4500 1 2 Tonemapped.jpg",
+      "path": "source/photos/052 FCC Window Igp4500 1 2 Tonemapped.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1b1qFy8mSOvK1uf5xJxWZnXKzIOZjmt2T/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "113b80b842e88c7fcea5ff6e96e270968ce780b12f674e727c7fc8cd8c905cd4",
+      "width": 1871
+    },
+    {
+      "bytes": 2708959,
+      "height": 3648,
+      "id": "photo-053",
+      "originalFilename": "053 FCC Window Igp4505 6 7 Tonemapped.jpg",
+      "path": "source/photos/053 FCC Window Igp4505 6 7 Tonemapped.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1nHiXK7-rOqcArrCUOwANmHMDP4RZFEgN/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "f95b32d1cf2af422a4bf591b0a67ce8fdd7ce5a74e0c31ac920467bba8fd0898",
+      "width": 1836
+    },
+    {
+      "bytes": 2465453,
+      "height": 3660,
+      "id": "photo-054",
+      "originalFilename": "054 FCC Window Igp4510 1 2 Tonemapped.jpg",
+      "path": "source/photos/054 FCC Window Igp4510 1 2 Tonemapped.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1VsOUMlqCJOUNlQxZaJccMgZpGEln3mVD/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "7981db3ee5efd4be305e6aed014134186a01eac64ed71316c0beda55981c8644",
+      "width": 1869
+    },
+    {
+      "bytes": 5660577,
+      "height": 3370,
+      "id": "photo-055",
+      "originalFilename": "055 FCC Window North Window Panorama1.jpg",
+      "path": "source/photos/055 FCC Window North Window Panorama1.jpg",
+      "provenance": {
+        "form": "original-file",
+        "referenceUrl": "https://drive.google.com/file/d/1hGzQAyidSEfpPhoFtACIa5BaBFZbEJjC/view",
+        "sourceId": "PHOTO-COLLECTION"
+      },
+      "role": "photo",
+      "sha256": "b9abe751200934f00fbb83dbf1c67182cada80c924d55bb5455bb01628dff24c",
+      "width": 4919
+    }
+  ],
+  "schemaVersion": 1
+}

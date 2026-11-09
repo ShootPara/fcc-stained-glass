@@ -1,0 +1,31 @@
+{
+ "schemaVersion":1,"artworkId":"design-015","sourceVersion":"89cfcfbcef3e920d3b8fbe7876ef1ec13454ae35324740902b931c456895bc23",
+ "observations":"Complete source/numbered overlay and all six small-component crops inspected. Five isolated acute raster tips excluded; the real enclosed three-pixel staircase/rail gap remains. Architectural railing bars, stair panes, round row decorations, pointed windows and their frame rings remain separate. Upper cloud bands and right-hand broad background curls remain bounded. Zigzag molding contains several real triangular spaces, all retained. Doorway has individually bounded vertical and wavy strips; the side slit windows retain inner and outer panes. Large wall face is continuous, without introducing divisions at open details. Visible B, A, B, Y and L letter shapes retain their interior spaces. No historical location is inferred. Names follow the building from sky to upper railings, windows, molding, entry and foreground. Source and prior geometry remain unchanged.",
+ "evidence":[".work/review/design-015/89cfcfbcef3e920d3b8fbe7876ef1ec13454ae35324740902b931c456895bc23/regions-numbered-2x.png",".work/region-crops/design-015/small-01.png"],
+ "tips":"14,73,75,92,120",
+ "groups":[
+ {"name":"Outer frame and border joints","ids":"1-5,10,11,101,102,115,116,161-165"},
+ {"name":"Sky bands and upper clouds","ids":"6-9,12,13,15"},
+ {"name":"Background curls beside the upper tower","ids":"16-20,77,83-85,93,95,108,111,140"},
+ {"name":"Upper tower railings and stair panes","ids":"21-61"},
+ {"name":"Long band surrounding the round tower decorations","ids":"62,72"},
+ {"name":"Round tower decorations","ids":"63-68,70,71"},
+ {"name":"Side stair openings below the railing","ids":"69,74,78-82"},
+ {"name":"Upper tower wall face","ids":"76"},
+ {"name":"Pointed windows and their frame rings","ids":"86-91,94,96"},
+ {"name":"Zigzag molding and triangular spaces","ids":"97-100,104,106,110,113,117,121"},
+ {"name":"Long molding below the zigzag","ids":"103"},
+ {"name":"Background bands beside the lower building","ids":"105,107,112,114,118"},
+ {"name":"Main lower wall face","ids":"109"},
+ {"name":"Door cornice, frame and hanging vertical strips","ids":"119,123,125,129-139"},
+ {"name":"Left slit window and its frame","ids":"124,126"},
+ {"name":"Right slit window and its frame","ids":"127,128"},
+ {"name":"Small divided panes beside the lower wall","ids":"141,145,147,148"},
+ {"name":"Upper letter B and its inner spaces","ids":"142,144,146"},
+ {"name":"Letter A and its inner space","ids":"143,150"},
+ {"name":"Lower letter B and its inner spaces","ids":"149,154-156"},
+ {"name":"Letter Y and its inner space","ids":"122,152,159"},
+ {"name":"Letter L","ids":"160"},
+ {"name":"Foreground cloud bands below the building","ids":"151,153,157,158"}
+ ]
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-049",
+  "sourceVersion": "ecb0896f792f2d319333a9d635e7fe8d5c6d53c9247856683212ef66572bc612",
+  "observations": "Inspected the complete two-scene numbered drawing and all five sheets of 60 small source/fill components. Closed nostril, ear whites, curl centers, one-pixel wool interstices and the architectural corner remain selectable. Reconnect only the inspected finger/key counters, closed curl interstice, narrow wool bands, leg border and bottom leaf slits. Explicit acute ray, scroll, wool and leaf tips are excluded rather than every small component. The large upper creature shape is continuous as drawn; the lower lamb's face, wool curls, legs, cross window and geometric ledge have visible-feature and position names. No historical identity is inferred from filenames. Source/canonical pixels and older saved packages remain intact.",
+  "evidence": [
+    ".work/review/design-049/ecb0896f792f2d319333a9d635e7fe8d5c6d53c9247856683212ef66572bc612/regions-numbered-2x.png",
+    ".work/region-crops/design-049/small-01.png",
+    ".work/region-crops/design-049/small-02.png",
+    ".work/region-crops/design-049/small-03.png",
+    ".work/region-crops/design-049/small-04.png",
+    ".work/region-crops/design-049/small-05.png"
+  ],
+  "tips": "12,14,16,17,22,25,35,37,49,58,60,62,63,70,93,112,114,117,133,156,159,161,162,163,166,186,188,190,224,237,244",
+  "joins": [
+    "50,52",
+    "54,56",
+    "124,125",
+    "137,139,141",
+    "164,165",
+    "176,177",
+    "196,217,226",
+    "225,228,229",
+    "234,236"
+  ],
+  "groups": [
+    {
+      "name": "Outer rectangular frame",
+      "ids": "1"
+    },
+    {
+      "name": "Upper creature's continuous body and curled tail",
+      "ids": "2"
+    },
+    {
+      "name": "Upper eye and pupil panes",
+      "ids": "26,27"
+    },
+    {
+      "name": "Upper creature's mouth slit",
+      "ids": "29"
+    },
+    {
+      "name": "Upper creature's inner mouth pane",
+      "ids": "30"
+    },
+    {
+      "name": "Upper creature's closed nostril",
+      "ids": "32"
+    },
+    {
+      "name": "Upper creature's underarm and narrow shaft panes",
+      "ids": "40,41"
+    },
+    {
+      "name": "Small closed finger and fork corners",
+      "ids": "50,52,54,56"
+    },
+    {
+      "name": "Three-tined fork and its closed counters",
+      "ids": "53,64,66"
+    },
+    {
+      "name": "Upper creature's lower breast band",
+      "ids": "39"
+    },
+    {
+      "name": "Upper scrolling background and decorative bands",
+      "ids": "3,4,5,6,7,8,9,10,11,13,15,18,19,20,21,23,24,28,31,33,34,36,38,42,43,44,45,46,47,48,51,55,57,59,61,65,67,68,69,71,72"
+    },
+    {
+      "name": "Lower lamb's head and continuous neck curls",
+      "ids": "91"
+    },
+    {
+      "name": "Lamb's ears and nested ear panes",
+      "ids": "78,81,83,85,86,87,89,90"
+    },
+    {
+      "name": "Lamb's eye and nostril panes",
+      "ids": "95,96,98"
+    },
+    {
+      "name": "Lamb's large cheek curl and small counter",
+      "ids": "97,102,108"
+    },
+    {
+      "name": "Left flowing wool curls",
+      "ids": "111,115,116,119,121,122,124,125,134,136,137,139,141,145,153,155,157,160,164,165,168,174,180,191,192"
+    },
+    {
+      "name": "Middle flowing wool curls",
+      "ids": "118,120,126,152,158,167,169,173,175,181,182,189"
+    },
+    {
+      "name": "Right flowing wool curls",
+      "ids": "113,123,127,131,135,143,144,146,151,154,170,171,176,177,178,184,187"
+    },
+    {
+      "name": "Lamb's body and legs",
+      "ids": "183,194,195,196,197,198,217,226"
+    },
+    {
+      "name": "Cross above round window",
+      "ids": "79,82"
+    },
+    {
+      "name": "Round window and divided cross panes",
+      "ids": "100,104,105,106,107,128,129,130,138,140,147,148,149,150"
+    },
+    {
+      "name": "Architectural lower ledge and rings",
+      "ids": "179,185,193,199,200,201,202,203,204,205,206,207,208,209,210,211,213,214,215,218,219"
+    },
+    {
+      "name": "Small closed architectural corner",
+      "ids": "212"
+    },
+    {
+      "name": "Bottom leaves and grass panes",
+      "ids": "216,220,221,222,223,225,227,228,229,230,231,232,233,234,235,236,238,239,240,241,242,243"
+    },
+    {
+      "name": "Background surrounding lower scene",
+      "ids": "73,74,75,76,77,80,84,88,92,94,99,101,103,109,110,132,142,172"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "contentVersion": "af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658",
+  "keyboardMetadataDigest": "d6beba7a289cc529119d06a0bfcc95e1ebf72385d62863b3c03eba48e7e757b3",
+  "outcome": "complete",
+  "recordId": "design-023",
+  "reviewKind": "segmentation",
+  "reviewedAtUtc": "2026-11-09T18:10:49.118Z",
+  "reviewedDigest": "31c22a79e0192a8a0da02c47d521d8fb660f4235f3f987dd2a568dce234ccfb8",
+  "reviewer": "Codex visual inspection of source, numbered regions, paired small-component crops and final fill",
+  "schemaVersion": 1
+}

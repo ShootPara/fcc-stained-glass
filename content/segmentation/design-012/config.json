@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Complete numbered source overlay and all eighteen small-component crops inspected. Nine isolated acute tips excluded explicitly. The thin pane beside the lower-left leaf comprises ten staircase fragments (68-77); reconnect only that narrow strip, preserving its separation from the neighboring leaf, frame and fruit. Curled upper border details remain separate. The grasping hand and bent fingers around the sword remain distinct. Eight round hilt decorations and the surrounding hilt band retain boundaries, including narrow gaps around the end circle. Large flowing bands, fruit bodies, curved outlines and leaf interiors remain distinct. Open leaf veins remain part of their containing leaf. Names distinguish repeated decorative details by feature and position. No canonical drawing pixels are changed, and old geometry remains available for saves. Explicit inspected tip IDs: 18,31,42,49,79,84,85,86,88. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

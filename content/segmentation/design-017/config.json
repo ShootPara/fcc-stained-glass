@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Full source and numbered overlay plus all 38 small-component crops inspected. Twenty-five explicit acute tips excluded. Retain tiny enclosed spaces beneath the upper toes, the small closed eye crescent, the inner ear curl and the one-pixel center of a painted pot dot. Reconnect two fragments of one toe gap, two fragments of the eye crescent and six fragments of a narrow hair-curl slit independently. Other toe spaces and the ear stay separate. Upper bare foot and lower bare foot remain distinct from cuffs and step backgrounds. Diagonal rail contains separate round centers. Lower figure's face, neck, torso and upper arm intentionally form a continuous pane through open contour lines; hand on chest and lower hand are separate. Clothing folds, curved background strips and pot decorations retain boundaries. No source pixels or earlier geometry changed. Explicit inspected tip IDs: 23,27,31,41,44,46,53,55,64,68,69,70,90,93,101,121,123,125,126,134,136,144,151,175,179. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

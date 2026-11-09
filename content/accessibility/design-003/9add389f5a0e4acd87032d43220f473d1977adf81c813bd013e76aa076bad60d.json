@@ -1,0 +1,337 @@
+{
+  "artworkId": "design-003",
+  "contentVersion": "9add389f5a0e4acd87032d43220f473d1977adf81c813bd013e76aa076bad60d",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Rectangular frame",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Background around the upper-left shape",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Wide curved band left of the zigzag",
+      "order": 4
+    },
+    {
+      "id": 4,
+      "name": "Narrow zigzag band across the top",
+      "order": 5
+    },
+    {
+      "id": 5,
+      "name": "Triangle at the upper-right corner",
+      "order": 6
+    },
+    {
+      "id": 6,
+      "name": "Background between the zigzag and dotted arch",
+      "order": 7
+    },
+    {
+      "id": 7,
+      "name": "Large rounded shape at the upper left",
+      "order": 3
+    },
+    {
+      "id": 8,
+      "name": "Curved band containing the fifteen dots",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Arch dot 4 from the upper right",
+      "order": 12
+    },
+    {
+      "id": 10,
+      "name": "Arch dot 3 from the upper right",
+      "order": 11
+    },
+    {
+      "id": 11,
+      "name": "Arch dot 5 from the upper right",
+      "order": 13
+    },
+    {
+      "id": 12,
+      "name": "Arch dot 2 from the upper right",
+      "order": 10
+    },
+    {
+      "id": 13,
+      "name": "Arch dot 6 from the upper right",
+      "order": 14
+    },
+    {
+      "id": 14,
+      "name": "Arch dot 1 at the upper right",
+      "order": 9
+    },
+    {
+      "id": 15,
+      "name": "Arch dot 7 from the upper right",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Arch dot 8 from the upper right",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Small top wave beneath the dotted arch",
+      "order": 24
+    },
+    {
+      "id": 18,
+      "name": "Second wave beneath the dotted arch",
+      "order": 25
+    },
+    {
+      "id": 19,
+      "name": "Arch dot 9 from the upper right",
+      "order": 17
+    },
+    {
+      "id": 20,
+      "name": "Pointed pane at the lower left inside the arch",
+      "order": 26
+    },
+    {
+      "id": 21,
+      "name": "Arch dot 10 from the upper right",
+      "order": 18
+    },
+    {
+      "id": 22,
+      "name": "Middle wave inside the arch",
+      "order": 27
+    },
+    {
+      "id": 23,
+      "name": "Arch dot 11 from the upper right",
+      "order": 19
+    },
+    {
+      "id": 24,
+      "name": "Arch dot 12 from the upper right",
+      "order": 20
+    },
+    {
+      "id": 25,
+      "name": "Lower wave inside the arch",
+      "order": 28
+    },
+    {
+      "id": 26,
+      "name": "Arch dot 13 from the upper right",
+      "order": 21
+    },
+    {
+      "id": 27,
+      "name": "Thin sloping band beneath the dotted arch",
+      "order": 30
+    },
+    {
+      "id": 28,
+      "name": "Arch dot 14 from the upper right",
+      "order": 22
+    },
+    {
+      "id": 29,
+      "name": "Wide wave above the two curling crests",
+      "order": 31
+    },
+    {
+      "id": 30,
+      "name": "Small bottom-right wave inside the arch",
+      "order": 29
+    },
+    {
+      "id": 31,
+      "name": "Arch dot 15 at the lower left",
+      "order": 23
+    },
+    {
+      "id": 32,
+      "name": "Small left-edge pane above the curling wave",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Thin wave with two curling crests",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Wide wave below the two curling crests",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Narrow wave immediately above the fish",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Thick rim of the fish's open mouth",
+      "order": 42
+    },
+    {
+      "id": 37,
+      "name": "Fish body and head",
+      "order": 39
+    },
+    {
+      "id": 38,
+      "name": "Background to the right of the fish's mouth",
+      "order": 51
+    },
+    {
+      "id": 39,
+      "name": "Broad wave above the fish's back",
+      "order": 36
+    },
+    {
+      "id": 40,
+      "name": "Inner crescent of the fish's open mouth",
+      "order": 43
+    },
+    {
+      "id": 41,
+      "name": "Thin wave to the upper left of the fish",
+      "order": 37
+    },
+    {
+      "id": 42,
+      "name": "Outer ring of the fish's eye",
+      "order": 40
+    },
+    {
+      "id": 43,
+      "name": "Center of the fish's eye",
+      "order": 41
+    },
+    {
+      "id": 44,
+      "name": "Thin wave to the right of the fish's head",
+      "order": 52
+    },
+    {
+      "id": 45,
+      "name": "Large background pane to the left of the fish",
+      "order": 38
+    },
+    {
+      "id": 46,
+      "name": "Narrow wavy strip along the fish's back",
+      "order": 45
+    },
+    {
+      "id": 47,
+      "name": "Large background pane to the right of the fish",
+      "order": 53
+    },
+    {
+      "id": 48,
+      "name": "Upper small pane along the fish's back",
+      "order": 46
+    },
+    {
+      "id": 49,
+      "name": "Fin on the fish's body",
+      "order": 44
+    },
+    {
+      "id": 50,
+      "name": "Middle small pane along the fish's back",
+      "order": 47
+    },
+    {
+      "id": 51,
+      "name": "Lower small pane along the fish's back",
+      "order": 48
+    },
+    {
+      "id": 52,
+      "name": "Narrow rim along the fish's lower fin",
+      "order": 49
+    },
+    {
+      "id": 53,
+      "name": "Fish's lower fin",
+      "order": 50
+    },
+    {
+      "id": 54,
+      "name": "Broad diagonal band crossing the fish",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Thin wave beneath the fish's lower fin",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Wide wave below the fish on the right",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Long pointed pane at the lower left",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Small left-edge pane beside the long point",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Forked pane at the lower left",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Wide wave across the lower right",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Curved strip rising from the bottom left",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Narrow wave above the bottom bands",
+      "order": 63
+    },
+    {
+      "id": 63,
+      "name": "Small pane at the bottom-left corner",
+      "order": 62
+    },
+    {
+      "id": 64,
+      "name": "Thin curved band near the bottom right",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Pane at the bottom-right corner",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Small pane along the bottom edge left of center",
+      "order": 66
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-035",
+  "sourceVersion": "ef9ad0112e0165f39abe025a94fe3af599cf5b5c0a2c87cf84dfe560007a2a29",
+  "observations": "Inspected full numbered source and three sheets covering all 27 small components. Retain the ear-edge loop, small closed chest detail, frame triangle, eyelid highlight and true gaps between clustered curls. Remove only explicit acute endpoint fragments. Reconnect the donkey's small upper eye-white corner and the tiny fragments at the top of the long enclosed central leaf vein. Raised fingers, face and divided moustache, side profile, donkey head/bridle, diamond background, foliage clusters and bottom leaf remain distinct. Names follow visible features and positional sections without assuming historical identity. Source pixels and canonical ink stay unchanged, with earlier packages retained.",
+  "evidence": [
+    ".work/review/design-035/ef9ad0112e0165f39abe025a94fe3af599cf5b5c0a2c87cf84dfe560007a2a29/regions-numbered-2x.png",
+    ".work/region-crops/design-035/small-01.png",
+    ".work/region-crops/design-035/small-02.png",
+    ".work/region-crops/design-035/small-03.png"
+  ],
+  "tips": "26,34,40,57,61,68,70,78,89,91,104,106,114,119,129,162",
+  "joins": [
+    "88,92",
+    "145,146,148,149"
+  ],
+  "groups": [
+    {"name":"Background bands beside the right wall","ids":"44,55"},
+    {"name":"Small enclosed gap at the upper figure's waist","ids":"73"},
+    {
+      "name": "Upper figure's halo and hair",
+      "ids": "4,5,6,7,10,11,12,15,18,19,21,22,32,35,36"
+    },
+    {
+      "name": "Top and left background leaf-like shapes",
+      "ids": "1,2,3,8,23,30,45,53"
+    },
+    {
+      "name": "Upper figure's face and beard",
+      "ids": "14"
+    },
+    {
+      "name": "Upper figure's divided moustache",
+      "ids": "27,28,29"
+    },
+    {
+      "name": "Raised hand and enclosed finger panes",
+      "ids": "24,25,33"
+    },
+    {
+      "name": "Background beside the raised arm",
+      "ids": "17"
+    },
+    {
+      "name": "Upper figure's collar and robe",
+      "ids": "43,46,49,51,52,54,58,59,62,63,65,71,75,76,84,85"
+    },
+    {
+      "name": "Right crenellated wall and inset window",
+      "ids": "9,13,16,20,31"
+    },
+    {
+      "name": "Right figure's face and neck",
+      "ids": "47"
+    },
+    {
+      "name": "Right figure's eye-white corner",
+      "ids": "50"
+    },
+    {
+      "name": "Right figure's hair bands and collar",
+      "ids": "37,38,39,41,42,60,64,66,69,77,80,82"
+    },
+    {
+      "name": "Lower left frame's closed triangle",
+      "ids": "48"
+    },
+    {
+      "name": "Donkey's head and ear",
+      "ids": "56"
+    },
+    {
+      "name": "Donkey's mane and inner ear panes",
+      "ids": "67,72,74,79,83,87,101"
+    },
+    {
+      "name": "Donkey's upper eye-white crescent",
+      "ids": "88,92"
+    },
+    {
+      "name": "Donkey's other eye-white panes",
+      "ids": "93,94"
+    },
+    {
+      "name": "Donkey's muzzle and bridle pieces",
+      "ids": "105,108,111,112,113,115"
+    },
+    {
+      "name": "Clustered curls and enclosed interstices at right",
+      "ids": "81,86,90,95,96,97,98,99,100,102,103,107,109,110,116"
+    },
+    {
+      "name": "Diamond-pattern background beneath the muzzle",
+      "ids": "117,118,120,121,122,124,125,126,127,130,131,132,133,135"
+    },
+    {
+      "name": "Lower background around the central leaf",
+      "ids": "134,137,139,140,143"
+    },
+    {
+      "name": "Large central leaf body",
+      "ids": "136"
+    },
+    {
+      "name": "Large central leaf's narrow vein",
+      "ids": "145,146,148,149"
+    },
+    {
+      "name": "Lower left leaf and petal cluster",
+      "ids": "141,150,151,153,154,155,158,160,161"
+    },
+    {
+      "name": "Lower right leaf and flower cluster",
+      "ids": "128,138,142,144,147,152,156,159"
+    },
+    {
+      "name": "Lower left border and background bands",
+      "ids": "123,157"
+    }
+  ]
+}

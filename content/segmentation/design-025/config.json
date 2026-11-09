@@ -1,0 +1,13 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Full numbered figure and all three small-component crops inspected. Retain the small right eye-white corner and the enclosed beard detail below the neck. Exclude only the isolated one-pixel acute robe tip. The open finger contours remain connected to the raised hand; the two tablet fields and their frame remain distinct. Hair curls, eye whites, moustache, mouth, cuffs, feet and flowing robe bands receive feature-based names, with surrounding wave bands ordered by position. No visible ink, source pixels or earlier saved package is changed. Explicit inspected tip IDs: 88. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

@@ -1,0 +1,602 @@
+{
+  "artworkId": "design-042",
+  "contentVersion": "b18009cd4f5e55c77368e6aa71f54fb4002aeea65ec754b8f075404528366bda",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Background around the upper figures, top left section 3",
+      "order": 58
+    },
+    {
+      "id": 2,
+      "name": "Background around the upper figures, top left section 1",
+      "order": 56
+    },
+    {
+      "id": 3,
+      "name": "Background around the upper figures, top left section 5",
+      "order": 60
+    },
+    {
+      "id": 4,
+      "name": "Cropped upper robe panels, top center section 1",
+      "order": 45
+    },
+    {
+      "id": 5,
+      "name": "Cropped upper robe panels, top center section 2",
+      "order": 46
+    },
+    {
+      "id": 6,
+      "name": "Cropped upper robe panels, top center section 3",
+      "order": 47
+    },
+    {
+      "id": 7,
+      "name": "Background around the upper figures, top center section 8",
+      "order": 63
+    },
+    {
+      "id": 8,
+      "name": "Background around the upper figures, top center section 6",
+      "order": 61
+    },
+    {
+      "id": 9,
+      "name": "Background around the upper figures, top right section 7",
+      "order": 62
+    },
+    {
+      "id": 10,
+      "name": "Background around the upper figures, top right section 2",
+      "order": 57
+    },
+    {
+      "id": 11,
+      "name": "Background around the upper figures, top right section 4",
+      "order": 59
+    },
+    {
+      "id": 12,
+      "name": "Left figure's hair curls and closed ear-side panes, top left section 1",
+      "order": 8
+    },
+    {
+      "id": 13,
+      "name": "Wing feathers and their enclosed panels, top left section 1",
+      "order": 27
+    },
+    {
+      "id": 14,
+      "name": "Wing feathers and their enclosed panels, top right section 3",
+      "order": 29
+    },
+    {
+      "id": 15,
+      "name": "Right figure's hair and collar, top right section 1",
+      "order": 17
+    },
+    {
+      "id": 16,
+      "name": "Left figure's hair curls and closed ear-side panes, top left section 3",
+      "order": 10
+    },
+    {
+      "id": 17,
+      "name": "Wing feathers and their enclosed panels, top left section 2",
+      "order": 28
+    },
+    {
+      "id": 18,
+      "name": "Right figure's hair and collar, top right section 4",
+      "order": 20
+    },
+    {
+      "id": 19,
+      "name": "Left winged figure's face and neck",
+      "order": 1
+    },
+    {
+      "id": 20,
+      "name": "Wing feathers and their enclosed panels, top left section 4",
+      "order": 30
+    },
+    {
+      "id": 21,
+      "name": "Left figure's hair curls and closed ear-side panes, top left section 4",
+      "order": 11
+    },
+    {
+      "id": 22,
+      "name": "Right figure's hair and collar, top right section 2",
+      "order": 18
+    },
+    {
+      "id": 23,
+      "name": "Wing feathers and their enclosed panels, top left section 5",
+      "order": 31
+    },
+    {
+      "id": 24,
+      "name": "Right winged figure's face",
+      "order": 15
+    },
+    {
+      "id": 25,
+      "name": "Left figure's hair curls and closed ear-side panes, top left section 2",
+      "order": 9
+    },
+    {
+      "id": 26,
+      "name": "Left figure's broad upper eye-white pane",
+      "order": 2
+    },
+    {
+      "id": 27,
+      "name": "Left figure's narrow eye-white stripe",
+      "order": 3
+    },
+    {
+      "id": 28,
+      "name": "Left figure's tiny eye glint",
+      "order": 4
+    },
+    {
+      "id": 29,
+      "name": "Left figure's small lower eye-outline corner",
+      "order": 5
+    },
+    {
+      "id": 30,
+      "name": "Wing feathers and their enclosed panels, top right section 6",
+      "order": 32
+    },
+    {
+      "id": 31,
+      "name": "Right figure's hair and collar, top right section 3",
+      "order": 19
+    },
+    {
+      "id": 32,
+      "name": "Left figure's hair curls and closed ear-side panes, top left section 5",
+      "order": 12
+    },
+    {
+      "id": 33,
+      "name": "Left figure's other iris crescent",
+      "order": 6
+    },
+    {
+      "id": 34,
+      "name": "Right figure's closed eye-side pane",
+      "order": 16
+    },
+    {
+      "id": 35,
+      "name": "Left figure's hair curls and closed ear-side panes, top left section 6",
+      "order": 13
+    },
+    {
+      "id": 36,
+      "name": "Wing feathers and their enclosed panels, top left section 7",
+      "order": 33
+    },
+    {
+      "id": 37,
+      "name": "Right figure's hair and collar, top right section 5",
+      "order": 21
+    },
+    {
+      "id": 38,
+      "name": "Right figure's hair and collar, top right section 6",
+      "order": 22
+    },
+    {
+      "id": 39,
+      "name": "Left figure's closed lip slit",
+      "order": 7
+    },
+    {
+      "id": 40,
+      "name": "Wing feathers and their enclosed panels, top left section 8",
+      "order": 34
+    },
+    {
+      "id": 41,
+      "name": "Wing feathers and their enclosed panels, top left section 9",
+      "order": 35
+    },
+    {
+      "id": 42,
+      "name": "Left figure's hair curls and closed ear-side panes, top left section 7",
+      "order": 14
+    },
+    {
+      "id": 43,
+      "name": "Wing feathers and their enclosed panels, top left section 11",
+      "order": 37
+    },
+    {
+      "id": 44,
+      "name": "Right figure's hair and collar, top right section 7",
+      "order": 23
+    },
+    {
+      "id": 45,
+      "name": "Wing feathers and their enclosed panels, top right section 12",
+      "order": 38
+    },
+    {
+      "id": 46,
+      "name": "Right figure's hair and collar, top right section 8",
+      "order": 24
+    },
+    {
+      "id": 47,
+      "name": "Wing feathers and their enclosed panels, top left section 14",
+      "order": 40
+    },
+    {
+      "id": 48,
+      "name": "Wing feathers and their enclosed panels, top center section 10",
+      "order": 36
+    },
+    {
+      "id": 49,
+      "name": "Left lower cloud curl",
+      "order": 43
+    },
+    {
+      "id": 50,
+      "name": "Wing feathers and their enclosed panels, top left section 13",
+      "order": 39
+    },
+    {
+      "id": 51,
+      "name": "Right figure's hair and collar, top right section 10",
+      "order": 26
+    },
+    {
+      "id": 52,
+      "name": "Right figure's hair and collar, top right section 9",
+      "order": 25
+    },
+    {
+      "id": 53,
+      "name": "Wing feathers and their enclosed panels, top right section 16",
+      "order": 42
+    },
+    {
+      "id": 54,
+      "name": "Right lower cloud curl",
+      "order": 44
+    },
+    {
+      "id": 55,
+      "name": "Wing feathers and their enclosed panels, top right section 15",
+      "order": 41
+    },
+    {
+      "id": 56,
+      "name": "Cropped figure's lower legs feet and closed ankle panes, top center section 1",
+      "order": 48
+    },
+    {
+      "id": 57,
+      "name": "Cropped figure's lower legs feet and closed ankle panes, top center section 3",
+      "order": 50
+    },
+    {
+      "id": 58,
+      "name": "Cropped figure's lower legs feet and closed ankle panes, top center section 2",
+      "order": 49
+    },
+    {
+      "id": 59,
+      "name": "Cropped figure's lower legs feet and closed ankle panes, top center section 5",
+      "order": 52
+    },
+    {
+      "id": 60,
+      "name": "Middle cloud bands, top left section 1",
+      "order": 82
+    },
+    {
+      "id": 61,
+      "name": "Cropped figure's lower legs feet and closed ankle panes, top center section 6",
+      "order": 53
+    },
+    {
+      "id": 62,
+      "name": "Cropped figure's lower legs feet and closed ankle panes, top center section 4",
+      "order": 51
+    },
+    {
+      "id": 63,
+      "name": "Background around the upper figures, top center section 9",
+      "order": 64
+    },
+    {
+      "id": 64,
+      "name": "Background around the upper figures, upper-middle left section 13",
+      "order": 68
+    },
+    {
+      "id": 65,
+      "name": "Background around the upper figures, top center section 10",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Background around the upper figures, top right section 11",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Background around the upper figures, upper-middle left section 17",
+      "order": 72
+    },
+    {
+      "id": 68,
+      "name": "Background around the upper figures, top center section 12",
+      "order": 67
+    },
+    {
+      "id": 69,
+      "name": "Cropped figure's lower legs feet and closed ankle panes, upper-middle center section 7",
+      "order": 54
+    },
+    {
+      "id": 70,
+      "name": "Cropped figure's lower legs feet and closed ankle panes, upper-middle center section 8",
+      "order": 55
+    },
+    {
+      "id": 71,
+      "name": "Background around the upper figures, upper-middle right section 16",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Background around the upper figures, upper-middle right section 15",
+      "order": 70
+    },
+    {
+      "id": 73,
+      "name": "Background around the upper figures, upper-middle center section 20",
+      "order": 75
+    },
+    {
+      "id": 74,
+      "name": "Background around the upper figures, upper-middle center section 14",
+      "order": 69
+    },
+    {
+      "id": 75,
+      "name": "Background around the upper figures, upper-middle center section 19",
+      "order": 74
+    },
+    {
+      "id": 76,
+      "name": "Background around the upper figures, upper-middle left section 18",
+      "order": 73
+    },
+    {
+      "id": 77,
+      "name": "Background around the upper figures, upper-middle left section 23",
+      "order": 78
+    },
+    {
+      "id": 78,
+      "name": "Background around the upper figures, upper-middle right section 22",
+      "order": 77
+    },
+    {
+      "id": 79,
+      "name": "Middle cloud bands, upper-middle center section 2",
+      "order": 83
+    },
+    {
+      "id": 80,
+      "name": "Background around the upper figures, upper-middle left section 21",
+      "order": 76
+    },
+    {
+      "id": 81,
+      "name": "Middle cloud bands, upper-middle left section 5",
+      "order": 86
+    },
+    {
+      "id": 82,
+      "name": "Background around the upper figures, upper-middle left section 24",
+      "order": 79
+    },
+    {
+      "id": 83,
+      "name": "Middle cloud bands, upper-middle center section 3",
+      "order": 84
+    },
+    {
+      "id": 84,
+      "name": "Middle cloud bands, upper-middle right section 4",
+      "order": 85
+    },
+    {
+      "id": 85,
+      "name": "Background around the upper figures, upper-middle left section 25",
+      "order": 80
+    },
+    {
+      "id": 86,
+      "name": "Middle cloud bands, upper-middle center section 6",
+      "order": 87
+    },
+    {
+      "id": 87,
+      "name": "Middle cloud bands, upper-middle center section 7",
+      "order": 88
+    },
+    {
+      "id": 88,
+      "name": "Background around the upper figures, upper-middle center section 26",
+      "order": 81
+    },
+    {
+      "id": 89,
+      "name": "Middle cloud bands, upper-middle right section 8",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Middle cloud bands, upper-middle left section 9",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 1",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 2",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 3",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Lower rounded cloud forms, lower-middle left section 1",
+      "order": 109
+    },
+    {
+      "id": 95,
+      "name": "Lower rounded cloud forms, lower-middle right section 2",
+      "order": 110
+    },
+    {
+      "id": 96,
+      "name": "Lower radiating arch and pointed panes, lower-middle right section 4",
+      "order": 94
+    },
+    {
+      "id": 97,
+      "name": "Lower radiating arch and pointed panes, lower-middle left section 6",
+      "order": 96
+    },
+    {
+      "id": 98,
+      "name": "Lower radiating arch and pointed panes, lower-middle right section 9",
+      "order": 99
+    },
+    {
+      "id": 99,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 7",
+      "order": 97
+    },
+    {
+      "id": 100,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 8",
+      "order": 98
+    },
+    {
+      "id": 101,
+      "name": "Lower radiating arch and pointed panes, lower-middle left section 10",
+      "order": 100
+    },
+    {
+      "id": 102,
+      "name": "Lower radiating arch and pointed panes, lower-middle left section 5",
+      "order": 95
+    },
+    {
+      "id": 103,
+      "name": "Lower radiating arch and pointed panes, lower-middle right section 12",
+      "order": 102
+    },
+    {
+      "id": 104,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 11",
+      "order": 101
+    },
+    {
+      "id": 105,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 16",
+      "order": 106
+    },
+    {
+      "id": 106,
+      "name": "Lower rounded cloud forms, lower-middle right section 4",
+      "order": 112
+    },
+    {
+      "id": 107,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 13",
+      "order": 103
+    },
+    {
+      "id": 108,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 18",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Lower rounded cloud forms, lower-middle left section 3",
+      "order": 111
+    },
+    {
+      "id": 110,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 15",
+      "order": 105
+    },
+    {
+      "id": 111,
+      "name": "Lower radiating arch and pointed panes, lower-middle left section 17",
+      "order": 107
+    },
+    {
+      "id": 112,
+      "name": "Lower radiating arch and pointed panes, lower-middle center section 14",
+      "order": 104
+    },
+    {
+      "id": 113,
+      "name": "Lower rounded cloud forms, lower-middle center section 5",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Lower rounded cloud forms, lower-middle right section 6",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Lower rounded cloud forms, lower-middle left section 7",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Lower rounded cloud forms, bottom right section 8",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Lower rounded cloud forms, bottom center section 9",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Lower rounded cloud forms, bottom left section 10",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Lower rounded cloud forms, bottom right section 11",
+      "order": 119
+    }
+  ],
+  "schemaVersion": 1
+}

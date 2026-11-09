@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-031",
+  "sourceVersion": "b5516feba6e080eb6991a12014127e5fd603957082940860ae79f182fe54ca09",
+  "observations": "Full numbered source and all four small-component sheets inspected. Remove explicit acute ray and garment tips only; retain the small border loop, closed eye corners, nostril, beard crescent and bead interstices. Reconnect four pieces of the thin forehead detail, three pieces of the moustache outline, three eye-white fragments and a closed robe slit. The star outline and center, radiating bands, central lobed round motif with enclosed openings, both profiles and their clothing retain distinct boundaries. Names use visible forms and ordered positions without assigning historical identities. Canonical source pixels and prior saved versions are preserved.",
+  "evidence": [
+    ".work/review/design-031/b5516feba6e080eb6991a12014127e5fd603957082940860ae79f182fe54ca09/regions-numbered-2x.png",
+    ".work/region-crops/design-031/small-01.png",
+    ".work/region-crops/design-031/small-02.png",
+    ".work/region-crops/design-031/small-03.png",
+    ".work/region-crops/design-031/small-04.png"
+  ],
+  "tips": "24,35,36,47,49,59,83,86,93,123,142,146,159,166,176,198",
+  "joins": [
+    "119,126,130,131",
+    "112,114,116,117",
+    "133,134,138",
+    "179,181,182",
+    "183-185"
+  ],
+  "groups": [
+    {"name":"Left figure's enclosed iris pane","ids":"120"},
+    {"name":"Left figure's narrow closed eye-white band","ids":"119,126,130,131"},
+    {
+      "name": "Outer frame",
+      "ids": "1"
+    },
+    {
+      "name": "Star outer outline",
+      "ids": "11"
+    },
+    {
+      "name": "Star center",
+      "ids": "14"
+    },
+    {
+      "name": "Radiating straight bands",
+      "ids": "5,9,19,20,23,25,32,38,42,43,44,48,51,52,55,60,66,67,68,69,70,71,72,73"
+    },
+    {
+      "name": "Upper background wave panes",
+      "ids": "2,3,4,6,7,8,10,12,13,15,16,17,18,21,22,26,27,28,29,30,31,33,34,37,39,40,41,45,46,50,53,54,56,57,58,61,62,63,64,65,74"
+    },
+    {
+      "name": "Middle curved divider and background",
+      "ids": "75,76,77,85,136"
+    },
+    {
+      "name": "Right figure's crown ribbons and beads",
+      "ids": "78,79,80,81,84,87,90,91,92,94,98,99,100,101,109,115,125,149"
+    },
+    {
+      "name": "Left figure's crown curls and enclosed details",
+      "ids": "82,89,95,103,104,124,129,139,162,163,164,167,171"
+    },
+    {
+      "name": "Central lobed round motif",
+      "ids": "88"
+    },
+    {
+      "name": "Central motif's closed outer openings",
+      "ids": "96,97,102,107,111,118,121"
+    },
+    {
+      "name": "Central motif's nested center rings",
+      "ids": "105,108"
+    },
+    {
+      "name": "Right figure's continuous face and beard",
+      "ids": "106"
+    },
+    {
+      "name": "Right forehead's thin closed detail",
+      "ids": "112,114,116,117"
+    },
+    {
+      "name": "Right figure's small nostril",
+      "ids": "135"
+    },
+    {
+      "name": "Right figure's moustache outline",
+      "ids": "133,134,138"
+    },
+    {
+      "name": "Right figure's mouth and enclosed beard details",
+      "ids": "147,155,157,165"
+    },
+    {
+      "name": "Left figure's face and beard",
+      "ids": "110"
+    },
+    {
+      "name": "Central motif's dangling bands and lower trim",
+      "ids": "113,128,132,140,141,143,144,145,148,150,151,152,153,154,156,158,160,174,175,197"
+    },
+    {
+      "name": "Right figure's headdress neck and robe",
+      "ids": "122,127,137,161,168,172,183,184,185,186,188,189,191,202,206,208,209,211,212,213,214,215,216,217,218,219,220"
+    },
+    {
+      "name": "Left figure's shoulder ornament and robe",
+      "ids": "169,170,173,177,178,179,180,181,182,187,190,192,193,194,195,196,199,200,201,203,204,205,207,210"
+    }
+  ]
+}

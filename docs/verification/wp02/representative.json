@@ -1,0 +1,88 @@
+{
+  "checkedAtUtc": "2026-11-06T20:50:55.589Z",
+  "sourceCount": 110,
+  "sourceBytes": 258074562,
+  "artworkId": "design-002",
+  "photoId": "photo-002",
+  "contentVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+  "canonical": {
+    "width": 1024,
+    "height": 1536,
+    "pixels": 1572864,
+    "sha256": "d76d2e3b344c35345f260f1a1d759636e620bae7e3ff3525bb10c2be0c07b33e"
+  },
+  "regionCount": 45,
+  "smallestRegionPixels": 1533,
+  "largestRegionPixels": 275971,
+  "maskPoints": [
+    [
+      41,
+      397
+    ],
+    [
+      522,
+      631
+    ],
+    [
+      727,
+      695
+    ],
+    [
+      608,
+      754
+    ],
+    [
+      277,
+      767
+    ],
+    [
+      748,
+      824
+    ],
+    [
+      747,
+      825
+    ],
+    [
+      746,
+      826
+    ]
+  ],
+  "blankMismatches": 0,
+  "blackPixelMismatches": 0,
+  "haloCandidates": 0,
+  "coloredAntialiasedPixels": 1168127,
+  "requiredReviewValidation": {
+    "ok": true,
+    "issues": [],
+    "warnings": [],
+    "stats": {
+      "validatedArtworks": 1,
+      "validatedVersions": 1,
+      "validatedPhotos": 1,
+      "pendingSegmentationReviews": 0,
+      "pendingPairingReviews": 0
+    }
+  },
+  "package": {
+    "bytes": 1482,
+    "path": "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/package.json",
+    "sha256": "dc362a335e4238748ceb88b8f251313910437eb36a72a1b25370cd060cc7182c"
+  },
+  "photo": {
+    "height": 2000,
+    "preparationDigest": "ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc",
+    "sourceDigest": "b5ac465f05f2282835a663c9a3cf3ef39fdd2fd1b07cafeb9f1a9df678c60563",
+    "thumbnail": {
+      "bytes": 23412,
+      "path": "public/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/thumbnail.webp",
+      "sha256": "7b14198cf5688855eef682e05f034ddb93cf82505fcd74d8193bdaeb32ce1df9"
+    },
+    "web": {
+      "bytes": 778290,
+      "path": "public/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/web.webp",
+      "sha256": "995b363444156ddbb74e6836808fa50bde13173cac25612f8df9831ee225c245"
+    },
+    "width": 1324
+  }
+}

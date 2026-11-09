@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "reviewer": "Codex — direct visual comparison of all 47 drawing/photo pairs on 12 comparison sheets",
+  "reviewDate": "2026-11-09",
+  "method": "Original/canonical drawing compared with current photo derivative; distinct shapes and composition recorded below. This is not a historical-subject, church-location, or segmentation review.",
+  "pairs": [
+    {
+      "artworkId": "design-003",
+      "photoId": "photo-003",
+      "comparisonSheet": ".work/wp05-pairings/sheet-01.png",
+      "observations": "Fish rises diagonally from curled waves beneath a rainbow with dotted arc and zigzag band."
+    },
+    {
+      "artworkId": "design-004",
+      "photoId": "photo-004",
+      "comparisonSheet": ".work/wp05-pairings/sheet-01.png",
+      "observations": "Seated monkey has curled tail and raised head; winged bird occupies the right-hand diagonal panel beneath leaves."
+    },
+    {
+      "artworkId": "design-005",
+      "photoId": "photo-005",
+      "comparisonSheet": ".work/wp05-pairings/sheet-01.png",
+      "observations": "Lion sits at lower left, elephant trunk curls at right, and a small monkey hangs from a branch above."
+    },
+    {
+      "artworkId": "design-006",
+      "photoId": "photo-006",
+      "comparisonSheet": ".work/wp05-pairings/sheet-01.png",
+      "observations": "Two faces sit beneath an arch of leaves; a fish occupies the lower left and a curved shape separates the faces."
+    },
+    {
+      "artworkId": "design-007",
+      "photoId": "photo-007",
+      "comparisonSheet": ".work/wp05-pairings/sheet-02.png",
+      "observations": "Writing hand points toward a diagonal lettered strip; a bearded reclining figure lies below wavy panels."
+    },
+    {
+      "artworkId": "design-008",
+      "photoId": "photo-008",
+      "comparisonSheet": ".work/wp05-pairings/sheet-02.png",
+      "observations": "Long-haired standing woman raises a finger at upper right; a kneeling bearded figure occupies lower left."
+    },
+    {
+      "artworkId": "design-009",
+      "photoId": "photo-009",
+      "comparisonSheet": ".work/wp05-pairings/sheet-02.png",
+      "observations": "Branching tree fills an upper round panel; a long-necked bird is enclosed below among curved dividing bands."
+    },
+    {
+      "artworkId": "design-010",
+      "photoId": "photo-010",
+      "comparisonSheet": ".work/wp05-pairings/sheet-02.png",
+      "observations": "Boat with round portholes rides waves above raised hands and a face; a leafy branch fills the right edge."
+    },
+    {
+      "artworkId": "design-011",
+      "photoId": "photo-011",
+      "comparisonSheet": ".work/wp05-pairings/sheet-03.png",
+      "observations": "Bird flies toward a small window with a face; diagonal rays above and many wave bands below match."
+    },
+    {
+      "artworkId": "design-012",
+      "photoId": "photo-012",
+      "comparisonSheet": ".work/wp05-pairings/sheet-03.png",
+      "observations": "Curving blade with dotted crosspiece descends from a hand; leaves and round fruit sit at lower left."
+    },
+    {
+      "artworkId": "design-013",
+      "photoId": "photo-013",
+      "comparisonSheet": ".work/wp05-pairings/sheet-03.png",
+      "observations": "Two prominent bird heads protrude among separated stone wall sections, with matching curling shapes at right."
+    },
+    {
+      "artworkId": "design-014",
+      "photoId": "photo-014",
+      "comparisonSheet": ".work/wp05-pairings/sheet-03.png",
+      "observations": "Raised hand and bearded face stand beside a fire on a stone altar; curved bands span the upper panel."
+    },
+    {
+      "artworkId": "design-015",
+      "photoId": "photo-015",
+      "comparisonSheet": ".work/wp05-pairings/sheet-04.png",
+      "observations": "Stepped building with ladder-like roof rail sits amid clouds; the curved right band reads BABYLON."
+    },
+    {
+      "artworkId": "design-016",
+      "photoId": "photo-016",
+      "comparisonSheet": ".work/wp05-pairings/sheet-04.png",
+      "observations": "Flames rise above a crenellated fortress, with three faces along the bottom and angled panels above."
+    },
+    {
+      "artworkId": "design-017",
+      "photoId": "photo-017",
+      "comparisonSheet": ".work/wp05-pairings/sheet-04.png",
+      "observations": "Paired feet descend steps above a kneeling figure looking upward beside curved bands."
+    },
+    {
+      "artworkId": "design-018",
+      "photoId": "photo-018",
+      "comparisonSheet": ".work/wp05-pairings/sheet-04.png",
+      "observations": "Helmeted standing figure holds a tall fan-shaped object; decorated chariot wheel and horse fill the lower panel."
+    },
+    {
+      "artworkId": "design-019",
+      "photoId": "photo-019",
+      "comparisonSheet": ".work/wp05-pairings/sheet-05.png",
+      "observations": "Woman looks down at a child in a woven basket; pyramids and small palms appear at upper left."
+    },
+    {
+      "artworkId": "design-020",
+      "photoId": "photo-020",
+      "comparisonSheet": ".work/wp05-pairings/sheet-05.png",
+      "observations": "Raised two-finger hand is flanked by JACOB lettering; ESAU lettering and a steaming bowl occupy lower panels."
+    },
+    {
+      "artworkId": "design-021",
+      "photoId": "photo-021",
+      "comparisonSheet": ".work/wp05-pairings/sheet-05.png",
+      "observations": "Loaded camel arches over a standing figure; an extended hand enters from left and a tied bundle sits below."
+    },
+    {
+      "artworkId": "design-022",
+      "photoId": "photo-022",
+      "comparisonSheet": ".work/wp05-pairings/sheet-05.png",
+      "observations": "Crowned bearded figure occupies the upper panel; a horse head faces right beneath the horizontal divider."
+    },
+    {
+      "artworkId": "design-023",
+      "photoId": "photo-023",
+      "comparisonSheet": ".work/wp05-pairings/sheet-06.png",
+      "observations": "Bearded face is enclosed by an oval and leaves; rows of flames rise above the upper horizontal band."
+    },
+    {
+      "artworkId": "design-024",
+      "photoId": "photo-024",
+      "comparisonSheet": ".work/wp05-pairings/sheet-06.png",
+      "observations": "Bearded figure extends a hand across the upper panel; the lower panel pairs a grape cluster and bowed face."
+    },
+    {
+      "artworkId": "design-025",
+      "photoId": "photo-025",
+      "comparisonSheet": ".work/wp05-pairings/sheet-06.png",
+      "observations": "Standing bearded figure raises a hand and holds two tablets, with matching horizon bands and curved clouds."
+    },
+    {
+      "artworkId": "design-026",
+      "photoId": "photo-026",
+      "comparisonSheet": ".work/wp05-pairings/sheet-06.png",
+      "observations": "Curly-haired seated figure turns toward curling tree shapes; a lion lies below the diagonal garment."
+    },
+    {
+      "artworkId": "design-027",
+      "photoId": "photo-027",
+      "comparisonSheet": ".work/wp05-pairings/sheet-07.png",
+      "observations": "Helmeted figure and circular patterned shield stand left of a seated figure with a hanging pouch; a bowed head appears below."
+    },
+    {
+      "artworkId": "design-028",
+      "photoId": "photo-028",
+      "comparisonSheet": ".work/wp05-pairings/sheet-07.png",
+      "observations": "Winged figure with swept hair bends forward over a staff-like diagonal; patterned garments fill the lower portion."
+    },
+    {
+      "artworkId": "design-029",
+      "photoId": "photo-029",
+      "comparisonSheet": ".work/wp05-pairings/sheet-07.png",
+      "observations": "Head-covered woman holds a grape cluster above a donkey; a bearded face and staff fill the left lower panel."
+    },
+    {
+      "artworkId": "design-030",
+      "photoId": "photo-030",
+      "comparisonSheet": ".work/wp05-pairings/sheet-07.png",
+      "observations": "Winged face emerges from clouds above a kneeling woman with folded hands; flower sits at lower left."
+    },
+    {
+      "artworkId": "design-031",
+      "photoId": "photo-031",
+      "comparisonSheet": ".work/wp05-pairings/sheet-08.png",
+      "observations": "Star emits long converging rays above three crowned figures, with a round-topped vessel in the center."
+    },
+    {
+      "artworkId": "design-032",
+      "photoId": "photo-032",
+      "comparisonSheet": ".work/wp05-pairings/sheet-08.png",
+      "observations": "Seated crowned figure gestures toward a domed tower containing three faces above flames."
+    },
+    {
+      "artworkId": "design-033",
+      "photoId": "photo-033",
+      "comparisonSheet": ".work/wp05-pairings/sheet-08.png",
+      "observations": "Woman with large ringed halo holds a child with a smaller halo; diagonal background bands and robe folds match."
+    },
+    {
+      "artworkId": "design-034",
+      "photoId": "photo-034",
+      "comparisonSheet": ".work/wp05-pairings/sheet-08.png",
+      "observations": "Standing bearded figure pours water onto a kneeling head beside leafy shapes and a dove-like upper symbol."
+    },
+    {
+      "artworkId": "design-035",
+      "photoId": "photo-035",
+      "comparisonSheet": ".work/wp05-pairings/sheet-09.png",
+      "observations": "Haloed seated figure rides a donkey; another face appears at right and large flowers occupy the bottom."
+    },
+    {
+      "artworkId": "design-036",
+      "photoId": "photo-036",
+      "comparisonSheet": ".work/wp05-pairings/sheet-09.png",
+      "observations": "Haloed figure raises a hand from a curved boat above multiple wave bands."
+    },
+    {
+      "artworkId": "design-037",
+      "photoId": "photo-037",
+      "comparisonSheet": ".work/wp05-pairings/sheet-09.png",
+      "observations": "Bearded figure with a curved staff cradles a lamb; another animal looks up at right and a small figure appears in the building behind."
+    },
+    {
+      "artworkId": "design-038",
+      "photoId": "photo-038",
+      "comparisonSheet": ".work/wp05-pairings/sheet-09.png",
+      "observations": "Two haloed figures face each other beside a tall tree and open stone box; the right figure is wrapped in bands."
+    },
+    {
+      "artworkId": "design-039",
+      "photoId": "photo-039",
+      "comparisonSheet": ".work/wp05-pairings/sheet-10.png",
+      "observations": "Standing haloed figure holds a tall curved staff and a round object; a brick-lined arch stands at right."
+    },
+    {
+      "artworkId": "design-040",
+      "photoId": "photo-040",
+      "comparisonSheet": ".work/wp05-pairings/sheet-10.png",
+      "observations": "Central figure extends arms on a cross beneath INRI; two standing figures flank the lower panel."
+    },
+    {
+      "artworkId": "design-041",
+      "photoId": "photo-041",
+      "comparisonSheet": ".work/wp05-pairings/sheet-10.png",
+      "observations": "Haloed bearded figure raises a hand in the large upper panel; winged and mitred figures occupy lower angled panels."
+    },
+    {
+      "artworkId": "design-042",
+      "photoId": "photo-042",
+      "comparisonSheet": ".work/wp05-pairings/sheet-10.png",
+      "observations": "Feet and garment hem emerge above clouds between two winged faces; descending rays fill the lower cloud opening."
+    },
+    {
+      "artworkId": "design-043",
+      "photoId": "photo-043",
+      "comparisonSheet": ".work/wp05-pairings/sheet-11.png",
+      "observations": "Large haloed face with raised hand sits beside an open book bearing matching symbols."
+    },
+    {
+      "artworkId": "design-044",
+      "photoId": "photo-044",
+      "comparisonSheet": ".work/wp05-pairings/sheet-11.png",
+      "observations": "Descending bird and radiating bands stand above repeated scalloped panels containing flames."
+    },
+    {
+      "artworkId": "design-045",
+      "photoId": "photo-045",
+      "comparisonSheet": ".work/wp05-pairings/sheet-11.png",
+      "observations": "Seated haloed figure raises a hand and holds a decorated book amid matching round and curved panels."
+    },
+    {
+      "artworkId": "design-046",
+      "photoId": "photo-046",
+      "comparisonSheet": ".work/wp05-pairings/sheet-11.png",
+      "observations": "Inverted figure is enclosed by a pointed frame amid flames; bottom letters read ST PETER."
+    },
+    {
+      "artworkId": "design-047",
+      "photoId": "photo-047",
+      "comparisonSheet": ".work/wp05-pairings/sheet-12.png",
+      "observations": "Large bearded figure uses a staff while carrying a child holding a cross through water."
+    },
+    {
+      "artworkId": "design-048",
+      "photoId": "photo-048",
+      "comparisonSheet": ".work/wp05-pairings/sheet-12.png",
+      "observations": "Lamb carries a cross-topped banner inside a circle; crossed key-like shapes and curved bands fill the lower panel."
+    },
+    {
+      "artworkId": "design-049",
+      "photoId": "photo-049",
+      "comparisonSheet": ".work/wp05-pairings/sheet-12.png",
+      "observations": "Large bird bends toward its breast above flame-like curls; lamb and cross-topped round object fill the lower panel."
+    }
+  ]
+}

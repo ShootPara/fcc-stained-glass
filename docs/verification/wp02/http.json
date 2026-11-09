@@ -1,0 +1,186 @@
+{
+  "checkedAtUtc": "2026-11-06T20:47:22.011Z",
+  "scope": "HTTP delivery of development entry, transformed module, catalog, and every representative file under root and project subpath",
+  "domOrPhysicalDeviceTest": false,
+  "photos": 55,
+  "artworks": 48,
+  "availableArtworks": 1,
+  "contentVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+  "segmentationReview": "complete",
+  "pairingReview": "complete",
+  "regionCount": 45,
+  "results": [
+    {
+      "base": "/",
+      "requests": [
+        {
+          "path": "/",
+          "status": 200,
+          "bytes": 576,
+          "contentType": "text/html"
+        },
+        {
+          "path": "/src/main.ts",
+          "status": 200,
+          "bytes": 23923,
+          "contentType": "text/javascript"
+        },
+        {
+          "path": "/catalog.dev.json",
+          "status": 200,
+          "bytes": 60872,
+          "contentType": "application/json"
+        },
+        {
+          "path": "/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/package.json",
+          "status": 200,
+          "bytes": 1482,
+          "contentType": "application/json",
+          "sha256Matches": true
+        },
+        {
+          "path": "/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/canonical.png",
+          "status": 200,
+          "bytes": 496439,
+          "contentType": "image/png",
+          "sha256Matches": true
+        },
+        {
+          "path": "/accessibility/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/bed7e48d8017e1d7af66b511be450728aafc5237f055b84759e7a9508f62b806.json",
+          "status": 200,
+          "bytes": 4514,
+          "contentType": "application/json",
+          "sha256Matches": true
+        },
+        {
+          "path": "/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/web.webp",
+          "status": 200,
+          "bytes": 778290,
+          "contentType": "image/webp",
+          "sha256Matches": true
+        },
+        {
+          "path": "/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/thumbnail.webp",
+          "status": 200,
+          "bytes": 23412,
+          "contentType": "image/webp",
+          "sha256Matches": true
+        },
+        {
+          "path": "/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/regions.json",
+          "status": 200,
+          "bytes": 13151,
+          "contentType": "application/json",
+          "sha256Matches": true
+        },
+        {
+          "path": "/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/hit.bin",
+          "status": 200,
+          "bytes": 37865,
+          "contentType": "application/octet-stream",
+          "sha256Matches": true
+        },
+        {
+          "path": "/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/paint.bin",
+          "status": 200,
+          "bytes": 29322,
+          "contentType": "application/octet-stream",
+          "sha256Matches": true
+        },
+        {
+          "path": "/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/ink.bin",
+          "status": 200,
+          "bytes": 499153,
+          "contentType": "application/octet-stream",
+          "sha256Matches": true
+        }
+      ]
+    },
+    {
+      "base": "/fcc-portability-check/",
+      "requests": [
+        {
+          "path": "/fcc-portability-check/",
+          "status": 200,
+          "bytes": 620,
+          "contentType": "text/html"
+        },
+        {
+          "path": "/fcc-portability-check/src/main.ts",
+          "status": 200,
+          "bytes": 24011,
+          "contentType": "text/javascript"
+        },
+        {
+          "path": "/fcc-portability-check/catalog.dev.json",
+          "status": 200,
+          "bytes": 60872,
+          "contentType": "application/json"
+        },
+        {
+          "path": "/fcc-portability-check/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/package.json",
+          "status": 200,
+          "bytes": 1482,
+          "contentType": "application/json",
+          "sha256Matches": true
+        },
+        {
+          "path": "/fcc-portability-check/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/canonical.png",
+          "status": 200,
+          "bytes": 496439,
+          "contentType": "image/png",
+          "sha256Matches": true
+        },
+        {
+          "path": "/fcc-portability-check/accessibility/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/bed7e48d8017e1d7af66b511be450728aafc5237f055b84759e7a9508f62b806.json",
+          "status": 200,
+          "bytes": 4514,
+          "contentType": "application/json",
+          "sha256Matches": true
+        },
+        {
+          "path": "/fcc-portability-check/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/web.webp",
+          "status": 200,
+          "bytes": 778290,
+          "contentType": "image/webp",
+          "sha256Matches": true
+        },
+        {
+          "path": "/fcc-portability-check/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/thumbnail.webp",
+          "status": 200,
+          "bytes": 23412,
+          "contentType": "image/webp",
+          "sha256Matches": true
+        },
+        {
+          "path": "/fcc-portability-check/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/regions.json",
+          "status": 200,
+          "bytes": 13151,
+          "contentType": "application/json",
+          "sha256Matches": true
+        },
+        {
+          "path": "/fcc-portability-check/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/hit.bin",
+          "status": 200,
+          "bytes": 37865,
+          "contentType": "application/octet-stream",
+          "sha256Matches": true
+        },
+        {
+          "path": "/fcc-portability-check/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/paint.bin",
+          "status": 200,
+          "bytes": 29322,
+          "contentType": "application/octet-stream",
+          "sha256Matches": true
+        },
+        {
+          "path": "/fcc-portability-check/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/ink.bin",
+          "status": 200,
+          "bytes": 499153,
+          "contentType": "application/octet-stream",
+          "sha256Matches": true
+        }
+      ]
+    }
+  ]
+}

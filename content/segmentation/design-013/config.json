@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Complete numbered overlay and all 96 small-component source/overlay crops inspected. Eye highlights and genuine enclosed triangular masonry/ornament gaps retained regardless of size. Explicit isolated acute tips excluded. Narrow interrupted upper-beak stripe and five masonry seam families reconnected only within their inspected paths; foreign-pane adjacency prohibited. Upper and middle heads, eye outlines/highlights, beak spaces, head bands and small inner contours remain distinct. Lower head has open facial strokes and long separate neck/background region. Masonry block faces and enclosing rims remain separate; repeated block and narrow-gap names identify feature and position. Curled leaves at the left and large feather-like shapes at right retain open vein strokes. Earlier geometry is retained and canonical art unchanged. Final overlay and uniform fill must be inspected before the receipt is recorded. Explicit inspected tip IDs: 8,9,10,11,16,20,21,32,50,51,53,56,58,60,62,69,71,79,80,88,133,136,137,139,141,144,145,153,160,166,170,174,184,188,197,201,204,205,215,217,224,226,229,234,238,242. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

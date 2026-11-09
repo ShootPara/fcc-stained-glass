@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "algorithmVersion": "regions-v1",
+  "inkThreshold": 180,
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "notes": "Exclude the white page margin outside the rectangular frame. Eight isolated one-pixel raster fragments at acute pane tips are treated as barriers for connectivity, after visual review at 8x scale: (41,397), (522,631), (727,695), (608,754), (277,767), (748,824), (747,825), (746,826). The mask changes region connectivity only; the canonical drawing and original source pixels stay unchanged. All remaining enclosed panes, including small details, are retained.",
+  "barrierAddMask": "barrier-add.png"
+}

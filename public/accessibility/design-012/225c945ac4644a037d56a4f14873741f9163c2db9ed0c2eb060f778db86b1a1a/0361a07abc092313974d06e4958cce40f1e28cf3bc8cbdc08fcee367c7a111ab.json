@@ -1,0 +1,392 @@
+{
+  "artworkId": "design-012",
+  "contentVersion": "225c945ac4644a037d56a4f14873741f9163c2db9ed0c2eb060f778db86b1a1a",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Continuous outer frame",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Broad flowing bands above and beside the sword, top left section 1",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Broad flowing bands above and beside the sword, top left section 3",
+      "order": 4
+    },
+    {
+      "id": 4,
+      "name": "Broad flowing bands above and beside the sword, top left section 4",
+      "order": 5
+    },
+    {
+      "id": 5,
+      "name": "Curled ornamental border and its inner panes, top left section 11",
+      "order": 32
+    },
+    {
+      "id": 6,
+      "name": "Curled ornamental border and its inner panes, top center section 12",
+      "order": 33
+    },
+    {
+      "id": 7,
+      "name": "Broad flowing bands above and beside the sword, upper-middle center section 8",
+      "order": 9
+    },
+    {
+      "id": 8,
+      "name": "Broad flowing bands above and beside the sword, top center section 2",
+      "order": 3
+    },
+    {
+      "id": 9,
+      "name": "Broad flowing bands above and beside the sword, top right section 5",
+      "order": 6
+    },
+    {
+      "id": 10,
+      "name": "Broad flowing bands above and beside the sword, upper-middle right section 6",
+      "order": 7
+    },
+    {
+      "id": 11,
+      "name": "Curled ornamental border and its inner panes, top center section 1",
+      "order": 22
+    },
+    {
+      "id": 12,
+      "name": "Curled ornamental border and its inner panes, top center section 2",
+      "order": 23
+    },
+    {
+      "id": 13,
+      "name": "Curled ornamental border and its inner panes, top center section 3",
+      "order": 24
+    },
+    {
+      "id": 14,
+      "name": "Curled ornamental border and its inner panes, top center section 4",
+      "order": 25
+    },
+    {
+      "id": 15,
+      "name": "Curled ornamental border and its inner panes, top center section 6",
+      "order": 27
+    },
+    {
+      "id": 16,
+      "name": "Curled ornamental border and its inner panes, top center section 5",
+      "order": 26
+    },
+    {
+      "id": 17,
+      "name": "Curled ornamental border and its inner panes, top center section 10",
+      "order": 31
+    },
+    {
+      "id": 18,
+      "name": "Curled ornamental border and its inner panes, top center section 7",
+      "order": 28
+    },
+    {
+      "id": 19,
+      "name": "Curled ornamental border and its inner panes, top center section 8",
+      "order": 29
+    },
+    {
+      "id": 20,
+      "name": "Curled ornamental border and its inner panes, top center section 9",
+      "order": 30
+    },
+    {
+      "id": 21,
+      "name": "Curled ornamental border and its inner panes, upper-middle center section 20",
+      "order": 41
+    },
+    {
+      "id": 22,
+      "name": "Curled ornamental border and its inner panes, upper-middle left section 13",
+      "order": 34
+    },
+    {
+      "id": 23,
+      "name": "Curled ornamental border and its inner panes, upper-middle left section 14",
+      "order": 35
+    },
+    {
+      "id": 24,
+      "name": "Curled ornamental border and its inner panes, upper-middle left section 15",
+      "order": 36
+    },
+    {
+      "id": 25,
+      "name": "Curled ornamental border and its inner panes, upper-middle left section 16",
+      "order": 37
+    },
+    {
+      "id": 26,
+      "name": "Curled ornamental border and its inner panes, upper-middle left section 17",
+      "order": 38
+    },
+    {
+      "id": 27,
+      "name": "Curled ornamental border and its inner panes, upper-middle left section 18",
+      "order": 39
+    },
+    {
+      "id": 28,
+      "name": "Curled ornamental border and its inner panes, upper-middle left section 19",
+      "order": 40
+    },
+    {
+      "id": 29,
+      "name": "Broad flowing bands above and beside the sword, upper-middle left section 7",
+      "order": 8
+    },
+    {
+      "id": 30,
+      "name": "Hand gripping the sword and bent fingers, upper-middle left section 1",
+      "order": 42
+    },
+    {
+      "id": 31,
+      "name": "Broad flowing bands above and beside the sword, lower-middle center section 14",
+      "order": 15
+    },
+    {
+      "id": 32,
+      "name": "Hand gripping the sword and bent fingers, upper-middle center section 2",
+      "order": 43
+    },
+    {
+      "id": 33,
+      "name": "Hand gripping the sword and bent fingers, upper-middle center section 4",
+      "order": 45
+    },
+    {
+      "id": 34,
+      "name": "Hand gripping the sword and bent fingers, upper-middle center section 3",
+      "order": 44
+    },
+    {
+      "id": 35,
+      "name": "Sword hilt frame and inner spaces, upper-middle center section 3",
+      "order": 49
+    },
+    {
+      "id": 36,
+      "name": "Hand gripping the sword and bent fingers, upper-middle center section 5",
+      "order": 46
+    },
+    {
+      "id": 37,
+      "name": "Broad flowing bands above and beside the sword, upper-middle left section 9",
+      "order": 10
+    },
+    {
+      "id": 38,
+      "name": "Sword hilt frame and inner spaces, upper-middle center section 4",
+      "order": 50
+    },
+    {
+      "id": 39,
+      "name": "Round decorations on the sword hilt, upper-middle center section 1",
+      "order": 51
+    },
+    {
+      "id": 40,
+      "name": "Sword hilt frame and inner spaces, upper-middle center section 1",
+      "order": 47
+    },
+    {
+      "id": 41,
+      "name": "Round decorations on the sword hilt, upper-middle center section 2",
+      "order": 52
+    },
+    {
+      "id": 42,
+      "name": "Round decorations on the sword hilt, upper-middle center section 3",
+      "order": 53
+    },
+    {
+      "id": 43,
+      "name": "Round decorations on the sword hilt, lower-middle right section 8",
+      "order": 58
+    },
+    {
+      "id": 44,
+      "name": "Sword hilt frame and inner spaces, upper-middle center section 2",
+      "order": 48
+    },
+    {
+      "id": 45,
+      "name": "Round decorations on the sword hilt, upper-middle center section 4",
+      "order": 54
+    },
+    {
+      "id": 46,
+      "name": "Broad flowing bands above and beside the sword, lower-middle right section 10",
+      "order": 11
+    },
+    {
+      "id": 47,
+      "name": "Round decorations on the sword hilt, upper-middle center section 5",
+      "order": 55
+    },
+    {
+      "id": 48,
+      "name": "Broad flowing bands above and beside the sword, lower-middle right section 15",
+      "order": 16
+    },
+    {
+      "id": 49,
+      "name": "Round decorations on the sword hilt, upper-middle center section 6",
+      "order": 56
+    },
+    {
+      "id": 50,
+      "name": "Broad flowing bands above and beside the sword, lower-middle right section 16",
+      "order": 17
+    },
+    {
+      "id": 51,
+      "name": "Broad flowing bands above and beside the sword, lower-middle right section 11",
+      "order": 12
+    },
+    {
+      "id": 52,
+      "name": "Broad flowing bands above and beside the sword, lower-middle left section 13",
+      "order": 14
+    },
+    {
+      "id": 53,
+      "name": "Broad flowing bands above and beside the sword, bottom right section 19",
+      "order": 20
+    },
+    {
+      "id": 54,
+      "name": "Round decorations on the sword hilt, upper-middle center section 7",
+      "order": 57
+    },
+    {
+      "id": 55,
+      "name": "Broad flowing bands above and beside the sword, bottom center section 18",
+      "order": 19
+    },
+    {
+      "id": 56,
+      "name": "Broad flowing bands above and beside the sword, lower-middle center section 17",
+      "order": 18
+    },
+    {
+      "id": 57,
+      "name": "Broad flowing bands above and beside the sword, lower-middle left section 12",
+      "order": 13
+    },
+    {
+      "id": 58,
+      "name": "Broad flowing bands above and beside the sword, bottom center section 20",
+      "order": 21
+    },
+    {
+      "id": 59,
+      "name": "Large leaves around the fruit, bottom left section 3",
+      "order": 61
+    },
+    {
+      "id": 60,
+      "name": "Large leaves around the fruit, bottom left section 1",
+      "order": 59
+    },
+    {
+      "id": 61,
+      "name": "Large leaves around the fruit, bottom left section 2",
+      "order": 60
+    },
+    {
+      "id": 62,
+      "name": "Narrow curved leaf interior",
+      "order": 64
+    },
+    {
+      "id": 63,
+      "name": "Small background panes beside the lower-left leaf, bottom left section 1",
+      "order": 65
+    },
+    {
+      "id": 64,
+      "name": "Thin pane beside the lower-left leaf",
+      "order": 68
+    },
+    {
+      "id": 65,
+      "name": "Large leaves around the fruit, bottom center section 4",
+      "order": 62
+    },
+    {
+      "id": 66,
+      "name": "Small background panes beside the lower-left leaf, bottom left section 2",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Small background panes beside the lower-left leaf, bottom left section 3",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Round fruit at the lower right",
+      "order": 69
+    },
+    {
+      "id": 69,
+      "name": "Round fruit at the lower left",
+      "order": 70
+    },
+    {
+      "id": 70,
+      "name": "Curved stems and outlines around the fruit, bottom left section 1",
+      "order": 71
+    },
+    {
+      "id": 71,
+      "name": "Curved stems and outlines around the fruit, bottom left section 4",
+      "order": 74
+    },
+    {
+      "id": 72,
+      "name": "Curved stems and outlines around the fruit, bottom center section 5",
+      "order": 75
+    },
+    {
+      "id": 73,
+      "name": "Large leaves around the fruit, bottom center section 5",
+      "order": 63
+    },
+    {
+      "id": 74,
+      "name": "Curved stems and outlines around the fruit, bottom center section 2",
+      "order": 72
+    },
+    {
+      "id": 75,
+      "name": "Curved stems and outlines around the fruit, bottom left section 3",
+      "order": 73
+    },
+    {
+      "id": 76,
+      "name": "Bottom corner panes beneath the fruit, bottom left section 1",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Bottom corner panes beneath the fruit, bottom left section 2",
+      "order": 77
+    }
+  ],
+  "schemaVersion": 1
+}

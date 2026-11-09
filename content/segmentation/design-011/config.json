@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Full source and numbered overlay inspected with all eleven small-component crops. Seven acute disconnected tips excluded. The right eye's lower white crescent was split into components 31 and 32 by raster thresholding; reconnect only that crescent, leaving the left eye, surrounding face and pupil separate. The left eye highlight and real enclosed triangle at the lower beam/wave junction (24 pixels) remain. Flying bird head, body and wings intentionally form one continuous pane with open feather strokes. Figure's face/neck, hair/beard and small mouth detail are distinct. Frame surrounds the whole page; the cabin's rectangular strips retain boundaries. The many lower wave bands and scalloped wave crests remain distinct, including thin strips. Names follow the frame, sky rays, bird, cabin, figure, then water. Explicit inspected tip IDs: 27,38,45,67,71,74,77. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

@@ -1,0 +1,387 @@
+{
+  "artworkId": "design-007",
+  "contentVersion": "f4310586f5c8664d31c5ad6499525b40d87d3249e3c949bea25924cd60e783ea",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Rectangular outer frame",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Upper-left pane around the curled strip",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Curled strip at the upper left",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Narrow upper-left band",
+      "order": 5
+    },
+    {
+      "id": 5,
+      "name": "Wide upper-left band",
+      "order": 6
+    },
+    {
+      "id": 6,
+      "name": "Middle wavy upper-left band",
+      "order": 7
+    },
+    {
+      "id": 7,
+      "name": "Inner wavy upper-left band",
+      "order": 8
+    },
+    {
+      "id": 8,
+      "name": "Long diagonal band dividing the upper left",
+      "order": 9
+    },
+    {
+      "id": 9,
+      "name": "Upper-right pane around the branching shape",
+      "order": 10
+    },
+    {
+      "id": 10,
+      "name": "Branching shape at the upper right",
+      "order": 11
+    },
+    {
+      "id": 11,
+      "name": "Left wavy strip at the upper right",
+      "order": 12
+    },
+    {
+      "id": 12,
+      "name": "Right wavy strip at the upper right",
+      "order": 13
+    },
+    {
+      "id": 13,
+      "name": "Large pane at the upper-right edge",
+      "order": 14
+    },
+    {
+      "id": 14,
+      "name": "Inside the upper-left curled strip",
+      "order": 4
+    },
+    {
+      "id": 15,
+      "name": "Upper crosswise band above the writing hand",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Lower crosswise band above the writing hand",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Background above the writing hand",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Pane around the pointed cuff",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Pointed cuff above the writing hand",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Upper-left pane beside the pointed cuff",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Long thin diagonal strip",
+      "order": 32
+    },
+    {
+      "id": 22,
+      "name": "Small loop beside the pointed cuff",
+      "order": 21
+    },
+    {
+      "id": 23,
+      "name": "Thin curved strip beneath the cuff",
+      "order": 22
+    },
+    {
+      "id": 24,
+      "name": "Long curved pane inside the cuff",
+      "order": 23
+    },
+    {
+      "id": 25,
+      "name": "Large writing hand and extended finger",
+      "order": 29
+    },
+    {
+      "id": 26,
+      "name": "Upper rounded pane beneath the writing hand",
+      "order": 25
+    },
+    {
+      "id": 27,
+      "name": "Second rounded pane beneath the writing hand",
+      "order": 26
+    },
+    {
+      "id": 28,
+      "name": "Wide curled pane beneath the cuff",
+      "order": 24
+    },
+    {
+      "id": 29,
+      "name": "Rim above the man's forehead",
+      "order": 34
+    },
+    {
+      "id": 30,
+      "name": "Third rounded pane beneath the writing hand",
+      "order": 27
+    },
+    {
+      "id": 31,
+      "name": "Man's face and long hair",
+      "order": 35
+    },
+    {
+      "id": 32,
+      "name": "Lower-left diagonal strip",
+      "order": 59
+    },
+    {
+      "id": 33,
+      "name": "Narrow pane between the writing fingers",
+      "order": 30
+    },
+    {
+      "id": 34,
+      "name": "Left-edge pane around the lower branching shapes",
+      "order": 60
+    },
+    {
+      "id": 35,
+      "name": "Lowest rounded pane beneath the writing hand",
+      "order": 28
+    },
+    {
+      "id": 36,
+      "name": "Small pane beside the man's eyebrow",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Background beneath the writing hand",
+      "order": 33
+    },
+    {
+      "id": 38,
+      "name": "Small pane in front of the man's nose",
+      "order": 37
+    },
+    {
+      "id": 39,
+      "name": "Curled shape at the lower left",
+      "order": 61
+    },
+    {
+      "id": 40,
+      "name": "Man's beard and upper shoulder",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Rounded branching shape at the lower left",
+      "order": 62
+    },
+    {
+      "id": 42,
+      "name": "Small pane at the right edge behind the man's hair",
+      "order": 39
+    },
+    {
+      "id": 43,
+      "name": "Lower writing fingertip",
+      "order": 31
+    },
+    {
+      "id": 44,
+      "name": "Tiny curl beside the man's hair",
+      "order": 38
+    },
+    {
+      "id": 45,
+      "name": "Man's extended arm and hand",
+      "order": 42
+    },
+    {
+      "id": 46,
+      "name": "Long curved pane inside the lower-left branching shape",
+      "order": 63
+    },
+    {
+      "id": 47,
+      "name": "Pane between the extended arm and writing fingertip",
+      "order": 43
+    },
+    {
+      "id": 48,
+      "name": "Small pointed pane beside the man's upper arm",
+      "order": 44
+    },
+    {
+      "id": 49,
+      "name": "Man's upper arm below the shaft",
+      "order": 45
+    },
+    {
+      "id": 50,
+      "name": "Center of the small shoulder dot",
+      "order": 41
+    },
+    {
+      "id": 51,
+      "name": "Man's bent arm and hand",
+      "order": 48
+    },
+    {
+      "id": 52,
+      "name": "Small pane beside the man's shoulder",
+      "order": 46
+    },
+    {
+      "id": 53,
+      "name": "Thin closed fold beneath the diagonal shaft",
+      "order": 47
+    },
+    {
+      "id": 54,
+      "name": "Narrow pane beneath the man's bent knee",
+      "order": 56
+    },
+    {
+      "id": 55,
+      "name": "Tiny pane at the right edge below the shaft",
+      "order": 49
+    },
+    {
+      "id": 56,
+      "name": "Upper small band behind the bent elbow",
+      "order": 50
+    },
+    {
+      "id": 57,
+      "name": "Long pane to the left of the man's legs",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Second small band behind the bent elbow",
+      "order": 51
+    },
+    {
+      "id": 59,
+      "name": "Small pane below the bent elbow",
+      "order": 54
+    },
+    {
+      "id": 60,
+      "name": "Third small band behind the bent elbow",
+      "order": 52
+    },
+    {
+      "id": 61,
+      "name": "Fourth small band behind the bent elbow",
+      "order": 53
+    },
+    {
+      "id": 62,
+      "name": "Man's legs and foot",
+      "order": 55
+    },
+    {
+      "id": 63,
+      "name": "Wide upper band beneath the man's legs",
+      "order": 64
+    },
+    {
+      "id": 64,
+      "name": "Background beneath the man's bent leg",
+      "order": 58
+    },
+    {
+      "id": 65,
+      "name": "Narrow band inside the wide upper band",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Rounded band beneath the man's legs",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Band right of the rounded lower band",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Long pointed band at the lower center",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Narrow lower-left band",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Middle band along the bottom",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Small pointed pane inside the lower-center band",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Broad pane along the bottom left of center",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Pane beneath the man's heel",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Tiny pane at the left edge beside the toes",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Small pane beneath the man's toes",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Tiny enclosed detail between the toes",
+      "order": 76
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "photo": {
+    "maxLongEdge": 2000,
+    "format": "webp",
+    "quality": 90
+  },
+  "thumbnail": {
+    "maxLongEdge": 320,
+    "format": "webp",
+    "quality": 85
+  },
+  "withoutEnlargement": true,
+  "algorithmVersion": "web-images-v2"
+}

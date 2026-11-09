@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Full source and numbered overlay and all 49 small-component crops inspected. Explicit acute tips excluded, retaining small hair/eye details, camel jaw gap, belt-end gap and closed toe spaces. Reconnect the small saddle corner, camel eye-white edge, narrow saddle stripe, person's eye crescent, two separate mouth slits and two belt gap families independently. The camel iris remains separate from its eye white; facial eye white remains separate from the highlight. Human face, neck, chest and extended right arm are continuous through open contour lines; the arm across the chest remains separated by its enclosing stroke. Pointing hand and forearm pane at left remain distinct. Saddle panels, bridle straps/joint, head and neck panes, robe/legs/feet and pouch beads retain boundaries. Names describe visible features without asserting historical identity or location. Source pixels and earlier geometry remain unchanged. Explicit inspected tip IDs: 17,20,28,41,74,75,76,77,78,85,87,90,92,96,108,114,116,118,120,121,122,137. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

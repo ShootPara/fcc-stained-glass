@@ -1,0 +1,827 @@
+{
+  "artworkId": "design-037",
+  "contentVersion": "ad083871378a1a1b1fa7e981b93aa31de26138872f102ebbe2fe840086abe290",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper figure's halo and surrounding bands, top right section 2",
+      "order": 88
+    },
+    {
+      "id": 2,
+      "name": "Upper figure's halo and surrounding bands, top right section 1",
+      "order": 87
+    },
+    {
+      "id": 3,
+      "name": "Upper figure's halo and surrounding bands, top right section 3",
+      "order": 89
+    },
+    {
+      "id": 4,
+      "name": "Top architectural frame and broad background, top left section 6",
+      "order": 79
+    },
+    {
+      "id": 5,
+      "name": "Top architectural frame and broad background, top center section 5",
+      "order": 78
+    },
+    {
+      "id": 6,
+      "name": "Top architectural frame and broad background, top left section 7",
+      "order": 80
+    },
+    {
+      "id": 7,
+      "name": "Top architectural frame and broad background, top center section 8",
+      "order": 81
+    },
+    {
+      "id": 8,
+      "name": "Top architectural frame and broad background, top center section 11",
+      "order": 84
+    },
+    {
+      "id": 9,
+      "name": "Top architectural frame and broad background, top left section 1",
+      "order": 74
+    },
+    {
+      "id": 10,
+      "name": "Top architectural frame and broad background, top left section 4",
+      "order": 77
+    },
+    {
+      "id": 11,
+      "name": "Top architectural frame and broad background, top left section 3",
+      "order": 76
+    },
+    {
+      "id": 12,
+      "name": "Top architectural frame and broad background, top left section 2",
+      "order": 75
+    },
+    {
+      "id": 13,
+      "name": "Upper figure's head and beard",
+      "order": 1
+    },
+    {
+      "id": 14,
+      "name": "Upper figure's hair curl",
+      "order": 2
+    },
+    {
+      "id": 15,
+      "name": "Top architectural frame and broad background, top left section 10",
+      "order": 83
+    },
+    {
+      "id": 16,
+      "name": "Top architectural frame and broad background, top center section 9",
+      "order": 82
+    },
+    {
+      "id": 17,
+      "name": "Top architectural frame and broad background, top left section 12",
+      "order": 85
+    },
+    {
+      "id": 18,
+      "name": "Small figure's arch crown triangles and base, top left section 7",
+      "order": 66
+    },
+    {
+      "id": 19,
+      "name": "Small figure's arch crown triangles and base, top left section 1",
+      "order": 60
+    },
+    {
+      "id": 20,
+      "name": "Small figure's arch crown triangles and base, top left section 2",
+      "order": 61
+    },
+    {
+      "id": 21,
+      "name": "Small figure's arch crown triangles and base, top right section 10",
+      "order": 69
+    },
+    {
+      "id": 22,
+      "name": "Small figure's arch crown triangles and base, top left section 4",
+      "order": 63
+    },
+    {
+      "id": 23,
+      "name": "Small figure's arch crown triangles and base, top left section 3",
+      "order": 62
+    },
+    {
+      "id": 24,
+      "name": "Raised hand fingers and closed finger space, top right section 1",
+      "order": 6
+    },
+    {
+      "id": 25,
+      "name": "Small figure's arch crown triangles and base, top left section 5",
+      "order": 64
+    },
+    {
+      "id": 26,
+      "name": "Upper figure's closed brow detail",
+      "order": 3
+    },
+    {
+      "id": 27,
+      "name": "Raised hand fingers and closed finger space, top right section 3",
+      "order": 8
+    },
+    {
+      "id": 28,
+      "name": "Small figure's arch crown triangles and base, top left section 6",
+      "order": 65
+    },
+    {
+      "id": 29,
+      "name": "Small framed figure's torso arms and hands, top left section 1",
+      "order": 50
+    },
+    {
+      "id": 30,
+      "name": "Small framed figure's hair and narrow face-side bands, top left section 1",
+      "order": 57
+    },
+    {
+      "id": 31,
+      "name": "Small framed figure's hair and narrow face-side bands, top left section 3",
+      "order": 59
+    },
+    {
+      "id": 32,
+      "name": "Small framed figure's face",
+      "order": 49
+    },
+    {
+      "id": 33,
+      "name": "Small figure's arch crown triangles and base, top left section 8",
+      "order": 67
+    },
+    {
+      "id": 34,
+      "name": "Small framed figure's hair and narrow face-side bands, top left section 2",
+      "order": 58
+    },
+    {
+      "id": 35,
+      "name": "Small figure's arch crown triangles and base, top left section 9",
+      "order": 68
+    },
+    {
+      "id": 36,
+      "name": "Small framed figure's torso arms and hands, top left section 2",
+      "order": 51
+    },
+    {
+      "id": 37,
+      "name": "Raised hand fingers and closed finger space, top right section 2",
+      "order": 7
+    },
+    {
+      "id": 38,
+      "name": "Small figure's arch crown triangles and base, top left section 11",
+      "order": 70
+    },
+    {
+      "id": 39,
+      "name": "Small figure's arch crown triangles and base, top left section 12",
+      "order": 71
+    },
+    {
+      "id": 40,
+      "name": "Small framed figure's torso arms and hands, top left section 3",
+      "order": 52
+    },
+    {
+      "id": 41,
+      "name": "Upper figure's neck collar and cuff, top center section 1",
+      "order": 9
+    },
+    {
+      "id": 42,
+      "name": "Upper figure's halo and surrounding bands, top right section 4",
+      "order": 90
+    },
+    {
+      "id": 43,
+      "name": "Upper figure's small closed beard spaces, top right section 1",
+      "order": 4
+    },
+    {
+      "id": 44,
+      "name": "Upper figure's neck collar and cuff, top center section 2",
+      "order": 10
+    },
+    {
+      "id": 45,
+      "name": "Upper figure's small closed beard spaces, top right section 2",
+      "order": 5
+    },
+    {
+      "id": 46,
+      "name": "Small framed figure's torso arms and hands, top left section 4",
+      "order": 53
+    },
+    {
+      "id": 47,
+      "name": "Upper figure's halo and surrounding bands, upper-middle right section 5",
+      "order": 91
+    },
+    {
+      "id": 48,
+      "name": "Upper figure's broad cloak and lower trim, upper-middle center section 1",
+      "order": 18
+    },
+    {
+      "id": 49,
+      "name": "Small framed figure's torso arms and hands, top left section 5",
+      "order": 54
+    },
+    {
+      "id": 50,
+      "name": "Small framed figure's torso arms and hands, top left section 6",
+      "order": 55
+    },
+    {
+      "id": 51,
+      "name": "Upper figure's neck collar and cuff, top right section 4",
+      "order": 12
+    },
+    {
+      "id": 52,
+      "name": "Small framed figure's torso arms and hands, top left section 7",
+      "order": 56
+    },
+    {
+      "id": 53,
+      "name": "Small figure's arch crown triangles and base, top left section 13",
+      "order": 72
+    },
+    {
+      "id": 54,
+      "name": "Upper figure's neck collar and cuff, top right section 3",
+      "order": 11
+    },
+    {
+      "id": 55,
+      "name": "Upper figure's neck collar and cuff, top right section 5",
+      "order": 13
+    },
+    {
+      "id": 56,
+      "name": "Upper figure's neck collar and cuff, upper-middle right section 8",
+      "order": 16
+    },
+    {
+      "id": 57,
+      "name": "Small figure's arch crown triangles and base, top left section 14",
+      "order": 73
+    },
+    {
+      "id": 58,
+      "name": "Upper figure's neck collar and cuff, upper-middle right section 7",
+      "order": 15
+    },
+    {
+      "id": 59,
+      "name": "Top architectural frame and broad background, upper-middle left section 13",
+      "order": 86
+    },
+    {
+      "id": 60,
+      "name": "Upper figure's neck collar and cuff, top right section 6",
+      "order": 14
+    },
+    {
+      "id": 61,
+      "name": "Upper figure's broad cloak and lower trim, upper-middle right section 3",
+      "order": 20
+    },
+    {
+      "id": 62,
+      "name": "Upper figure's broad cloak and lower trim, upper-middle left section 2",
+      "order": 19
+    },
+    {
+      "id": 63,
+      "name": "Left lower architectural arch and column, upper-middle left section 1",
+      "order": 97
+    },
+    {
+      "id": 64,
+      "name": "Upper figure's neck collar and cuff, upper-middle right section 9",
+      "order": 17
+    },
+    {
+      "id": 65,
+      "name": "Left lower architectural arch and column, upper-middle left section 2",
+      "order": 98
+    },
+    {
+      "id": 66,
+      "name": "Upper figure's halo and surrounding bands, upper-middle right section 10",
+      "order": 96
+    },
+    {
+      "id": 67,
+      "name": "Left lower architectural arch and column, upper-middle left section 3",
+      "order": 99
+    },
+    {
+      "id": 68,
+      "name": "Background around the lower figure, upper-middle right section 2",
+      "order": 114
+    },
+    {
+      "id": 69,
+      "name": "Hand resting on the lower head, upper-middle center section 1",
+      "order": 21
+    },
+    {
+      "id": 70,
+      "name": "Left lower architectural arch and column, upper-middle left section 4",
+      "order": 100
+    },
+    {
+      "id": 71,
+      "name": "Curled ornaments around the lower head, upper-middle center section 2",
+      "order": 26
+    },
+    {
+      "id": 72,
+      "name": "Upper figure's halo and surrounding bands, upper-middle right section 8",
+      "order": 94
+    },
+    {
+      "id": 73,
+      "name": "Upper figure's halo and surrounding bands, upper-middle center section 6",
+      "order": 92
+    },
+    {
+      "id": 74,
+      "name": "Left lower architectural arch and column, upper-middle left section 5",
+      "order": 101
+    },
+    {
+      "id": 75,
+      "name": "Curled ornaments around the lower head, upper-middle center section 1",
+      "order": 25
+    },
+    {
+      "id": 76,
+      "name": "Upper figure's halo and surrounding bands, upper-middle right section 7",
+      "order": 93
+    },
+    {
+      "id": 77,
+      "name": "Left lower architectural arch and column, upper-middle left section 6",
+      "order": 102
+    },
+    {
+      "id": 78,
+      "name": "Curled ornaments around the lower head, upper-middle center section 4",
+      "order": 28
+    },
+    {
+      "id": 79,
+      "name": "Hand resting on the lower head, upper-middle center section 2",
+      "order": 22
+    },
+    {
+      "id": 80,
+      "name": "Curled ornaments around the lower head, upper-middle center section 3",
+      "order": 27
+    },
+    {
+      "id": 81,
+      "name": "Upper figure's halo and surrounding bands, upper-middle right section 9",
+      "order": 95
+    },
+    {
+      "id": 82,
+      "name": "Curled ornaments around the lower head, upper-middle left section 5",
+      "order": 29
+    },
+    {
+      "id": 83,
+      "name": "Curled ornaments around the lower head, upper-middle center section 10",
+      "order": 34
+    },
+    {
+      "id": 84,
+      "name": "Left lower architectural arch and column, upper-middle left section 11",
+      "order": 107
+    },
+    {
+      "id": 85,
+      "name": "Hand resting on the lower head, upper-middle center section 3",
+      "order": 23
+    },
+    {
+      "id": 86,
+      "name": "Curled ornaments around the lower head, upper-middle center section 9",
+      "order": 33
+    },
+    {
+      "id": 87,
+      "name": "Background around the lower figure, lower-middle left section 9",
+      "order": 121
+    },
+    {
+      "id": 88,
+      "name": "Curled ornaments around the lower head, upper-middle center section 8",
+      "order": 32
+    },
+    {
+      "id": 89,
+      "name": "Curled ornaments around the lower head, upper-middle center section 6",
+      "order": 30
+    },
+    {
+      "id": 90,
+      "name": "Curled ornaments around the lower head, upper-middle center section 7",
+      "order": 31
+    },
+    {
+      "id": 91,
+      "name": "Curled ornaments around the lower head, upper-middle center section 11",
+      "order": 35
+    },
+    {
+      "id": 92,
+      "name": "Left lower architectural arch and column, upper-middle left section 8",
+      "order": 104
+    },
+    {
+      "id": 93,
+      "name": "Left lower architectural arch and column, upper-middle left section 7",
+      "order": 103
+    },
+    {
+      "id": 94,
+      "name": "Left lower architectural arch and column, upper-middle left section 9",
+      "order": 105
+    },
+    {
+      "id": 95,
+      "name": "Left lower architectural arch and column, upper-middle left section 13",
+      "order": 109
+    },
+    {
+      "id": 96,
+      "name": "Left lower architectural arch and column, upper-middle left section 12",
+      "order": 108
+    },
+    {
+      "id": 97,
+      "name": "Curled ornaments around the lower head, upper-middle center section 14",
+      "order": 38
+    },
+    {
+      "id": 98,
+      "name": "Curled ornaments around the lower head, upper-middle center section 12",
+      "order": 36
+    },
+    {
+      "id": 99,
+      "name": "Left lower architectural arch and column, lower-middle left section 15",
+      "order": 111
+    },
+    {
+      "id": 100,
+      "name": "Left lower architectural arch and column, upper-middle left section 10",
+      "order": 106
+    },
+    {
+      "id": 101,
+      "name": "Background around the lower figure, upper-middle center section 1",
+      "order": 113
+    },
+    {
+      "id": 102,
+      "name": "Background around the lower figure, upper-middle right section 3",
+      "order": 115
+    },
+    {
+      "id": 103,
+      "name": "Curled ornaments around the lower head, upper-middle center section 13",
+      "order": 37
+    },
+    {
+      "id": 104,
+      "name": "Lower figure's head and profile",
+      "order": 24
+    },
+    {
+      "id": 105,
+      "name": "Left lower architectural arch and column, upper-middle left section 14",
+      "order": 110
+    },
+    {
+      "id": 106,
+      "name": "Left lower architectural arch and column, lower-middle left section 16",
+      "order": 112
+    },
+    {
+      "id": 107,
+      "name": "Lower figure's shaggy coat and enclosed coat gaps, lower-middle left section 1",
+      "order": 41
+    },
+    {
+      "id": 108,
+      "name": "Background around the lower figure, lower-middle center section 7",
+      "order": 119
+    },
+    {
+      "id": 109,
+      "name": "Background around the lower figure, lower-middle right section 8",
+      "order": 120
+    },
+    {
+      "id": 110,
+      "name": "Lower figure's raised arm and hand",
+      "order": 45
+    },
+    {
+      "id": 111,
+      "name": "Curled ornaments around the lower head, lower-middle center section 16",
+      "order": 40
+    },
+    {
+      "id": 112,
+      "name": "Curled ornaments around the lower head, upper-middle center section 15",
+      "order": 39
+    },
+    {
+      "id": 113,
+      "name": "Background around the lower figure, lower-middle right section 4",
+      "order": 116
+    },
+    {
+      "id": 114,
+      "name": "Background around the lower figure, lower-middle right section 12",
+      "order": 124
+    },
+    {
+      "id": 115,
+      "name": "Background around the lower figure, lower-middle center section 5",
+      "order": 117
+    },
+    {
+      "id": 116,
+      "name": "Long diagonal staff",
+      "order": 46
+    },
+    {
+      "id": 117,
+      "name": "Layered right border's head-like crest and scales, lower-middle right section 2",
+      "order": 136
+    },
+    {
+      "id": 118,
+      "name": "Background around the lower figure, lower-middle right section 6",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Layered right border's head-like crest and scales, lower-middle center section 3",
+      "order": 137
+    },
+    {
+      "id": 120,
+      "name": "Layered right border's head-like crest and scales, lower-middle left section 1",
+      "order": 135
+    },
+    {
+      "id": 121,
+      "name": "Background around the lower figure, lower-middle center section 11",
+      "order": 123
+    },
+    {
+      "id": 122,
+      "name": "Background around the lower figure, lower-middle center section 13",
+      "order": 125
+    },
+    {
+      "id": 123,
+      "name": "Lower figure's shaggy coat and enclosed coat gaps, lower-middle left section 2",
+      "order": 42
+    },
+    {
+      "id": 124,
+      "name": "Background around the lower figure, lower-middle left section 10",
+      "order": 122
+    },
+    {
+      "id": 125,
+      "name": "Background around the lower figure, bottom right section 15",
+      "order": 127
+    },
+    {
+      "id": 126,
+      "name": "Layered right border's head-like crest and scales, lower-middle right section 4",
+      "order": 138
+    },
+    {
+      "id": 127,
+      "name": "Background around the lower figure, lower-middle right section 14",
+      "order": 126
+    },
+    {
+      "id": 128,
+      "name": "Layered right border's head-like crest and scales, bottom right section 5",
+      "order": 139
+    },
+    {
+      "id": 129,
+      "name": "Layered right border's head-like crest and scales, bottom right section 7",
+      "order": 141
+    },
+    {
+      "id": 130,
+      "name": "Lower figure's shaggy coat and enclosed coat gaps, bottom left section 3",
+      "order": 43
+    },
+    {
+      "id": 131,
+      "name": "Layered right border's head-like crest and scales, bottom right section 6",
+      "order": 140
+    },
+    {
+      "id": 132,
+      "name": "Background around the lower figure, bottom center section 17",
+      "order": 129
+    },
+    {
+      "id": 133,
+      "name": "Lower figure's shaggy coat and enclosed coat gaps, bottom left section 4",
+      "order": 44
+    },
+    {
+      "id": 134,
+      "name": "Layered right border's head-like crest and scales, bottom right section 9",
+      "order": 143
+    },
+    {
+      "id": 135,
+      "name": "Lower figure's leg and foot, bottom left section 1",
+      "order": 47
+    },
+    {
+      "id": 136,
+      "name": "Layered right border's head-like crest and scales, bottom right section 8",
+      "order": 142
+    },
+    {
+      "id": 137,
+      "name": "Background around the lower figure, bottom center section 16",
+      "order": 128
+    },
+    {
+      "id": 138,
+      "name": "Background around the lower figure, bottom center section 18",
+      "order": 130
+    },
+    {
+      "id": 139,
+      "name": "Background around the lower figure, bottom left section 20",
+      "order": 132
+    },
+    {
+      "id": 140,
+      "name": "Layered right border's head-like crest and scales, bottom right section 10",
+      "order": 144
+    },
+    {
+      "id": 141,
+      "name": "Background around the lower figure, bottom center section 19",
+      "order": 131
+    },
+    {
+      "id": 142,
+      "name": "Background around the lower figure, bottom center section 21",
+      "order": 133
+    },
+    {
+      "id": 143,
+      "name": "Background around the lower figure, bottom center section 22",
+      "order": 134
+    },
+    {
+      "id": 144,
+      "name": "Lower figure's leg and foot, bottom left section 2",
+      "order": 48
+    },
+    {
+      "id": 145,
+      "name": "Bottom small panes and rounded scallops, bottom center section 1",
+      "order": 148
+    },
+    {
+      "id": 146,
+      "name": "Bottom small panes and rounded scallops, bottom left section 5",
+      "order": 152
+    },
+    {
+      "id": 147,
+      "name": "Bottom small panes and rounded scallops, bottom left section 7",
+      "order": 154
+    },
+    {
+      "id": 148,
+      "name": "Bottom small panes and rounded scallops, bottom left section 2",
+      "order": 149
+    },
+    {
+      "id": 149,
+      "name": "Bottom small panes and rounded scallops, bottom right section 11",
+      "order": 158
+    },
+    {
+      "id": 150,
+      "name": "Layered right border's head-like crest and scales, bottom right section 11",
+      "order": 145
+    },
+    {
+      "id": 151,
+      "name": "Bottom small panes and rounded scallops, bottom left section 3",
+      "order": 150
+    },
+    {
+      "id": 152,
+      "name": "Bottom small panes and rounded scallops, bottom center section 4",
+      "order": 151
+    },
+    {
+      "id": 153,
+      "name": "Bottom small panes and rounded scallops, bottom left section 9",
+      "order": 156
+    },
+    {
+      "id": 154,
+      "name": "Bottom small panes and rounded scallops, bottom left section 6",
+      "order": 153
+    },
+    {
+      "id": 155,
+      "name": "Bottom small panes and rounded scallops, bottom center section 10",
+      "order": 157
+    },
+    {
+      "id": 156,
+      "name": "Bottom small panes and rounded scallops, bottom center section 8",
+      "order": 155
+    },
+    {
+      "id": 157,
+      "name": "Bottom small panes and rounded scallops, bottom center section 12",
+      "order": 159
+    },
+    {
+      "id": 158,
+      "name": "Layered right border's head-like crest and scales, bottom center section 12",
+      "order": 146
+    },
+    {
+      "id": 159,
+      "name": "Bottom small panes and rounded scallops, bottom left section 13",
+      "order": 160
+    },
+    {
+      "id": 160,
+      "name": "Bottom small panes and rounded scallops, bottom left section 14",
+      "order": 161
+    },
+    {
+      "id": 161,
+      "name": "Bottom small panes and rounded scallops, bottom center section 15",
+      "order": 162
+    },
+    {
+      "id": 162,
+      "name": "Bottom small panes and rounded scallops, bottom right section 16",
+      "order": 163
+    },
+    {
+      "id": 163,
+      "name": "Layered right border's head-like crest and scales, bottom right section 13",
+      "order": 147
+    },
+    {
+      "id": 164,
+      "name": "Bottom small panes and rounded scallops, bottom left section 17",
+      "order": 164
+    }
+  ],
+  "schemaVersion": 1
+}

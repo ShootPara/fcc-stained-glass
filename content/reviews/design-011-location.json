@@ -1,0 +1,9 @@
+{
+  "outcome": "complete",
+  "recordId": "design-011",
+  "reviewKind": "location",
+  "reviewedAtUtc": "2026-11-09T19:23:32.861Z",
+  "reviewedDigest": "02c411e14e4f579b68bcd708428e0f162a359bb1e0a4e2f9d01013499ab17ecd",
+  "reviewer": "Codex visual/source comparison, 9 November 2026; inferred matches explicitly labeled likely",
+  "schemaVersion": 1
+}

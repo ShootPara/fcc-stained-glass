@@ -1,0 +1,30 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> fcc-stained-glass@0.1.0 prepare
+> node --import tsx scripts/prepare-assets.ts --id design-002
+
+Prepared 1 drawing version(s) and 1 photo derivative(s). Inspect the reported review images; preparation writes no review receipts.
+prepare-assets: passed. Report: .work/reports/prepare-assets-2026-11-06T20-47-25-969Z-5472b334.json
+{
+  "artworks": [
+    {
+      "id": "design-002",
+      "contentVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+      "width": 1024,
+      "height": 1536,
+      "regionCount": 45,
+      "reviewDirectory": ".work/review/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+      "reusedPackage": true,
+      "archive": false
+    }
+  ],
+  "photos": [
+    "photo-002"
+  ],
+  "skippedUnreviewedPhotoCandidates": [],
+  "changedFiles": [],
+  "unchangedFileCount": 5,
+  "recoveredTransaction": false,
+  "registryChanged": false,
+  "reviewReceiptsWritten": 0
+}

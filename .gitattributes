@@ -1,0 +1,12 @@
+* text=auto eol=lf
+source/** -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.webp -text
+*.pdf -text
+*.bin -text
+*.ttf -text
+*.otf -text
+*.woff2 -text
+*.docx -text

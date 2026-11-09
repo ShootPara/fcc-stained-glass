@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Full numbered source and all nine small-component sheets inspected. Tiny components include genuine narrow hair outlines, eye corners, closed ear and robe slits, not only artifacts. Explicitly reconnect the inspected narrow bands and closed crescents; retain eye white, forehead triangle and closed finger/foot details separately. Exclude isolated border specks and acute endpoints only. Curled head covering, profile, arm and clasped hand, leafy ornament, robe folds, lower animal and surrounding bands remain distinct. Canonical ink and source art remain unchanged; names describe visible features without inferring historical identity. Explicit inspected tip IDs: 1,2,3,9,15,33,39,41,49,54,57,59,66,80,87,110,111,114,120,132,137,143,145,169,181,184. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

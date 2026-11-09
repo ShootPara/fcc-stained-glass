@@ -1,0 +1,717 @@
+{
+  "artworkId": "design-035",
+  "contentVersion": "a06050cc3772492f8b8f9fd2b852947bd98eaea0f9a3964d79b73803ebe7d525",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Top and left background leaf-like shapes, top left section 4",
+      "order": 22
+    },
+    {
+      "id": 2,
+      "name": "Top and left background leaf-like shapes, top left section 3",
+      "order": 21
+    },
+    {
+      "id": 3,
+      "name": "Top and left background leaf-like shapes, top left section 2",
+      "order": 20
+    },
+    {
+      "id": 4,
+      "name": "Upper figure's halo and hair, top center section 3",
+      "order": 6
+    },
+    {
+      "id": 5,
+      "name": "Upper figure's halo and hair, top center section 1",
+      "order": 4
+    },
+    {
+      "id": 6,
+      "name": "Upper figure's halo and hair, top center section 2",
+      "order": 5
+    },
+    {
+      "id": 7,
+      "name": "Upper figure's halo and hair, top center section 4",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Top and left background leaf-like shapes, top right section 1",
+      "order": 19
+    },
+    {
+      "id": 9,
+      "name": "Right crenellated wall and inset window, top right section 1",
+      "order": 51
+    },
+    {
+      "id": 10,
+      "name": "Upper figure's halo and hair, top center section 6",
+      "order": 9
+    },
+    {
+      "id": 11,
+      "name": "Upper figure's halo and hair, top center section 8",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Upper figure's halo and hair, top center section 5",
+      "order": 8
+    },
+    {
+      "id": 13,
+      "name": "Right crenellated wall and inset window, top right section 2",
+      "order": 52
+    },
+    {
+      "id": 14,
+      "name": "Upper figure's face and beard",
+      "order": 27
+    },
+    {
+      "id": 15,
+      "name": "Upper figure's halo and hair, top center section 7",
+      "order": 10
+    },
+    {
+      "id": 16,
+      "name": "Right crenellated wall and inset window, top right section 3",
+      "order": 53
+    },
+    {
+      "id": 17,
+      "name": "Background beside the raised arm",
+      "order": 34
+    },
+    {
+      "id": 18,
+      "name": "Upper figure's halo and hair, top center section 12",
+      "order": 15
+    },
+    {
+      "id": 19,
+      "name": "Upper figure's halo and hair, top center section 9",
+      "order": 12
+    },
+    {
+      "id": 20,
+      "name": "Right crenellated wall and inset window, top right section 5",
+      "order": 55
+    },
+    {
+      "id": 21,
+      "name": "Upper figure's halo and hair, top center section 13",
+      "order": 16
+    },
+    {
+      "id": 22,
+      "name": "Upper figure's halo and hair, top center section 10",
+      "order": 13
+    },
+    {
+      "id": 23,
+      "name": "Top and left background leaf-like shapes, top left section 5",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Raised hand and enclosed finger panes, top left section 3",
+      "order": 33
+    },
+    {
+      "id": 25,
+      "name": "Raised hand and enclosed finger panes, top left section 1",
+      "order": 31
+    },
+    {
+      "id": 26,
+      "name": "Upper figure's divided moustache, top center section 1",
+      "order": 28
+    },
+    {
+      "id": 27,
+      "name": "Upper figure's divided moustache, top center section 2",
+      "order": 29
+    },
+    {
+      "id": 28,
+      "name": "Upper figure's divided moustache, top center section 3",
+      "order": 30
+    },
+    {
+      "id": 29,
+      "name": "Top and left background leaf-like shapes, top left section 6",
+      "order": 24
+    },
+    {
+      "id": 30,
+      "name": "Right crenellated wall and inset window, top right section 4",
+      "order": 54
+    },
+    {
+      "id": 31,
+      "name": "Upper figure's halo and hair, top center section 11",
+      "order": 14
+    },
+    {
+      "id": 32,
+      "name": "Raised hand and enclosed finger panes, top left section 2",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Upper figure's halo and hair, top center section 14",
+      "order": 17
+    },
+    {
+      "id": 34,
+      "name": "Upper figure's halo and hair, top center section 15",
+      "order": 18
+    },
+    {
+      "id": 35,
+      "name": "Right figure's hair bands and collar, top right section 3",
+      "order": 60
+    },
+    {
+      "id": 36,
+      "name": "Right figure's hair bands and collar, upper-middle right section 4",
+      "order": 61
+    },
+    {
+      "id": 37,
+      "name": "Right figure's hair bands and collar, top right section 1",
+      "order": 58
+    },
+    {
+      "id": 38,
+      "name": "Right figure's hair bands and collar, upper-middle right section 5",
+      "order": 62
+    },
+    {
+      "id": 39,
+      "name": "Right figure's hair bands and collar, top right section 2",
+      "order": 59
+    },
+    {
+      "id": 40,
+      "name": "Upper figure's collar and robe, top center section 1",
+      "order": 35
+    },
+    {
+      "id": 41,
+      "name": "Background bands beside the right wall, upper-middle right section 1",
+      "order": 1
+    },
+    {
+      "id": 42,
+      "name": "Top and left background leaf-like shapes, upper-middle left section 7",
+      "order": 25
+    },
+    {
+      "id": 43,
+      "name": "Upper figure's collar and robe, upper-middle center section 4",
+      "order": 38
+    },
+    {
+      "id": 44,
+      "name": "Right figure's face and neck",
+      "order": 56
+    },
+    {
+      "id": 45,
+      "name": "Lower left frame's closed triangle",
+      "order": 70
+    },
+    {
+      "id": 46,
+      "name": "Upper figure's collar and robe, top center section 2",
+      "order": 36
+    },
+    {
+      "id": 47,
+      "name": "Right figure's eye-white corner",
+      "order": 57
+    },
+    {
+      "id": 48,
+      "name": "Upper figure's collar and robe, upper-middle left section 5",
+      "order": 39
+    },
+    {
+      "id": 49,
+      "name": "Upper figure's collar and robe, upper-middle left section 6",
+      "order": 40
+    },
+    {
+      "id": 50,
+      "name": "Top and left background leaf-like shapes, upper-middle left section 8",
+      "order": 26
+    },
+    {
+      "id": 51,
+      "name": "Upper figure's collar and robe, upper-middle left section 3",
+      "order": 37
+    },
+    {
+      "id": 52,
+      "name": "Background bands beside the right wall, upper-middle right section 2",
+      "order": 2
+    },
+    {
+      "id": 53,
+      "name": "Donkey's head and ear",
+      "order": 71
+    },
+    {
+      "id": 54,
+      "name": "Upper figure's collar and robe, upper-middle left section 9",
+      "order": 43
+    },
+    {
+      "id": 55,
+      "name": "Upper figure's collar and robe, upper-middle left section 7",
+      "order": 41
+    },
+    {
+      "id": 56,
+      "name": "Right figure's hair bands and collar, upper-middle right section 6",
+      "order": 63
+    },
+    {
+      "id": 57,
+      "name": "Upper figure's collar and robe, upper-middle center section 8",
+      "order": 42
+    },
+    {
+      "id": 58,
+      "name": "Upper figure's collar and robe, upper-middle right section 11",
+      "order": 45
+    },
+    {
+      "id": 59,
+      "name": "Right figure's hair bands and collar, upper-middle left section 12",
+      "order": 69
+    },
+    {
+      "id": 60,
+      "name": "Upper figure's collar and robe, upper-middle center section 10",
+      "order": 44
+    },
+    {
+      "id": 61,
+      "name": "Right figure's hair bands and collar, upper-middle right section 7",
+      "order": 64
+    },
+    {
+      "id": 62,
+      "name": "Donkey's mane and inner ear panes, upper-middle center section 2",
+      "order": 73
+    },
+    {
+      "id": 63,
+      "name": "Right figure's hair bands and collar, upper-middle right section 8",
+      "order": 65
+    },
+    {
+      "id": 64,
+      "name": "Upper figure's collar and robe, upper-middle center section 12",
+      "order": 46
+    },
+    {
+      "id": 65,
+      "name": "Donkey's mane and inner ear panes, upper-middle left section 1",
+      "order": 72
+    },
+    {
+      "id": 66,
+      "name": "Small enclosed gap at the upper figure's waist",
+      "order": 3
+    },
+    {
+      "id": 67,
+      "name": "Donkey's mane and inner ear panes, upper-middle center section 3",
+      "order": 74
+    },
+    {
+      "id": 68,
+      "name": "Upper figure's collar and robe, upper-middle center section 13",
+      "order": 47
+    },
+    {
+      "id": 69,
+      "name": "Upper figure's collar and robe, upper-middle center section 14",
+      "order": 48
+    },
+    {
+      "id": 70,
+      "name": "Right figure's hair bands and collar, upper-middle right section 9",
+      "order": 66
+    },
+    {
+      "id": 71,
+      "name": "Donkey's mane and inner ear panes, upper-middle right section 4",
+      "order": 75
+    },
+    {
+      "id": 72,
+      "name": "Right figure's hair bands and collar, upper-middle right section 10",
+      "order": 67
+    },
+    {
+      "id": 73,
+      "name": "Clustered curls and enclosed interstices at right, upper-middle right section 2",
+      "order": 89
+    },
+    {
+      "id": 74,
+      "name": "Right figure's hair bands and collar, upper-middle right section 11",
+      "order": 68
+    },
+    {
+      "id": 75,
+      "name": "Donkey's mane and inner ear panes, upper-middle right section 5",
+      "order": 76
+    },
+    {
+      "id": 76,
+      "name": "Upper figure's collar and robe, upper-middle center section 15",
+      "order": 49
+    },
+    {
+      "id": 77,
+      "name": "Upper figure's collar and robe, lower-middle center section 16",
+      "order": 50
+    },
+    {
+      "id": 78,
+      "name": "Clustered curls and enclosed interstices at right, upper-middle right section 1",
+      "order": 88
+    },
+    {
+      "id": 79,
+      "name": "Donkey's mane and inner ear panes, upper-middle right section 6",
+      "order": 77
+    },
+    {
+      "id": 80,
+      "name": "Donkey's upper eye-white crescent",
+      "order": 79
+    },
+    {
+      "id": 81,
+      "name": "Clustered curls and enclosed interstices at right, upper-middle right section 3",
+      "order": 90
+    },
+    {
+      "id": 82,
+      "name": "Donkey's other eye-white panes, upper-middle left section 2",
+      "order": 81
+    },
+    {
+      "id": 83,
+      "name": "Donkey's other eye-white panes, upper-middle left section 1",
+      "order": 80
+    },
+    {
+      "id": 84,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 13",
+      "order": 100
+    },
+    {
+      "id": 85,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 4",
+      "order": 91
+    },
+    {
+      "id": 86,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 6",
+      "order": 93
+    },
+    {
+      "id": 87,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 15",
+      "order": 102
+    },
+    {
+      "id": 88,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 8",
+      "order": 95
+    },
+    {
+      "id": 89,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 5",
+      "order": 92
+    },
+    {
+      "id": 90,
+      "name": "Donkey's mane and inner ear panes, lower-middle center section 7",
+      "order": 78
+    },
+    {
+      "id": 91,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 7",
+      "order": 94
+    },
+    {
+      "id": 92,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 9",
+      "order": 96
+    },
+    {
+      "id": 93,
+      "name": "Donkey's muzzle and bridle pieces, lower-middle left section 1",
+      "order": 82
+    },
+    {
+      "id": 94,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 10",
+      "order": 97
+    },
+    {
+      "id": 95,
+      "name": "Donkey's muzzle and bridle pieces, lower-middle left section 3",
+      "order": 84
+    },
+    {
+      "id": 96,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 11",
+      "order": 98
+    },
+    {
+      "id": 97,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle left section 12",
+      "order": 99
+    },
+    {
+      "id": 98,
+      "name": "Donkey's muzzle and bridle pieces, lower-middle left section 2",
+      "order": 83
+    },
+    {
+      "id": 99,
+      "name": "Donkey's muzzle and bridle pieces, lower-middle left section 4",
+      "order": 85
+    },
+    {
+      "id": 100,
+      "name": "Donkey's muzzle and bridle pieces, lower-middle left section 5",
+      "order": 86
+    },
+    {
+      "id": 101,
+      "name": "Donkey's muzzle and bridle pieces, lower-middle left section 6",
+      "order": 87
+    },
+    {
+      "id": 102,
+      "name": "Clustered curls and enclosed interstices at right, lower-middle right section 14",
+      "order": 101
+    },
+    {
+      "id": 103,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 1",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 2",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 5",
+      "order": 107
+    },
+    {
+      "id": 106,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 3",
+      "order": 105
+    },
+    {
+      "id": 107,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle right section 4",
+      "order": 106
+    },
+    {
+      "id": 108,
+      "name": "Lower left border and background bands, lower-middle left section 1",
+      "order": 141
+    },
+    {
+      "id": 109,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 7",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle right section 6",
+      "order": 108
+    },
+    {
+      "id": 111,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 8",
+      "order": 110
+    },
+    {
+      "id": 112,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 9",
+      "order": 111
+    },
+    {
+      "id": 113,
+      "name": "Lower right leaf and flower cluster, lower-middle right section 1",
+      "order": 133
+    },
+    {
+      "id": 114,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 10",
+      "order": 112
+    },
+    {
+      "id": 115,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 13",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 11",
+      "order": 113
+    },
+    {
+      "id": 117,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 12",
+      "order": 114
+    },
+    {
+      "id": 118,
+      "name": "Lower background around the central leaf, lower-middle center section 1",
+      "order": 117
+    },
+    {
+      "id": 119,
+      "name": "Diamond-pattern background beneath the muzzle, lower-middle left section 14",
+      "order": 116
+    },
+    {
+      "id": 120,
+      "name": "Large central leaf body",
+      "order": 122
+    },
+    {
+      "id": 121,
+      "name": "Lower background around the central leaf, lower-middle center section 3",
+      "order": 119
+    },
+    {
+      "id": 122,
+      "name": "Lower right leaf and flower cluster, bottom right section 2",
+      "order": 134
+    },
+    {
+      "id": 123,
+      "name": "Lower background around the central leaf, lower-middle left section 2",
+      "order": 118
+    },
+    {
+      "id": 124,
+      "name": "Lower background around the central leaf, bottom center section 5",
+      "order": 121
+    },
+    {
+      "id": 125,
+      "name": "Lower left leaf and petal cluster, bottom left section 3",
+      "order": 126
+    },
+    {
+      "id": 126,
+      "name": "Lower right leaf and flower cluster, bottom right section 3",
+      "order": 135
+    },
+    {
+      "id": 127,
+      "name": "Lower background around the central leaf, bottom left section 4",
+      "order": 120
+    },
+    {
+      "id": 128,
+      "name": "Lower right leaf and flower cluster, bottom right section 5",
+      "order": 137
+    },
+    {
+      "id": 129,
+      "name": "Large central leaf's narrow vein",
+      "order": 123
+    },
+    {
+      "id": 130,
+      "name": "Lower right leaf and flower cluster, bottom right section 4",
+      "order": 136
+    },
+    {
+      "id": 131,
+      "name": "Lower left leaf and petal cluster, bottom left section 1",
+      "order": 124
+    },
+    {
+      "id": 132,
+      "name": "Lower left leaf and petal cluster, bottom left section 5",
+      "order": 128
+    },
+    {
+      "id": 133,
+      "name": "Lower right leaf and flower cluster, bottom right section 6",
+      "order": 138
+    },
+    {
+      "id": 134,
+      "name": "Lower left leaf and petal cluster, bottom left section 2",
+      "order": 125
+    },
+    {
+      "id": 135,
+      "name": "Lower left leaf and petal cluster, bottom left section 4",
+      "order": 127
+    },
+    {
+      "id": 136,
+      "name": "Lower left leaf and petal cluster, bottom left section 7",
+      "order": 130
+    },
+    {
+      "id": 137,
+      "name": "Lower right leaf and flower cluster, bottom right section 7",
+      "order": 139
+    },
+    {
+      "id": 138,
+      "name": "Lower left border and background bands, bottom center section 2",
+      "order": 142
+    },
+    {
+      "id": 139,
+      "name": "Lower left leaf and petal cluster, bottom left section 6",
+      "order": 129
+    },
+    {
+      "id": 140,
+      "name": "Lower right leaf and flower cluster, bottom right section 8",
+      "order": 140
+    },
+    {
+      "id": 141,
+      "name": "Lower left leaf and petal cluster, bottom left section 8",
+      "order": 131
+    },
+    {
+      "id": 142,
+      "name": "Lower left leaf and petal cluster, bottom left section 9",
+      "order": 132
+    }
+  ],
+  "schemaVersion": 1
+}

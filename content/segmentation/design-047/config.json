@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected the full carried-child and bearded figure drawing plus all five sheets of 58 tiny source/fill pairs. Reconnect the two small child iris crescents, closed curl triangle, adult hair crescent, staff grain, tree branch triangle, grass slits and lower wave corner only within their own outlines. Preserve closed tiny finger and beard/ear details rather than blanket-removing small shapes. Explicit exclusions are acute cloth, hair, grass and wave tips. The adult face and beard are visibly continuous, the two child's iris bands remain separate, and hands, feet, cross, tree, foliage and waves receive feature and position names. Source and canonical ink remain unchanged. Explicit inspected tip IDs: 31,35,44,51,56,57,61,62,63,75,103,105,106,107,110,113,133,136,137,138,144,147,150,152,166,168. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

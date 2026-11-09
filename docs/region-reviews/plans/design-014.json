@@ -1,0 +1,30 @@
+{
+ "schemaVersion":1,"artworkId":"design-014","sourceVersion":"afabe2dae5ddfa86b1566bf63ce633321346c1c42c3581b51dbfa972dd9efc94",
+ "observations":"Full source and numbered overlay, all twenty small-component crops and 4x native face crop inspected. Eleven isolated acute tips excluded. Three parts of the small eye crescent and two parts of an enclosed beard slit reconnect independently; keep eye white, face, nostril and other beard details distinct. Retain the two-pixel nostril, ten-pixel beard slit, four-pixel altar gap and 22-pixel closed leaf detail. Face, neck and open beard contours are intentionally continuous. Raised hand/forearm and upper arm are separate skin panes. Large robe folds, altar blocks and narrow mortar gaps, flame scrolls and plant leaves remain distinct. Open finger, garment and leaf-vein strokes stay inside their containing panes. Names follow arches, figure, flames/altar and right-side plant. Source pixels and earlier geometry remain unchanged.",
+ "evidence":[".work/review/design-014/afabe2dae5ddfa86b1566bf63ce633321346c1c42c3581b51dbfa972dd9efc94/regions-numbered-2x.png",".work/region-crops/design-014/small-01.png",".work/region-crops/design-014/small-02.png",".work/region-crops/design-014/face-4x.png"],
+ "tips":"16,31,33,49-51,61,74,107,113,117","joins":["23-25","36,37"],
+ "groups":[
+ {"name":"Broad arch bands across the top","ids":"1-10"},
+ {"name":"Background panes around the curled upper band","ids":"11,13-15,19,28"},
+ {"name":"Curled ornamental band above the figure","ids":"12"},
+ {"name":"Hair and long beard strips","ids":"17,18,21,32,35,39,41,45"},
+ {"name":"Face, neck and open beard contours","ids":"20"},
+ {"name":"Eye white","ids":"22"},
+ {"name":"Small eye crescent","ids":"23-25"},
+ {"name":"Raised hand and forearm","ids":"26"},
+ {"name":"Small enclosed nostril","ids":"27"},
+ {"name":"Small triangle beneath the hair curl","ids":"30"},
+ {"name":"Enclosed beard slit beside the cheek","ids":"36,37"},
+ {"name":"Enclosed beard slit near the chin","ids":"40"},
+ {"name":"Curled flames and their interior panes","ids":"29,34,38,43,44,52,54-56"},
+ {"name":"Figure's robe folds and trim","ids":"46,48,53,57-59,66,70,77,91"},
+ {"name":"Figure's upper arm","ids":"47"},
+ {"name":"Lower hand and fingers","ids":"78"},
+ {"name":"Background beside the figure and altar","ids":"42,60,80,102"},
+ {"name":"Rounded stones below the flames","ids":"64,67-69,71-73,76,81,83"},
+ {"name":"Small enclosed altar gap","ids":"79"},
+ {"name":"Altar blocks and separate mortar gaps","ids":"84-86,88-90,92-95,97,99-101,104-106,108,109,112,114-116,119-121,123"},
+ {"name":"Right-side plant leaves and enclosed vein detail","ids":"62,75,82,96,110,118,122,125"},
+ {"name":"Background around the right-side plant","ids":"63,65,87,98,103,111,124"}
+ ]
+}

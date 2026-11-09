@@ -1,0 +1,12 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> fcc-stained-glass@0.1.0 catalog
+> node --import tsx scripts/build-catalog.ts --mode development
+
+catalog: passed. Report: .work/reports/catalog-2026-11-06T20-47-20-810Z-8463d5c6.json
+{
+  "mode": "development",
+  "photos": 55,
+  "artworks": 48,
+  "availableArtworks": 1
+}

@@ -1,0 +1,14 @@
+{
+  "observedAtUtc": "2026-11-06T20:48:42.906723+00:00",
+  "relativePath": "source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g",
+  "exists": true,
+  "assessment": "The temporary filename and partial-source bytes are consistent with a workspace-mirror transfer. This observation alone does not prove which process wrote it.",
+  "inode": 661358,
+  "size": 2998272,
+  "modeOctal": "0o100600",
+  "mtimeNs": 1793998024344663810,
+  "ctimeNs": 1793998024562975726,
+  "sha256": "ee1dd7c82795b6d4b0f148507db799f5e6bce6dfc8f366db59ea34c157b4ce4e",
+  "sourceBytes": 3012002,
+  "exactSourcePrefix": true
+}

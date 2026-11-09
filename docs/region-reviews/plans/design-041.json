@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-041",
+  "sourceVersion": "932d14c90302d8a3df7ad4fb7b56963092f11743695b55095eb42df411ff0b99",
+  "observations": "Inspected full numbered source and all six small-component sheets. Retain tiny eye/nostril/lip details, closed hand corners, bead holes and real lower-hem triangles. Explicit acute endpoints are excluded individually. Reconnect inspected iris, small lip opening, hair-side gap, narrow cloak fold, lower face's mouth, and small ornamental crevice; distinct eye whites and adjacent lip/ear openings remain separate. Names distinguish upper head and flag, cloak/hand, lower left figure, praying lower right profile, hat/necklace/scaled cape, diagonal divider and small border panes. No historical identity is inferred. Source/canonical ink and all earlier packages remain unchanged.",
+  "evidence": [
+    ".work/review/design-041/932d14c90302d8a3df7ad4fb7b56963092f11743695b55095eb42df411ff0b99/regions-numbered-2x.png",
+    ".work/region-crops/design-041/small-01.png",
+    ".work/region-crops/design-041/small-02.png",
+    ".work/region-crops/design-041/small-03.png",
+    ".work/region-crops/design-041/small-04.png",
+    ".work/region-crops/design-041/small-05.png",
+    ".work/region-crops/design-041/small-06.png"
+  ],
+  "tips": "26,54,81,86,87,94,96,98,100,102,122,178,181,186,195,228",
+  "joins": [
+    "19,21",
+    "34,35",
+    "36-38,40",
+    "84,85,93",
+    "144-146",
+    "153,156-159,161",
+    "188,190-192",
+    "199,200",
+    "202,203"
+  ],
+  "groups": [
+    {
+      "name": "Upper figure's face and beard",
+      "ids": "12"
+    },
+    {
+      "name": "Upper figure's right iris crescent",
+      "ids": "19,21"
+    },
+    {
+      "name": "Upper figure's left eye-white pane",
+      "ids": "23"
+    },
+    {
+      "name": "Upper figure's small nostril",
+      "ids": "31"
+    },
+    {
+      "name": "Upper figure's closed lip opening",
+      "ids": "36,37,38,40"
+    },
+    {
+      "name": "Upper figure's enclosed ear and hair-side details",
+      "ids": "34,35,39,41,43,48"
+    },
+    {
+      "name": "Upper figure's neck and collar",
+      "ids": "56,73"
+    },
+    {
+      "name": "Upper figure's raised hand and fingers",
+      "ids": "55,60,61,63,66,68,74"
+    },
+    {
+      "name": "Upper figure's robe chest sash and sleeves",
+      "ids": "62,64,71,72,75,78,83,84,85,91,93,99,101,104"
+    },
+    {
+      "name": "Upper head's hair curls and small enclosed panes",
+      "ids": "8,11,13,14,15,20,28,29,30,32,33,45,47,49,50,51,57,58,59,69"
+    },
+    {
+      "name": "Upper halo and surrounding background fields",
+      "ids": "1,2,3,4,5,6,7,9,10,22,24,25,44,52,65,67,70,79,92"
+    },
+    {
+      "name": "Curved flag and cross bands",
+      "ids": "16,17,18,27,42,53,76,82,88,89,90,95,97,103"
+    },
+    {
+      "name": "Lower left figure's face and neck",
+      "ids": "124"
+    },
+    {
+      "name": "Lower left figure's left iris crescent",
+      "ids": "144,145,146"
+    },
+    {
+      "name": "Lower left figure's right eye-white pane",
+      "ids": "147"
+    },
+    {
+      "name": "Lower left figure's closed lip slit",
+      "ids": "153,156,157,158,159,161"
+    },
+    {
+      "name": "Lower left figure's enclosed ear crescent",
+      "ids": "169"
+    },
+    {
+      "name": "Lower left figure's curls and surrounding halo",
+      "ids": "110,116,118,120,121,125,127,131,143,148,155,160,162,164,165,175,182"
+    },
+    {
+      "name": "Lower left figure's collar robe and folded arm",
+      "ids": "176,179,193,194,201,204,205,207,212,217,222,225,229,251"
+    },
+    {
+      "name": "Lower left figure's small sleeve corner",
+      "ids": "202,203"
+    },
+    {
+      "name": "Lower right figure's profile and beard",
+      "ids": "128,183"
+    },
+    {
+      "name": "Lower right figure's two eye highlights",
+      "ids": "136,139"
+    },
+    {
+      "name": "Lower right figure's hat outer rim and fields",
+      "ids": "108,109,111,113,114,115,117,119,123,126,129,130,132,134,137,138,140,142,151,152,163,166,167,168,170,171,172"
+    },
+    {
+      "name": "Lower right figure's praying hands",
+      "ids": "177"
+    },
+    {
+      "name": "Lower right figure's neck and collar",
+      "ids": "180,196,206"
+    },
+    {
+      "name": "Lower right figure's feather-like cape",
+      "ids": "197,210"
+    },
+    {
+      "name": "Lower right figure's beaded cape strap",
+      "ids": "209,214,216,219,220,221,223,224,226,227,231,236,240,241"
+    },
+    {
+      "name": "Small closed gap in the diagonal ornament",
+      "ids": "188,190,191,192"
+    },
+    {
+      "name": "Layered middle divider and background behind the lower figures",
+      "ids": "105,106,107,112,133,135,141,149,154,173,174,184,185,187,189,198,199,200,211"
+    },
+    {
+      "name": "Upper head's surrounding enclosed panes",
+      "ids": "46"
+    },
+    {
+      "name": "Upper cloak and flag's enclosed edge panes",
+      "ids": "77,80"
+    },
+    {
+      "name": "Hat beard and collar's enclosed details",
+      "ids": "150"
+    },
+    {
+      "name": "Lower left garments and small border panes",
+      "ids": "208,213,232,233,234,235,237,246,252,253,254,262,263,264"
+    },
+    {
+      "name": "Cape scales and enclosed hem interstices",
+      "ids": "215,218,230,238,239,242,243,244,245,247,248,249,250,255,256,257,258,259,260,261,265,266,267,268"
+    }
+  ]
+}

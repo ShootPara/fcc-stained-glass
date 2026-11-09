@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Full source and numbered overlay, all 103 small-component crops, native 4x face and paired 10x eye crop inspected. Explicit acute raster tips excluded. Closed crown curls, eye crescents and outer eye-white wedges, ear/beard/nostril/mouth slits, collar openings, horse facial details and small ornamental gaps retained. Reconnect only the explicitly inspected fragments of each narrow curl or crescent; neighboring whites and iris remain distinct. The 10x right-eye comparison distinguishes the inner U-shaped crescent from three outer eye-white wedges, which remain separate. Head, beard and connected headgear form one main pane through open contours. Breastplate and scroll ornament retain enclosed spaces. Horse head, forelock curls, mane, collar, iris/eye whites and small cheek detail remain distinct. Background curls and lower ornament preserve open strokes. Names describe visible components, not a historical identification. Original/canonical pixels and earlier packages unchanged. Explicit inspected tip IDs: 2,10,11,15,21,26,29,69,72,80,102,106,107,110,114,115,116,117,118,120,121,126,128,136,139,141,143,144,145,162,166,173,175,180,181,182,194,195,198,200,204,209,211,212,214,216,220,222. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

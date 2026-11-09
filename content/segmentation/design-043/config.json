@@ -1,0 +1,8 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected the full numbered drawing and both paired small-component sheets. Thirteen isolated one-pixel acute outline tips are not independent panes; exclude only those explicit IDs. The four closed eye whites, ornament curls, small book-letter counters and halo wedges remain individually selectable. The face, beard and neck are visibly continuous. Hair ribbons, raised fingers, book border and separate letter panels receive feature and position names. Source pixels and retained packages remain unchanged. Explicit inspected tip IDs: 16,23,24,32,35,36,37,53,68,72,76,77,109. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

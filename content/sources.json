@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "H28",
+      "title": "Our Church Its History Its Structure Its Service (1928)",
+      "sourceFileId": "H28",
+      "form": "transcription",
+      "citation": "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified.",
+      "referenceUrl": "https://docs.google.com/document/d/1T3kosR0CzgFJ3xJ5yNAYd5hSyFChfieG/edit"
+    },
+    {
+      "id": "H35",
+      "title": "First Congregational Church Centennial History 1835–1935",
+      "sourceFileId": "H35",
+      "form": "transcription",
+      "citation": "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified.",
+      "referenceUrl": "https://docs.google.com/document/d/1TNf7BWNSTjjxA8QsqVFQNwwg75sk_ADr/edit"
+    },
+    {
+      "id": "PHOTO-COLLECTION",
+      "title": "Original stained-glass photographs",
+      "form": "collection",
+      "citation": "Supplied collection of 55 photographs of First Congregational Church, Kalamazoo. Photographer credit remains to be established."
+    },
+    {
+      "id": "COLORING-COLLECTION",
+      "title": "Final coloring-page artwork",
+      "form": "collection",
+      "citation": "Supplied 48 final coloring PNGs, numbered 002–049, developed for this project from the church photographs."
+    },
+    {
+      "id": "COVER",
+      "title": "Two-building cover illustration",
+      "sourceFileId": "cover-front",
+      "form": "original-file",
+      "citation": "Supplied Design_01_Front.png, selected as the two-church source illustration. Printable cover composition remains to be completed."
+    },
+    {
+      "id": "FONT",
+      "title": "Liberation Sans 2.1.5",
+      "sourceFileId": "font-liberation-sans-regular",
+      "form": "original-file",
+      "citation": "Liberation Sans 2.1.5. Digitized data © 2010 Google Corporation; © 2012 Red Hat, Inc. SIL Open Font License 1.1.",
+      "referenceUrl": "https://github.com/liberationfonts/liberation-fonts"
+    }
+  ]
+}

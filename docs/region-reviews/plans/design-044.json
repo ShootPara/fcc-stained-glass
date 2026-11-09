@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-044",
+  "sourceVersion": "f5565afebd940cfbcf5c6249336d718b6dfb01434879538bd04014c670810913",
+  "observations": "Inspected the complete numbered dove, radiating beams and flame-medallion drawing and all ten small-component source/fill pairs. Retain the 22-pixel closed semicircle and every round dotted-border center, including the one-pixel center at 124: those are intentional enclosed shapes. Exclude only five acute outline tips at beam/flame/ornament junctions. Flame tongues, scalloped and dotted borders, tiny ornaments and background wedges remain individually selectable with visible-feature and position names. No connections, source pixels or original ink are changed.",
+  "evidence": [
+    ".work/review/design-044/f5565afebd940cfbcf5c6249336d718b6dfb01434879538bd04014c670810913/regions-numbered-2x.png",
+    ".work/region-crops/design-044/small-01.png"
+  ],
+  "tips": "33,72,103,144,145",
+  "joins": [],
+  "groups": [
+    {
+      "name": "Dove's body",
+      "ids": "5"
+    },
+    {
+      "name": "Dove's wings and enclosed wing ovals",
+      "ids": "8,10-15,18,19,21,22,24,25,28,29"
+    },
+    {
+      "name": "Dove's lower wing bands",
+      "ids": "26,27"
+    },
+    {
+      "name": "Upper background and border",
+      "ids": "1-4,6,7,9,16,17,20,23"
+    },
+    {
+      "name": "Radiating beams and central flame",
+      "ids": "30,31,34-45,47"
+    },
+    {
+      "name": "Upper left flame and arch",
+      "ids": "46,49,50,52-56,58-62,64-68,70,71,73"
+    },
+    {
+      "name": "Upper right flame and scalloped arch",
+      "ids": "32,48,51,57,63,69,75"
+    },
+    {
+      "name": "Middle left flame and scalloped arch",
+      "ids": "77,79,82,85"
+    },
+    {
+      "name": "Middle center flame and pointed arch",
+      "ids": "74,76,81,83,86"
+    },
+    {
+      "name": "Middle right flame and scalloped arch",
+      "ids": "78,80,84,87"
+    },
+    {
+      "name": "Lower left dotted arch and flame",
+      "ids": "89,94,96,98,101,106,110-112,116,119,124"
+    },
+    {
+      "name": "Lower right decorated arch and flame",
+      "ids": "88,92,93,97,100,105,107,108,114,115,121"
+    },
+    {
+      "name": "Cropped left flame and arch",
+      "ids": "90,95,102,104,109,117,118,122,123"
+    },
+    {
+      "name": "Cropped right flame and arch",
+      "ids": "91,99,113,120"
+    },
+    {
+      "name": "Bottom left flame medallion and ornaments",
+      "ids": "125,127,130,134,136,137,143,146"
+    },
+    {
+      "name": "Bottom center flame medallion and ornaments",
+      "ids": "126,129,131-133,135,139,140,141,150,151"
+    },
+    {
+      "name": "Bottom right flame medallion and ornaments",
+      "ids": "128,138,142,148,149"
+    },
+    {
+      "name": "Bottom background wedges",
+      "ids": "147,152,153"
+    }
+  ]
+}

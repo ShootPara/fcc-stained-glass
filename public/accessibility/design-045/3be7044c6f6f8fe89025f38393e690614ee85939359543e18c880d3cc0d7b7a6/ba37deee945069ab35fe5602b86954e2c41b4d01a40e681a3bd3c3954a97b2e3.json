@@ -1,0 +1,677 @@
+{
+  "artworkId": "design-045",
+  "contentVersion": "3be7044c6f6f8fe89025f38393e690614ee85939359543e18c880d3cc0d7b7a6",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper frame and tracery, top center section 1",
+      "order": 63
+    },
+    {
+      "id": 2,
+      "name": "Upper frame and tracery, lower-middle left section 18",
+      "order": 80
+    },
+    {
+      "id": 3,
+      "name": "Upper frame and tracery, lower-middle right section 17",
+      "order": 79
+    },
+    {
+      "id": 4,
+      "name": "Upper frame and tracery, top left section 2",
+      "order": 64
+    },
+    {
+      "id": 5,
+      "name": "Upper frame and tracery, top left section 5",
+      "order": 67
+    },
+    {
+      "id": 6,
+      "name": "Upper frame and tracery, top left section 8",
+      "order": 70
+    },
+    {
+      "id": 7,
+      "name": "Upper frame and tracery, top left section 10",
+      "order": 72
+    },
+    {
+      "id": 8,
+      "name": "Upper frame and tracery, top center section 6",
+      "order": 68
+    },
+    {
+      "id": 9,
+      "name": "Halo wedges, top center section 2",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Halo wedges, top center section 1",
+      "order": 8
+    },
+    {
+      "id": 11,
+      "name": "Upper frame and tracery, top center section 7",
+      "order": 69
+    },
+    {
+      "id": 12,
+      "name": "Upper frame and tracery, top right section 9",
+      "order": 71
+    },
+    {
+      "id": 13,
+      "name": "Upper frame and tracery, top right section 4",
+      "order": 66
+    },
+    {
+      "id": 14,
+      "name": "Upper frame and tracery, top right section 3",
+      "order": 65
+    },
+    {
+      "id": 15,
+      "name": "Halo wedges, top center section 4",
+      "order": 11
+    },
+    {
+      "id": 16,
+      "name": "Halo wedges, top center section 3",
+      "order": 10
+    },
+    {
+      "id": 17,
+      "name": "Face beard and left hair",
+      "order": 1
+    },
+    {
+      "id": 18,
+      "name": "Right hair",
+      "order": 2
+    },
+    {
+      "id": 19,
+      "name": "Upper frame and tracery, top left section 13",
+      "order": 75
+    },
+    {
+      "id": 20,
+      "name": "Upper frame and tracery, top right section 16",
+      "order": 78
+    },
+    {
+      "id": 21,
+      "name": "Halo wedges, top center section 6",
+      "order": 13
+    },
+    {
+      "id": 22,
+      "name": "Halo wedges, top center section 5",
+      "order": 12
+    },
+    {
+      "id": 23,
+      "name": "Left ear and inner ear, top center section 2",
+      "order": 4
+    },
+    {
+      "id": 24,
+      "name": "Right ear and inner ear, top center section 2",
+      "order": 6
+    },
+    {
+      "id": 25,
+      "name": "Left ear and inner ear, top center section 1",
+      "order": 3
+    },
+    {
+      "id": 26,
+      "name": "Right ear and inner ear, top center section 1",
+      "order": 5
+    },
+    {
+      "id": 27,
+      "name": "Upper frame and tracery, top left section 11",
+      "order": 73
+    },
+    {
+      "id": 28,
+      "name": "Upper frame and tracery, top right section 12",
+      "order": 74
+    },
+    {
+      "id": 29,
+      "name": "Figure's neck",
+      "order": 7
+    },
+    {
+      "id": 30,
+      "name": "Upper frame and tracery, top center section 14",
+      "order": 76
+    },
+    {
+      "id": 31,
+      "name": "Upper frame and tracery, top center section 15",
+      "order": 77
+    },
+    {
+      "id": 32,
+      "name": "Robe collar and panels, upper-middle center section 1",
+      "order": 14
+    },
+    {
+      "id": 33,
+      "name": "Robe collar and panels, upper-middle center section 2",
+      "order": 15
+    },
+    {
+      "id": 34,
+      "name": "Robe collar and panels, upper-middle left section 8",
+      "order": 21
+    },
+    {
+      "id": 35,
+      "name": "Robe collar and panels, upper-middle center section 3",
+      "order": 16
+    },
+    {
+      "id": 36,
+      "name": "Robe collar and panels, upper-middle center section 5",
+      "order": 18
+    },
+    {
+      "id": 37,
+      "name": "Robe collar and panels, upper-middle center section 7",
+      "order": 20
+    },
+    {
+      "id": 38,
+      "name": "Robe collar and panels, upper-middle center section 4",
+      "order": 17
+    },
+    {
+      "id": 39,
+      "name": "Raised hand and fingers, upper-middle center section 2",
+      "order": 37
+    },
+    {
+      "id": 40,
+      "name": "Background beside arms, upper-middle left section 1",
+      "order": 86
+    },
+    {
+      "id": 41,
+      "name": "Raised hand and fingers, upper-middle center section 1",
+      "order": 36
+    },
+    {
+      "id": 42,
+      "name": "Robe collar and panels, upper-middle right section 6",
+      "order": 19
+    },
+    {
+      "id": 43,
+      "name": "Book border and cover, upper-middle center section 1",
+      "order": 39
+    },
+    {
+      "id": 44,
+      "name": "Book border and cover, upper-middle center section 5",
+      "order": 43
+    },
+    {
+      "id": 45,
+      "name": "Book border and cover, upper-middle center section 6",
+      "order": 44
+    },
+    {
+      "id": 46,
+      "name": "Book border and cover, upper-middle center section 8",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Left semicircular ornament, upper-middle left section 1",
+      "order": 81
+    },
+    {
+      "id": 48,
+      "name": "Right semicircular ornament, upper-middle right section 1",
+      "order": 84
+    },
+    {
+      "id": 49,
+      "name": "Book border and cover, upper-middle center section 7",
+      "order": 45
+    },
+    {
+      "id": 50,
+      "name": "Robe collar and panels, upper-middle left section 9",
+      "order": 22
+    },
+    {
+      "id": 51,
+      "name": "Book border and cover, upper-middle right section 2",
+      "order": 40
+    },
+    {
+      "id": 52,
+      "name": "Left sleeve and narrow fold panes, upper-middle right section 1",
+      "order": 58
+    },
+    {
+      "id": 53,
+      "name": "Left semicircular ornament, upper-middle left section 2",
+      "order": 82
+    },
+    {
+      "id": 54,
+      "name": "Left sleeve and narrow fold panes, upper-middle right section 3",
+      "order": 60
+    },
+    {
+      "id": 55,
+      "name": "Left sleeve and narrow fold panes, upper-middle right section 2",
+      "order": 59
+    },
+    {
+      "id": 56,
+      "name": "Book ornament and small counters, upper-middle center section 1",
+      "order": 50
+    },
+    {
+      "id": 57,
+      "name": "Book border and cover, upper-middle right section 3",
+      "order": 41
+    },
+    {
+      "id": 58,
+      "name": "Book ornament and small counters, upper-middle center section 6",
+      "order": 55
+    },
+    {
+      "id": 59,
+      "name": "Book ornament and small counters, upper-middle right section 3",
+      "order": 52
+    },
+    {
+      "id": 60,
+      "name": "Book ornament and small counters, upper-middle right section 2",
+      "order": 51
+    },
+    {
+      "id": 61,
+      "name": "Book ornament and small counters, upper-middle center section 4",
+      "order": 53
+    },
+    {
+      "id": 62,
+      "name": "Left semicircular ornament, upper-middle left section 3",
+      "order": 83
+    },
+    {
+      "id": 63,
+      "name": "Right semicircular ornament, upper-middle right section 2",
+      "order": 85
+    },
+    {
+      "id": 64,
+      "name": "Book border and cover, upper-middle right section 4",
+      "order": 42
+    },
+    {
+      "id": 65,
+      "name": "Background beside arms, lower-middle left section 4",
+      "order": 89
+    },
+    {
+      "id": 66,
+      "name": "Robe collar and panels, upper-middle center section 10",
+      "order": 23
+    },
+    {
+      "id": 67,
+      "name": "Book ornament and small counters, upper-middle center section 5",
+      "order": 54
+    },
+    {
+      "id": 68,
+      "name": "Background beside arms, upper-middle right section 2",
+      "order": 87
+    },
+    {
+      "id": 69,
+      "name": "Background beside arms, lower-middle right section 6",
+      "order": 91
+    },
+    {
+      "id": 70,
+      "name": "Hand holding book",
+      "order": 38
+    },
+    {
+      "id": 71,
+      "name": "Robe collar and panels, upper-middle center section 11",
+      "order": 24
+    },
+    {
+      "id": 72,
+      "name": "Background beside arms, lower-middle right section 5",
+      "order": 90
+    },
+    {
+      "id": 73,
+      "name": "Robe collar and panels, lower-middle center section 12",
+      "order": 25
+    },
+    {
+      "id": 74,
+      "name": "Book ornament and small counters, upper-middle center section 7",
+      "order": 56
+    },
+    {
+      "id": 75,
+      "name": "Book ornament and small counters, lower-middle center section 8",
+      "order": 57
+    },
+    {
+      "id": 76,
+      "name": "Book border and cover, lower-middle right section 9",
+      "order": 47
+    },
+    {
+      "id": 77,
+      "name": "Robe collar and panels, lower-middle center section 13",
+      "order": 26
+    },
+    {
+      "id": 78,
+      "name": "Book border and cover, lower-middle right section 10",
+      "order": 48
+    },
+    {
+      "id": 79,
+      "name": "Background beside arms, lower-middle left section 3",
+      "order": 88
+    },
+    {
+      "id": 80,
+      "name": "Robe collar and panels, lower-middle center section 14",
+      "order": 27
+    },
+    {
+      "id": 81,
+      "name": "Book border and cover, lower-middle right section 11",
+      "order": 49
+    },
+    {
+      "id": 82,
+      "name": "Background beside arms, lower-middle right section 9",
+      "order": 94
+    },
+    {
+      "id": 83,
+      "name": "Background beside arms, lower-middle left section 8",
+      "order": 93
+    },
+    {
+      "id": 84,
+      "name": "Background beside arms, lower-middle right section 7",
+      "order": 92
+    },
+    {
+      "id": 85,
+      "name": "Diagonal lower frame bands, lower-middle right section 1",
+      "order": 95
+    },
+    {
+      "id": 86,
+      "name": "Diagonal lower frame bands, lower-middle right section 3",
+      "order": 97
+    },
+    {
+      "id": 87,
+      "name": "Diagonal lower frame bands, lower-middle left section 2",
+      "order": 96
+    },
+    {
+      "id": 88,
+      "name": "Diagonal lower frame bands, lower-middle right section 5",
+      "order": 99
+    },
+    {
+      "id": 89,
+      "name": "Diagonal lower frame bands, lower-middle left section 4",
+      "order": 98
+    },
+    {
+      "id": 90,
+      "name": "Diagonal lower frame bands, lower-middle left section 6",
+      "order": 100
+    },
+    {
+      "id": 91,
+      "name": "Diagonal lower frame bands, bottom right section 15",
+      "order": 109
+    },
+    {
+      "id": 92,
+      "name": "Diagonal lower frame bands, lower-middle right section 7",
+      "order": 101
+    },
+    {
+      "id": 93,
+      "name": "Diagonal lower frame bands, lower-middle right section 11",
+      "order": 105
+    },
+    {
+      "id": 94,
+      "name": "Diagonal lower frame bands, lower-middle right section 9",
+      "order": 103
+    },
+    {
+      "id": 95,
+      "name": "Diagonal lower frame bands, lower-middle left section 12",
+      "order": 106
+    },
+    {
+      "id": 96,
+      "name": "Diagonal lower frame bands, lower-middle left section 8",
+      "order": 102
+    },
+    {
+      "id": 97,
+      "name": "Diagonal lower frame bands, bottom right section 14",
+      "order": 108
+    },
+    {
+      "id": 98,
+      "name": "Diagonal lower frame bands, lower-middle left section 10",
+      "order": 104
+    },
+    {
+      "id": 99,
+      "name": "Diagonal lower frame bands, bottom right section 13",
+      "order": 107
+    },
+    {
+      "id": 100,
+      "name": "Diagonal lower frame bands, bottom left section 16",
+      "order": 110
+    },
+    {
+      "id": 101,
+      "name": "Diagonal lower frame bands, bottom left section 19",
+      "order": 113
+    },
+    {
+      "id": 102,
+      "name": "Diagonal lower frame bands, bottom left section 17",
+      "order": 111
+    },
+    {
+      "id": 103,
+      "name": "Diagonal lower frame bands, bottom right section 18",
+      "order": 112
+    },
+    {
+      "id": 104,
+      "name": "Lower scalloped background, bottom right section 2",
+      "order": 125
+    },
+    {
+      "id": 105,
+      "name": "Lower scalloped background, bottom left section 1",
+      "order": 124
+    },
+    {
+      "id": 106,
+      "name": "Robe collar and panels, bottom center section 15",
+      "order": 28
+    },
+    {
+      "id": 107,
+      "name": "Robe collar and panels, bottom center section 16",
+      "order": 29
+    },
+    {
+      "id": 108,
+      "name": "Robe collar and panels, bottom center section 19",
+      "order": 32
+    },
+    {
+      "id": 109,
+      "name": "Robe collar and panels, bottom center section 18",
+      "order": 31
+    },
+    {
+      "id": 110,
+      "name": "Robe collar and panels, bottom center section 20",
+      "order": 33
+    },
+    {
+      "id": 111,
+      "name": "Robe collar and panels, bottom center section 17",
+      "order": 30
+    },
+    {
+      "id": 112,
+      "name": "Robe collar and panels, bottom center section 21",
+      "order": 34
+    },
+    {
+      "id": 113,
+      "name": "Lower scalloped background, bottom left section 3",
+      "order": 126
+    },
+    {
+      "id": 114,
+      "name": "Robe collar and panels, bottom center section 22",
+      "order": 35
+    },
+    {
+      "id": 115,
+      "name": "Lower scalloped background, bottom left section 6",
+      "order": 129
+    },
+    {
+      "id": 116,
+      "name": "Lower scalloped background, bottom right section 7",
+      "order": 130
+    },
+    {
+      "id": 117,
+      "name": "Lower scalloped background, bottom center section 5",
+      "order": 128
+    },
+    {
+      "id": 118,
+      "name": "Figure's feet, bottom center section 1",
+      "order": 61
+    },
+    {
+      "id": 119,
+      "name": "Figure's feet, bottom center section 2",
+      "order": 62
+    },
+    {
+      "id": 120,
+      "name": "Lower scalloped background, bottom center section 4",
+      "order": 127
+    },
+    {
+      "id": 121,
+      "name": "Diagonal lower frame bands, bottom center section 20",
+      "order": 114
+    },
+    {
+      "id": 122,
+      "name": "Diagonal lower frame bands, bottom center section 21",
+      "order": 115
+    },
+    {
+      "id": 123,
+      "name": "Lower scalloped background, bottom right section 8",
+      "order": 131
+    },
+    {
+      "id": 124,
+      "name": "Lower scalloped background, bottom center section 9",
+      "order": 132
+    },
+    {
+      "id": 125,
+      "name": "Lower scalloped background, bottom center section 10",
+      "order": 133
+    },
+    {
+      "id": 126,
+      "name": "Diagonal lower frame bands, bottom left section 22",
+      "order": 116
+    },
+    {
+      "id": 127,
+      "name": "Diagonal lower frame bands, bottom right section 23",
+      "order": 117
+    },
+    {
+      "id": 128,
+      "name": "Diagonal lower frame bands, bottom right section 24",
+      "order": 118
+    },
+    {
+      "id": 129,
+      "name": "Diagonal lower frame bands, bottom left section 25",
+      "order": 119
+    },
+    {
+      "id": 130,
+      "name": "Diagonal lower frame bands, bottom right section 29",
+      "order": 123
+    },
+    {
+      "id": 131,
+      "name": "Diagonal lower frame bands, bottom left section 28",
+      "order": 122
+    },
+    {
+      "id": 132,
+      "name": "Diagonal lower frame bands, bottom center section 26",
+      "order": 120
+    },
+    {
+      "id": 133,
+      "name": "Diagonal lower frame bands, bottom left section 27",
+      "order": 121
+    },
+    {
+      "id": 134,
+      "name": "Bottom frame",
+      "order": 134
+    }
+  ],
+  "schemaVersion": 1
+}

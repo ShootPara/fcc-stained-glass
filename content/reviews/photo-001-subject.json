@@ -1,0 +1,9 @@
+{
+  "outcome": "complete",
+  "recordId": "photo-001",
+  "reviewKind": "subject",
+  "reviewedAtUtc": "2026-11-09T19:23:32.866Z",
+  "reviewedDigest": "fbd4c152e0897d148944addedbd5013bb52e309656fee7a7d90311d928d4617c",
+  "reviewer": "Codex visual/source comparison, 9 November 2026; inferred matches explicitly labeled likely",
+  "schemaVersion": 1
+}

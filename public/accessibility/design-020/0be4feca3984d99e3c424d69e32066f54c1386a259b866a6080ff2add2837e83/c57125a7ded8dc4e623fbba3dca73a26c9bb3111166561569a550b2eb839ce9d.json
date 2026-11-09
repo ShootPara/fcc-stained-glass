@@ -1,0 +1,327 @@
+{
+  "artworkId": "design-020",
+  "contentVersion": "0be4feca3984d99e3c424d69e32066f54c1386a259b866a6080ff2add2837e83",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Background to the left of the raised hand",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Background around the raised fingers, top left section 2",
+      "order": 3
+    },
+    {
+      "id": 3,
+      "name": "Background around the raised fingers, top center section 1",
+      "order": 2
+    },
+    {
+      "id": 4,
+      "name": "Background between the hand and lettered bands, upper-middle center section 1",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Field behind the word JACOB",
+      "order": 8
+    },
+    {
+      "id": 6,
+      "name": "Long background bands at the upper right, top right section 2",
+      "order": 10
+    },
+    {
+      "id": 7,
+      "name": "Long background bands at the upper right, top right section 1",
+      "order": 9
+    },
+    {
+      "id": 8,
+      "name": "Long background bands at the upper right, top right section 3",
+      "order": 11
+    },
+    {
+      "id": 9,
+      "name": "Left upright finger",
+      "order": 12
+    },
+    {
+      "id": 10,
+      "name": "Right upright finger",
+      "order": 13
+    },
+    {
+      "id": 11,
+      "name": "Letter J, top right section 1",
+      "order": 21
+    },
+    {
+      "id": 12,
+      "name": "Letter J, top center section 2",
+      "order": 22
+    },
+    {
+      "id": 13,
+      "name": "Letter A and its counter in JACOB, top center section 2",
+      "order": 24
+    },
+    {
+      "id": 14,
+      "name": "Palm, thumb and wrist",
+      "order": 15
+    },
+    {
+      "id": 15,
+      "name": "Letter A and its counter in JACOB, top center section 1",
+      "order": 23
+    },
+    {
+      "id": 16,
+      "name": "Background between the hand and lettered bands, upper-middle center section 3",
+      "order": 6
+    },
+    {
+      "id": 17,
+      "name": "Bent finger across the palm",
+      "order": 14
+    },
+    {
+      "id": 18,
+      "name": "Letter C",
+      "order": 25
+    },
+    {
+      "id": 19,
+      "name": "Background between the hand and lettered bands, upper-middle center section 2",
+      "order": 5
+    },
+    {
+      "id": 20,
+      "name": "Letter O and its counter, upper-middle right section 2",
+      "order": 27
+    },
+    {
+      "id": 21,
+      "name": "Letter O and its counter, upper-middle right section 1",
+      "order": 26
+    },
+    {
+      "id": 22,
+      "name": "Letter B and its counters, upper-middle right section 2",
+      "order": 29
+    },
+    {
+      "id": 23,
+      "name": "Letter B and its counters, upper-middle right section 1",
+      "order": 28
+    },
+    {
+      "id": 24,
+      "name": "Wrist cuff bands and inner openings, upper-middle left section 3",
+      "order": 18
+    },
+    {
+      "id": 25,
+      "name": "Wrist cuff bands and inner openings, upper-middle center section 1",
+      "order": 16
+    },
+    {
+      "id": 26,
+      "name": "Letter B and its counters, upper-middle right section 3",
+      "order": 30
+    },
+    {
+      "id": 27,
+      "name": "Wrist cuff bands and inner openings, upper-middle left section 2",
+      "order": 17
+    },
+    {
+      "id": 28,
+      "name": "Wrist cuff bands and inner openings, lower-middle left section 5",
+      "order": 20
+    },
+    {
+      "id": 29,
+      "name": "Wrist cuff bands and inner openings, lower-middle left section 4",
+      "order": 19
+    },
+    {
+      "id": 30,
+      "name": "Background between the hand and lettered bands, lower-middle center section 4",
+      "order": 7
+    },
+    {
+      "id": 31,
+      "name": "Background around the flames and bowl",
+      "order": 37
+    },
+    {
+      "id": 32,
+      "name": "Letter S",
+      "order": 33
+    },
+    {
+      "id": 33,
+      "name": "Curled flame panes, lower-middle right section 1",
+      "order": 38
+    },
+    {
+      "id": 34,
+      "name": "Letter E",
+      "order": 32
+    },
+    {
+      "id": 35,
+      "name": "Curled flame panes, lower-middle center section 2",
+      "order": 39
+    },
+    {
+      "id": 36,
+      "name": "Curled flame panes, bottom right section 3",
+      "order": 40
+    },
+    {
+      "id": 37,
+      "name": "Field behind the word ESAU",
+      "order": 31
+    },
+    {
+      "id": 38,
+      "name": "Curled flame panes, bottom right section 4",
+      "order": 41
+    },
+    {
+      "id": 39,
+      "name": "Letter A and its counter in ESAU, bottom left section 2",
+      "order": 35
+    },
+    {
+      "id": 40,
+      "name": "Letter A and its counter in ESAU, bottom left section 1",
+      "order": 34
+    },
+    {
+      "id": 41,
+      "name": "Rounded contents in the bowl, bottom center section 1",
+      "order": 42
+    },
+    {
+      "id": 42,
+      "name": "Rounded contents in the bowl, bottom right section 2",
+      "order": 43
+    },
+    {
+      "id": 43,
+      "name": "Rounded contents in the bowl, bottom right section 3",
+      "order": 44
+    },
+    {
+      "id": 44,
+      "name": "Rounded contents in the bowl, bottom center section 4",
+      "order": 45
+    },
+    {
+      "id": 45,
+      "name": "Rounded contents in the bowl, bottom right section 5",
+      "order": 46
+    },
+    {
+      "id": 46,
+      "name": "Rounded contents in the bowl, bottom right section 6",
+      "order": 47
+    },
+    {
+      "id": 47,
+      "name": "Rounded contents in the bowl, bottom right section 7",
+      "order": 48
+    },
+    {
+      "id": 48,
+      "name": "Bowl rim",
+      "order": 54
+    },
+    {
+      "id": 49,
+      "name": "Rounded contents in the bowl, bottom center section 10",
+      "order": 51
+    },
+    {
+      "id": 50,
+      "name": "Rounded contents in the bowl, bottom center section 9",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Rounded contents in the bowl, bottom right section 11",
+      "order": 52
+    },
+    {
+      "id": 52,
+      "name": "Rounded contents in the bowl, bottom right section 8",
+      "order": 49
+    },
+    {
+      "id": 53,
+      "name": "Rounded contents in the bowl, bottom right section 12",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Bowl body",
+      "order": 55
+    },
+    {
+      "id": 55,
+      "name": "Letter U",
+      "order": 36
+    },
+    {
+      "id": 56,
+      "name": "Altar ledge and rectangular supports, bottom right section 1",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Altar ledge and rectangular supports, bottom right section 2",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Altar ledge and rectangular supports, bottom center section 4",
+      "order": 59
+    },
+    {
+      "id": 59,
+      "name": "Altar ledge and rectangular supports, bottom right section 3",
+      "order": 58
+    },
+    {
+      "id": 60,
+      "name": "Altar ledge and rectangular supports, bottom center section 7",
+      "order": 62
+    },
+    {
+      "id": 61,
+      "name": "Altar ledge and rectangular supports, bottom right section 5",
+      "order": 60
+    },
+    {
+      "id": 62,
+      "name": "Altar ledge and rectangular supports, bottom center section 8",
+      "order": 63
+    },
+    {
+      "id": 63,
+      "name": "Altar ledge and rectangular supports, bottom right section 9",
+      "order": 64
+    },
+    {
+      "id": 64,
+      "name": "Altar ledge and rectangular supports, bottom right section 6",
+      "order": 61
+    }
+  ],
+  "schemaVersion": 1
+}

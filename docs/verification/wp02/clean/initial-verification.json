@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "checkpoint": "WP02",
+  "startedAtUtc": "2026-11-06T20:46:54.611Z",
+  "sourceRoot": "/workspace/scratch/4516eeb76477/fcc-stained-glass",
+  "verifiedRoot": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+  "method": "Filesystem copy into a new directory with spaces and no .git; this is not a ZIP extraction test.",
+  "runtime": {
+    "node": "v24.22.1",
+    "npm": "11.9.0",
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.39"
+  },
+  "copyExclusions": [
+    ".DS_Store",
+    ".git",
+    ".work",
+    "Thumbs.db",
+    "coverage",
+    "dist",
+    "dist-portable",
+    "node_modules",
+    "playwright-report",
+    "test-results",
+    "*.tsbuildinfo"
+  ],
+  "projectVersion": "0.1.0",
+  "packageVersion": "0.1.0",
+  "sourceFiles": 110,
+  "sourceBytes": 258074562,
+  "sourceRoles": {
+    "cover": 1,
+    "coloring": 48,
+    "font": 2,
+    "history": 4,
+    "photo": 55
+  },
+  "registeredArtworks": 1,
+  "registeredPhotos": 1,
+  "activeVersionBefore": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+  "initialFileCount": 264,
+  "initialTrackedBytes": 267283983,
+  "commands": [
+    {
+      "id": "01-npm-ci",
+      "argv": [
+        "npm",
+        "ci"
+      ],
+      "command": "npm ci",
+      "cwd": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+      "startedAtUtc": "2026-11-06T20:46:56.435Z",
+      "completedAtUtc": "2026-11-06T20:47:04.715Z",
+      "elapsedSeconds": 8.28,
+      "exitCode": 0,
+      "log": "01-npm-ci.log",
+      "reports": []
+    },
+    {
+      "id": "02-typecheck",
+      "argv": [
+        "npm",
+        "run",
+        "typecheck"
+      ],
+      "command": "npm run typecheck",
+      "cwd": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+      "startedAtUtc": "2026-11-06T20:47:05.219Z",
+      "completedAtUtc": "2026-11-06T20:47:06.501Z",
+      "elapsedSeconds": 1.282,
+      "exitCode": 0,
+      "log": "02-typecheck.log",
+      "reports": []
+    },
+    {
+      "id": "03-validate-catalog",
+      "argv": [
+        "npm",
+        "run",
+        "validate",
+        "--",
+        "--stage",
+        "catalog"
+      ],
+      "command": "npm run validate -- --stage catalog",
+      "cwd": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+      "startedAtUtc": "2026-11-06T20:47:06.502Z",
+      "completedAtUtc": "2026-11-06T20:47:08.392Z",
+      "elapsedSeconds": 1.89,
+      "exitCode": 0,
+      "log": "03-validate-catalog.log",
+      "reports": [
+        "03-validate-catalog-report-1.json"
+      ]
+    },
+    {
+      "id": "04-unit-tests",
+      "argv": [
+        "npm",
+        "test"
+      ],
+      "command": "npm test",
+      "cwd": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+      "startedAtUtc": "2026-11-06T20:47:08.394Z",
+      "completedAtUtc": "2026-11-06T20:47:16.929Z",
+      "elapsedSeconds": 8.535,
+      "exitCode": 0,
+      "log": "04-unit-tests.log",
+      "reports": [
+        "04-unit-tests-report-1.json",
+        "04-unit-tests-report-2.json",
+        "04-unit-tests-report-3.json",
+        "04-unit-tests-report-4.json",
+        "04-unit-tests-report-5.json"
+      ]
+    },
+    {
+      "id": "05-validate-selected-assets",
+      "argv": [
+        "npm",
+        "run",
+        "validate",
+        "--",
+        "--stage",
+        "assets",
+        "--id",
+        "design-002"
+      ],
+      "command": "npm run validate -- --stage assets --id design-002",
+      "cwd": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+      "startedAtUtc": "2026-11-06T20:47:16.932Z",
+      "completedAtUtc": "2026-11-06T20:47:19.705Z",
+      "elapsedSeconds": 2.773,
+      "exitCode": 0,
+      "log": "05-validate-selected-assets.log",
+      "reports": [
+        "05-validate-selected-assets-report-1.json"
+      ]
+    },
+    {
+      "id": "06-catalog-development",
+      "argv": [
+        "npm",
+        "run",
+        "catalog",
+        "--",
+        "--mode",
+        "development"
+      ],
+      "command": "npm run catalog -- --mode development",
+      "cwd": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+      "startedAtUtc": "2026-11-06T20:47:19.707Z",
+      "completedAtUtc": "2026-11-06T20:47:22.854Z",
+      "elapsedSeconds": 3.148,
+      "exitCode": 0,
+      "log": "06-catalog-development.log",
+      "reports": [
+        "06-catalog-development-report-1.json"
+      ]
+    },
+    {
+      "id": "07-require-reviews",
+      "argv": [
+        "node",
+        "--import",
+        "tsx",
+        "--input-type=module",
+        "-e",
+        "import path from 'node:path';\nimport { pathToFileURL } from 'node:url';\nconst root = process.cwd();\nconst { validateCatalog } = await import(pathToFileURL(path.join(root, 'scripts/validate-content.ts')).href);\nconst { validateAssets } = await import(pathToFileURL(path.join(root, 'scripts/lib/validate-assets.ts')).href);\nconst catalog = await validateCatalog({root});\nif (!catalog.ok || !catalog.data) {\n  console.log(JSON.stringify({ok:false,stage:'catalog',issues:catalog.issues},null,2));\n  process.exitCode = 1;\n} else {\n  const result = await validateAssets({root,data:catalog.data,id:'design-002',requireReviews:true});\n  console.log(JSON.stringify({ok:result.ok,options:{id:'design-002',requireReviews:true},stats:result.stats,warnings:result.warnings,issues:result.issues,activeVersion:result.artworks['design-002']?.activeVersion},null,2));\n  if (!result.ok) process.exitCode = 1;\n}"
+      ],
+      "command": "node --import tsx --input-type=module -e 'import path from '\"'\"'node:path'\"'\"';\nimport { pathToFileURL } from '\"'\"'node:url'\"'\"';\nconst root = process.cwd();\nconst { validateCatalog } = await import(pathToFileURL(path.join(root, '\"'\"'scripts/validate-content.ts'\"'\"')).href);\nconst { validateAssets } = await import(pathToFileURL(path.join(root, '\"'\"'scripts/lib/validate-assets.ts'\"'\"')).href);\nconst catalog = await validateCatalog({root});\nif (!catalog.ok || !catalog.data) {\n  console.log(JSON.stringify({ok:false,stage:'\"'\"'catalog'\"'\"',issues:catalog.issues},null,2));\n  process.exitCode = 1;\n} else {\n  const result = await validateAssets({root,data:catalog.data,id:'\"'\"'design-002'\"'\"',requireReviews:true});\n  console.log(JSON.stringify({ok:result.ok,options:{id:'\"'\"'design-002'\"'\"',requireReviews:true},stats:result.stats,warnings:result.warnings,issues:result.issues,activeVersion:result.artworks['\"'\"'design-002'\"'\"']?.activeVersion},null,2));\n  if (!result.ok) process.exitCode = 1;\n}'",
+      "cwd": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+      "startedAtUtc": "2026-11-06T20:47:22.856Z",
+      "completedAtUtc": "2026-11-06T20:47:25.156Z",
+      "elapsedSeconds": 2.3,
+      "exitCode": 0,
+      "log": "07-require-reviews.log",
+      "reports": []
+    },
+    {
+      "id": "08-prepare-unchanged",
+      "argv": [
+        "npm",
+        "run",
+        "prepare",
+        "--",
+        "--id",
+        "design-002"
+      ],
+      "command": "npm run prepare -- --id design-002",
+      "cwd": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass",
+      "startedAtUtc": "2026-11-06T20:47:25.563Z",
+      "completedAtUtc": "2026-11-06T20:47:36.766Z",
+      "elapsedSeconds": 11.203,
+      "exitCode": 0,
+      "log": "08-prepare-unchanged.log",
+      "reports": [
+        "08-prepare-unchanged-report-1.json"
+      ]
+    }
+  ],
+  "flags": {
+    "defaultNpmCi": true,
+    "npmIgnoreScripts": false,
+    "copiedNodeModules": false,
+    "gitMetadataPresent": false,
+    "zipExtractionTest": false,
+    "physicalPhoneTest": false,
+    "physicalPrintTest": false,
+    "browserTest": false
+  },
+  "installationDiff": {
+    "added": [
+      "source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g"
+    ],
+    "removed": [],
+    "changed": []
+  },
+  "installationLifecycleNoFileChanges": false,
+  "unitTestsPassed": 257,
+  "testFilesPassed": 12,
+  "requiredReviews": {
+    "ok": true,
+    "options": {
+      "id": "design-002",
+      "requireReviews": true
+    },
+    "stats": {
+      "validatedArtworks": 1,
+      "validatedVersions": 1,
+      "validatedPhotos": 1,
+      "pendingSegmentationReviews": 0,
+      "pendingPairingReviews": 0
+    },
+    "warnings": [],
+    "issues": [],
+    "activeVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e"
+  },
+  "comparison": {
+    "baselineToFinal": {
+      "added": [
+        "source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g"
+      ],
+      "removed": [],
+      "changed": []
+    },
+    "beforePrepareToAfterPrepare": {
+      "added": [],
+      "removed": [],
+      "changed": []
+    },
+    "trackedFileCountBefore": 264,
+    "trackedFileCountAfter": 265,
+    "trackedBytesBefore": 267283983,
+    "trackedBytesAfter": 270282255
+  },
+  "activeVersionAfter": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+  "completedAtUtc": "2026-11-06T20:47:37.152Z",
+  "elapsedSeconds": 42.541,
+  "status": "failed"
+}

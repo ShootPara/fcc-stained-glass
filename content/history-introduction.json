@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "paragraphs": [
+    "The stained glass tells Bible stories through people, animals, plants and symbols. The 1928 church guide describes a sequence from Creation to the lives and deaths of the disciples.",
+    "The guide credits A. L. Brink with the pictures in the side and south-end windows. It credits Alfred E. Floegel with the large memorial window above the Communion table. These are historical glass credits, separate from the modern photographs and coloring drawings.",
+    "The present church building was dedicated on 28 October 1928. Its 1928-2028 anniversary marks a century of this building. The congregation began in 1835.",
+    "Descriptions distinguish visible details from historical identifications. Locations from the old guide are historical descriptions; they have not all been checked against the church today."
+  ],
+  "sources": [
+    { "sourceId": "H28", "section": "Architect's account and The Windows", "locator": "h28.txt [P0040]-[P0041], [P0050]-[P0135]; transcription paragraphs, not printed pages." },
+    { "sourceId": "H35", "section": "The Formative Period and The Fourth Church 1928-1935", "locator": "h35.txt [P0030] (founding), [P0216] (dedication); transcription paragraphs, not printed pages." }
+  ]
+}

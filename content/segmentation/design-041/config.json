@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered source and all six small-component sheets. Retain tiny eye/nostril/lip details, closed hand corners, bead holes and real lower-hem triangles. Explicit acute endpoints are excluded individually. Reconnect inspected iris, small lip opening, hair-side gap, narrow cloak fold, lower face's mouth, and small ornamental crevice; distinct eye whites and adjacent lip/ear openings remain separate. Names distinguish upper head and flag, cloak/hand, lower left figure, praying lower right profile, hat/necklace/scaled cape, diagonal divider and small border panes. No historical identity is inferred. Source/canonical ink and all earlier packages remain unchanged. Explicit inspected tip IDs: 26,54,81,86,87,94,96,98,100,102,122,178,181,186,195,228. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

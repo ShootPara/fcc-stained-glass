@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-028",
+  "sourceVersion": "535c360ff1d5ef866ebf9c317de0fe883f9ff1ddfad04af61802145eab97b961",
+  "observations": "Inspected the full numbered source and all five small-component sheets. Exclude explicitly identified acute tips and an isolated speck inside solid black. Retain closed nose and eye details, small diamond interstices, the tiny closed cuff space and the enclosed bottom triangle. Reconnect the two pieces of the small mouth slit and the narrow outlined left feather detail; keep distinct armor scales, hand, hair strands, profile eye panes and helmet bands separate. Names follow visible hair, face, feathers, scale armor, bearded profile and helmet features with positional sections. No source pixels or canonical ink change.",
+  "evidence": [
+    ".work/review/design-028/535c360ff1d5ef866ebf9c317de0fe883f9ff1ddfad04af61802145eab97b961/regions-numbered-2x.png",
+    ".work/region-crops/design-028/small-01.png",
+    ".work/region-crops/design-028/small-02.png",
+    ".work/region-crops/design-028/small-03.png",
+    ".work/region-crops/design-028/small-04.png",
+    ".work/region-crops/design-028/small-05.png"
+  ],
+  "tips": "17,18,22,24,29,32,34,38,55,65,68,72,75,88,104,116,120,125,141,147,156,162,165,167,179,182,187,193,196,199,205,207,211,221,223,229,241",
+  "joins": [
+    "96,98",
+    "127,130"
+  ],
+  "groups": [
+    {
+      "name": "Lower left bearded figure's face and closed details",
+      "ids": "151,171,183,184,195"
+    },
+    {
+      "name": "Upper background and flowing hair bands",
+      "ids": "1,2,4,5,6,7,8,10,11,12,13,14,15,16,19,20,21,23,30,36,40,42,45,49,50,51,52"
+    },
+    {
+      "name": "Upper right profile and eye panes",
+      "ids": "9,25,26,27,28,31,33,35"
+    },
+    {
+      "name": "Central figure's neck and small temple pane",
+      "ids": "63,69"
+    },
+    {
+      "name": "Central figure's small closed mouth slit",
+      "ids": "96,98"
+    },
+    {
+      "name": "Left feather ornament and its enclosed details",
+      "ids": "41,43,44,46,47,48,54,56,57,66,67,71,73,76,77,81,89,92,93,94,95,99,100,101,107,108,115,124,127,129,130,131,132,133,134,144,154,39,53"
+    },
+    {
+      "name": "Diamond-pattern background and small enclosed gaps",
+      "ids": "58,59,60,61,62,64,70,74,78,79,80,82,83,84,85,86,90,91,97,102,103,105,106,109,110,111,112,113,114,117,119"
+    },
+    {
+      "name": "Upper figure's collar and shoulder border",
+      "ids": "118,121,122,123,126,128"
+    },
+    {
+      "name": "Scale armor and collar panes",
+      "ids": "135,136,138,139,140,142,143,145,146,148,150,153,155,157,158,160,161,163,164,166,168,169,170,172,173,174,175,176,177,178,181,185,190,191,194"
+    },
+    {
+      "name": "Background between the diagonal frame bands",
+      "ids": "137,149,152,159,180,192,198,206"
+    },
+    {
+      "name": "Upper figure's large lower hand",
+      "ids": "186"
+    },
+    {
+      "name": "Long diagonal bands and lower-left garment",
+      "ids": "188,200,209,212,213,214,215,217,218,219,220,222,224,228,230,232,233,234,235,236,237,238,239,240,242,243,244,245,246,247,248,249,250,252,253,254,255,256"
+    },
+    {
+      "name": "Lower helmet's plume and surrounding curved bands",
+      "ids": "189,197,201,208,210"
+    },
+    {
+      "name": "Lower helmet's dome and ornament bands",
+      "ids": "202,203,204,216,225,226,227,231,251"
+    },
+    {
+      "name": "Central face and continuous flowing hair",
+      "ids": "3"
+    },
+    {
+      "name": "Background around the central head",
+      "ids": "37,87"
+    }
+  ]
+}

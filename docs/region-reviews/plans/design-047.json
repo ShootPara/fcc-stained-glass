@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-047",
+  "sourceVersion": "018ce6f1c01bc3172ddb4912cec158c47f4dbc8556b523a517098b9e116d405c",
+  "observations": "Inspected the full carried-child and bearded figure drawing plus all five sheets of 58 tiny source/fill pairs. Reconnect the two small child iris crescents, closed curl triangle, adult hair crescent, staff grain, tree branch triangle, grass slits and lower wave corner only within their own outlines. Preserve closed tiny finger and beard/ear details rather than blanket-removing small shapes. Explicit exclusions are acute cloth, hair, grass and wave tips. The adult face and beard are visibly continuous, the two child's iris bands remain separate, and hands, feet, cross, tree, foliage and waves receive feature and position names. Source and canonical ink remain unchanged.",
+  "evidence": [
+    ".work/review/design-047/018ce6f1c01bc3172ddb4912cec158c47f4dbc8556b523a517098b9e116d405c/regions-numbered-2x.png",
+    ".work/region-crops/design-047/small-01.png",
+    ".work/region-crops/design-047/small-02.png",
+    ".work/region-crops/design-047/small-03.png",
+    ".work/region-crops/design-047/small-04.png",
+    ".work/region-crops/design-047/small-05.png"
+  ],
+  "tips": "31,35,44,51,56,57,61,62,63,75,103,105,106,107,110,113,133,136,137,138,144,147,150,152,166,168",
+  "joins": [
+    "19,20,22,23",
+    "24-27",
+    "41,42",
+    "65-67",
+    "93,95",
+    "119,120",
+    "153,154,157,159,160",
+    "155,156,158",
+    "169,170"
+  ],
+  "groups": [
+    {
+      "name": "Child's face and upper hair",
+      "ids": "13"
+    },
+    {
+      "name": "Child's separate hair curls",
+      "ids": "15,16,17"
+    },
+    {
+      "name": "Child's left iris crescent",
+      "ids": "19,20,22,23"
+    },
+    {
+      "name": "Child's right iris crescent",
+      "ids": "24,25,26,27"
+    },
+    {
+      "name": "Child's ears",
+      "ids": "21,28"
+    },
+    {
+      "name": "Child's raised arm and fingers",
+      "ids": "29,34,37"
+    },
+    {
+      "name": "Child's torso and neck",
+      "ids": "32"
+    },
+    {
+      "name": "Child's legs and feet",
+      "ids": "48,71"
+    },
+    {
+      "name": "Child's robe and diagonal sash",
+      "ids": "36,38,46,52,53,64"
+    },
+    {
+      "name": "Cross and surrounding halo",
+      "ids": "3,4,14"
+    },
+    {
+      "name": "Bearded figure's face hair and beard",
+      "ids": "40"
+    },
+    {
+      "name": "Upper eye-white and corner panes",
+      "ids": "47,49,50"
+    },
+    {
+      "name": "Other eye-white pane",
+      "ids": "55"
+    },
+    {
+      "name": "Hair curls and small enclosed beard interstices",
+      "ids": "30,39,41,42,43,45,65,66,67,68,69,74,81"
+    },
+    {
+      "name": "Neck and robe collar",
+      "ids": "70,76,78"
+    },
+    {
+      "name": "Holding arm and hand",
+      "ids": "60"
+    },
+    {
+      "name": "Staff shaft and woodgrain slits",
+      "ids": "79,92,93,95"
+    },
+    {
+      "name": "Staff foliage and upper band",
+      "ids": "7,8,9,10,11,12,18,58"
+    },
+    {
+      "name": "Robe sleeves shoulder and torso",
+      "ids": "77,80,82,83,86,88,90,91,96,97,99"
+    },
+    {
+      "name": "Flowing outer robe border",
+      "ids": "98,100,108,112,129"
+    },
+    {
+      "name": "Lower extended leg and foot",
+      "ids": "104,125"
+    },
+    {
+      "name": "Flowing lower robe panels",
+      "ids": "101,102,109,111,115,122,127"
+    },
+    {
+      "name": "Tall background tree and branches",
+      "ids": "114,118,119,120,121,123,126,128,131,132,135"
+    },
+    {
+      "name": "Lower grass and ground cutouts",
+      "ids": "117,124,130,134,139,140,141,142,143,145,146,148,149,151,153,154,155,156,157,158,159,160,164"
+    },
+    {
+      "name": "Foreground waves and narrow wave slits",
+      "ids": "161,162,163,165,167,169,170"
+    },
+    {
+      "name": "Background beside figures",
+      "ids": "1,2,5,6,33,54,59,72,73,84,85,87,89,94,116"
+    }
+  ]
+}

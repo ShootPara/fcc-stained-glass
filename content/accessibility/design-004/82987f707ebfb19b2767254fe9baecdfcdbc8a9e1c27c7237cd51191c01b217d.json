@@ -1,0 +1,567 @@
+{
+  "artworkId": "design-004",
+  "contentVersion": "82987f707ebfb19b2767254fe9baecdfcdbc8a9e1c27c7237cd51191c01b217d",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Top-left frame corner",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Top-left pointed background pane",
+      "order": 10
+    },
+    {
+      "id": 3,
+      "name": "Curved strip at the upper left",
+      "order": 11
+    },
+    {
+      "id": 4,
+      "name": "Large upper-left leaf",
+      "order": 12
+    },
+    {
+      "id": 5,
+      "name": "Broad leaf along the top edge",
+      "order": 14
+    },
+    {
+      "id": 6,
+      "name": "Stem sloping down from the top center",
+      "order": 30
+    },
+    {
+      "id": 7,
+      "name": "Small leaf just right of the top stem",
+      "order": 31
+    },
+    {
+      "id": 8,
+      "name": "Pointed leaf at the top right of center",
+      "order": 32
+    },
+    {
+      "id": 9,
+      "name": "Upper-right background above the diagonal branch",
+      "order": 36
+    },
+    {
+      "id": 10,
+      "name": "Small leaf at the upper-right edge",
+      "order": 37
+    },
+    {
+      "id": 11,
+      "name": "Top-right frame corner",
+      "order": 7
+    },
+    {
+      "id": 12,
+      "name": "Small pointed pane inside the upper-left leaf",
+      "order": 13
+    },
+    {
+      "id": 13,
+      "name": "Narrow tip inside the top-right pointed leaf",
+      "order": 33
+    },
+    {
+      "id": 14,
+      "name": "Small triangle inside the broad top leaf",
+      "order": 15
+    },
+    {
+      "id": 15,
+      "name": "Left half of the hanging leaf beside the top stem",
+      "order": 34
+    },
+    {
+      "id": 16,
+      "name": "Upper curved rib crossing the foliage",
+      "order": 17
+    },
+    {
+      "id": 17,
+      "name": "Right half of the hanging leaf beside the top stem",
+      "order": 35
+    },
+    {
+      "id": 18,
+      "name": "Upper section of the left frame",
+      "order": 2
+    },
+    {
+      "id": 19,
+      "name": "Long section of the right frame",
+      "order": 8
+    },
+    {
+      "id": 20,
+      "name": "Background above the bird's raised wing",
+      "order": 50
+    },
+    {
+      "id": 21,
+      "name": "Upper small triangle between the curved ribs",
+      "order": 23
+    },
+    {
+      "id": 22,
+      "name": "Broad leaf between the two curved ribs",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Lower small triangle between the curved ribs",
+      "order": 24
+    },
+    {
+      "id": 24,
+      "name": "Narrow curved rib above the animal's head",
+      "order": 21
+    },
+    {
+      "id": 25,
+      "name": "Small left-pointing leaf beneath the broad top leaf",
+      "order": 16
+    },
+    {
+      "id": 26,
+      "name": "Pane above and left of the animal's head",
+      "order": 19
+    },
+    {
+      "id": 27,
+      "name": "Long pointed pane beside the upper-left leaf",
+      "order": 18
+    },
+    {
+      "id": 28,
+      "name": "Narrow pointed pane at the upper-left edge",
+      "order": 38
+    },
+    {
+      "id": 29,
+      "name": "First small closed triangle above the animal's head",
+      "order": 20
+    },
+    {
+      "id": 30,
+      "name": "Lower curved rib above the animal's head",
+      "order": 27
+    },
+    {
+      "id": 31,
+      "name": "Outer leading feather of the bird's wing",
+      "order": 51
+    },
+    {
+      "id": 32,
+      "name": "Small downward leaf above the animal's forehead",
+      "order": 28
+    },
+    {
+      "id": 33,
+      "name": "Background around the animal's head and left side",
+      "order": 40
+    },
+    {
+      "id": 34,
+      "name": "Second small closed triangle above the animal's head",
+      "order": 25
+    },
+    {
+      "id": 35,
+      "name": "Long downward leaf above the animal's back",
+      "order": 29
+    },
+    {
+      "id": 36,
+      "name": "Pane below the large upper-left leaf",
+      "order": 39
+    },
+    {
+      "id": 37,
+      "name": "Third small closed triangle above the animal's head",
+      "order": 26
+    },
+    {
+      "id": 38,
+      "name": "Top long feather inside the raised wing",
+      "order": 52
+    },
+    {
+      "id": 39,
+      "name": "Animal's head, chest and front paws",
+      "order": 41
+    },
+    {
+      "id": 40,
+      "name": "Inside of the animal's ear",
+      "order": 43
+    },
+    {
+      "id": 41,
+      "name": "Animal's eye",
+      "order": 42
+    },
+    {
+      "id": 42,
+      "name": "Long middle section of the left frame",
+      "order": 3
+    },
+    {
+      "id": 43,
+      "name": "Second long feather inside the raised wing",
+      "order": 53
+    },
+    {
+      "id": 44,
+      "name": "Upper curling leaf beside the animal's head",
+      "order": 83
+    },
+    {
+      "id": 45,
+      "name": "Background behind the bird's raised wing",
+      "order": 80
+    },
+    {
+      "id": 46,
+      "name": "Third outer feather of the raised wing",
+      "order": 54
+    },
+    {
+      "id": 47,
+      "name": "Upper inner feather of the raised wing",
+      "order": 55
+    },
+    {
+      "id": 48,
+      "name": "Second inner feather of the raised wing",
+      "order": 56
+    },
+    {
+      "id": 49,
+      "name": "Scalloped strip at the base of the bird's wing",
+      "order": 60
+    },
+    {
+      "id": 50,
+      "name": "Narrow pane along the animal's back",
+      "order": 44
+    },
+    {
+      "id": 51,
+      "name": "Third inner feather of the raised wing",
+      "order": 57
+    },
+    {
+      "id": 52,
+      "name": "Background inside the bird's curved body",
+      "order": 81
+    },
+    {
+      "id": 53,
+      "name": "Fourth inner feather of the raised wing",
+      "order": 58
+    },
+    {
+      "id": 54,
+      "name": "Lowest small feather of the raised wing",
+      "order": 59
+    },
+    {
+      "id": 55,
+      "name": "Bird's head and long curved body",
+      "order": 63
+    },
+    {
+      "id": 56,
+      "name": "Bird's long pointed beak",
+      "order": 64
+    },
+    {
+      "id": 57,
+      "name": "Second curling leaf down the left side",
+      "order": 84
+    },
+    {
+      "id": 58,
+      "name": "Bird's eye",
+      "order": 65
+    },
+    {
+      "id": 59,
+      "name": "Small pane at the bird's shoulder",
+      "order": 61
+    },
+    {
+      "id": 60,
+      "name": "Curved strip below the bird's shoulder",
+      "order": 62
+    },
+    {
+      "id": 61,
+      "name": "Bird back panel 1 nearest the shoulder",
+      "order": 66
+    },
+    {
+      "id": 62,
+      "name": "Bird back panel 2 from the shoulder",
+      "order": 67
+    },
+    {
+      "id": 63,
+      "name": "Bird back panel 3 from the shoulder",
+      "order": 68
+    },
+    {
+      "id": 64,
+      "name": "Bird back panel 4 from the shoulder",
+      "order": 69
+    },
+    {
+      "id": 65,
+      "name": "Bird back panel 5 from the shoulder",
+      "order": 70
+    },
+    {
+      "id": 66,
+      "name": "Bird back panel 6 from the shoulder",
+      "order": 71
+    },
+    {
+      "id": 67,
+      "name": "Bird back panel 7 from the shoulder",
+      "order": 72
+    },
+    {
+      "id": 68,
+      "name": "Bird back panel 8 from the shoulder",
+      "order": 73
+    },
+    {
+      "id": 69,
+      "name": "Bird back panel 9 from the shoulder",
+      "order": 74
+    },
+    {
+      "id": 70,
+      "name": "Bird back panel 10 from the shoulder",
+      "order": 75
+    },
+    {
+      "id": 71,
+      "name": "Curved rim of the third left-side leaf",
+      "order": 85
+    },
+    {
+      "id": 72,
+      "name": "Third curling leaf down the left side",
+      "order": 86
+    },
+    {
+      "id": 73,
+      "name": "Bird back panel 11 nearest the tail",
+      "order": 76
+    },
+    {
+      "id": 74,
+      "name": "Diagonal branch beneath the animal's front paws",
+      "order": 49
+    },
+    {
+      "id": 75,
+      "name": "Background between the bird and the animal's tail",
+      "order": 82
+    },
+    {
+      "id": 76,
+      "name": "Animal's lower body, feet and curled tail",
+      "order": 91
+    },
+    {
+      "id": 77,
+      "name": "Upper tip of the bird's tail",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Animal's small lower front paw",
+      "order": 45
+    },
+    {
+      "id": 79,
+      "name": "Small pane between the front paws",
+      "order": 46
+    },
+    {
+      "id": 80,
+      "name": "Middle tip of the bird's tail",
+      "order": 78
+    },
+    {
+      "id": 81,
+      "name": "Background below and right of the front paws",
+      "order": 47
+    },
+    {
+      "id": 82,
+      "name": "Lower tip of the bird's tail",
+      "order": 79
+    },
+    {
+      "id": 83,
+      "name": "Narrow pane at the left edge above the branch",
+      "order": 87
+    },
+    {
+      "id": 84,
+      "name": "Background below and left of the front paws",
+      "order": 48
+    },
+    {
+      "id": 85,
+      "name": "Curved leaf tip immediately above the branch",
+      "order": 88
+    },
+    {
+      "id": 86,
+      "name": "Background left of the animal's lower body",
+      "order": 90
+    },
+    {
+      "id": 87,
+      "name": "Small pane inside the leaf tip above the branch",
+      "order": 89
+    },
+    {
+      "id": 88,
+      "name": "Left frame where the diagonal branch crosses",
+      "order": 4
+    },
+    {
+      "id": 89,
+      "name": "Narrow stem below the diagonal branch",
+      "order": 94
+    },
+    {
+      "id": 90,
+      "name": "Large lower-left leaf with short markings",
+      "order": 95
+    },
+    {
+      "id": 91,
+      "name": "Small pointed pane below the branch at the left",
+      "order": 96
+    },
+    {
+      "id": 92,
+      "name": "Lower long section of the left frame",
+      "order": 5
+    },
+    {
+      "id": 93,
+      "name": "Inner curl of the animal's tail",
+      "order": 92
+    },
+    {
+      "id": 94,
+      "name": "Curved leaf tip at the lower left",
+      "order": 97
+    },
+    {
+      "id": 95,
+      "name": "Outer curl inside the animal's tail",
+      "order": 93
+    },
+    {
+      "id": 96,
+      "name": "Forked leaf along the lower-right edge",
+      "order": 109
+    },
+    {
+      "id": 97,
+      "name": "Left side of the long bottom-left leaf",
+      "order": 98
+    },
+    {
+      "id": 98,
+      "name": "Right side of the long bottom-left leaf",
+      "order": 99
+    },
+    {
+      "id": 99,
+      "name": "Small background pane beneath the animal's feet",
+      "order": 101
+    },
+    {
+      "id": 100,
+      "name": "Pointed leaf at the bottom left beside the long leaf",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Small background pane at the bottom-right edge",
+      "order": 112
+    },
+    {
+      "id": 102,
+      "name": "Upper pointed leaf in the lower-center cluster",
+      "order": 107
+    },
+    {
+      "id": 103,
+      "name": "Curved stem across the bottom-center leaves",
+      "order": 104
+    },
+    {
+      "id": 104,
+      "name": "Curved leaf along the bottom left of center",
+      "order": 102
+    },
+    {
+      "id": 105,
+      "name": "Right-pointing leaf in the lower-center cluster",
+      "order": 108
+    },
+    {
+      "id": 106,
+      "name": "Broad rounded pane at the bottom center",
+      "order": 103
+    },
+    {
+      "id": 107,
+      "name": "Small pointed pane left of the bottom-center stem",
+      "order": 105
+    },
+    {
+      "id": 108,
+      "name": "Bottom-left frame corner",
+      "order": 6
+    },
+    {
+      "id": 109,
+      "name": "Bottom-right frame corner",
+      "order": 9
+    },
+    {
+      "id": 110,
+      "name": "Small triangle beneath the forked lower-right leaf",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Narrow pane right of the bottom-center stem",
+      "order": 106
+    },
+    {
+      "id": 112,
+      "name": "Small triangle at the bottom right",
+      "order": 111
+    }
+  ],
+  "schemaVersion": 1
+}

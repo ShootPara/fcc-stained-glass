@@ -1,0 +1,482 @@
+{
+  "artworkId": "design-023",
+  "contentVersion": "af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Outer frame",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Top background around the flame-like shapes",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Upper flame-like shapes and their inner panes, top left section 3",
+      "order": 5
+    },
+    {
+      "id": 4,
+      "name": "Upper flame-like shapes and their inner panes, top left section 4",
+      "order": 6
+    },
+    {
+      "id": 5,
+      "name": "Upper flame-like shapes and their inner panes, top center section 1",
+      "order": 3
+    },
+    {
+      "id": 6,
+      "name": "Upper flame-like shapes and their inner panes, top right section 5",
+      "order": 7
+    },
+    {
+      "id": 7,
+      "name": "Upper flame-like shapes and their inner panes, top right section 2",
+      "order": 4
+    },
+    {
+      "id": 8,
+      "name": "Upper flame-like shapes and their inner panes, top center section 6",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Upper flame-like shapes and their inner panes, top left section 9",
+      "order": 11
+    },
+    {
+      "id": 10,
+      "name": "Upper flame-like shapes and their inner panes, top center section 8",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Upper flame-like shapes and their inner panes, top right section 7",
+      "order": 9
+    },
+    {
+      "id": 12,
+      "name": "Upper flame-like shapes and their inner panes, top left section 13",
+      "order": 15
+    },
+    {
+      "id": 13,
+      "name": "Upper flame-like shapes and their inner panes, top center section 11",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Upper flame-like shapes and their inner panes, top center section 10",
+      "order": 12
+    },
+    {
+      "id": 15,
+      "name": "Upper flame-like shapes and their inner panes, top left section 15",
+      "order": 17
+    },
+    {
+      "id": 16,
+      "name": "Upper flame-like shapes and their inner panes, top right section 12",
+      "order": 14
+    },
+    {
+      "id": 17,
+      "name": "Upper flame-like shapes and their inner panes, top right section 14",
+      "order": 16
+    },
+    {
+      "id": 18,
+      "name": "Broad band below the upper shapes",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Small joint in the upper circular frame",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Circular frame bands and background around the head, upper-middle center section 4",
+      "order": 23
+    },
+    {
+      "id": 21,
+      "name": "Circular frame bands and background around the head, upper-middle right section 3",
+      "order": 22
+    },
+    {
+      "id": 22,
+      "name": "Circular frame bands and background around the head, top right section 1",
+      "order": 20
+    },
+    {
+      "id": 23,
+      "name": "Circular frame bands and background around the head, top left section 2",
+      "order": 21
+    },
+    {
+      "id": 24,
+      "name": "Upper and middle leaf forms and background panes, upper-middle right section 2",
+      "order": 64
+    },
+    {
+      "id": 25,
+      "name": "Upper and middle leaf forms and background panes, upper-middle right section 4",
+      "order": 66
+    },
+    {
+      "id": 26,
+      "name": "Circular frame bands and background around the head, upper-middle center section 5",
+      "order": 24
+    },
+    {
+      "id": 27,
+      "name": "Upper and middle leaf forms and background panes, upper-middle left section 3",
+      "order": 65
+    },
+    {
+      "id": 28,
+      "name": "Upper and middle leaf forms and background panes, upper-middle left section 1",
+      "order": 63
+    },
+    {
+      "id": 29,
+      "name": "Upper and middle leaf forms and background panes, upper-middle left section 6",
+      "order": 68
+    },
+    {
+      "id": 30,
+      "name": "Circular frame bands and background around the head, upper-middle center section 6",
+      "order": 25
+    },
+    {
+      "id": 31,
+      "name": "Face and connected upper hair",
+      "order": 27
+    },
+    {
+      "id": 32,
+      "name": "Forehead curl and its inner pane, upper-middle center section 1",
+      "order": 28
+    },
+    {
+      "id": 33,
+      "name": "Forehead curl and its inner pane, upper-middle center section 2",
+      "order": 29
+    },
+    {
+      "id": 34,
+      "name": "Upper and middle leaf forms and background panes, upper-middle left section 5",
+      "order": 67
+    },
+    {
+      "id": 35,
+      "name": "Upper hair curls and small strands, upper-middle center section 1",
+      "order": 30
+    },
+    {
+      "id": 36,
+      "name": "Upper hair curls and small strands, upper-middle right section 2",
+      "order": 31
+    },
+    {
+      "id": 37,
+      "name": "Circular frame bands and background around the head, upper-middle right section 7",
+      "order": 26
+    },
+    {
+      "id": 38,
+      "name": "Brow panes, upper-middle center section 2",
+      "order": 36
+    },
+    {
+      "id": 39,
+      "name": "Brow panes, upper-middle center section 1",
+      "order": 35
+    },
+    {
+      "id": 40,
+      "name": "Upper and middle leaf forms and background panes, upper-middle left section 7",
+      "order": 69
+    },
+    {
+      "id": 41,
+      "name": "Upper and middle leaf forms and background panes, upper-middle right section 8",
+      "order": 70
+    },
+    {
+      "id": 42,
+      "name": "Right eye white",
+      "order": 39
+    },
+    {
+      "id": 43,
+      "name": "Right eye highlight",
+      "order": 40
+    },
+    {
+      "id": 44,
+      "name": "Left eye white",
+      "order": 37
+    },
+    {
+      "id": 45,
+      "name": "Left eye highlight",
+      "order": 38
+    },
+    {
+      "id": 46,
+      "name": "Upper hair curls and small strands, upper-middle left section 3",
+      "order": 32
+    },
+    {
+      "id": 47,
+      "name": "Upper and middle leaf forms and background panes, upper-middle right section 9",
+      "order": 71
+    },
+    {
+      "id": 48,
+      "name": "Thin right hair curl",
+      "order": 41
+    },
+    {
+      "id": 49,
+      "name": "Upper hair curls and small strands, upper-middle right section 4",
+      "order": 33
+    },
+    {
+      "id": 50,
+      "name": "Upper hair curls and small strands, upper-middle center section 5",
+      "order": 34
+    },
+    {
+      "id": 51,
+      "name": "Small background spaces below the ears, upper-middle center section 1",
+      "order": 42
+    },
+    {
+      "id": 52,
+      "name": "Small background spaces below the ears, upper-middle center section 2",
+      "order": 43
+    },
+    {
+      "id": 53,
+      "name": "Mouth spaces above the middle divider, upper-middle center section 2",
+      "order": 45
+    },
+    {
+      "id": 54,
+      "name": "Mouth spaces above the middle divider, upper-middle center section 1",
+      "order": 44
+    },
+    {
+      "id": 55,
+      "name": "Small enclosed triangle beside the mouth",
+      "order": 46
+    },
+    {
+      "id": 56,
+      "name": "Horizontal middle divider",
+      "order": 47
+    },
+    {
+      "id": 57,
+      "name": "Circular lower frame and interior background bands, lower-middle center section 1",
+      "order": 58
+    },
+    {
+      "id": 58,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 5",
+      "order": 52
+    },
+    {
+      "id": 59,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 2",
+      "order": 49
+    },
+    {
+      "id": 60,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 6",
+      "order": 53
+    },
+    {
+      "id": 61,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 7",
+      "order": 54
+    },
+    {
+      "id": 62,
+      "name": "Circular lower frame and interior background bands, lower-middle center section 2",
+      "order": 59
+    },
+    {
+      "id": 63,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 1",
+      "order": 48
+    },
+    {
+      "id": 64,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 3",
+      "order": 50
+    },
+    {
+      "id": 65,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 8",
+      "order": 55
+    },
+    {
+      "id": 66,
+      "name": "Lower pointed leaves and background panes, lower-middle center section 1",
+      "order": 86
+    },
+    {
+      "id": 67,
+      "name": "Upper and middle leaf forms and background panes, lower-middle right section 15",
+      "order": 77
+    },
+    {
+      "id": 68,
+      "name": "Upper and middle leaf forms and background panes, lower-middle right section 13",
+      "order": 75
+    },
+    {
+      "id": 69,
+      "name": "Upper and middle leaf forms and background panes, lower-middle right section 10",
+      "order": 72
+    },
+    {
+      "id": 70,
+      "name": "Lower beard curls and their inner spaces, bottom right section 10",
+      "order": 57
+    },
+    {
+      "id": 71,
+      "name": "Upper and middle leaf forms and background panes, bottom left section 21",
+      "order": 83
+    },
+    {
+      "id": 72,
+      "name": "Upper and middle leaf forms and background panes, lower-middle left section 19",
+      "order": 81
+    },
+    {
+      "id": 73,
+      "name": "Upper and middle leaf forms and background panes, lower-middle left section 11",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Upper and middle leaf forms and background panes, lower-middle left section 14",
+      "order": 76
+    },
+    {
+      "id": 75,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 4",
+      "order": 51
+    },
+    {
+      "id": 76,
+      "name": "Circular lower frame and interior background bands, lower-middle center section 4",
+      "order": 61
+    },
+    {
+      "id": 77,
+      "name": "Lower beard curls and their inner spaces, lower-middle center section 9",
+      "order": 56
+    },
+    {
+      "id": 78,
+      "name": "Upper and middle leaf forms and background panes, lower-middle center section 12",
+      "order": 74
+    },
+    {
+      "id": 79,
+      "name": "Circular lower frame and interior background bands, lower-middle center section 3",
+      "order": 60
+    },
+    {
+      "id": 80,
+      "name": "Upper and middle leaf forms and background panes, lower-middle right section 17",
+      "order": 79
+    },
+    {
+      "id": 81,
+      "name": "Upper and middle leaf forms and background panes, lower-middle left section 16",
+      "order": 78
+    },
+    {
+      "id": 82,
+      "name": "Circular lower frame and interior background bands, lower-middle center section 5",
+      "order": 62
+    },
+    {
+      "id": 83,
+      "name": "Upper and middle leaf forms and background panes, lower-middle center section 18",
+      "order": 80
+    },
+    {
+      "id": 84,
+      "name": "Upper and middle leaf forms and background panes, bottom center section 20",
+      "order": 82
+    },
+    {
+      "id": 85,
+      "name": "Small closed leaf-stem detail",
+      "order": 84
+    },
+    {
+      "id": 86,
+      "name": "Diagonal band across the lower stems",
+      "order": 85
+    },
+    {
+      "id": 87,
+      "name": "Lower pointed leaves and background panes, bottom center section 3",
+      "order": 88
+    },
+    {
+      "id": 88,
+      "name": "Lower pointed leaves and background panes, bottom center section 2",
+      "order": 87
+    },
+    {
+      "id": 89,
+      "name": "Lower pointed leaves and background panes, bottom right section 4",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Lower pointed leaves and background panes, bottom center section 5",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Lower pointed leaves and background panes, bottom center section 6",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Lower pointed leaves and background panes, bottom right section 7",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Lower pointed leaves and background panes, bottom center section 9",
+      "order": 94
+    },
+    {
+      "id": 94,
+      "name": "Lower pointed leaves and background panes, bottom right section 8",
+      "order": 93
+    },
+    {
+      "id": 95,
+      "name": "Lower pointed leaves and background panes, bottom right section 10",
+      "order": 95
+    }
+  ],
+  "schemaVersion": 1
+}

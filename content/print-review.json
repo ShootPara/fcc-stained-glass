@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "reviewKind": "print-layout",
+  "reviewer": "Codex visual inspection of all 51 Poppler page renders and native-detail sample",
+  "reviewedAtUtc": "2026-11-09T16:27:27Z",
+  "outcome": "complete",
+  "bookInputDigest": "fd781bbc701bd79040eeb000e2b01eeaf84808f64e1af7b1ff4d0a5ad144f887",
+  "bookSha256": "dd5a7680f42e45348e90940eb24475214d5f41c5dd8baaa0716b8b6add37b419",
+  "coverSha256": "b0b0b4d6e0d4a0e328d29a116a159ab894219701cb2e342a36fa0fd7972f70d0",
+  "observations": "The supplied two-building illustration remains recognizable after deterministic inversion to black on white, without tracing or redrawing. Five required cover lines are legible and the building centennial is distinguished from the congregation's founding. Corrected the initial top heading position; final ink-bounds check passes on every page. Introduction and source/credit text are readable and unclipped. Inspected the complete 51-page sequence in thirteen four-page contact sheets and the corrected cover separately, plus a 150-dpi rendering of the dense tower design. All 48 designs appear once in authored order with numbers 1-48 and explicit location uncertainty; no caption overlaps the artwork. Source borders that reach a drawing's own edge are retained rather than cropped or repaired. Independent PDF decoding verifies exact native drawing pixels and identical reused interior streams between the combined book and individual sheets. Physical print inspection remains pending.",
+  "evidence": [
+    ".work/pdf-review/bounds.json",
+    ".work/pdf-review/pixel-audit.json",
+    ".work/pdf-review/sheet-01.png through sheet-13.png",
+    ".work/pdf-review/book-01.png",
+    ".work/pdf-review/fine-33.png",
+    ".work/pdf-review/final-bounds.json: 51 pages, zero safe-area violations",
+    ".work/pdf-review/final-10.png, final-38.png and final-50.png: corrected captions visually inspected; all other 48 page rasters exactly match the previously inspected book"
+  ],
+  "physicalPrinting": "not-tested"
+}

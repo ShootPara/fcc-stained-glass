@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-045",
+  "sourceVersion": "ee32d52b303aac7f9201c42d9e6e9a72de53ebba3c6541f861901409408b97f6",
+  "observations": "Inspected the full numbered seated figure and both sheets containing all thirteen small components. The two small closed inner-ear areas are intentional and retained. Eleven other tiny acute fold, pointed medallion, tracery and foot/base junction residues are explicitly excluded; no size-wide filter is used. Face and left hair/beard are connected in the supplied drawing, while the right hair, ears, hands, feet, book ornament and narrow real robe panels remain separate. Names describe visible features and position without inferring a historical identity. Canonical ink and source pixels remain unchanged.",
+  "evidence": [
+    ".work/review/design-045/ee32d52b303aac7f9201c42d9e6e9a72de53ebba3c6541f861901409408b97f6/regions-numbered-2x.png",
+    ".work/region-crops/design-045/small-01.png",
+    ".work/region-crops/design-045/small-02.png"
+  ],
+  "tips": "32,59,62,67,76,81,133,134,136,139,141",
+  "joins": [],
+  "groups": [
+    {
+      "name": "Face beard and left hair",
+      "ids": "17"
+    },
+    {
+      "name": "Right hair",
+      "ids": "18"
+    },
+    {
+      "name": "Left ear and inner ear",
+      "ids": "23,25"
+    },
+    {
+      "name": "Right ear and inner ear",
+      "ids": "24,26"
+    },
+    {
+      "name": "Figure's neck",
+      "ids": "29"
+    },
+    {
+      "name": "Halo wedges",
+      "ids": "9,10,15,16,21,22"
+    },
+    {
+      "name": "Robe collar and panels",
+      "ids": "33-39,43,51,70,75,78,83,86,112-118,120"
+    },
+    {
+      "name": "Raised hand and fingers",
+      "ids": "40,42"
+    },
+    {
+      "name": "Hand holding book",
+      "ids": "74"
+    },
+    {
+      "name": "Book border and cover",
+      "ids": "44-47,50,52,58,68,82,84,87"
+    },
+    {
+      "name": "Book ornament and small counters",
+      "ids": "57,60,61,63,64,71,79,80"
+    },
+    {
+      "name": "Left sleeve and narrow fold panes",
+      "ids": "53,55,56"
+    },
+    {
+      "name": "Figure's feet",
+      "ids": "124,125"
+    },
+    {
+      "name": "Upper frame and tracery",
+      "ids": "1-8,11-14,19,20,27,28,30,31"
+    },
+    {
+      "name": "Left semicircular ornament",
+      "ids": "48,54,65"
+    },
+    {
+      "name": "Right semicircular ornament",
+      "ids": "49,66"
+    },
+    {
+      "name": "Background beside arms",
+      "ids": "41,69,72,73,77,85,88-90"
+    },
+    {
+      "name": "Diagonal lower frame bands",
+      "ids": "91-109,127,128,132,135,137,138,140,142-144"
+    },
+    {
+      "name": "Lower scalloped background",
+      "ids": "110,111,119,121-123,126,129-131"
+    },
+    {
+      "name": "Bottom frame",
+      "ids": "145"
+    }
+  ]
+}

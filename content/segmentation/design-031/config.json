@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Full numbered source and all four small-component sheets inspected. Remove explicit acute ray and garment tips only; retain the small border loop, closed eye corners, nostril, beard crescent and bead interstices. Reconnect four pieces of the thin forehead detail, three pieces of the moustache outline, three eye-white fragments and a closed robe slit. The star outline and center, radiating bands, central lobed round motif with enclosed openings, both profiles and their clothing retain distinct boundaries. Names use visible forms and ordered positions without assigning historical identities. Canonical source pixels and prior saved versions are preserved. Explicit inspected tip IDs: 24,35,36,47,49,59,83,86,93,123,142,146,159,166,176,198. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

@@ -1,0 +1,562 @@
+{
+  "artworkId": "design-005",
+  "contentVersion": "7a6fc27f97b9e47489f0ecf22449ab31d3f8b1df2ae6ddf0de252ca668cc265e",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Area 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Area 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Area 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Area 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Area 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Area 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Area 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Area 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Area 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Area 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Area 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Area 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Area 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Area 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Area 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Area 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Area 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Area 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Area 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Area 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Area 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Area 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Area 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Area 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Area 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Area 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Area 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Area 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Area 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Area 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Area 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Area 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Area 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Area 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Area 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Area 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Area 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Area 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Area 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Area 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Area 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Area 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Area 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Area 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Area 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Area 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Area 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Area 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Area 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Area 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Area 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Area 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Area 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Area 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Area 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Area 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Area 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Area 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Area 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Area 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Area 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Area 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Area 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Area 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Area 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Area 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Area 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Area 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Area 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Area 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Area 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Area 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Area 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Area 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Area 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Area 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Area 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Area 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Area 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Area 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Area 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Area 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Area 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Area 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Area 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Area 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Area 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Area 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Area 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Area 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Area 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Area 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Area 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Area 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Area 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Area 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Area 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Area 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Area 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Area 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Area 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Area 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Area 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Area 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Area 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Area 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Area 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Area 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Area 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Area 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Area 111",
+      "order": 111
+    }
+  ],
+  "schemaVersion": 1
+}

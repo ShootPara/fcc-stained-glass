@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected the full numbered source and all five small-component sheets. Exclude explicitly identified acute tips and an isolated speck inside solid black. Retain closed nose and eye details, small diamond interstices, the tiny closed cuff space and the enclosed bottom triangle. Reconnect the two pieces of the small mouth slit and the narrow outlined left feather detail; keep distinct armor scales, hand, hair strands, profile eye panes and helmet bands separate. Names follow visible hair, face, feathers, scale armor, bearded profile and helmet features with positional sections. No source pixels or canonical ink change. Explicit inspected tip IDs: 17,18,22,24,29,32,34,38,55,65,68,72,75,88,104,116,120,125,141,147,156,162,165,167,179,182,187,193,196,199,205,207,211,221,223,229,241. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

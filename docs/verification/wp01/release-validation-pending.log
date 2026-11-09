@@ -1,0 +1,16 @@
+
+> fcc-stained-glass@0.1.0 validate
+> node --import tsx scripts/validate-content.ts
+
+validate-content: failed. Report: .work/reports/validate-content-2026-11-06T19-47-39-482Z-ede55e10.json
+{
+  "stage": "release",
+  "id": null,
+  "photoCount": 55,
+  "artworkCount": 48,
+  "sourceCount": 110,
+  "sourceBytes": 258074562,
+  "verifiedSourceCount": 110
+}
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+E_STAGE_NOT_READY: Source/catalog checks passed. Release validation requires WP02–WP06: prepared regions, reviewed content, PDFs, runtime, and portability evidence.

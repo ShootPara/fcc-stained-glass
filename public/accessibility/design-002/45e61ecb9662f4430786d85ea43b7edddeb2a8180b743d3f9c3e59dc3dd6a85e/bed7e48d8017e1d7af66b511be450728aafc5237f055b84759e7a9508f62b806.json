@@ -1,0 +1,232 @@
+{
+  "artworkId": "design-002",
+  "contentVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Background around the star, moon and sun",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Outer part of the small shape at the top",
+      "order": 4
+    },
+    {
+      "id": 3,
+      "name": "Outer wavy band above the moon",
+      "order": 6
+    },
+    {
+      "id": 4,
+      "name": "Large corner area above the moon",
+      "order": 8
+    },
+    {
+      "id": 5,
+      "name": "Crescent moon",
+      "order": 9
+    },
+    {
+      "id": 6,
+      "name": "Inner wavy band above the moon",
+      "order": 7
+    },
+    {
+      "id": 7,
+      "name": "Curled shape at the top center",
+      "order": 5
+    },
+    {
+      "id": 8,
+      "name": "Border around the star",
+      "order": 2
+    },
+    {
+      "id": 9,
+      "name": "Center of the star",
+      "order": 3
+    },
+    {
+      "id": 10,
+      "name": "Curved band along the left edge",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Small area at the left edge",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Outer arch above and left of the sun rays",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Outer arch above and right of the sun rays",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Sun ray at the top center",
+      "order": 17
+    },
+    {
+      "id": 15,
+      "name": "Space right of the top center sun ray",
+      "order": 19
+    },
+    {
+      "id": 16,
+      "name": "Space left of the top center sun ray",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Sun ray at the upper left",
+      "order": 14
+    },
+    {
+      "id": 18,
+      "name": "Narrow curl inside the top center sun ray",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Sun ray at the upper right",
+      "order": 20
+    },
+    {
+      "id": 20,
+      "name": "Narrow curl inside the upper left sun ray",
+      "order": 15
+    },
+    {
+      "id": 21,
+      "name": "Narrow curl inside the upper right sun ray",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Space between the two right sun rays",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Ring around the center of the sun",
+      "order": 26
+    },
+    {
+      "id": 24,
+      "name": "Sun ray at the middle left",
+      "order": 23
+    },
+    {
+      "id": 25,
+      "name": "Sun ray at the middle right",
+      "order": 28
+    },
+    {
+      "id": 26,
+      "name": "Narrow curl inside the middle left sun ray",
+      "order": 24
+    },
+    {
+      "id": 27,
+      "name": "Center of the sun",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Space between the two lower left sun rays",
+      "order": 25
+    },
+    {
+      "id": 29,
+      "name": "Outer arch at the lower right of the sun",
+      "order": 31
+    },
+    {
+      "id": 30,
+      "name": "Narrow curl inside the middle right sun ray",
+      "order": 29
+    },
+    {
+      "id": 31,
+      "name": "Space between the two lower right sun rays",
+      "order": 30
+    },
+    {
+      "id": 32,
+      "name": "Sun ray at the lower left",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Wide curved band across the sun",
+      "order": 34
+    },
+    {
+      "id": 34,
+      "name": "Sun ray at the lower right",
+      "order": 33
+    },
+    {
+      "id": 35,
+      "name": "Narrow band below the band across the sun",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Wide band below the sun",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Long wavy band above the small waves",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Small curling wave on the left",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Wave below the small curling wave",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Large wave near the bottom",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Small wave on the lower right",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Upper small wave on the lower left",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Lower small wave on the lower left",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Curling band along the bottom",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Small space below the bottom curl",
+      "order": 45
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,7 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> fcc-stained-glass@0.1.0 catalog
+> node --import tsx scripts/build-catalog.ts --mode release
+
+E_RELEASE_PENDING: The release catalog requires prepared assets, completed reviews and print files from WP02–WP05. Read STATUS.md.
+catalog: failed. Report: .work/reports/catalog-2026-11-06T20-51-50-506Z-75504944.json

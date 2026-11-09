@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered drawing and all three small-component sheets. Retain small crown triangles, closed face-side strip, ear/beard holes, brow detail, hand corners and bird/foliage-like border gaps. Reconnect six pieces of the small left figure's narrow face-side band, the small separate beard opening and a closed bottom interstice. Exclude explicitly inspected acute endpoint fragments only. Distinguish upper head, raised hand and broad cloak; the lower bent profile, curled head ornament, shaggy coat, staff and feet; the framed small figure and layered right border. Names describe visible forms without asserting historical identification. Source/canonical ink and previous packages are retained. Explicit inspected tip IDs: 30,50,52,74,81,122,124,126,129,130,131,133,137,147,151,160. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

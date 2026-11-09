@@ -1,0 +1,362 @@
+{
+  "artworkId": "design-011",
+  "contentVersion": "127653217a730ad122e909609cf6170ba71746cc8c856103d904bedd0278d3ab",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Continuous outer frame",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Curled sky above the bird, top left section 1",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Curled sky above the bird, top left section 2",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Curled sky above the bird, top left section 3",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Diagonal rays above the cabin, top left section 6",
+      "order": 10
+    },
+    {
+      "id": 6,
+      "name": "Background around the flying bird",
+      "order": 11
+    },
+    {
+      "id": 7,
+      "name": "Diagonal rays above the cabin, top center section 4",
+      "order": 8
+    },
+    {
+      "id": 8,
+      "name": "Diagonal rays above the cabin, top right section 3",
+      "order": 7
+    },
+    {
+      "id": 9,
+      "name": "Diagonal rays above the cabin, top right section 2",
+      "order": 6
+    },
+    {
+      "id": 10,
+      "name": "Diagonal rays above the cabin, top right section 1",
+      "order": 5
+    },
+    {
+      "id": 11,
+      "name": "Diagonal rays above the cabin, top right section 5",
+      "order": 9
+    },
+    {
+      "id": 12,
+      "name": "Cabin frame and rectangular panes, top center section 1",
+      "order": 13
+    },
+    {
+      "id": 13,
+      "name": "Cabin frame and rectangular panes, top right section 3",
+      "order": 15
+    },
+    {
+      "id": 14,
+      "name": "Cabin frame and rectangular panes, top right section 2",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Flying bird with outstretched wings",
+      "order": 12
+    },
+    {
+      "id": 16,
+      "name": "Cabin frame and rectangular panes, top right section 4",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Cabin frame and rectangular panes, upper-middle right section 8",
+      "order": 20
+    },
+    {
+      "id": 18,
+      "name": "Cabin frame and rectangular panes, upper-middle center section 10",
+      "order": 22
+    },
+    {
+      "id": 19,
+      "name": "Cabin frame and rectangular panes, upper-middle right section 9",
+      "order": 21
+    },
+    {
+      "id": 20,
+      "name": "Cabin frame and rectangular panes, top center section 7",
+      "order": 19
+    },
+    {
+      "id": 21,
+      "name": "Cabin frame and rectangular panes, upper-middle center section 11",
+      "order": 23
+    },
+    {
+      "id": 22,
+      "name": "Cabin frame and rectangular panes, top center section 6",
+      "order": 18
+    },
+    {
+      "id": 23,
+      "name": "Cabin frame and rectangular panes, top right section 5",
+      "order": 17
+    },
+    {
+      "id": 24,
+      "name": "Cabin frame and rectangular panes, upper-middle right section 12",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Hair and beard strips around the face, upper-middle center section 1",
+      "order": 29
+    },
+    {
+      "id": 26,
+      "name": "Face and neck",
+      "order": 32
+    },
+    {
+      "id": 27,
+      "name": "Pane above the left eye",
+      "order": 33
+    },
+    {
+      "id": 28,
+      "name": "Pane around the left eye",
+      "order": 34
+    },
+    {
+      "id": 29,
+      "name": "Left eye highlight",
+      "order": 35
+    },
+    {
+      "id": 30,
+      "name": "Right eye crescent",
+      "order": 36
+    },
+    {
+      "id": 31,
+      "name": "Upper wave crests left of the cabin, upper-middle left section 1",
+      "order": 41
+    },
+    {
+      "id": 32,
+      "name": "Hair and beard strips around the face, upper-middle right section 2",
+      "order": 30
+    },
+    {
+      "id": 33,
+      "name": "Hair and beard strips around the face, upper-middle right section 3",
+      "order": 31
+    },
+    {
+      "id": 34,
+      "name": "Small mouth opening",
+      "order": 37
+    },
+    {
+      "id": 35,
+      "name": "Upper wave crests left of the cabin, upper-middle left section 2",
+      "order": 42
+    },
+    {
+      "id": 36,
+      "name": "Small triangle below the hair",
+      "order": 38
+    },
+    {
+      "id": 37,
+      "name": "Cabin frame and rectangular panes, upper-middle right section 13",
+      "order": 25
+    },
+    {
+      "id": 38,
+      "name": "Rounded detail beside the cabin window, upper-middle right section 1",
+      "order": 39
+    },
+    {
+      "id": 39,
+      "name": "Cabin frame and rectangular panes, upper-middle center section 14",
+      "order": 26
+    },
+    {
+      "id": 40,
+      "name": "Cabin frame and rectangular panes, upper-middle right section 15",
+      "order": 27
+    },
+    {
+      "id": 41,
+      "name": "Cabin frame and rectangular panes, upper-middle right section 16",
+      "order": 28
+    },
+    {
+      "id": 42,
+      "name": "Upper wave crests left of the cabin, upper-middle left section 3",
+      "order": 43
+    },
+    {
+      "id": 43,
+      "name": "Rounded detail beside the cabin window, upper-middle right section 2",
+      "order": 40
+    },
+    {
+      "id": 44,
+      "name": "Broad horizontal beam below the cabin",
+      "order": 45
+    },
+    {
+      "id": 45,
+      "name": "Upper wave crests left of the cabin, upper-middle left section 4",
+      "order": 44
+    },
+    {
+      "id": 46,
+      "name": "Sky between the cabin and water",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Flowing wave bands and crests, lower-middle right section 1",
+      "order": 48
+    },
+    {
+      "id": 48,
+      "name": "Flowing wave bands and crests, lower-middle center section 2",
+      "order": 49
+    },
+    {
+      "id": 49,
+      "name": "Small enclosed triangle at the beam and wave junction",
+      "order": 47
+    },
+    {
+      "id": 50,
+      "name": "Flowing wave bands and crests, lower-middle center section 3",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Flowing wave bands and crests, lower-middle center section 8",
+      "order": 55
+    },
+    {
+      "id": 52,
+      "name": "Flowing wave bands and crests, lower-middle right section 4",
+      "order": 51
+    },
+    {
+      "id": 53,
+      "name": "Flowing wave bands and crests, lower-middle center section 11",
+      "order": 58
+    },
+    {
+      "id": 54,
+      "name": "Flowing wave bands and crests, lower-middle right section 7",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Flowing wave bands and crests, lower-middle left section 6",
+      "order": 53
+    },
+    {
+      "id": 56,
+      "name": "Flowing wave bands and crests, lower-middle left section 5",
+      "order": 52
+    },
+    {
+      "id": 57,
+      "name": "Flowing wave bands and crests, lower-middle right section 9",
+      "order": 56
+    },
+    {
+      "id": 58,
+      "name": "Flowing wave bands and crests, lower-middle center section 12",
+      "order": 59
+    },
+    {
+      "id": 59,
+      "name": "Flowing wave bands and crests, lower-middle left section 10",
+      "order": 57
+    },
+    {
+      "id": 60,
+      "name": "Flowing wave bands and crests, lower-middle center section 14",
+      "order": 61
+    },
+    {
+      "id": 61,
+      "name": "Flowing wave bands and crests, lower-middle left section 13",
+      "order": 60
+    },
+    {
+      "id": 62,
+      "name": "Flowing wave bands and crests, bottom left section 15",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Flowing wave bands and crests, bottom left section 17",
+      "order": 64
+    },
+    {
+      "id": 64,
+      "name": "Flowing wave bands and crests, bottom right section 18",
+      "order": 65
+    },
+    {
+      "id": 65,
+      "name": "Flowing wave bands and crests, bottom right section 16",
+      "order": 63
+    },
+    {
+      "id": 66,
+      "name": "Flowing wave bands and crests, bottom right section 19",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Flowing wave bands and crests, bottom center section 20",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Flowing wave bands and crests, bottom center section 21",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Flowing wave bands and crests, bottom right section 22",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Flowing wave bands and crests, bottom center section 23",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Flowing wave bands and crests, bottom left section 24",
+      "order": 71
+    }
+  ],
+  "schemaVersion": 1
+}

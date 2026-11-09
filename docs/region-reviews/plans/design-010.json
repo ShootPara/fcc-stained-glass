@@ -1,0 +1,23 @@
+{
+  "schemaVersion":1,"artworkId":"design-010","sourceVersion":"d30760631655bcf65e150f0be6e00afbfb85b26feca4857155d91de023951738",
+  "observations":"Complete source and numbered overlay inspected, plus all 50 small components in five paired source/overlay sheets. Forty-five isolated acute raster tips excluded explicitly. The eye glint, enclosed eyelid corner, enclosed mouth detail, small wrist triangle and small triangle at the lower cuff remain. Roof stripes, cabin window, hull planks and circular portholes retain their boundaries. The figure's face and neck are continuous; facial strokes are open. Raised fingers are separate bounded panes; palm contour strokes remain open. The lower hand's fingers and forearm stay distinct. Large curling plant leaves and garment bands retain open vein/fold strokes. Names group repeated panes by visible feature and distinguish them by position and within-feature sequence. Source/canonical ink remains unchanged, and the original package remains available for local saves.",
+  "evidence":[".work/review/design-010/d30760631655bcf65e150f0be6e00afbfb85b26feca4857155d91de023951738/regions-numbered-2x.png",".work/region-crops/design-010/small-01.png",".work/region-crops/design-010/small-02.png",".work/region-crops/design-010/small-03.png",".work/region-crops/design-010/small-04.png",".work/region-crops/design-010/small-05.png"],
+  "tips":"17,19,20,23,25,30,31,36,40,46,49,53,54,55,61,65,78,87,89,93,111,114,121,122,123,126,129,130,136,137,138,139,141,142,147,179,181,183,191,196,205,206,207,208,209",
+  "groups":[
+    {"name":"Outer frame and border joints","ids":"1-5,15,16,45,48,56,58,96,101,104,109,149,160,202,204,211"},
+    {"name":"Curled sky and background beside the boat","ids":"6-8,10-12,21,34,59,69,77,79,81,83-85,90-92,95,97"},
+    {"name":"Boat roof and cabin panes","ids":"9,13,14,18,22,24,26,28,29,32,33,37,38,41,44,47,51,57,60,62,66,72"},
+    {"name":"Boat hull, rim and prow","ids":"27,35,39,42,43,63,68,73,76,82,86,88"},
+    {"name":"Round boat portholes","ids":"50,52,64,67,70,71,74,75"},
+    {"name":"Curving water and background bands","ids":"80,94,99,100,102,105-107,116,133,140,145,153,168,173,175,177,180,186"},
+    {"name":"Face and neck","ids":"115"},
+    {"name":"Small enclosed eye and mouth details","ids":"124,127,128,131"},
+    {"name":"Head covering and hair strips","ids":"110,113,120,132,135,143"},
+    {"name":"Raised hand and individual fingers","ids":"112,117-119,125,154"},
+    {"name":"Raised wrist cuff and side strip","ids":"148,159,170"},
+    {"name":"Large curling plant leaves","ids":"103,108"},
+    {"name":"Flowing garment bands and lower ornament","ids":"134,144,146,150-152,155-158,163-167,169,171,176,178,182,184,185,187-190,192-195,197-201"},
+    {"name":"Lower hand, fingers and forearm","ids":"161,172,174,203,210"},
+    {"name":"Long curved dividing strips","ids":"98,162"}
+  ]
+}

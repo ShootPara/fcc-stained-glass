@@ -1,0 +1,967 @@
+{
+  "artworkId": "design-031",
+  "contentVersion": "6573912c2e15f5b25b12b513a79ae4daca14446515c20f33ed21a19405630320",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Outer frame",
+      "order": 3
+    },
+    {
+      "id": 2,
+      "name": "Upper background wave panes, top right section 3",
+      "order": 32
+    },
+    {
+      "id": 3,
+      "name": "Upper background wave panes, top left section 1",
+      "order": 30
+    },
+    {
+      "id": 4,
+      "name": "Upper background wave panes, top left section 4",
+      "order": 33
+    },
+    {
+      "id": 5,
+      "name": "Radiating straight bands, top left section 1",
+      "order": 6
+    },
+    {
+      "id": 6,
+      "name": "Upper background wave panes, top center section 8",
+      "order": 37
+    },
+    {
+      "id": 7,
+      "name": "Upper background wave panes, top center section 2",
+      "order": 31
+    },
+    {
+      "id": 8,
+      "name": "Upper background wave panes, top center section 7",
+      "order": 36
+    },
+    {
+      "id": 9,
+      "name": "Radiating straight bands, top right section 2",
+      "order": 7
+    },
+    {
+      "id": 10,
+      "name": "Upper background wave panes, top left section 6",
+      "order": 35
+    },
+    {
+      "id": 11,
+      "name": "Star outer outline",
+      "order": 4
+    },
+    {
+      "id": 12,
+      "name": "Upper background wave panes, top right section 5",
+      "order": 34
+    },
+    {
+      "id": 13,
+      "name": "Upper background wave panes, top right section 9",
+      "order": 38
+    },
+    {
+      "id": 14,
+      "name": "Star center",
+      "order": 5
+    },
+    {
+      "id": 15,
+      "name": "Upper background wave panes, top left section 11",
+      "order": 40
+    },
+    {
+      "id": 16,
+      "name": "Upper background wave panes, top right section 10",
+      "order": 39
+    },
+    {
+      "id": 17,
+      "name": "Upper background wave panes, top right section 13",
+      "order": 42
+    },
+    {
+      "id": 18,
+      "name": "Upper background wave panes, top left section 12",
+      "order": 41
+    },
+    {
+      "id": 19,
+      "name": "Radiating straight bands, upper-middle left section 5",
+      "order": 10
+    },
+    {
+      "id": 20,
+      "name": "Radiating straight bands, upper-middle right section 6",
+      "order": 11
+    },
+    {
+      "id": 21,
+      "name": "Upper background wave panes, top left section 16",
+      "order": 45
+    },
+    {
+      "id": 22,
+      "name": "Upper background wave panes, top center section 14",
+      "order": 43
+    },
+    {
+      "id": 23,
+      "name": "Radiating straight bands, upper-middle right section 4",
+      "order": 9
+    },
+    {
+      "id": 24,
+      "name": "Radiating straight bands, upper-middle left section 3",
+      "order": 8
+    },
+    {
+      "id": 25,
+      "name": "Upper background wave panes, top center section 15",
+      "order": 44
+    },
+    {
+      "id": 26,
+      "name": "Upper background wave panes, top right section 19",
+      "order": 48
+    },
+    {
+      "id": 27,
+      "name": "Upper background wave panes, top center section 18",
+      "order": 47
+    },
+    {
+      "id": 28,
+      "name": "Upper background wave panes, top center section 17",
+      "order": 46
+    },
+    {
+      "id": 29,
+      "name": "Upper background wave panes, top center section 20",
+      "order": 49
+    },
+    {
+      "id": 30,
+      "name": "Upper background wave panes, upper-middle center section 37",
+      "order": 66
+    },
+    {
+      "id": 31,
+      "name": "Radiating straight bands, upper-middle right section 8",
+      "order": 13
+    },
+    {
+      "id": 32,
+      "name": "Upper background wave panes, top left section 21",
+      "order": 50
+    },
+    {
+      "id": 33,
+      "name": "Upper background wave panes, top right section 25",
+      "order": 54
+    },
+    {
+      "id": 34,
+      "name": "Upper background wave panes, top right section 22",
+      "order": 51
+    },
+    {
+      "id": 35,
+      "name": "Radiating straight bands, upper-middle left section 7",
+      "order": 12
+    },
+    {
+      "id": 36,
+      "name": "Upper background wave panes, top center section 23",
+      "order": 52
+    },
+    {
+      "id": 37,
+      "name": "Upper background wave panes, top center section 24",
+      "order": 53
+    },
+    {
+      "id": 38,
+      "name": "Upper background wave panes, top left section 28",
+      "order": 57
+    },
+    {
+      "id": 39,
+      "name": "Radiating straight bands, upper-middle center section 13",
+      "order": 18
+    },
+    {
+      "id": 40,
+      "name": "Radiating straight bands, upper-middle center section 11",
+      "order": 16
+    },
+    {
+      "id": 41,
+      "name": "Radiating straight bands, upper-middle center section 14",
+      "order": 19
+    },
+    {
+      "id": 42,
+      "name": "Upper background wave panes, top center section 26",
+      "order": 55
+    },
+    {
+      "id": 43,
+      "name": "Upper background wave panes, top right section 29",
+      "order": 58
+    },
+    {
+      "id": 44,
+      "name": "Radiating straight bands, upper-middle left section 9",
+      "order": 14
+    },
+    {
+      "id": 45,
+      "name": "Upper background wave panes, top center section 27",
+      "order": 56
+    },
+    {
+      "id": 46,
+      "name": "Radiating straight bands, upper-middle center section 16",
+      "order": 21
+    },
+    {
+      "id": 47,
+      "name": "Radiating straight bands, upper-middle center section 19",
+      "order": 24
+    },
+    {
+      "id": 48,
+      "name": "Upper background wave panes, top center section 30",
+      "order": 59
+    },
+    {
+      "id": 49,
+      "name": "Upper background wave panes, upper-middle center section 31",
+      "order": 60
+    },
+    {
+      "id": 50,
+      "name": "Radiating straight bands, upper-middle right section 10",
+      "order": 15
+    },
+    {
+      "id": 51,
+      "name": "Upper background wave panes, upper-middle center section 32",
+      "order": 61
+    },
+    {
+      "id": 52,
+      "name": "Upper background wave panes, upper-middle right section 33",
+      "order": 62
+    },
+    {
+      "id": 53,
+      "name": "Upper background wave panes, upper-middle center section 34",
+      "order": 63
+    },
+    {
+      "id": 54,
+      "name": "Radiating straight bands, upper-middle left section 12",
+      "order": 17
+    },
+    {
+      "id": 55,
+      "name": "Upper background wave panes, upper-middle left section 35",
+      "order": 64
+    },
+    {
+      "id": 56,
+      "name": "Upper background wave panes, upper-middle left section 38",
+      "order": 67
+    },
+    {
+      "id": 57,
+      "name": "Upper background wave panes, upper-middle center section 36",
+      "order": 65
+    },
+    {
+      "id": 58,
+      "name": "Upper background wave panes, upper-middle right section 39",
+      "order": 68
+    },
+    {
+      "id": 59,
+      "name": "Upper background wave panes, upper-middle left section 40",
+      "order": 69
+    },
+    {
+      "id": 60,
+      "name": "Radiating straight bands, upper-middle center section 21",
+      "order": 26
+    },
+    {
+      "id": 61,
+      "name": "Radiating straight bands, upper-middle left section 20",
+      "order": 25
+    },
+    {
+      "id": 62,
+      "name": "Radiating straight bands, upper-middle center section 23",
+      "order": 28
+    },
+    {
+      "id": 63,
+      "name": "Radiating straight bands, upper-middle center section 22",
+      "order": 27
+    },
+    {
+      "id": 64,
+      "name": "Radiating straight bands, upper-middle center section 24",
+      "order": 29
+    },
+    {
+      "id": 65,
+      "name": "Radiating straight bands, upper-middle right section 18",
+      "order": 23
+    },
+    {
+      "id": 66,
+      "name": "Radiating straight bands, upper-middle left section 15",
+      "order": 20
+    },
+    {
+      "id": 67,
+      "name": "Radiating straight bands, upper-middle left section 17",
+      "order": 22
+    },
+    {
+      "id": 68,
+      "name": "Upper background wave panes, upper-middle right section 41",
+      "order": 70
+    },
+    {
+      "id": 69,
+      "name": "Middle curved divider and background, lower-middle center section 1",
+      "order": 71
+    },
+    {
+      "id": 70,
+      "name": "Middle curved divider and background, lower-middle right section 4",
+      "order": 74
+    },
+    {
+      "id": 71,
+      "name": "Middle curved divider and background, lower-middle left section 3",
+      "order": 73
+    },
+    {
+      "id": 72,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 3",
+      "order": 78
+    },
+    {
+      "id": 73,
+      "name": "Right figure's crown ribbons and beads, upper-middle right section 1",
+      "order": 76
+    },
+    {
+      "id": 74,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 2",
+      "order": 77
+    },
+    {
+      "id": 75,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 4",
+      "order": 79
+    },
+    {
+      "id": 76,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 1",
+      "order": 94
+    },
+    {
+      "id": 77,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 5",
+      "order": 80
+    },
+    {
+      "id": 78,
+      "name": "Middle curved divider and background, lower-middle center section 2",
+      "order": 72
+    },
+    {
+      "id": 79,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 6",
+      "order": 81
+    },
+    {
+      "id": 80,
+      "name": "Central lobed round motif",
+      "order": 107
+    },
+    {
+      "id": 81,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 3",
+      "order": 96
+    },
+    {
+      "id": 82,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 10",
+      "order": 85
+    },
+    {
+      "id": 83,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 9",
+      "order": 84
+    },
+    {
+      "id": 84,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 7",
+      "order": 82
+    },
+    {
+      "id": 85,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 8",
+      "order": 83
+    },
+    {
+      "id": 86,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 2",
+      "order": 95
+    },
+    {
+      "id": 87,
+      "name": "Central motif's closed outer openings, lower-middle center section 1",
+      "order": 108
+    },
+    {
+      "id": 88,
+      "name": "Central motif's closed outer openings, lower-middle center section 2",
+      "order": 109
+    },
+    {
+      "id": 89,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 13",
+      "order": 88
+    },
+    {
+      "id": 90,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 15",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 16",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 11",
+      "order": 86
+    },
+    {
+      "id": 93,
+      "name": "Central motif's closed outer openings, lower-middle center section 3",
+      "order": 110
+    },
+    {
+      "id": 94,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 5",
+      "order": 98
+    },
+    {
+      "id": 95,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 4",
+      "order": 97
+    },
+    {
+      "id": 96,
+      "name": "Central motif's nested center rings, lower-middle center section 2",
+      "order": 116
+    },
+    {
+      "id": 97,
+      "name": "Right figure's continuous face and beard",
+      "order": 117
+    },
+    {
+      "id": 98,
+      "name": "Central motif's closed outer openings, lower-middle center section 4",
+      "order": 111
+    },
+    {
+      "id": 99,
+      "name": "Central motif's nested center rings, lower-middle center section 1",
+      "order": 115
+    },
+    {
+      "id": 100,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 12",
+      "order": 87
+    },
+    {
+      "id": 101,
+      "name": "Left figure's face and beard",
+      "order": 125
+    },
+    {
+      "id": 102,
+      "name": "Central motif's closed outer openings, lower-middle center section 5",
+      "order": 112
+    },
+    {
+      "id": 103,
+      "name": "Right forehead's thin closed detail",
+      "order": 118
+    },
+    {
+      "id": 104,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 1",
+      "order": 126
+    },
+    {
+      "id": 105,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 14",
+      "order": 89
+    },
+    {
+      "id": 106,
+      "name": "Central motif's closed outer openings, lower-middle center section 6",
+      "order": 113
+    },
+    {
+      "id": 107,
+      "name": "Left figure's narrow closed eye-white band",
+      "order": 2
+    },
+    {
+      "id": 108,
+      "name": "Left figure's enclosed iris pane",
+      "order": 1
+    },
+    {
+      "id": 109,
+      "name": "Central motif's closed outer openings, lower-middle center section 7",
+      "order": 114
+    },
+    {
+      "id": 110,
+      "name": "Right figure's headdress neck and robe, bottom right section 3",
+      "order": 148
+    },
+    {
+      "id": 111,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 7",
+      "order": 100
+    },
+    {
+      "id": 112,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 17",
+      "order": 92
+    },
+    {
+      "id": 113,
+      "name": "Right figure's headdress neck and robe, lower-middle right section 2",
+      "order": 147
+    },
+    {
+      "id": 114,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 2",
+      "order": 127
+    },
+    {
+      "id": 115,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 8",
+      "order": 101
+    },
+    {
+      "id": 116,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 3",
+      "order": 128
+    },
+    {
+      "id": 117,
+      "name": "Right figure's moustache outline",
+      "order": 120
+    },
+    {
+      "id": 118,
+      "name": "Right figure's small nostril",
+      "order": 119
+    },
+    {
+      "id": 119,
+      "name": "Middle curved divider and background, lower-middle center section 5",
+      "order": 75
+    },
+    {
+      "id": 120,
+      "name": "Right figure's headdress neck and robe, lower-middle right section 1",
+      "order": 146
+    },
+    {
+      "id": 121,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 6",
+      "order": 99
+    },
+    {
+      "id": 122,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 4",
+      "order": 129
+    },
+    {
+      "id": 123,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 5",
+      "order": 130
+    },
+    {
+      "id": 124,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 6",
+      "order": 131
+    },
+    {
+      "id": 125,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 12",
+      "order": 137
+    },
+    {
+      "id": 126,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 7",
+      "order": 132
+    },
+    {
+      "id": 127,
+      "name": "Right figure's mouth and enclosed beard details, lower-middle right section 3",
+      "order": 123
+    },
+    {
+      "id": 128,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 8",
+      "order": 133
+    },
+    {
+      "id": 129,
+      "name": "Right figure's crown ribbons and beads, lower-middle right section 18",
+      "order": 93
+    },
+    {
+      "id": 130,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 9",
+      "order": 134
+    },
+    {
+      "id": 131,
+      "name": "Central motif's dangling bands and lower trim, bottom center section 16",
+      "order": 141
+    },
+    {
+      "id": 132,
+      "name": "Central motif's dangling bands and lower trim, bottom center section 14",
+      "order": 139
+    },
+    {
+      "id": 133,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 10",
+      "order": 135
+    },
+    {
+      "id": 134,
+      "name": "Central motif's dangling bands and lower trim, lower-middle center section 11",
+      "order": 136
+    },
+    {
+      "id": 135,
+      "name": "Right figure's mouth and enclosed beard details, lower-middle right section 1",
+      "order": 121
+    },
+    {
+      "id": 136,
+      "name": "Central motif's dangling bands and lower trim, bottom center section 17",
+      "order": 142
+    },
+    {
+      "id": 137,
+      "name": "Right figure's mouth and enclosed beard details, lower-middle right section 2",
+      "order": 122
+    },
+    {
+      "id": 138,
+      "name": "Central motif's dangling bands and lower trim, bottom center section 15",
+      "order": 140
+    },
+    {
+      "id": 139,
+      "name": "Central motif's dangling bands and lower trim, bottom center section 13",
+      "order": 138
+    },
+    {
+      "id": 140,
+      "name": "Right figure's headdress neck and robe, bottom right section 4",
+      "order": 149
+    },
+    {
+      "id": 141,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 10",
+      "order": 103
+    },
+    {
+      "id": 142,
+      "name": "Left figure's crown curls and enclosed details, bottom left section 11",
+      "order": 104
+    },
+    {
+      "id": 143,
+      "name": "Left figure's crown curls and enclosed details, lower-middle left section 9",
+      "order": 102
+    },
+    {
+      "id": 144,
+      "name": "Right figure's mouth and enclosed beard details, lower-middle right section 4",
+      "order": 124
+    },
+    {
+      "id": 145,
+      "name": "Left figure's crown curls and enclosed details, bottom left section 12",
+      "order": 105
+    },
+    {
+      "id": 146,
+      "name": "Right figure's headdress neck and robe, bottom right section 6",
+      "order": 151
+    },
+    {
+      "id": 147,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 5",
+      "order": 175
+    },
+    {
+      "id": 148,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 3",
+      "order": 173
+    },
+    {
+      "id": 149,
+      "name": "Left figure's crown curls and enclosed details, bottom left section 13",
+      "order": 106
+    },
+    {
+      "id": 150,
+      "name": "Right figure's headdress neck and robe, bottom right section 5",
+      "order": 150
+    },
+    {
+      "id": 151,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 4",
+      "order": 174
+    },
+    {
+      "id": 152,
+      "name": "Central motif's dangling bands and lower trim, bottom center section 18",
+      "order": 143
+    },
+    {
+      "id": 153,
+      "name": "Central motif's dangling bands and lower trim, bottom center section 19",
+      "order": 144
+    },
+    {
+      "id": 154,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 11",
+      "order": 181
+    },
+    {
+      "id": 155,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 2",
+      "order": 172
+    },
+    {
+      "id": 156,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 1",
+      "order": 171
+    },
+    {
+      "id": 157,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 12",
+      "order": 182
+    },
+    {
+      "id": 158,
+      "name": "Right figure's headdress neck and robe, bottom right section 7",
+      "order": 152
+    },
+    {
+      "id": 159,
+      "name": "Right figure's headdress neck and robe, bottom right section 8",
+      "order": 153
+    },
+    {
+      "id": 160,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 6",
+      "order": 176
+    },
+    {
+      "id": 161,
+      "name": "Right figure's headdress neck and robe, bottom center section 11",
+      "order": 156
+    },
+    {
+      "id": 162,
+      "name": "Right figure's headdress neck and robe, bottom right section 10",
+      "order": 155
+    },
+    {
+      "id": 163,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 17",
+      "order": 187
+    },
+    {
+      "id": 164,
+      "name": "Right figure's headdress neck and robe, bottom right section 9",
+      "order": 154
+    },
+    {
+      "id": 165,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 20",
+      "order": 190
+    },
+    {
+      "id": 166,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 16",
+      "order": 186
+    },
+    {
+      "id": 167,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 13",
+      "order": 183
+    },
+    {
+      "id": 168,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 14",
+      "order": 184
+    },
+    {
+      "id": 169,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 18",
+      "order": 188
+    },
+    {
+      "id": 170,
+      "name": "Central motif's dangling bands and lower trim, bottom center section 20",
+      "order": 145
+    },
+    {
+      "id": 171,
+      "name": "Left figure's shoulder ornament and robe, bottom left section 15",
+      "order": 185
+    },
+    {
+      "id": 172,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 8",
+      "order": 178
+    },
+    {
+      "id": 173,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 9",
+      "order": 179
+    },
+    {
+      "id": 174,
+      "name": "Right figure's headdress neck and robe, bottom right section 13",
+      "order": 158
+    },
+    {
+      "id": 175,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 10",
+      "order": 180
+    },
+    {
+      "id": 176,
+      "name": "Left figure's shoulder ornament and robe, bottom center section 7",
+      "order": 177
+    },
+    {
+      "id": 177,
+      "name": "Left figure's shoulder ornament and robe, bottom right section 19",
+      "order": 189
+    },
+    {
+      "id": 178,
+      "name": "Right figure's headdress neck and robe, bottom right section 12",
+      "order": 157
+    },
+    {
+      "id": 179,
+      "name": "Left figure's shoulder ornament and robe, bottom right section 21",
+      "order": 191
+    },
+    {
+      "id": 180,
+      "name": "Right figure's headdress neck and robe, bottom right section 14",
+      "order": 159
+    },
+    {
+      "id": 181,
+      "name": "Right figure's headdress neck and robe, bottom right section 16",
+      "order": 161
+    },
+    {
+      "id": 182,
+      "name": "Left figure's shoulder ornament and robe, bottom right section 22",
+      "order": 192
+    },
+    {
+      "id": 183,
+      "name": "Right figure's headdress neck and robe, bottom right section 15",
+      "order": 160
+    },
+    {
+      "id": 184,
+      "name": "Right figure's headdress neck and robe, bottom right section 17",
+      "order": 162
+    },
+    {
+      "id": 185,
+      "name": "Right figure's headdress neck and robe, bottom right section 19",
+      "order": 164
+    },
+    {
+      "id": 186,
+      "name": "Right figure's headdress neck and robe, bottom right section 18",
+      "order": 163
+    },
+    {
+      "id": 187,
+      "name": "Right figure's headdress neck and robe, bottom right section 20",
+      "order": 165
+    },
+    {
+      "id": 188,
+      "name": "Right figure's headdress neck and robe, bottom right section 23",
+      "order": 168
+    },
+    {
+      "id": 189,
+      "name": "Right figure's headdress neck and robe, bottom right section 22",
+      "order": 167
+    },
+    {
+      "id": 190,
+      "name": "Right figure's headdress neck and robe, bottom right section 21",
+      "order": 166
+    },
+    {
+      "id": 191,
+      "name": "Right figure's headdress neck and robe, bottom right section 24",
+      "order": 169
+    },
+    {
+      "id": 192,
+      "name": "Right figure's headdress neck and robe, bottom right section 25",
+      "order": 170
+    }
+  ],
+  "schemaVersion": 1
+}

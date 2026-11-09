@@ -1,0 +1,13 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Complete source and numbered overlay plus all eleven small-component crops inspected. Every listed tiny component is an isolated acute endpoint, cuff cusp or bowl-rim tip; exclude those eleven explicitly, not through a size filter. Upright fingers, bent finger, palm/thumb, wrist opening and three cuff bands remain separately bounded. Letter shapes and their enclosed counters remain separate from both large lettered fields. Flame curls, rounded contents in the bowl, bowl rim/body and the altar's beveled ledge and lower rectangular supports retain their boundaries. Large background panes around the hand and bowl remain continuous with open contour strokes. Names identify letters as visible text, without inferring the historical location. Source/canonical drawing pixels and the prior package remain unchanged. Explicit inspected tip IDs: 19,21,24,34,37,41,45,52,58,65,66. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

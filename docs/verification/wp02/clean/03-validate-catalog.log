@@ -1,0 +1,16 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> fcc-stained-glass@0.1.0 validate
+> node --import tsx scripts/validate-content.ts --stage catalog
+
+Catalog valid: 55 photographs, 48 designs, 110 source files verified (258074562 bytes).
+validate-content: passed. Report: .work/reports/validate-content-2026-11-06T20-47-07-418Z-4cc71d47.json
+{
+  "stage": "catalog",
+  "id": null,
+  "photoCount": 55,
+  "artworkCount": 48,
+  "sourceCount": 110,
+  "sourceBytes": 258074562,
+  "verifiedSourceCount": 110
+}

@@ -1,0 +1,777 @@
+{
+  "artworkId": "design-030",
+  "contentVersion": "95568c53f3e7fc7697077bbe58d1dee8c06e1679290eab34c04260ba757c6475",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Outer frame",
+      "order": 13
+    },
+    {
+      "id": 2,
+      "name": "Background and top flowing bands, top left section 2",
+      "order": 15
+    },
+    {
+      "id": 3,
+      "name": "Background and top flowing bands, top left section 7",
+      "order": 20
+    },
+    {
+      "id": 4,
+      "name": "Background and top flowing bands, top left section 4",
+      "order": 17
+    },
+    {
+      "id": 5,
+      "name": "Background and top flowing bands, top center section 3",
+      "order": 16
+    },
+    {
+      "id": 6,
+      "name": "Background and top flowing bands, top right section 5",
+      "order": 18
+    },
+    {
+      "id": 7,
+      "name": "Background and top flowing bands, top right section 1",
+      "order": 14
+    },
+    {
+      "id": 8,
+      "name": "Upper figure's continuous face and hair",
+      "order": 32
+    },
+    {
+      "id": 9,
+      "name": "Background and top flowing bands, top center section 6",
+      "order": 19
+    },
+    {
+      "id": 10,
+      "name": "Background and top flowing bands, top center section 9",
+      "order": 22
+    },
+    {
+      "id": 11,
+      "name": "Background and top flowing bands, top center section 14",
+      "order": 27
+    },
+    {
+      "id": 12,
+      "name": "Background and top flowing bands, top right section 10",
+      "order": 23
+    },
+    {
+      "id": 13,
+      "name": "Left wing feathers and enclosed triangles, top left section 1",
+      "order": 38
+    },
+    {
+      "id": 14,
+      "name": "Background and top flowing bands, top right section 17",
+      "order": 30
+    },
+    {
+      "id": 15,
+      "name": "Background and top flowing bands, top left section 8",
+      "order": 21
+    },
+    {
+      "id": 16,
+      "name": "Background and top flowing bands, top center section 11",
+      "order": 24
+    },
+    {
+      "id": 17,
+      "name": "Background and top flowing bands, top left section 12",
+      "order": 25
+    },
+    {
+      "id": 18,
+      "name": "Background and top flowing bands, top left section 13",
+      "order": 26
+    },
+    {
+      "id": 19,
+      "name": "Background and top flowing bands, top center section 15",
+      "order": 28
+    },
+    {
+      "id": 20,
+      "name": "Background and top flowing bands, top right section 16",
+      "order": 29
+    },
+    {
+      "id": 21,
+      "name": "Background and top flowing bands, upper-middle right section 18",
+      "order": 31
+    },
+    {
+      "id": 22,
+      "name": "Left wing feathers and enclosed triangles, top left section 2",
+      "order": 39
+    },
+    {
+      "id": 23,
+      "name": "Left wing feathers and enclosed triangles, top left section 4",
+      "order": 41
+    },
+    {
+      "id": 24,
+      "name": "Left wing feathers and enclosed triangles, top center section 17",
+      "order": 54
+    },
+    {
+      "id": 25,
+      "name": "Left wing feathers and enclosed triangles, top left section 3",
+      "order": 40
+    },
+    {
+      "id": 26,
+      "name": "Left wing feathers and enclosed triangles, top center section 7",
+      "order": 44
+    },
+    {
+      "id": 27,
+      "name": "Right wing feathers and narrow enclosed details, top center section 1",
+      "order": 67
+    },
+    {
+      "id": 28,
+      "name": "Left wing feathers and enclosed triangles, top left section 5",
+      "order": 42
+    },
+    {
+      "id": 29,
+      "name": "Left wing feathers and enclosed triangles, top left section 8",
+      "order": 45
+    },
+    {
+      "id": 30,
+      "name": "Left wing feathers and enclosed triangles, top left section 6",
+      "order": 43
+    },
+    {
+      "id": 31,
+      "name": "Right wing feathers and narrow enclosed details, top right section 11",
+      "order": 77
+    },
+    {
+      "id": 32,
+      "name": "Left wing feathers and enclosed triangles, top left section 12",
+      "order": 49
+    },
+    {
+      "id": 33,
+      "name": "Left wing feathers and enclosed triangles, top left section 9",
+      "order": 46
+    },
+    {
+      "id": 34,
+      "name": "Left wing feathers and enclosed triangles, top right section 13",
+      "order": 50
+    },
+    {
+      "id": 35,
+      "name": "Left wing feathers and enclosed triangles, top left section 10",
+      "order": 47
+    },
+    {
+      "id": 36,
+      "name": "Left wing feathers and enclosed triangles, top left section 11",
+      "order": 48
+    },
+    {
+      "id": 37,
+      "name": "Upper head's enclosed curl and temple panes, top left section 1",
+      "order": 151
+    },
+    {
+      "id": 38,
+      "name": "Upper head's enclosed curl and temple panes, top left section 2",
+      "order": 152
+    },
+    {
+      "id": 39,
+      "name": "Left wing feathers and enclosed triangles, top left section 15",
+      "order": 52
+    },
+    {
+      "id": 40,
+      "name": "Right wing feathers and narrow enclosed details, top right section 2",
+      "order": 68
+    },
+    {
+      "id": 41,
+      "name": "Left wing feathers and enclosed triangles, top left section 14",
+      "order": 51
+    },
+    {
+      "id": 42,
+      "name": "Right wing feathers and narrow enclosed details, top center section 4",
+      "order": 70
+    },
+    {
+      "id": 43,
+      "name": "Left wing feathers and enclosed triangles, top left section 16",
+      "order": 53
+    },
+    {
+      "id": 44,
+      "name": "Right wing feathers and narrow enclosed details, top center section 3",
+      "order": 69
+    },
+    {
+      "id": 45,
+      "name": "Left wing feathers and enclosed triangles, top left section 18",
+      "order": 55
+    },
+    {
+      "id": 46,
+      "name": "Left wing feathers and enclosed triangles, top left section 19",
+      "order": 56
+    },
+    {
+      "id": 47,
+      "name": "Left wing feathers and enclosed triangles, top left section 20",
+      "order": 57
+    },
+    {
+      "id": 48,
+      "name": "Left wing feathers and enclosed triangles, top right section 29",
+      "order": 66
+    },
+    {
+      "id": 49,
+      "name": "Upper figure's ear dot",
+      "order": 33
+    },
+    {
+      "id": 50,
+      "name": "Right wing feathers and narrow enclosed details, top center section 8",
+      "order": 74
+    },
+    {
+      "id": 51,
+      "name": "Right wing feathers and narrow enclosed details, top right section 7",
+      "order": 73
+    },
+    {
+      "id": 52,
+      "name": "Right wing feathers and narrow enclosed details, top left section 5",
+      "order": 71
+    },
+    {
+      "id": 53,
+      "name": "Upper figure's eye-white and iris panes, top center section 1",
+      "order": 34
+    },
+    {
+      "id": 54,
+      "name": "Left wing feathers and enclosed triangles, top left section 23",
+      "order": 60
+    },
+    {
+      "id": 55,
+      "name": "Left wing feathers and enclosed triangles, top left section 25",
+      "order": 62
+    },
+    {
+      "id": 56,
+      "name": "Left wing feathers and enclosed triangles, top left section 21",
+      "order": 58
+    },
+    {
+      "id": 57,
+      "name": "Right wing feathers and narrow enclosed details, top center section 12",
+      "order": 78
+    },
+    {
+      "id": 58,
+      "name": "Right wing feathers and narrow enclosed details, top center section 6",
+      "order": 72
+    },
+    {
+      "id": 59,
+      "name": "Left wing feathers and enclosed triangles, top left section 22",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Upper figure's eye-white and iris panes, top center section 3",
+      "order": 36
+    },
+    {
+      "id": 61,
+      "name": "Upper head's enclosed curl and temple panes, top center section 3",
+      "order": 153
+    },
+    {
+      "id": 62,
+      "name": "Upper figure's eye-white and iris panes, top center section 2",
+      "order": 35
+    },
+    {
+      "id": 63,
+      "name": "Left wing feathers and enclosed triangles, top left section 24",
+      "order": 61
+    },
+    {
+      "id": 64,
+      "name": "Pane below the upper figure's left ear",
+      "order": 154
+    },
+    {
+      "id": 65,
+      "name": "Left wing feathers and enclosed triangles, top left section 27",
+      "order": 64
+    },
+    {
+      "id": 66,
+      "name": "Left wing feathers and enclosed triangles, top left section 26",
+      "order": 63
+    },
+    {
+      "id": 67,
+      "name": "Left wing feathers and enclosed triangles, top left section 28",
+      "order": 65
+    },
+    {
+      "id": 68,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle left section 4",
+      "order": 84
+    },
+    {
+      "id": 69,
+      "name": "Right wing feathers and narrow enclosed details, top left section 10",
+      "order": 76
+    },
+    {
+      "id": 70,
+      "name": "Right wing feathers and narrow enclosed details, top center section 9",
+      "order": 75
+    },
+    {
+      "id": 71,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle center section 3",
+      "order": 83
+    },
+    {
+      "id": 72,
+      "name": "Cloud curls and surrounding flowing bands, top center section 1",
+      "order": 81
+    },
+    {
+      "id": 73,
+      "name": "Upper figure's small closed mouth slit",
+      "order": 37
+    },
+    {
+      "id": 74,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle center section 2",
+      "order": 82
+    },
+    {
+      "id": 75,
+      "name": "Right wing feathers and narrow enclosed details, upper-middle left section 14",
+      "order": 80
+    },
+    {
+      "id": 76,
+      "name": "Right wing feathers and narrow enclosed details, upper-middle center section 13",
+      "order": 79
+    },
+    {
+      "id": 77,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle left section 5",
+      "order": 85
+    },
+    {
+      "id": 78,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle right section 8",
+      "order": 88
+    },
+    {
+      "id": 79,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle left section 7",
+      "order": 87
+    },
+    {
+      "id": 80,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle center section 6",
+      "order": 86
+    },
+    {
+      "id": 81,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle left section 10",
+      "order": 90
+    },
+    {
+      "id": 82,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle left section 9",
+      "order": 89
+    },
+    {
+      "id": 83,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle left section 11",
+      "order": 91
+    },
+    {
+      "id": 84,
+      "name": "Cloud curls and surrounding flowing bands, upper-middle right section 12",
+      "order": 92
+    },
+    {
+      "id": 85,
+      "name": "Cloud curls and surrounding flowing bands, lower-middle left section 13",
+      "order": 93
+    },
+    {
+      "id": 86,
+      "name": "Cloud curls and surrounding flowing bands, lower-middle right section 15",
+      "order": 95
+    },
+    {
+      "id": 87,
+      "name": "Cloud curls and surrounding flowing bands, lower-middle left section 14",
+      "order": 94
+    },
+    {
+      "id": 88,
+      "name": "Veil outline and enclosed fold details, lower-middle right section 4",
+      "order": 101
+    },
+    {
+      "id": 89,
+      "name": "Veil outline and enclosed fold details, lower-middle right section 6",
+      "order": 103
+    },
+    {
+      "id": 90,
+      "name": "Veil outline and enclosed fold details, lower-middle left section 8",
+      "order": 105
+    },
+    {
+      "id": 91,
+      "name": "Lower figure's face",
+      "order": 96
+    },
+    {
+      "id": 92,
+      "name": "Lower figure's eye-white corner",
+      "order": 97
+    },
+    {
+      "id": 93,
+      "name": "Veil outline and enclosed fold details, lower-middle center section 1",
+      "order": 98
+    },
+    {
+      "id": 94,
+      "name": "Hands fingertips and closed finger gaps, lower-middle center section 7",
+      "order": 120
+    },
+    {
+      "id": 95,
+      "name": "Veil outline and enclosed fold details, lower-middle right section 2",
+      "order": 99
+    },
+    {
+      "id": 96,
+      "name": "Hands fingertips and closed finger gaps, lower-middle center section 1",
+      "order": 114
+    },
+    {
+      "id": 97,
+      "name": "Hands fingertips and closed finger gaps, lower-middle center section 2",
+      "order": 115
+    },
+    {
+      "id": 98,
+      "name": "Right border curved bands and architectural panels, lower-middle right section 1",
+      "order": 124
+    },
+    {
+      "id": 99,
+      "name": "Hands fingertips and closed finger gaps, lower-middle center section 4",
+      "order": 117
+    },
+    {
+      "id": 100,
+      "name": "Right border curved bands and architectural panels, lower-middle right section 4",
+      "order": 127
+    },
+    {
+      "id": 101,
+      "name": "Veil outline and enclosed fold details, lower-middle center section 3",
+      "order": 100
+    },
+    {
+      "id": 102,
+      "name": "Hands fingertips and closed finger gaps, lower-middle left section 3",
+      "order": 116
+    },
+    {
+      "id": 103,
+      "name": "Right border curved bands and architectural panels, lower-middle right section 2",
+      "order": 125
+    },
+    {
+      "id": 104,
+      "name": "Right border curved bands and architectural panels, lower-middle right section 3",
+      "order": 126
+    },
+    {
+      "id": 105,
+      "name": "Hands fingertips and closed finger gaps, lower-middle center section 8",
+      "order": 121
+    },
+    {
+      "id": 106,
+      "name": "Hands fingertips and closed finger gaps, lower-middle left section 5",
+      "order": 118
+    },
+    {
+      "id": 107,
+      "name": "Veil outline and enclosed fold details, lower-middle center section 5",
+      "order": 102
+    },
+    {
+      "id": 108,
+      "name": "Hands fingertips and closed finger gaps, lower-middle center section 6",
+      "order": 119
+    },
+    {
+      "id": 109,
+      "name": "Hands fingertips and closed finger gaps, lower-middle left section 9",
+      "order": 122
+    },
+    {
+      "id": 110,
+      "name": "Flower petals and center ring, lower-middle left section 1",
+      "order": 1
+    },
+    {
+      "id": 111,
+      "name": "Veil outline and enclosed fold details, lower-middle center section 7",
+      "order": 104
+    },
+    {
+      "id": 112,
+      "name": "Veil outline and enclosed fold details, lower-middle center section 9",
+      "order": 106
+    },
+    {
+      "id": 113,
+      "name": "Veil outline and enclosed fold details, lower-middle center section 10",
+      "order": 107
+    },
+    {
+      "id": 114,
+      "name": "Flower petals and center ring, lower-middle left section 2",
+      "order": 2
+    },
+    {
+      "id": 115,
+      "name": "Flower's five closed dots, lower-middle left section 1",
+      "order": 8
+    },
+    {
+      "id": 116,
+      "name": "Flower petals and center ring, lower-middle left section 4",
+      "order": 4
+    },
+    {
+      "id": 117,
+      "name": "Flower petals and center ring, lower-middle left section 5",
+      "order": 5
+    },
+    {
+      "id": 118,
+      "name": "Flower petals and center ring, lower-middle left section 3",
+      "order": 3
+    },
+    {
+      "id": 119,
+      "name": "Flower's five closed dots, lower-middle left section 2",
+      "order": 9
+    },
+    {
+      "id": 120,
+      "name": "Flower's five closed dots, lower-middle left section 3",
+      "order": 10
+    },
+    {
+      "id": 121,
+      "name": "Veil outline and enclosed fold details, lower-middle center section 11",
+      "order": 108
+    },
+    {
+      "id": 122,
+      "name": "Flower petals and center ring, bottom left section 6",
+      "order": 6
+    },
+    {
+      "id": 123,
+      "name": "Flower petals and center ring, bottom left section 7",
+      "order": 7
+    },
+    {
+      "id": 124,
+      "name": "Veil outline and enclosed fold details, bottom center section 15",
+      "order": 112
+    },
+    {
+      "id": 125,
+      "name": "Flower's five closed dots, bottom left section 4",
+      "order": 11
+    },
+    {
+      "id": 126,
+      "name": "Flower's five closed dots, bottom left section 5",
+      "order": 12
+    },
+    {
+      "id": 127,
+      "name": "Hands fingertips and closed finger gaps, bottom center section 10",
+      "order": 123
+    },
+    {
+      "id": 128,
+      "name": "Right border curved bands and architectural panels, bottom right section 5",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Leaves stem and lower background, bottom left section 2",
+      "order": 142
+    },
+    {
+      "id": 130,
+      "name": "Leaves stem and lower background, bottom left section 1",
+      "order": 141
+    },
+    {
+      "id": 131,
+      "name": "Right border curved bands and architectural panels, bottom right section 10",
+      "order": 133
+    },
+    {
+      "id": 132,
+      "name": "Lower figure's sleeve and cuff",
+      "order": 150
+    },
+    {
+      "id": 133,
+      "name": "Right border curved bands and architectural panels, bottom right section 6",
+      "order": 129
+    },
+    {
+      "id": 134,
+      "name": "Right border curved bands and architectural panels, bottom right section 7",
+      "order": 130
+    },
+    {
+      "id": 135,
+      "name": "Veil outline and enclosed fold details, bottom center section 13",
+      "order": 110
+    },
+    {
+      "id": 136,
+      "name": "Right border curved bands and architectural panels, bottom right section 8",
+      "order": 131
+    },
+    {
+      "id": 137,
+      "name": "Right border curved bands and architectural panels, bottom right section 9",
+      "order": 132
+    },
+    {
+      "id": 138,
+      "name": "Right border curved bands and architectural panels, bottom right section 11",
+      "order": 134
+    },
+    {
+      "id": 139,
+      "name": "Veil outline and enclosed fold details, bottom center section 12",
+      "order": 109
+    },
+    {
+      "id": 140,
+      "name": "Veil outline and enclosed fold details, bottom center section 14",
+      "order": 111
+    },
+    {
+      "id": 141,
+      "name": "Right border curved bands and architectural panels, bottom right section 12",
+      "order": 135
+    },
+    {
+      "id": 142,
+      "name": "Right border curved bands and architectural panels, bottom right section 13",
+      "order": 136
+    },
+    {
+      "id": 143,
+      "name": "Leaves stem and lower background, bottom left section 4",
+      "order": 144
+    },
+    {
+      "id": 144,
+      "name": "Leaves stem and lower background, bottom left section 3",
+      "order": 143
+    },
+    {
+      "id": 145,
+      "name": "Right border curved bands and architectural panels, bottom right section 14",
+      "order": 137
+    },
+    {
+      "id": 146,
+      "name": "Leaves stem and lower background, bottom left section 5",
+      "order": 145
+    },
+    {
+      "id": 147,
+      "name": "Right border curved bands and architectural panels, bottom right section 15",
+      "order": 138
+    },
+    {
+      "id": 148,
+      "name": "Leaves stem and lower background, bottom left section 6",
+      "order": 146
+    },
+    {
+      "id": 149,
+      "name": "Right border curved bands and architectural panels, bottom right section 16",
+      "order": 139
+    },
+    {
+      "id": 150,
+      "name": "Leaves stem and lower background, bottom left section 7",
+      "order": 147
+    },
+    {
+      "id": 151,
+      "name": "Right border curved bands and architectural panels, bottom right section 17",
+      "order": 140
+    },
+    {
+      "id": 152,
+      "name": "Leaves stem and lower background, bottom left section 8",
+      "order": 148
+    },
+    {
+      "id": 153,
+      "name": "Veil outline and enclosed fold details, bottom center section 16",
+      "order": 113
+    },
+    {
+      "id": 154,
+      "name": "Leaves stem and lower background, bottom center section 9",
+      "order": 149
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,532 @@
+{
+  "artworkId": "design-021",
+  "contentVersion": "d017a1fe8d2207f80f3c039bc77815aa1e3221db3569545f0fa96cf9c0acaae1",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper background around the long cloud, top center section 3",
+      "order": 3
+    },
+    {
+      "id": 2,
+      "name": "Background beside the camel, top right section 2",
+      "order": 6
+    },
+    {
+      "id": 3,
+      "name": "Upper background around the long cloud, top left section 2",
+      "order": 2
+    },
+    {
+      "id": 4,
+      "name": "Upper background around the long cloud, top center section 1",
+      "order": 1
+    },
+    {
+      "id": 5,
+      "name": "Camel's forehead patch and head, top right section 1",
+      "order": 8
+    },
+    {
+      "id": 6,
+      "name": "Background beside the camel, top center section 1",
+      "order": 5
+    },
+    {
+      "id": 7,
+      "name": "Upper background around the long cloud, top left section 4",
+      "order": 4
+    },
+    {
+      "id": 8,
+      "name": "Camel's forehead patch and head, top right section 2",
+      "order": 9
+    },
+    {
+      "id": 9,
+      "name": "Camel's saddle frame and broad panels, top left section 7",
+      "order": 17
+    },
+    {
+      "id": 10,
+      "name": "Camel's saddle frame and broad panels, top left section 2",
+      "order": 12
+    },
+    {
+      "id": 11,
+      "name": "Small enclosed saddle corner",
+      "order": 19
+    },
+    {
+      "id": 12,
+      "name": "Camel's saddle frame and broad panels, top right section 1",
+      "order": 11
+    },
+    {
+      "id": 13,
+      "name": "Camel's saddle frame and broad panels, top left section 3",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Camel's saddle frame and broad panels, top left section 4",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Camel's muzzle",
+      "order": 10
+    },
+    {
+      "id": 16,
+      "name": "Camel's saddle frame and broad panels, top left section 5",
+      "order": 15
+    },
+    {
+      "id": 17,
+      "name": "Camel's saddle frame and broad panels, top center section 6",
+      "order": 16
+    },
+    {
+      "id": 18,
+      "name": "Camel's saddle frame and broad panels, top left section 8",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Camel's iris crescent",
+      "order": 21
+    },
+    {
+      "id": 20,
+      "name": "Camel's eye white",
+      "order": 22
+    },
+    {
+      "id": 21,
+      "name": "Camel's bridle straps, joint and small spaces, top right section 2",
+      "order": 24
+    },
+    {
+      "id": 22,
+      "name": "Camel's bridle straps, joint and small spaces, top right section 1",
+      "order": 23
+    },
+    {
+      "id": 23,
+      "name": "Camel's neck panes, upper-middle right section 1",
+      "order": 28
+    },
+    {
+      "id": 24,
+      "name": "Camel's bridle straps, joint and small spaces, top right section 3",
+      "order": 25
+    },
+    {
+      "id": 25,
+      "name": "Narrow curved saddle stripe",
+      "order": 20
+    },
+    {
+      "id": 26,
+      "name": "Camel's neck panes, upper-middle right section 2",
+      "order": 29
+    },
+    {
+      "id": 27,
+      "name": "Camel's bridle straps, joint and small spaces, upper-middle right section 5",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Camel's bridle straps, joint and small spaces, upper-middle right section 4",
+      "order": 26
+    },
+    {
+      "id": 29,
+      "name": "Small enclosed camel jaw detail",
+      "order": 30
+    },
+    {
+      "id": 30,
+      "name": "Background beside the camel, upper-middle right section 3",
+      "order": 7
+    },
+    {
+      "id": 31,
+      "name": "Curved divider around the camel and figure",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Background surrounding the person's head",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Person's face, torso and arms",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Background and clothing panes beside the pointing hand, upper-middle left section 1",
+      "order": 36
+    },
+    {
+      "id": 35,
+      "name": "Hair curls and separate spaces around the head, upper-middle center section 1",
+      "order": 43
+    },
+    {
+      "id": 36,
+      "name": "Background and clothing panes beside the pointing hand, upper-middle left section 3",
+      "order": 38
+    },
+    {
+      "id": 37,
+      "name": "Hair curls and separate spaces around the head, upper-middle center section 2",
+      "order": 44
+    },
+    {
+      "id": 38,
+      "name": "Hair curls and separate spaces around the head, upper-middle center section 3",
+      "order": 45
+    },
+    {
+      "id": 39,
+      "name": "Background and clothing panes beside the pointing hand, upper-middle left section 2",
+      "order": 37
+    },
+    {
+      "id": 40,
+      "name": "Long pane below the pointing hand",
+      "order": 35
+    },
+    {
+      "id": 41,
+      "name": "Hair curls and separate spaces around the head, upper-middle center section 4",
+      "order": 46
+    },
+    {
+      "id": 42,
+      "name": "Person's left eye highlight",
+      "order": 50
+    },
+    {
+      "id": 43,
+      "name": "Large pointing hand at the left",
+      "order": 34
+    },
+    {
+      "id": 44,
+      "name": "Background and clothing panes beside the pointing hand, upper-middle left section 7",
+      "order": 42
+    },
+    {
+      "id": 45,
+      "name": "Person's right eye white",
+      "order": 51
+    },
+    {
+      "id": 46,
+      "name": "Person's right eye crescent",
+      "order": 52
+    },
+    {
+      "id": 47,
+      "name": "Hair curls and separate spaces around the head, upper-middle center section 5",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Background and clothing panes beside the pointing hand, upper-middle center section 4",
+      "order": 39
+    },
+    {
+      "id": 49,
+      "name": "Small upper mouth slit",
+      "order": 53
+    },
+    {
+      "id": 50,
+      "name": "Large inner mouth pane",
+      "order": 54
+    },
+    {
+      "id": 51,
+      "name": "Background and clothing panes beside the pointing hand, upper-middle left section 5",
+      "order": 40
+    },
+    {
+      "id": 52,
+      "name": "Background and clothing panes beside the pointing hand, upper-middle left section 6",
+      "order": 41
+    },
+    {
+      "id": 53,
+      "name": "Hair curls and separate spaces around the head, upper-middle center section 6",
+      "order": 48
+    },
+    {
+      "id": 54,
+      "name": "Small lower mouth slit",
+      "order": 55
+    },
+    {
+      "id": 55,
+      "name": "Hair curls and separate spaces around the head, upper-middle center section 7",
+      "order": 49
+    },
+    {
+      "id": 56,
+      "name": "Curved background and garment outlines, lower-middle left section 2",
+      "order": 57
+    },
+    {
+      "id": 57,
+      "name": "Curved background and garment outlines, lower-middle left section 4",
+      "order": 59
+    },
+    {
+      "id": 58,
+      "name": "Enclosed pane beneath the crossed arm",
+      "order": 67
+    },
+    {
+      "id": 59,
+      "name": "Curved background and garment outlines, lower-middle right section 3",
+      "order": 58
+    },
+    {
+      "id": 60,
+      "name": "Curved background and garment outlines, lower-middle center section 1",
+      "order": 56
+    },
+    {
+      "id": 61,
+      "name": "Robe and belt, lower-middle center section 1",
+      "order": 68
+    },
+    {
+      "id": 62,
+      "name": "Curved background and garment outlines, lower-middle center section 5",
+      "order": 60
+    },
+    {
+      "id": 63,
+      "name": "Enclosed spaces between the extended fingers, lower-middle right section 1",
+      "order": 71
+    },
+    {
+      "id": 64,
+      "name": "Enclosed spaces between the extended fingers, lower-middle right section 2",
+      "order": 72
+    },
+    {
+      "id": 65,
+      "name": "Narrow left garment edge",
+      "order": 75
+    },
+    {
+      "id": 66,
+      "name": "Enclosed spaces between the extended fingers, lower-middle right section 3",
+      "order": 73
+    },
+    {
+      "id": 67,
+      "name": "Robe and belt, lower-middle center section 2",
+      "order": 69
+    },
+    {
+      "id": 68,
+      "name": "Enclosed spaces between the extended fingers, lower-middle right section 4",
+      "order": 74
+    },
+    {
+      "id": 69,
+      "name": "Robe and belt, lower-middle center section 3",
+      "order": 70
+    },
+    {
+      "id": 70,
+      "name": "Upper belt gap",
+      "order": 76
+    },
+    {
+      "id": 71,
+      "name": "Curved background and garment outlines, bottom right section 8",
+      "order": 63
+    },
+    {
+      "id": 72,
+      "name": "Lower belt gap",
+      "order": 77
+    },
+    {
+      "id": 73,
+      "name": "Small closed belt-end gap",
+      "order": 78
+    },
+    {
+      "id": 74,
+      "name": "Curved background and garment outlines, lower-middle right section 6",
+      "order": 61
+    },
+    {
+      "id": 75,
+      "name": "Curved background and garment outlines, lower-middle right section 7",
+      "order": 62
+    },
+    {
+      "id": 76,
+      "name": "Right leg and foot",
+      "order": 79
+    },
+    {
+      "id": 77,
+      "name": "Small enclosed space at the right knee",
+      "order": 80
+    },
+    {
+      "id": 78,
+      "name": "Left leg and foot, bottom left section 1",
+      "order": 81
+    },
+    {
+      "id": 79,
+      "name": "Curved background and garment outlines, bottom center section 10",
+      "order": 65
+    },
+    {
+      "id": 80,
+      "name": "Pouch mouth and small slit, bottom right section 2",
+      "order": 84
+    },
+    {
+      "id": 81,
+      "name": "Left leg and foot, bottom left section 2",
+      "order": 82
+    },
+    {
+      "id": 82,
+      "name": "Pouch mouth and small slit, bottom right section 1",
+      "order": 83
+    },
+    {
+      "id": 83,
+      "name": "Pouch beads and hanging loop, bottom right section 2",
+      "order": 87
+    },
+    {
+      "id": 84,
+      "name": "Pouch beads and hanging loop, bottom right section 1",
+      "order": 86
+    },
+    {
+      "id": 85,
+      "name": "Pouch beads and hanging loop, bottom right section 3",
+      "order": 88
+    },
+    {
+      "id": 86,
+      "name": "Pouch beads and hanging loop, bottom right section 4",
+      "order": 89
+    },
+    {
+      "id": 87,
+      "name": "Pouch beads and hanging loop, bottom right section 5",
+      "order": 90
+    },
+    {
+      "id": 88,
+      "name": "Pouch beads and hanging loop, bottom right section 6",
+      "order": 91
+    },
+    {
+      "id": 89,
+      "name": "Pouch beads and hanging loop, bottom right section 7",
+      "order": 92
+    },
+    {
+      "id": 90,
+      "name": "Pouch body",
+      "order": 85
+    },
+    {
+      "id": 91,
+      "name": "Curved background and garment outlines, bottom right section 9",
+      "order": 64
+    },
+    {
+      "id": 92,
+      "name": "Pouch beads and hanging loop, bottom right section 8",
+      "order": 93
+    },
+    {
+      "id": 93,
+      "name": "Pouch beads and hanging loop, bottom right section 9",
+      "order": 94
+    },
+    {
+      "id": 94,
+      "name": "Pouch beads and hanging loop, bottom right section 10",
+      "order": 95
+    },
+    {
+      "id": 95,
+      "name": "Pouch beads and hanging loop, bottom right section 11",
+      "order": 96
+    },
+    {
+      "id": 96,
+      "name": "Pouch beads and hanging loop, bottom right section 12",
+      "order": 97
+    },
+    {
+      "id": 97,
+      "name": "Pouch beads and hanging loop, bottom right section 13",
+      "order": 98
+    },
+    {
+      "id": 98,
+      "name": "Pouch beads and hanging loop, bottom right section 14",
+      "order": 99
+    },
+    {
+      "id": 99,
+      "name": "Curved background and garment outlines, bottom right section 11",
+      "order": 66
+    },
+    {
+      "id": 100,
+      "name": "Ground panes beneath the feet, bottom center section 1",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Ground panes beneath the feet, bottom center section 2",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Ground panes beneath the feet, bottom left section 4",
+      "order": 103
+    },
+    {
+      "id": 103,
+      "name": "Ground panes beneath the feet, bottom left section 3",
+      "order": 102
+    },
+    {
+      "id": 104,
+      "name": "Closed spaces beneath the toes, bottom center section 1",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Closed spaces beneath the toes, bottom left section 2",
+      "order": 105
+    }
+  ],
+  "schemaVersion": 1
+}

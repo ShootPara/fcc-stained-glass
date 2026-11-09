@@ -1,0 +1,3241 @@
+{
+  "artworks": [
+    {
+      "bookNumber": 1,
+      "citations": [
+        {
+          "locator": "h28.txt [P0054]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 1",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-002",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-002"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full photograph: star, crescent, sun rays, curved band, and waves.",
+            "sourceId": "photo-002"
+          },
+          {
+            "section": "Full coloring drawing: corresponding composition and distinctive outlines.",
+            "sourceId": "design-002"
+          }
+        ],
+        "rationale": "Direct visual comparison confirms the five-point star at the upper left, the crescent at the upper right, distinctive curled sun rays, the central sweeping band, and the lower waves. The coloring drawing simplifies glass textures and some outlines.",
+        "value": "photo-002"
+      },
+      "publicDescription": "A sun below a star and a crescent moon, with curved bands and waves. Likely historical subject: Sun, Moon, Stars, Earth and Water (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-002",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Sun, crescent, star and water match the named creation symbols.",
+            "sourceId": "design-002"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-002"
+          },
+          {
+            "locator": "h28.txt [P0054]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 1",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Sun, crescent, star and water match the named creation symbols.",
+        "value": [
+          "h28-window-01-subject-01"
+        ]
+      },
+      "title": "Sun, moon, star and waves"
+    },
+    {
+      "bookNumber": 2,
+      "citations": [
+        {
+          "locator": "h28.txt [P0055]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 1",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-003",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-003"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-003"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-003"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Fish rises diagonally from curled waves beneath a rainbow with dotted arc and zigzag band. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-003"
+      },
+      "publicDescription": "The drawing shows fish, rainbow and waves. Likely historical subject: Creation of the Fishes (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-003",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A prominent fish rises through water beneath a rainbow.",
+            "sourceId": "design-003"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-003"
+          },
+          {
+            "locator": "h28.txt [P0055]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 1",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A prominent fish rises through water beneath a rainbow.",
+        "value": [
+          "h28-window-01-subject-02"
+        ]
+      },
+      "title": "Fish, rainbow and waves"
+    },
+    {
+      "bookNumber": 3,
+      "citations": [
+        {
+          "locator": "h28.txt [P0056]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 1",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-004",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-004"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-004"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-004"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Seated monkey has curled tail and raised head; winged bird occupies the right-hand diagonal panel beneath leaves. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-004"
+      },
+      "publicDescription": "The drawing shows monkey and winged bird. Likely historical subject: Creation of the Animals on Land No. 1 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-004",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Monkey and winged bird among leaves fit the first land-animal scene. The two creation-animal entries are not individually described, so this is an inference.",
+            "sourceId": "design-004"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-004"
+          },
+          {
+            "locator": "h28.txt [P0056]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 1",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Monkey and winged bird among leaves fit the first land-animal scene. The two creation-animal entries are not individually described, so this is an inference.",
+        "value": [
+          "h28-window-01-subject-03"
+        ]
+      },
+      "title": "Monkey and winged bird"
+    },
+    {
+      "bookNumber": 4,
+      "citations": [
+        {
+          "locator": "h28.txt [P0057]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 1",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-005",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-005"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-005"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-005"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Lion sits at lower left, elephant trunk curls at right, and a small monkey hangs from a branch above. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-005"
+      },
+      "publicDescription": "The drawing shows lion, elephant and small monkey. Likely historical subject: Creation of the Animals on Land No. 2 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-005",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Lion, elephant and small monkey fit the second land-animal scene; its distinction from the first entry remains inferred.",
+            "sourceId": "design-005"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-005"
+          },
+          {
+            "locator": "h28.txt [P0057]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 1",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Lion, elephant and small monkey fit the second land-animal scene; its distinction from the first entry remains inferred.",
+        "value": [
+          "h28-window-01-subject-04"
+        ]
+      },
+      "title": "Lion, elephant and small monkey"
+    },
+    {
+      "bookNumber": 5,
+      "citations": [
+        {
+          "locator": "h28.txt [P0061]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 2",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-006",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-006"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-006"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-006"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Two faces sit beneath an arch of leaves; a fish occupies the lower left and a curved shape separates the faces. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-006"
+      },
+      "publicDescription": "The drawing shows two figures, leaves and fish. Likely historical subject: Eve giving the apple to Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-006",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Two faces meet beneath a fruit-bearing tree; one holds the round fruit toward the other.",
+            "sourceId": "design-006"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-006"
+          },
+          {
+            "locator": "h28.txt [P0061]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 2",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Two faces meet beneath a fruit-bearing tree; one holds the round fruit toward the other.",
+        "value": [
+          "h28-window-02-subject-07"
+        ]
+      },
+      "title": "Two figures, leaves and fish"
+    },
+    {
+      "bookNumber": 6,
+      "citations": [
+        {
+          "locator": "h28.txt [P0059]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 2",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-007",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-007"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-007"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-007"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Writing hand points toward a diagonal lettered strip; a bearded reclining figure lies below wavy panels. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-007"
+      },
+      "publicDescription": "The drawing shows writing hand and bearded figure. Likely historical subject: Creation of Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-007",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A hand descends from above toward a reclining bearded man, supporting creation of Adam rather than a writing scene.",
+            "sourceId": "design-007"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-007"
+          },
+          {
+            "locator": "h28.txt [P0059]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 2",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A hand descends from above toward a reclining bearded man, supporting creation of Adam rather than a writing scene.",
+        "value": [
+          "h28-window-02-subject-05"
+        ]
+      },
+      "title": "Writing hand and bearded figure"
+    },
+    {
+      "bookNumber": 7,
+      "citations": [
+        {
+          "locator": "h28.txt [P0060]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 2",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-008",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-008"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-008"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-008"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Long-haired standing woman raises a finger at upper right; a kneeling bearded figure occupies lower left. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-008"
+      },
+      "publicDescription": "The drawing shows standing woman and kneeling man. Likely historical subject: Creation of Eve (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-008",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A standing woman appears above a reclining man, supporting creation of Eve.",
+            "sourceId": "design-008"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-008"
+          },
+          {
+            "locator": "h28.txt [P0060]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 2",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A standing woman appears above a reclining man, supporting creation of Eve.",
+        "value": [
+          "h28-window-02-subject-06"
+        ]
+      },
+      "title": "Standing woman and kneeling man"
+    },
+    {
+      "bookNumber": 8,
+      "citations": [
+        {
+          "locator": "h28.txt [P0062]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 2",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-009",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-009"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-009"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-009"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Branching tree fills an upper round panel; a long-necked bird is enclosed below among curved dividing bands. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-009"
+      },
+      "publicDescription": "A branching thorny plant above a long-necked serpent with open jaws. Likely historical subject: Thorns, Thistles and Serpent of Sin (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-009",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A long-necked serpent lies beneath a thorny branching plant. This is not a bird.",
+            "sourceId": "design-009"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-009"
+          },
+          {
+            "locator": "h28.txt [P0062]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 2",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A long-necked serpent lies beneath a thorny branching plant. This is not a bird.",
+        "value": [
+          "h28-window-02-subject-08"
+        ]
+      },
+      "title": "Tree and serpent"
+    },
+    {
+      "bookNumber": 9,
+      "citations": [
+        {
+          "locator": "h28.txt [P0066]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 3",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-010",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-010"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-010"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-010"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Boat with round portholes rides waves above raised hands and a face; a leafy branch fills the right edge. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-010"
+      },
+      "publicDescription": "The drawing shows boat and raised hands. Likely historical subject: The Flood (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-010",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "An ark floats above raised human hands and water.",
+            "sourceId": "design-010"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-010"
+          },
+          {
+            "locator": "h28.txt [P0066]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 3",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "An ark floats above raised human hands and water.",
+        "value": [
+          "h28-window-03-subject-11"
+        ]
+      },
+      "title": "Boat and raised hands"
+    },
+    {
+      "bookNumber": 10,
+      "citations": [
+        {
+          "locator": "h28.txt [P0067]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 3",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-011",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-011"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-011"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-011"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Bird flies toward a small window with a face; diagonal rays above and many wave bands below match. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-011"
+      },
+      "publicDescription": "The drawing shows bird and a figure in a window. Likely historical subject: Noah sends out the Dove (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-011",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A dove flies beside a bearded face in the ark window, with water below.",
+            "sourceId": "design-011"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-011"
+          },
+          {
+            "locator": "h28.txt [P0067]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 3",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A dove flies beside a bearded face in the ark window, with water below.",
+        "value": [
+          "h28-window-03-subject-12"
+        ]
+      },
+      "title": "Bird and a figure in a window"
+    },
+    {
+      "bookNumber": 11,
+      "citations": [
+        {
+          "locator": "h28.txt [P0064]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 3",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-012",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-012"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-012"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-012"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Curving blade with dotted crosspiece descends from a hand; leaves and round fruit sit at lower left. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-012"
+      },
+      "publicDescription": "The drawing shows sword, fruit and curling bands. Likely historical subject: Adam and Eve. Their eviction from Paradise (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-012",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A flaming sword and fruit support eviction from Paradise; no individual people are shown.",
+            "sourceId": "design-012"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-012"
+          },
+          {
+            "locator": "h28.txt [P0064]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 3",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A flaming sword and fruit support eviction from Paradise; no individual people are shown.",
+        "value": [
+          "h28-window-03-subject-09"
+        ]
+      },
+      "title": "Sword, fruit and curling bands"
+    },
+    {
+      "bookNumber": 12,
+      "citations": [
+        {
+          "locator": "h28.txt [P0065]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 3",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-013",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-013"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-013"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-013"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Two prominent bird heads protrude among separated stone wall sections, with matching curling shapes at right. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-013"
+      },
+      "publicDescription": "Bird heads appear among stone walls and curling shapes. Likely historical subject: The offering of Cain and Abel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-013",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Two birds flank masonry altars, with a burning offering below; the subject is inferred from the offering motif.",
+            "sourceId": "design-013"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-013"
+          },
+          {
+            "locator": "h28.txt [P0065]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 3",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Two birds flank masonry altars, with a burning offering below; the subject is inferred from the offering motif.",
+        "value": [
+          "h28-window-03-subject-10"
+        ]
+      },
+      "title": "Birds and stone walls"
+    },
+    {
+      "bookNumber": 13,
+      "citations": [
+        {
+          "locator": "h28.txt [P0069]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 4",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-014",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-014"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-014"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-014"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Raised hand and bearded face stand beside a fire on a stone altar; curved bands span the upper panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-014"
+      },
+      "publicDescription": "The drawing shows raised hand, fire and stone altar. Likely historical subject: Noah's Offering (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-014",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A bearded figure raises a hand beside a burning stone altar under an arch.",
+            "sourceId": "design-014"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-014"
+          },
+          {
+            "locator": "h28.txt [P0069]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 4",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A bearded figure raises a hand beside a burning stone altar under an arch.",
+        "value": [
+          "h28-window-04-subject-13"
+        ]
+      },
+      "title": "Raised hand, fire and stone altar"
+    },
+    {
+      "bookNumber": 14,
+      "citations": [
+        {
+          "locator": "h28.txt [P0070]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 4",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-015",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-015"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-015"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-015"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Stepped building with ladder-like roof rail sits amid clouds; the curved right band reads BABYLON. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-015"
+      },
+      "publicDescription": "The drawing shows building, clouds and the word Babylon. Likely historical subject: Tower of Babel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-015",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "The tall building and visible BABYLON lettering support the guide's Babel entry.",
+            "sourceId": "design-015"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-015"
+          },
+          {
+            "locator": "h28.txt [P0070]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 4",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "The tall building and visible BABYLON lettering support the guide's Babel entry.",
+        "value": [
+          "h28-window-04-subject-14"
+        ]
+      },
+      "title": "Building, clouds and the word Babylon"
+    },
+    {
+      "bookNumber": 15,
+      "citations": [
+        {
+          "locator": "h28.txt [P0071]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 4",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-016",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-016"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-016"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-016"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Flames rise above a crenellated fortress, with three faces along the bottom and angled panels above. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-016"
+      },
+      "publicDescription": "The drawing shows fortress, flames and three faces. Likely historical subject: Destruction of Sodom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-016",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Three fleeing faces appear beneath a burning city.",
+            "sourceId": "design-016"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-016"
+          },
+          {
+            "locator": "h28.txt [P0071]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 4",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Three fleeing faces appear beneath a burning city.",
+        "value": [
+          "h28-window-04-subject-15"
+        ]
+      },
+      "title": "Fortress, flames and three faces"
+    },
+    {
+      "bookNumber": 16,
+      "citations": [
+        {
+          "locator": "h28.txt [P0072]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 4",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-017",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-017"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-017"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-017"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Paired feet descend steps above a kneeling figure looking upward beside curved bands. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-017"
+      },
+      "publicDescription": "The drawing shows steps, feet and kneeling figure. Likely historical subject: Jacob's Dream (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-017",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A reclining figure looks toward feet on ascending steps, beside an oil vessel.",
+            "sourceId": "design-017"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-017"
+          },
+          {
+            "locator": "h28.txt [P0072]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 4",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A reclining figure looks toward feet on ascending steps, beside an oil vessel.",
+        "value": [
+          "h28-window-04-subject-16"
+        ]
+      },
+      "title": "Steps, feet and kneeling figure"
+    },
+    {
+      "bookNumber": 17,
+      "citations": [
+        {
+          "locator": "h28.txt [P0076]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 5",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-018",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-018"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-018"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-018"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Helmeted standing figure holds a tall fan-shaped object; decorated chariot wheel and horse fill the lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-018"
+      },
+      "publicDescription": "The drawing shows figure, horse and decorated chariot. Likely historical subject: Joseph honored (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-018",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "An Egyptian-dressed figure rides an ornate horse-drawn chariot.",
+            "sourceId": "design-018"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-018"
+          },
+          {
+            "locator": "h28.txt [P0076]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 5",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "An Egyptian-dressed figure rides an ornate horse-drawn chariot.",
+        "value": [
+          "h28-window-05-subject-19"
+        ]
+      },
+      "title": "Figure, horse and decorated chariot"
+    },
+    {
+      "bookNumber": 18,
+      "citations": [
+        {
+          "locator": "h28.txt [P0077]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 5",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-019",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-019"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-019"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-019"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Woman looks down at a child in a woven basket; pyramids and small palms appear at upper left. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-019"
+      },
+      "publicDescription": "The drawing shows woman, child in a basket and pyramids. Likely historical subject: Finding of Moses (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-019",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A woman reaches toward an infant in a basket with pyramids behind.",
+            "sourceId": "design-019"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-019"
+          },
+          {
+            "locator": "h28.txt [P0077]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 5",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A woman reaches toward an infant in a basket with pyramids behind.",
+        "value": [
+          "h28-window-05-subject-20"
+        ]
+      },
+      "title": "Woman, child in a basket and pyramids"
+    },
+    {
+      "bookNumber": 19,
+      "citations": [
+        {
+          "locator": "h28.txt [P0074]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 5",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-020",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-020"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-020"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-020"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Raised two-finger hand is flanked by JACOB lettering; ESAU lettering and a steaming bowl occupy lower panels. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-020"
+      },
+      "publicDescription": "The drawing shows raised hand, lettered bands and bowl. Likely historical subject: Esau swears off his birthright (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-020",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "The visible JACOB and ESAU names, oath hand and steaming bowl support the birthright scene.",
+            "sourceId": "design-020"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-020"
+          },
+          {
+            "locator": "h28.txt [P0074]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 5",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "The visible JACOB and ESAU names, oath hand and steaming bowl support the birthright scene.",
+        "value": [
+          "h28-window-05-subject-17"
+        ]
+      },
+      "title": "Raised hand, lettered bands and bowl"
+    },
+    {
+      "bookNumber": 20,
+      "citations": [
+        {
+          "locator": "h28.txt [P0075]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 5",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-021",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-021"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-021"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-021"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Loaded camel arches over a standing figure; an extended hand enters from left and a tied bundle sits below. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-021"
+      },
+      "publicDescription": "The drawing shows camel, standing figure and bundle. Likely historical subject: Selling of Joseph (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-021",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A partially clothed young figure stands beside a camel and tied bundle, consistent with Joseph being sold; the guide gives no detailed composition.",
+            "sourceId": "design-021"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-021"
+          },
+          {
+            "locator": "h28.txt [P0075]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 5",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A partially clothed young figure stands beside a camel and tied bundle, consistent with Joseph being sold; the guide gives no detailed composition.",
+        "value": [
+          "h28-window-05-subject-18"
+        ]
+      },
+      "title": "Camel, standing figure and bundle"
+    },
+    {
+      "bookNumber": 21,
+      "citations": [
+        {
+          "locator": "h28.txt [P0080]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 6",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-022",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-022"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-022"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-022"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Crowned bearded figure occupies the upper panel; a horse head faces right beneath the horizontal divider. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-022"
+      },
+      "publicDescription": "The drawing shows crowned figure and horse head. Likely historical subject: Through the Red Sea (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-022",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A crowned Egyptian-looking figure and horse appear amid sweeping water-like bands; the Red Sea identification remains an inference.",
+            "sourceId": "design-022"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-022"
+          },
+          {
+            "locator": "h28.txt [P0080]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 6",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A crowned Egyptian-looking figure and horse appear amid sweeping water-like bands; the Red Sea identification remains an inference.",
+        "value": [
+          "h28-window-06-subject-21"
+        ]
+      },
+      "title": "Crowned figure and horse head"
+    },
+    {
+      "bookNumber": 22,
+      "citations": [
+        {
+          "locator": "h28.txt [P0081]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 6",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-023",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-023"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-023"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-023"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Bearded face is enclosed by an oval and leaves; rows of flames rise above the upper horizontal band. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-023"
+      },
+      "publicDescription": "The drawing shows bearded face, leaves and flames. Likely historical subject: Moses and the Burning Bush (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-023",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A bearded face appears among branches beneath a row of flames.",
+            "sourceId": "design-023"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-023"
+          },
+          {
+            "locator": "h28.txt [P0081]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 6",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A bearded face appears among branches beneath a row of flames.",
+        "value": [
+          "h28-window-06-subject-22"
+        ]
+      },
+      "title": "Bearded face, leaves and flames"
+    },
+    {
+      "bookNumber": 23,
+      "citations": [
+        {
+          "locator": "h28.txt [P0082]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 6",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0120]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-024",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-024"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-024"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-024"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Bearded figure extends a hand across the upper panel; the lower panel pairs a grape cluster and bowed face. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-024"
+      },
+      "publicDescription": "The drawing shows raised hand, grape cluster and two figures. Likely historical subjects: Moses striking the rock; The Carriers of the Grapes of Eschol (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-024",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "The upper raised hand and flowing bands support Moses and water; the lower two carriers share a large grape cluster. These separate motifs fit both cited entries, without proving their original window arrangement.",
+            "sourceId": "design-024"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-024"
+          },
+          {
+            "locator": "h28.txt [P0082]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 6",
+            "sourceId": "H28"
+          },
+          {
+            "locator": "h28.txt [P0120]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 13",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "The upper raised hand and flowing bands support Moses and water; the lower two carriers share a large grape cluster. These separate motifs fit both cited entries, without proving their original window arrangement.",
+        "value": [
+          "h28-window-06-subject-23",
+          "h28-window-13-subject-52"
+        ]
+      },
+      "title": "Raised hand, grape cluster and two figures"
+    },
+    {
+      "bookNumber": 24,
+      "citations": [
+        {
+          "locator": "h28.txt [P0083]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 6",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-025",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-025"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-025"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-025"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Standing bearded figure raises a hand and holds two tablets, with matching horizon bands and curved clouds. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-025"
+      },
+      "publicDescription": "The drawing shows standing figure with tablets and raised hand. Likely historical subject: Moses and the Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-025",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A standing bearded figure holds two tablets and raises a hand.",
+            "sourceId": "design-025"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-025"
+          },
+          {
+            "locator": "h28.txt [P0083]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 6",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A standing bearded figure holds two tablets and raises a hand.",
+        "value": [
+          "h28-window-06-subject-24"
+        ]
+      },
+      "title": "Standing figure with tablets and raised hand"
+    },
+    {
+      "bookNumber": 25,
+      "citations": [
+        {
+          "locator": "h28.txt [P0086]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 7",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-026",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-026"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-026"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-026"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Curly-haired seated figure turns toward curling tree shapes; a lion lies below the diagonal garment. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-026"
+      },
+      "publicDescription": "The drawing shows seated figure, lion and trees. Likely historical subject: Samson slaying the Lion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-026",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A seated strong figure bends over a lion, with hands at its open mouth.",
+            "sourceId": "design-026"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-026"
+          },
+          {
+            "locator": "h28.txt [P0086]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 7",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A seated strong figure bends over a lion, with hands at its open mouth.",
+        "value": [
+          "h28-window-07-subject-25"
+        ]
+      },
+      "title": "Seated figure, lion and trees"
+    },
+    {
+      "bookNumber": 26,
+      "citations": [
+        {
+          "locator": "h28.txt [P0087]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 7",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-027",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-027"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-027"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-027"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Helmeted figure and circular patterned shield stand left of a seated figure with a hanging pouch; a bowed head appears below. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-027"
+      },
+      "publicDescription": "Figures, a circular shield and flowing garments fill the drawing. Likely historical subject: David and Goliath (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-027",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A smaller figure with sling/pouch faces an armored warrior with shield and a fallen head below.",
+            "sourceId": "design-027"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-027"
+          },
+          {
+            "locator": "h28.txt [P0087]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 7",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A smaller figure with sling/pouch faces an armored warrior with shield and a fallen head below.",
+        "value": [
+          "h28-window-07-subject-26"
+        ]
+      },
+      "title": "Figures, circular shield and flowing garments"
+    },
+    {
+      "bookNumber": 27,
+      "citations": [
+        {
+          "locator": "h28.txt [P0088]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 7",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-028",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-028"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-028"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-028"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Winged figure with swept hair bends forward over a staff-like diagonal; patterned garments fill the lower portion. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-028"
+      },
+      "publicDescription": "The drawing shows winged figure, branch and bowed head. Likely historical subject: Death of Absalom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-028",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "The central young figure's hair extends upward into a tree while armed figures surround him, supporting Absalom; this is not treated as a confirmed portrait.",
+            "sourceId": "design-028"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-028"
+          },
+          {
+            "locator": "h28.txt [P0088]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 7",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "The central young figure's hair extends upward into a tree while armed figures surround him, supporting Absalom; this is not treated as a confirmed portrait.",
+        "value": [
+          "h28-window-07-subject-27"
+        ]
+      },
+      "title": "Winged figure, branch and bowed head"
+    },
+    {
+      "bookNumber": 28,
+      "citations": [
+        {
+          "locator": "h28.txt [P0089]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 7",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-029",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-029"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-029"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-029"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Head-covered woman holds a grape cluster above a donkey; a bearded face and staff fill the left lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-029"
+      },
+      "publicDescription": "The drawing shows woman, grapes, donkey and figures. Likely historical subject: Flight into Egypt (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-029",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A woman and small child ride a donkey led by a staff-bearing man.",
+            "sourceId": "design-029"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-029"
+          },
+          {
+            "locator": "h28.txt [P0089]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 7",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A woman and small child ride a donkey led by a staff-bearing man.",
+        "value": [
+          "h28-window-07-subject-28"
+        ]
+      },
+      "title": "Woman, grapes, donkey and figures"
+    },
+    {
+      "bookNumber": 29,
+      "citations": [
+        {
+          "locator": "h28.txt [P0091]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 8",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-030",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-030"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-030"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-030"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Winged face emerges from clouds above a kneeling woman with folded hands; flower sits at lower left. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-030"
+      },
+      "publicDescription": "The drawing shows winged face, clouds and kneeling woman. Likely historical subject: Annunciation (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-030",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A winged messenger appears above a praying woman beside a lily.",
+            "sourceId": "design-030"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-030"
+          },
+          {
+            "locator": "h28.txt [P0091]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 8",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A winged messenger appears above a praying woman beside a lily.",
+        "value": [
+          "h28-window-08-subject-29"
+        ]
+      },
+      "title": "Winged face, clouds and kneeling woman"
+    },
+    {
+      "bookNumber": 30,
+      "citations": [
+        {
+          "locator": "h28.txt [P0092]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 8",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-031",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-031"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-031"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-031"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Star emits long converging rays above three crowned figures, with a round-topped vessel in the center. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-031"
+      },
+      "publicDescription": "The drawing shows star, rays and three crowned figures. Likely historical subject: Three Wise Men (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-031",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Three crowned figures look toward a radiant star.",
+            "sourceId": "design-031"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-031"
+          },
+          {
+            "locator": "h28.txt [P0092]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 8",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Three crowned figures look toward a radiant star.",
+        "value": [
+          "h28-window-08-subject-30"
+        ]
+      },
+      "title": "Star, rays and three crowned figures"
+    },
+    {
+      "bookNumber": 31,
+      "citations": [
+        {
+          "locator": "h28.txt [P0093]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 8",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-032",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-032"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-032"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-032"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Seated crowned figure gestures toward a domed tower containing three faces above flames. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-032"
+      },
+      "publicDescription": "The drawing shows crowned figure and three faces in a tower. Likely historical subject: Three Young Men in the Fiery Furnace (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-032",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Three faces are enclosed above flames, with a ruler and attendants beside them.",
+            "sourceId": "design-032"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-032"
+          },
+          {
+            "locator": "h28.txt [P0093]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 8",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Three faces are enclosed above flames, with a ruler and attendants beside them.",
+        "value": [
+          "h28-window-08-subject-31"
+        ]
+      },
+      "title": "Crowned figure and three faces in a tower"
+    },
+    {
+      "bookNumber": 32,
+      "citations": [
+        {
+          "locator": "h28.txt [P0094]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 8",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-033",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-033"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-033"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-033"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Woman with large ringed halo holds a child with a smaller halo; diagonal background bands and robe folds match. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-033"
+      },
+      "publicDescription": "The drawing shows woman and child with halos. Likely historical subject: Madonna (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-033",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A haloed woman holds a haloed child.",
+            "sourceId": "design-033"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-033"
+          },
+          {
+            "locator": "h28.txt [P0094]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 8",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A haloed woman holds a haloed child.",
+        "value": [
+          "h28-window-08-subject-32"
+        ]
+      },
+      "title": "Woman and child with halos"
+    },
+    {
+      "bookNumber": 33,
+      "citations": [
+        {
+          "locator": "h28.txt [P0096]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 9",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-034",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-034"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-034"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-034"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Standing bearded figure pours water onto a kneeling head beside leafy shapes and a dove-like upper symbol. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-034"
+      },
+      "publicDescription": "The drawing shows two figures and pouring water. Likely historical subject: Baptism (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-034",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A rough-clothed figure pours water over a kneeling haloed figure beneath a dove.",
+            "sourceId": "design-034"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-034"
+          },
+          {
+            "locator": "h28.txt [P0096]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 9",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A rough-clothed figure pours water over a kneeling haloed figure beneath a dove.",
+        "value": [
+          "h28-window-09-subject-33"
+        ]
+      },
+      "title": "Two figures and pouring water"
+    },
+    {
+      "bookNumber": 34,
+      "citations": [
+        {
+          "locator": "h28.txt [P0097]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 9",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-035",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-035"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-035"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-035"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Haloed seated figure rides a donkey; another face appears at right and large flowers occupy the bottom. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-035"
+      },
+      "publicDescription": "The drawing shows seated figure, donkey and flowers. Likely historical subject: Jesus enters into Jerusalem (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-035",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A haloed figure rides a donkey among attendants and flowers.",
+            "sourceId": "design-035"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-035"
+          },
+          {
+            "locator": "h28.txt [P0097]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 9",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A haloed figure rides a donkey among attendants and flowers.",
+        "value": [
+          "h28-window-09-subject-34"
+        ]
+      },
+      "title": "Seated figure, donkey and flowers"
+    },
+    {
+      "bookNumber": 35,
+      "citations": [
+        {
+          "locator": "h28.txt [P0098]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 9",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-036",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-036"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-036"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-036"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Haloed figure raises a hand from a curved boat above multiple wave bands. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-036"
+      },
+      "publicDescription": "The drawing shows figure, boat and waves. Likely historical subject: Christ preaching from the boat (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-036",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A haloed teacher raises a finger from a boat on waves.",
+            "sourceId": "design-036"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-036"
+          },
+          {
+            "locator": "h28.txt [P0098]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 9",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A haloed teacher raises a finger from a boat on waves.",
+        "value": [
+          "h28-window-09-subject-35"
+        ]
+      },
+      "title": "Figure, boat and waves"
+    },
+    {
+      "bookNumber": 36,
+      "citations": [
+        {
+          "locator": "h28.txt [P0099]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 9",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-037",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-037"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-037"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-037"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Bearded figure with a curved staff cradles a lamb; another animal looks up at right and a small figure appears in the building behind. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-037"
+      },
+      "publicDescription": "An older standing figure raises a hand above a kneeling man in ragged clothing. Likely historical subject: Return of the Prodigal (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-037",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A kneeling ragged figure bows before an older standing figure who raises his hand; the return-of-the-prodigal reading is inferred.",
+            "sourceId": "design-037"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-037"
+          },
+          {
+            "locator": "h28.txt [P0099]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 9",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A kneeling ragged figure bows before an older standing figure who raises his hand; the return-of-the-prodigal reading is inferred.",
+        "value": [
+          "h28-window-09-subject-36"
+        ]
+      },
+      "title": "Standing figure and kneeling man"
+    },
+    {
+      "bookNumber": 37,
+      "citations": [
+        {
+          "locator": "h28.txt [P0101]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 10",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-038",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-038"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-038"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-038"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Two haloed figures face each other beside a tall tree and open stone box; the right figure is wrapped in bands. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-038"
+      },
+      "publicDescription": "Two figures face each other beside an open stone box. Likely historical subject: Awakening of Lazarus (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-038",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A haloed figure reaches toward a wrapped standing figure beside an open stone tomb.",
+            "sourceId": "design-038"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-038"
+          },
+          {
+            "locator": "h28.txt [P0101]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 10",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A haloed figure reaches toward a wrapped standing figure beside an open stone tomb.",
+        "value": [
+          "h28-window-10-subject-37"
+        ]
+      },
+      "title": "Two figures and an open stone box"
+    },
+    {
+      "bookNumber": 38,
+      "citations": [
+        {
+          "locator": "h28.txt [P0102]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 10",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-039",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-039"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-039"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-039"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Standing haloed figure holds a tall curved staff and a round object; a brick-lined arch stands at right. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-039"
+      },
+      "publicDescription": "The drawing shows standing figure, staff and round object. Likely historical subject: Christ visiting, or Christ at the Door (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-039",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A haloed staff-bearing visitor stands beside a doorway, holding a round object.",
+            "sourceId": "design-039"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-039"
+          },
+          {
+            "locator": "h28.txt [P0102]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 10",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A haloed staff-bearing visitor stands beside a doorway, holding a round object.",
+        "value": [
+          "h28-window-10-subject-38"
+        ]
+      },
+      "title": "Standing figure, staff and round object"
+    },
+    {
+      "bookNumber": 39,
+      "citations": [
+        {
+          "locator": "h28.txt [P0103]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 10",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-040",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-040"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-040"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-040"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Central figure extends arms on a cross beneath INRI; two standing figures flank the lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-040"
+      },
+      "publicDescription": "The drawing shows cross and three figures. Likely historical subject: Crucifixion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-040",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "The central crucified figure is flanked by two praying mourners.",
+            "sourceId": "design-040"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-040"
+          },
+          {
+            "locator": "h28.txt [P0103]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 10",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "The central crucified figure is flanked by two praying mourners.",
+        "value": [
+          "h28-window-10-subject-39"
+        ]
+      },
+      "title": "Cross and three figures"
+    },
+    {
+      "bookNumber": 40,
+      "citations": [
+        {
+          "locator": "h28.txt [P0104]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 10",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-041",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-041"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-041"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-041"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Haloed bearded figure raises a hand in the large upper panel; winged and mitred figures occupy lower angled panels. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-041"
+      },
+      "publicDescription": "The drawing shows bearded figure above two smaller figures. Likely historical subject: Resurrection (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-041",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A risen haloed figure appears above an angel and an armored guard.",
+            "sourceId": "design-041"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-041"
+          },
+          {
+            "locator": "h28.txt [P0104]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 10",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A risen haloed figure appears above an angel and an armored guard.",
+        "value": [
+          "h28-window-10-subject-40"
+        ]
+      },
+      "title": "Bearded figure above two smaller figures"
+    },
+    {
+      "bookNumber": 41,
+      "citations": [
+        {
+          "locator": "h28.txt [P0106]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 11",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-042",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-042"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-042"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-042"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Feet and garment hem emerge above clouds between two winged faces; descending rays fill the lower cloud opening. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-042"
+      },
+      "publicDescription": "The drawing shows feet, clouds and winged faces. Likely historical subject: Ascension (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-042",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "Feet and a robe rise above clouds and winged faces.",
+            "sourceId": "design-042"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-042"
+          },
+          {
+            "locator": "h28.txt [P0106]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 11",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Feet and a robe rise above clouds and winged faces.",
+        "value": [
+          "h28-window-11-subject-41"
+        ]
+      },
+      "title": "Feet, clouds and winged faces"
+    },
+    {
+      "bookNumber": 42,
+      "citations": [
+        {
+          "locator": "h28.txt [P0107]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 11",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-043",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-043"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-043"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-043"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Large haloed face with raised hand sits beside an open book bearing matching symbols. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-043"
+      },
+      "publicDescription": "The drawing shows haloed face, raised hand and open book. Likely historical subject: Christ and the Christian Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-043",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A blessing figure holds an open lettered book beneath a radiating halo.",
+            "sourceId": "design-043"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-043"
+          },
+          {
+            "locator": "h28.txt [P0107]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 11",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A blessing figure holds an open lettered book beneath a radiating halo.",
+        "value": [
+          "h28-window-11-subject-42"
+        ]
+      },
+      "title": "Haloed face, raised hand and open book"
+    },
+    {
+      "bookNumber": 43,
+      "citations": [
+        {
+          "locator": "h28.txt [P0108]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 11",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-044",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-044"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-044"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-044"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Descending bird and radiating bands stand above repeated scalloped panels containing flames. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-044"
+      },
+      "publicDescription": "The drawing shows dove, rays and flames. Likely historical subject: Descent of the Holy Ghost (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-044",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A dove radiates beams above rows of individual flames.",
+            "sourceId": "design-044"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-044"
+          },
+          {
+            "locator": "h28.txt [P0108]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 11",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A dove radiates beams above rows of individual flames.",
+        "value": [
+          "h28-window-11-subject-43"
+        ]
+      },
+      "title": "Dove, rays and flames"
+    },
+    {
+      "bookNumber": 44,
+      "citations": [
+        {
+          "locator": "h28.txt [P0109]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 11",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-045",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-045"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-045"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-045"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Seated haloed figure raises a hand and holds a decorated book amid matching round and curved panels. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-045"
+      },
+      "publicDescription": "The drawing shows seated haloed figure with a book. Likely historical subject: Christ in Heaven (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-045",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A haloed seated figure blesses while holding a decorated book.",
+            "sourceId": "design-045"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-045"
+          },
+          {
+            "locator": "h28.txt [P0109]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 11",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A haloed seated figure blesses while holding a decorated book.",
+        "value": [
+          "h28-window-11-subject-44"
+        ]
+      },
+      "title": "Seated haloed figure with a book"
+    },
+    {
+      "bookNumber": 45,
+      "citations": [
+        {
+          "locator": "h28.txt [P0113]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 12",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-046",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-046"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-046"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-046"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Inverted figure is enclosed by a pointed frame amid flames; bottom letters read ST PETER. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-046"
+      },
+      "publicDescription": "The drawing shows inverted figure and the words St Peter. Likely historical subject: Martyrdom of St. Peter (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-046",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "An inverted crucified figure is explicitly labeled ST PETER.",
+            "sourceId": "design-046"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-046"
+          },
+          {
+            "locator": "h28.txt [P0113]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 12",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "An inverted crucified figure is explicitly labeled ST PETER.",
+        "value": [
+          "h28-window-12-subject-47"
+        ]
+      },
+      "title": "Inverted figure and the words St Peter"
+    },
+    {
+      "bookNumber": 46,
+      "citations": [
+        {
+          "locator": "h28.txt [P0114]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 12",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-047",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-047"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-047"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-047"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Large bearded figure uses a staff while carrying a child holding a cross through water. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-047"
+      },
+      "publicDescription": "The drawing shows figure carrying a child through water. Likely historical subject: St. Christopher ferrying the Christ Child across the river (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-047",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "A bearded man carries a cross-bearing child across waves with a leafy staff.",
+            "sourceId": "design-047"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-047"
+          },
+          {
+            "locator": "h28.txt [P0114]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 12",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A bearded man carries a cross-bearing child across waves with a leafy staff.",
+        "value": [
+          "h28-window-12-subject-48"
+        ]
+      },
+      "title": "Figure carrying a child through water"
+    },
+    {
+      "bookNumber": 47,
+      "citations": [
+        {
+          "locator": "h28.txt [P0111] and [P0131]; two plausible lamb entries.",
+          "section": "The Windows",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-048",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-048"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-048"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-048"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Lamb carries a cross-topped banner inside a circle; crossed key-like shapes and curved bands fill the lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-048"
+      },
+      "publicDescription": "The drawing shows lamb, banner and crossed shapes. Historical subject remains unidentified after review: two different lamb entries in the 1928 guide fit this detail. Present-day location is unconfirmed.",
+      "sourceId": "design-048",
+      "subjects": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "A haloed lamb and banner fit both H28 subject 45 and subject 61. The crop lacks enough architectural context to select one honestly.",
+            "sourceId": "design-048"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-048"
+          },
+          {
+            "locator": "h28.txt [P0111] and [P0131]; two plausible lamb entries.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "A haloed lamb and banner fit both H28 subject 45 and subject 61. The crop lacks enough architectural context to select one honestly.",
+        "value": null
+      },
+      "title": "Lamb, banner and crossed shapes"
+    },
+    {
+      "bookNumber": 48,
+      "citations": [
+        {
+          "locator": "h28.txt [P0112]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 12",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0132]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 14",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "design-049",
+      "location": {
+        "confidence": "unidentified",
+        "evidence": [
+          {
+            "section": "Full detail drawing.",
+            "sourceId": "design-049"
+          },
+          {
+            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "section": "The Windows",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
+        "value": null
+      },
+      "originalPhoto": {
+        "confidence": "confirmed",
+        "evidence": [
+          {
+            "section": "Full drawing and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "design-049"
+          },
+          {
+            "section": "Full photograph and comparison sheet in WP05_PAIRING_REVIEW.json.",
+            "sourceId": "photo-049"
+          }
+        ],
+        "rationale": "Visual comparison, 2026-11-09: Large bird bends toward its breast above flame-like curls; lamb and cross-topped round object fill the lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
+        "value": "photo-049"
+      },
+      "publicDescription": "A grotesque creature holds a three-tined fork above a woolly ram beside a round cross-marked shape and three hanging balls. Likely historical subjects: Sin and Salvation. Sin symbolized by a scarlet Satan with three-tined fork and flames; Doctrine of Christ. Book—the New Testament. Three balls symbol of the Trinity (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "sourceId": "design-049",
+      "subjects": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "section": "The upper grotesque creature holds a three-tined fork amid flames; below, an animal stands beside a cross-marked round/book-like emblem and three hanging balls. These support the two guide motifs, but do not establish their original arrangement.",
+            "sourceId": "design-049"
+          },
+          {
+            "section": "Inspected original photograph in the matching visual-pairing sheet.",
+            "sourceId": "photo-049"
+          },
+          {
+            "locator": "h28.txt [P0112]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 12",
+            "sourceId": "H28"
+          },
+          {
+            "locator": "h28.txt [P0132]; transcription paragraph, not a printed page number.",
+            "section": "The Windows, window 14",
+            "sourceId": "H28"
+          }
+        ],
+        "rationale": "The upper grotesque creature holds a three-tined fork amid flames; below, an animal stands beside a cross-marked round/book-like emblem and three hanging balls. These support the two guide motifs, but do not establish their original arrangement.",
+        "value": [
+          "h28-window-12-subject-46",
+          "h28-window-14-subject-62"
+        ]
+      },
+      "title": "Creature with fork, ram and round window"
+    }
+  ],
+  "schemaVersion": 1
+}

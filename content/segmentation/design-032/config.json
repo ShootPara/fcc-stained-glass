@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected the complete numbered composition and all eleven small-component sheets, covering 132 tiny regions. Most small regions are intentional bead-border interstices, eye highlights, necklace gaps and diamond-panel edge triangles, so retain them rather than filtering by size. Exclude only listed isolated acute endpoints. Reconnect inspected same-detail fragments in two top crown gaps, facial highlights/mouth slits, narrow hair outlines and one bead interstice. Multiple figures, stacked window faces, dome/block frame, diamond-pattern garment, throne bead borders, flame scroll and bottom scallops receive feature/position names. No historical subject is inferred from the filename. Source pixels, canonical ink and prior packages remain unchanged. Explicit inspected tip IDs: 27,99,100,122,151,154,196,217,227,239,251,255,257,258,301,415,440,450,451,595,603. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

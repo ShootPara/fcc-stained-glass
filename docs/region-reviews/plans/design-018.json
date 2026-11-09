@@ -1,0 +1,33 @@
+{
+ "schemaVersion":1,"artworkId":"design-018","sourceVersion":"2c6768d8b1a4671a1bf6c87769ca748ef9ff2c29ad23ef2fce14693ced44e267",
+ "observations":"Complete source/numbered overlay and all 53 small-component crops inspected. Forty-two explicit acute raster tips excluded. Retain the small helmet fitting, eye white/highlight, enclosed ear slit, cuff gap, three small circular decoration centers, two closed hoof curls and a small hoof gap. Fan/plume wedges, helmet band, staff, gripping hand, forearm/cuff and garment strips remain separately bounded. Chariot hull scroll openings and pedestal-like details retain enclosed triangles and stems. Curved rim separates hull and horse ornament. Eight wheel petals, center ring/disc and surrounding wedge spaces remain distinct. The horse-like right ornament and foot outline retain open contour strokes; tiny closed curl details remain available. Names describe visible components without declaring a historical scene or location. Canonical drawing and earlier packages remain unchanged.",
+ "evidence":[".work/review/design-018/2c6768d8b1a4671a1bf6c87769ca748ef9ff2c29ad23ef2fce14693ced44e267/regions-numbered-2x.png",".work/region-crops/design-018/small-01.png",".work/region-crops/design-018/small-02.png",".work/region-crops/design-018/small-03.png",".work/region-crops/design-018/small-04.png",".work/region-crops/design-018/small-05.png"],
+ "tips":"9,15,17,20,22-24,35,36,40,48,50,57,66,69,76,77,79,98,105,110,112,114-116,118,120,122,125,133,137,145,149,159,160,170,172,187,188,191,192,195",
+ "groups":[
+ {"name":"Continuous outer frame","ids":"1"},
+ {"name":"Broad background around figure and chariot","ids":"2,3,5,7,84,87,100,104,154,168,185,190,193,194"},
+ {"name":"Feather plume and base curls","ids":"4,19,21,41,52"},
+ {"name":"Large fan frame, wedges and small inner panes","ids":"6,8,10-12,14,16,25-31,33,34,37,38,44,51,55,58,64,65,67,68,70-73,75,80"},
+ {"name":"Staff and its curved top","ids":"13,18,89"},
+ {"name":"Helmet, headband and small fitting","ids":"32,43,45-47,53"},
+ {"name":"Long veil strips behind the helmet","ids":"39,42,49,54,63"},
+ {"name":"Figure's face","ids":"56"},
+ {"name":"Figure's eye white","ids":"59"},
+ {"name":"Figure's eye highlight","ids":"60"},
+ {"name":"Small enclosed ear slit","ids":"62"},
+ {"name":"Long slanting shafts beside the fan","ids":"61,82"},
+ {"name":"Hand gripping the staff and forearm","ids":"78"},
+ {"name":"Upper arm","ids":"81"},
+ {"name":"Garment, belt, cuffs and lower arm panes","ids":"74,83,85,86,88,90-97,99,107"},
+ {"name":"Chariot upper curved trim","ids":"101"},
+ {"name":"Tall curved chariot rim","ids":"102"},
+ {"name":"Chariot scroll hull, openings and small supports","ids":"108,109,111,113,117,119,121,123,124,126-130,134,135,138,140,141,143,146"},
+ {"name":"Diagonal decorated harness strip and square fittings","ids":"103,131,132,136,139,142,144,147,150-153,155,156,161,164,166,169"},
+ {"name":"Horse-like ornament and curved bands","ids":"106,148"},
+ {"name":"Small enclosed hoof curls and gap","ids":"181,184,189"},
+ {"name":"Wheel rim and inner border","ids":"157,158"},
+ {"name":"Wheel petals and surrounding wedge panes","ids":"163,165,167,171,173,174,177-180,182,183,186"},
+ {"name":"Wheel center ring and disc","ids":"175,176"},
+ {"name":"Background inside the wheel","ids":"162"}
+ ]
+}

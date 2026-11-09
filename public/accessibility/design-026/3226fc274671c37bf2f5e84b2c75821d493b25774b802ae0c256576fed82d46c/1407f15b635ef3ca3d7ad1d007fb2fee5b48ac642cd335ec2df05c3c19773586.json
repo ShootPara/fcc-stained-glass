@@ -1,0 +1,507 @@
+{
+  "artworkId": "design-026",
+  "contentVersion": "3226fc274671c37bf2f5e84b2c75821d493b25774b802ae0c256576fed82d46c",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Outer frame",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Upper background bands, top left section 3",
+      "order": 4
+    },
+    {
+      "id": 3,
+      "name": "Upper background bands, upper-middle right section 4",
+      "order": 5
+    },
+    {
+      "id": 4,
+      "name": "Upper background bands, top right section 1",
+      "order": 2
+    },
+    {
+      "id": 5,
+      "name": "Upper background bands, top left section 2",
+      "order": 3
+    },
+    {
+      "id": 6,
+      "name": "Curled head covering and enclosed curls, top center section 1",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Curled head covering and enclosed curls, top center section 3",
+      "order": 8
+    },
+    {
+      "id": 8,
+      "name": "Curled head covering and enclosed curls, top center section 2",
+      "order": 7
+    },
+    {
+      "id": 9,
+      "name": "Curled head covering and enclosed curls, top center section 5",
+      "order": 10
+    },
+    {
+      "id": 10,
+      "name": "Curled head covering and enclosed curls, top center section 6",
+      "order": 11
+    },
+    {
+      "id": 11,
+      "name": "Narrow upper head-covering seam",
+      "order": 27
+    },
+    {
+      "id": 12,
+      "name": "Curled head covering and enclosed curls, top center section 4",
+      "order": 9
+    },
+    {
+      "id": 13,
+      "name": "Curled head covering and enclosed curls, top right section 8",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Curled head covering and enclosed curls, top center section 9",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Curled head covering and enclosed curls, top center section 10",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Narrow right head-covering seam",
+      "order": 28
+    },
+    {
+      "id": 17,
+      "name": "Curled head covering and enclosed curls, top center section 11",
+      "order": 16
+    },
+    {
+      "id": 18,
+      "name": "Curled head covering and enclosed curls, top center section 7",
+      "order": 12
+    },
+    {
+      "id": 19,
+      "name": "Eye and brow panes, top center section 4",
+      "order": 32
+    },
+    {
+      "id": 20,
+      "name": "Eye and brow panes, top center section 1",
+      "order": 29
+    },
+    {
+      "id": 21,
+      "name": "Eye and brow panes, top center section 3",
+      "order": 31
+    },
+    {
+      "id": 22,
+      "name": "Eye and brow panes, top center section 2",
+      "order": 30
+    },
+    {
+      "id": 23,
+      "name": "Eye and brow panes, top center section 5",
+      "order": 33
+    },
+    {
+      "id": 24,
+      "name": "Curled head covering and enclosed curls, top center section 13",
+      "order": 18
+    },
+    {
+      "id": 25,
+      "name": "Curled head covering and enclosed curls, top center section 12",
+      "order": 17
+    },
+    {
+      "id": 26,
+      "name": "Curled head covering and enclosed curls, top center section 17",
+      "order": 22
+    },
+    {
+      "id": 27,
+      "name": "Curled head covering and enclosed curls, top center section 16",
+      "order": 21
+    },
+    {
+      "id": 28,
+      "name": "Upper figure's face neck and flowing robe",
+      "order": 100
+    },
+    {
+      "id": 29,
+      "name": "Curled head covering and enclosed curls, top right section 18",
+      "order": 23
+    },
+    {
+      "id": 30,
+      "name": "Curled head covering and enclosed curls, top right section 15",
+      "order": 20
+    },
+    {
+      "id": 31,
+      "name": "Curled head covering and enclosed curls, top center section 14",
+      "order": 19
+    },
+    {
+      "id": 32,
+      "name": "Curled head covering and enclosed curls, upper-middle center section 19",
+      "order": 24
+    },
+    {
+      "id": 33,
+      "name": "Curled head covering and enclosed curls, upper-middle center section 20",
+      "order": 25
+    },
+    {
+      "id": 34,
+      "name": "Curled head covering and enclosed curls, upper-middle center section 21",
+      "order": 26
+    },
+    {
+      "id": 35,
+      "name": "Thin shoulder band",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Background beside the upper figure, upper-middle right section 2",
+      "order": 37
+    },
+    {
+      "id": 37,
+      "name": "Small closed forehead triangle",
+      "order": 34
+    },
+    {
+      "id": 38,
+      "name": "Large leafy ornament and its inner panes, upper-middle right section 5",
+      "order": 47
+    },
+    {
+      "id": 39,
+      "name": "Large leafy ornament and its inner panes, upper-middle right section 1",
+      "order": 43
+    },
+    {
+      "id": 40,
+      "name": "Large leafy ornament and its inner panes, upper-middle right section 2",
+      "order": 44
+    },
+    {
+      "id": 41,
+      "name": "Large leafy ornament and its inner panes, upper-middle right section 3",
+      "order": 45
+    },
+    {
+      "id": 42,
+      "name": "Arm and clasped hand, upper-middle center section 1",
+      "order": 55
+    },
+    {
+      "id": 43,
+      "name": "Upper robe folds and enclosed slits, upper-middle center section 1",
+      "order": 57
+    },
+    {
+      "id": 44,
+      "name": "Large leafy ornament and its inner panes, upper-middle center section 4",
+      "order": 46
+    },
+    {
+      "id": 45,
+      "name": "Background beside the upper figure, upper-middle center section 1",
+      "order": 36
+    },
+    {
+      "id": 46,
+      "name": "Upper robe folds and enclosed slits, upper-middle center section 2",
+      "order": 58
+    },
+    {
+      "id": 47,
+      "name": "Large leafy ornament and its inner panes, upper-middle right section 6",
+      "order": 48
+    },
+    {
+      "id": 48,
+      "name": "Background beside the upper figure, lower-middle left section 6",
+      "order": 41
+    },
+    {
+      "id": 49,
+      "name": "Large leafy ornament and its inner panes, upper-middle right section 8",
+      "order": 50
+    },
+    {
+      "id": 50,
+      "name": "Background beside the upper figure, upper-middle center section 4",
+      "order": 39
+    },
+    {
+      "id": 51,
+      "name": "Large leafy ornament and its inner panes, upper-middle center section 7",
+      "order": 49
+    },
+    {
+      "id": 52,
+      "name": "Upper robe folds and enclosed slits, upper-middle left section 3",
+      "order": 59
+    },
+    {
+      "id": 53,
+      "name": "Background beside the upper figure, lower-middle left section 7",
+      "order": 42
+    },
+    {
+      "id": 54,
+      "name": "Background beside the upper figure, upper-middle left section 3",
+      "order": 38
+    },
+    {
+      "id": 55,
+      "name": "Large leafy ornament and its inner panes, upper-middle center section 9",
+      "order": 51
+    },
+    {
+      "id": 56,
+      "name": "Large leafy ornament and its inner panes, upper-middle right section 10",
+      "order": 52
+    },
+    {
+      "id": 57,
+      "name": "Upper robe folds and enclosed slits, lower-middle center section 9",
+      "order": 65
+    },
+    {
+      "id": 58,
+      "name": "Background beside the upper figure, upper-middle left section 5",
+      "order": 40
+    },
+    {
+      "id": 59,
+      "name": "Large leafy ornament and its inner panes, upper-middle right section 11",
+      "order": 53
+    },
+    {
+      "id": 60,
+      "name": "Large leafy ornament and its inner panes, lower-middle right section 12",
+      "order": 54
+    },
+    {
+      "id": 61,
+      "name": "Upper robe folds and enclosed slits, lower-middle left section 12",
+      "order": 68
+    },
+    {
+      "id": 62,
+      "name": "Arm and clasped hand, lower-middle center section 2",
+      "order": 56
+    },
+    {
+      "id": 63,
+      "name": "Upper robe folds and enclosed slits, lower-middle left section 4",
+      "order": 60
+    },
+    {
+      "id": 64,
+      "name": "Upper robe folds and enclosed slits, lower-middle center section 5",
+      "order": 61
+    },
+    {
+      "id": 65,
+      "name": "Upper robe folds and enclosed slits, lower-middle center section 6",
+      "order": 62
+    },
+    {
+      "id": 66,
+      "name": "Upper robe folds and enclosed slits, lower-middle left section 7",
+      "order": 63
+    },
+    {
+      "id": 67,
+      "name": "Lower sleeve cuff",
+      "order": 71
+    },
+    {
+      "id": 68,
+      "name": "Upper robe folds and enclosed slits, lower-middle left section 8",
+      "order": 64
+    },
+    {
+      "id": 69,
+      "name": "Upper robe folds and enclosed slits, lower-middle left section 10",
+      "order": 66
+    },
+    {
+      "id": 70,
+      "name": "Upper robe folds and enclosed slits, lower-middle left section 13",
+      "order": 69
+    },
+    {
+      "id": 71,
+      "name": "Upper robe folds and enclosed slits, lower-middle center section 11",
+      "order": 67
+    },
+    {
+      "id": 72,
+      "name": "Upper robe folds and enclosed slits, lower-middle left section 14",
+      "order": 70
+    },
+    {
+      "id": 73,
+      "name": "Small curled ornament below the hand, lower-middle right section 1",
+      "order": 72
+    },
+    {
+      "id": 74,
+      "name": "Small curled ornament below the hand, lower-middle center section 3",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Small curled ornament below the hand, lower-middle right section 2",
+      "order": 73
+    },
+    {
+      "id": 76,
+      "name": "Lower background bands, lower-middle right section 1",
+      "order": 75
+    },
+    {
+      "id": 77,
+      "name": "Lower background bands, bottom right section 5",
+      "order": 79
+    },
+    {
+      "id": 78,
+      "name": "Small foot and enclosed toe slit, lower-middle left section 2",
+      "order": 90
+    },
+    {
+      "id": 79,
+      "name": "Lower background bands, bottom center section 8",
+      "order": 82
+    },
+    {
+      "id": 80,
+      "name": "Lower background bands, bottom right section 2",
+      "order": 76
+    },
+    {
+      "id": 81,
+      "name": "Lower animal's body and tail, bottom left section 2",
+      "order": 92
+    },
+    {
+      "id": 82,
+      "name": "Lower animal's mane and enclosed slits, bottom center section 2",
+      "order": 94
+    },
+    {
+      "id": 83,
+      "name": "Small foot and enclosed toe slit, lower-middle left section 1",
+      "order": 89
+    },
+    {
+      "id": 84,
+      "name": "Lower background bands, bottom right section 4",
+      "order": 78
+    },
+    {
+      "id": 85,
+      "name": "Lower animal's body and tail, lower-middle left section 1",
+      "order": 91
+    },
+    {
+      "id": 86,
+      "name": "Lower animal's mane and enclosed slits, lower-middle center section 1",
+      "order": 93
+    },
+    {
+      "id": 87,
+      "name": "Lower background bands, bottom right section 6",
+      "order": 80
+    },
+    {
+      "id": 88,
+      "name": "Lower background bands, bottom right section 9",
+      "order": 83
+    },
+    {
+      "id": 89,
+      "name": "Lower background bands, bottom right section 7",
+      "order": 81
+    },
+    {
+      "id": 90,
+      "name": "Lower background bands, bottom left section 3",
+      "order": 77
+    },
+    {
+      "id": 91,
+      "name": "Lower animal's mane and enclosed slits, bottom center section 3",
+      "order": 95
+    },
+    {
+      "id": 92,
+      "name": "Lower animal's mane and enclosed slits, bottom center section 4",
+      "order": 96
+    },
+    {
+      "id": 93,
+      "name": "Lower background bands, bottom center section 12",
+      "order": 86
+    },
+    {
+      "id": 94,
+      "name": "Lower background bands, bottom center section 10",
+      "order": 84
+    },
+    {
+      "id": 95,
+      "name": "Lower background bands, bottom center section 11",
+      "order": 85
+    },
+    {
+      "id": 96,
+      "name": "Lower background bands, bottom right section 13",
+      "order": 87
+    },
+    {
+      "id": 97,
+      "name": "Lower background bands, bottom center section 14",
+      "order": 88
+    },
+    {
+      "id": 98,
+      "name": "Lower animal's claw details, bottom center section 1",
+      "order": 97
+    },
+    {
+      "id": 99,
+      "name": "Lower animal's claw details, bottom center section 2",
+      "order": 98
+    },
+    {
+      "id": 100,
+      "name": "Tiny enclosed gap at the lower foot",
+      "order": 99
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,522 @@
+{
+  "artworkId": "design-025",
+  "contentVersion": "e35c6a21024fba118200345216515b2d32235b6ddcb35c114775baff15e4cefd",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Background wave bands, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Background wave bands, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Background beside the raised hand, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Background wave bands, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Rays above the head, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Background wave bands, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Rays above the head, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Background wave bands, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Background wave bands, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Hair curls beside the head, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Raised hand and fingers, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Face neck and upper chest, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Raised hand and fingers, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Background wave bands, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Hair curls beside the head, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Hair curls beside the head, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Background wave bands, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Hair curls beside the head, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Background wave bands, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Background wave bands, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Raised hand and fingers, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Raised hand and fingers, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Background surrounding the tablets, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Left eye-white panes, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Left eye-white panes, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Right eye-white panes, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Right eye-white panes, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Background wave bands, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Hair curls beside the head, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Tablet outer frame, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Background wave bands, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Hair curls beside the head, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Background wave bands, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Hair curls beside the head, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Left tablet field, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Background wave bands, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Hair curls beside the head, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Right tablet field, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Moustache, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Background wave bands, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Hair curls beside the head, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Background wave bands, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Hair curls beside the head, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Hair curls beside the head, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Robe sleeve and chest folds, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Robe sleeve and chest folds, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Hair curls beside the head, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Robe sleeve and chest folds, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Robe sleeve and chest folds, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Robe sleeve and chest folds, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Robe sleeve and chest folds, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Robe sleeve and chest folds, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Background wave bands, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Robe sleeve and chest folds, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Background wave bands, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Tablet lower frame and adjacent enclosed pane, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Background wave bands, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Hand holding the tablets, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Background wave bands, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Background wave bands, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Background wave bands, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Robe sleeve and chest folds, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Robe sleeve and chest folds, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Tablet lower frame and adjacent enclosed pane, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Background wave bands, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Background wave bands, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Robe sleeve and chest folds, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Robe sleeve and chest folds, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Tablet lower frame and adjacent enclosed pane, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Background wave bands, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Background wave bands, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Background wave bands, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Background wave bands, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Long robe folds and hem, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Long robe folds and hem, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Long robe folds and hem, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Long robe folds and hem, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Long robe folds and hem, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Long robe folds and hem, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Background wave bands, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Background wave bands, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Long robe folds and hem, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Background wave bands, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Background wave bands, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Background wave bands, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Background wave bands, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Background wave bands, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Fine outline fragment beside Long robe folds and hem, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Long robe folds and hem, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Background wave bands, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Right foot, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Background wave bands, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Background wave bands, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Left foot, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Long robe folds and hem, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Bottom radiating bands, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Bottom radiating bands, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Bottom radiating bands, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Bottom radiating bands, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Bottom radiating bands, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Bottom radiating bands, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Bottom radiating bands, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Bottom radiating bands, retained section 103",
+      "order": 103
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-025",
+  "sourceVersion": "e35c6a21024fba118200345216515b2d32235b6ddcb35c114775baff15e4cefd",
+  "observations": "Full numbered figure and all three small-component crops inspected. Retain the small right eye-white corner and the enclosed beard detail below the neck. Exclude only the isolated one-pixel acute robe tip. The open finger contours remain connected to the raised hand; the two tablet fields and their frame remain distinct. Hair curls, eye whites, moustache, mouth, cuffs, feet and flowing robe bands receive feature-based names, with surrounding wave bands ordered by position. No visible ink, source pixels or earlier saved package is changed.",
+  "evidence": [
+    ".work/review/design-025/e35c6a21024fba118200345216515b2d32235b6ddcb35c114775baff15e4cefd/regions-numbered-2x.png",
+    ".work/region-crops/design-025/small-01.png"
+  ],
+  "tips": "88",
+  "groups": [
+    {
+      "name": "Background wave bands",
+      "ids": "1,2,4,6,8,9,14,17,19,20,28,31,33,36,40,42,53,55,57,59-61,65,66,70-73,80,81,83-87,90,92,93"
+    },
+    {
+      "name": "Rays above the head",
+      "ids": "5,7"
+    },
+    {
+      "name": "Raised hand and fingers",
+      "ids": "11,13,21,22"
+    },
+    {
+      "name": "Hair curls beside the head",
+      "ids": "10,15,16,18,29,32,34,37,41,43,44,47"
+    },
+    {
+      "name": "Face neck and upper chest",
+      "ids": "12"
+    },
+    {
+      "name": "Left eye-white panes",
+      "ids": "24,25"
+    },
+    {
+      "name": "Right eye-white panes",
+      "ids": "26,27"
+    },
+    {
+      "name": "Moustache",
+      "ids": "39"
+    },
+    {
+      "name": "Background surrounding the tablets",
+      "ids": "23"
+    },
+    {
+      "name": "Robe sleeve and chest folds",
+      "ids": "45,46,48-52,54,62,63,67,68"
+    },
+    {
+      "name": "Tablet outer frame",
+      "ids": "30"
+    },
+    {
+      "name": "Left tablet field",
+      "ids": "35"
+    },
+    {
+      "name": "Right tablet field",
+      "ids": "38"
+    },
+    {
+      "name": "Hand holding the tablets",
+      "ids": "58"
+    },
+    {
+      "name": "Tablet lower frame and adjacent enclosed pane",
+      "ids": "56,64,69"
+    },
+    {
+      "name": "Long robe folds and hem",
+      "ids": "74-79,82,89,95"
+    },
+    {
+      "name": "Right foot",
+      "ids": "91"
+    },
+    {
+      "name": "Left foot",
+      "ids": "94"
+    },
+    {
+      "name": "Bottom radiating bands",
+      "ids": "96-103"
+    },
+    {
+      "name": "Background beside the raised hand",
+      "ids": "3"
+    }
+  ]
+}

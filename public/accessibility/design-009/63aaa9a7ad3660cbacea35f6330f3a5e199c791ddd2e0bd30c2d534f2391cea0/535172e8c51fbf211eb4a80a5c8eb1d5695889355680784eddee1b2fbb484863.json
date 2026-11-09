@@ -1,0 +1,592 @@
+{
+  "artworkId": "design-009",
+  "contentVersion": "63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Top border strip",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Top-left border corner",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Top-right border corner",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Upper-left background outside the tree",
+      "order": 18
+    },
+    {
+      "id": 5,
+      "name": "Connected curved dividing bars",
+      "order": 17
+    },
+    {
+      "id": 6,
+      "name": "Background surrounding the tree crown",
+      "order": 20
+    },
+    {
+      "id": 7,
+      "name": "Upper-right background outside the tree",
+      "order": 19
+    },
+    {
+      "id": 8,
+      "name": "Top leaf slanting right",
+      "order": 21
+    },
+    {
+      "id": 9,
+      "name": "Top leaf slanting left",
+      "order": 22
+    },
+    {
+      "id": 10,
+      "name": "Top central leaf",
+      "order": 23
+    },
+    {
+      "id": 11,
+      "name": "Upper-left border strip",
+      "order": 4
+    },
+    {
+      "id": 12,
+      "name": "Upper-right border strip",
+      "order": 5
+    },
+    {
+      "id": 13,
+      "name": "Long upper-left leaf",
+      "order": 24
+    },
+    {
+      "id": 14,
+      "name": "High leaf to the right",
+      "order": 25
+    },
+    {
+      "id": 15,
+      "name": "Upright leaf on the left",
+      "order": 26
+    },
+    {
+      "id": 16,
+      "name": "Tree crown and trunk",
+      "order": 37
+    },
+    {
+      "id": 17,
+      "name": "Long leaf at the upper right",
+      "order": 27
+    },
+    {
+      "id": 18,
+      "name": "Slanting leaf at the upper left",
+      "order": 28
+    },
+    {
+      "id": 19,
+      "name": "Horizontal leaf at the upper right",
+      "order": 29
+    },
+    {
+      "id": 20,
+      "name": "Horizontal leaf at the upper left",
+      "order": 30
+    },
+    {
+      "id": 21,
+      "name": "Large round detail near the top of the crown",
+      "order": 38
+    },
+    {
+      "id": 22,
+      "name": "Leaf on the crown's right side",
+      "order": 31
+    },
+    {
+      "id": 23,
+      "name": "Horizontal leaf at the middle left",
+      "order": 32
+    },
+    {
+      "id": 24,
+      "name": "Tiny enclosed dot above the central circle",
+      "order": 39
+    },
+    {
+      "id": 25,
+      "name": "Round detail on the crown's upper right",
+      "order": 40
+    },
+    {
+      "id": 26,
+      "name": "Tiny enclosed dot on the upper left",
+      "order": 41
+    },
+    {
+      "id": 27,
+      "name": "Tiny enclosed dot above the middle of the crown",
+      "order": 42
+    },
+    {
+      "id": 28,
+      "name": "Round detail in the upper middle",
+      "order": 43
+    },
+    {
+      "id": 29,
+      "name": "Pointed opening inside the crown on the right",
+      "order": 44
+    },
+    {
+      "id": 30,
+      "name": "Narrow right-hand crown opening",
+      "order": 45
+    },
+    {
+      "id": 31,
+      "name": "Narrow central crown opening",
+      "order": 46
+    },
+    {
+      "id": 32,
+      "name": "Tiny enclosed dot left of the central branches",
+      "order": 47
+    },
+    {
+      "id": 33,
+      "name": "Long leaf on the middle left",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Large circle at the middle left of the crown",
+      "order": 48
+    },
+    {
+      "id": 35,
+      "name": "Small background above the upper-right leaf",
+      "order": 55
+    },
+    {
+      "id": 36,
+      "name": "Lower leaf on the crown's left side",
+      "order": 34
+    },
+    {
+      "id": 37,
+      "name": "Background to the left of the upper-right leaf",
+      "order": 56
+    },
+    {
+      "id": 38,
+      "name": "Large pointed upper-right leaf",
+      "order": 57
+    },
+    {
+      "id": 39,
+      "name": "Pointed opening below the middle of the crown",
+      "order": 49
+    },
+    {
+      "id": 40,
+      "name": "Narrow background at the right of the upper leaf",
+      "order": 58
+    },
+    {
+      "id": 41,
+      "name": "Lowest large circle in the crown",
+      "order": 50
+    },
+    {
+      "id": 42,
+      "name": "Tiny enclosed dot beside the lowest circle",
+      "order": 51
+    },
+    {
+      "id": 43,
+      "name": "Right background below the upper leaf",
+      "order": 59
+    },
+    {
+      "id": 44,
+      "name": "Lowest horizontal leaf on the left",
+      "order": 35
+    },
+    {
+      "id": 45,
+      "name": "Left border joint beside the crown",
+      "order": 6
+    },
+    {
+      "id": 46,
+      "name": "Tiny enclosed dot below the lowest circle",
+      "order": 52
+    },
+    {
+      "id": 47,
+      "name": "Lowest pointed opening inside the crown",
+      "order": 53
+    },
+    {
+      "id": 48,
+      "name": "Lowest slanting leaf beside the crown",
+      "order": 36
+    },
+    {
+      "id": 49,
+      "name": "Middle-left border strip",
+      "order": 7
+    },
+    {
+      "id": 50,
+      "name": "Upper band below the tree panel",
+      "order": 61
+    },
+    {
+      "id": 51,
+      "name": "Small crescent at the base of the crown",
+      "order": 54
+    },
+    {
+      "id": 52,
+      "name": "Background beneath the upper-right leaf",
+      "order": 60
+    },
+    {
+      "id": 53,
+      "name": "Lower band below the tree panel",
+      "order": 62
+    },
+    {
+      "id": 54,
+      "name": "Large curved pane below the tree",
+      "order": 63
+    },
+    {
+      "id": 55,
+      "name": "Small curved opening in the pane below the tree",
+      "order": 64
+    },
+    {
+      "id": 56,
+      "name": "Small upper opening beside the curved pane",
+      "order": 65
+    },
+    {
+      "id": 57,
+      "name": "Long curved opening beside the curved pane",
+      "order": 66
+    },
+    {
+      "id": 58,
+      "name": "Lower-left curved strip beneath the tree",
+      "order": 67
+    },
+    {
+      "id": 59,
+      "name": "Right pane beneath the tree",
+      "order": 68
+    },
+    {
+      "id": 60,
+      "name": "Left background beneath the tree",
+      "order": 69
+    },
+    {
+      "id": 61,
+      "name": "Right border joint beside the tree base",
+      "order": 8
+    },
+    {
+      "id": 62,
+      "name": "Long upper background in the middle-right panel",
+      "order": 70
+    },
+    {
+      "id": 63,
+      "name": "Large curled middle-right leaf",
+      "order": 71
+    },
+    {
+      "id": 64,
+      "name": "Middle-right border strip",
+      "order": 9
+    },
+    {
+      "id": 65,
+      "name": "Upper background above the creature's head",
+      "order": 77
+    },
+    {
+      "id": 66,
+      "name": "Narrow crescent above the middle-right leaf",
+      "order": 72
+    },
+    {
+      "id": 67,
+      "name": "Lower background beneath the middle-right leaf",
+      "order": 73
+    },
+    {
+      "id": 68,
+      "name": "Large pointed leaf to the left of the head",
+      "order": 78
+    },
+    {
+      "id": 69,
+      "name": "Left border joint at the middle",
+      "order": 10
+    },
+    {
+      "id": 70,
+      "name": "Curved strip above the creature's head",
+      "order": 79
+    },
+    {
+      "id": 71,
+      "name": "Inner curved strip above the creature's head",
+      "order": 80
+    },
+    {
+      "id": 72,
+      "name": "Narrow upright strip below the middle-right leaf",
+      "order": 74
+    },
+    {
+      "id": 73,
+      "name": "Long middle-left border strip",
+      "order": 11
+    },
+    {
+      "id": 74,
+      "name": "Long left background beside the creature",
+      "order": 81
+    },
+    {
+      "id": 75,
+      "name": "Thin upright strip beside the middle-right stem",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Broad upright strip beside the middle-right stem",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Narrow background following the creature's neck",
+      "order": 82
+    },
+    {
+      "id": 78,
+      "name": "Creature's head and long scaled neck",
+      "order": 83
+    },
+    {
+      "id": 79,
+      "name": "Rightmost tooth",
+      "order": 87
+    },
+    {
+      "id": 80,
+      "name": "Long thin upper lip",
+      "order": 84
+    },
+    {
+      "id": 81,
+      "name": "Second tooth from the right",
+      "order": 88
+    },
+    {
+      "id": 82,
+      "name": "Eye crescent",
+      "order": 85
+    },
+    {
+      "id": 83,
+      "name": "Curled pupil",
+      "order": 86
+    },
+    {
+      "id": 84,
+      "name": "Third tooth from the right",
+      "order": 89
+    },
+    {
+      "id": 85,
+      "name": "Leftmost tooth",
+      "order": 90
+    },
+    {
+      "id": 86,
+      "name": "Long forked tongue",
+      "order": 91
+    },
+    {
+      "id": 87,
+      "name": "Small triangle beyond the tongue tip",
+      "order": 92
+    },
+    {
+      "id": 88,
+      "name": "Small opening above the mouth corner",
+      "order": 93
+    },
+    {
+      "id": 89,
+      "name": "Mouth corner beside the tongue",
+      "order": 94
+    },
+    {
+      "id": 90,
+      "name": "Large background inside the neck's curve",
+      "order": 97
+    },
+    {
+      "id": 91,
+      "name": "Lower mouth cavity",
+      "order": 95
+    },
+    {
+      "id": 92,
+      "name": "Curved lower lip",
+      "order": 96
+    },
+    {
+      "id": 93,
+      "name": "Strip along the right side of the neck",
+      "order": 98
+    },
+    {
+      "id": 94,
+      "name": "Lower-right border strip",
+      "order": 12
+    },
+    {
+      "id": 95,
+      "name": "Upper background in the bottom-right panel",
+      "order": 99
+    },
+    {
+      "id": 96,
+      "name": "Top-right pane in the bottom-right panel",
+      "order": 100
+    },
+    {
+      "id": 97,
+      "name": "Pointed leaf in the bottom-right panel",
+      "order": 101
+    },
+    {
+      "id": 98,
+      "name": "Broad rising strip at the bottom right",
+      "order": 102
+    },
+    {
+      "id": 99,
+      "name": "Large leaf at the bottom left",
+      "order": 110
+    },
+    {
+      "id": 100,
+      "name": "Curved strip beside the bottom-left leaf",
+      "order": 111
+    },
+    {
+      "id": 101,
+      "name": "Thin hook inside the bottom-left leaf",
+      "order": 112
+    },
+    {
+      "id": 102,
+      "name": "Upper curved band below the bottom-right leaf",
+      "order": 103
+    },
+    {
+      "id": 103,
+      "name": "Small pane inside the lower neck curve",
+      "order": 113
+    },
+    {
+      "id": 104,
+      "name": "Small pane beneath the bottom-right leaf tip",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Right border joint near the base",
+      "order": 13
+    },
+    {
+      "id": 106,
+      "name": "Left border joint near the base",
+      "order": 14
+    },
+    {
+      "id": 107,
+      "name": "Middle curved band at the bottom right",
+      "order": 105
+    },
+    {
+      "id": 108,
+      "name": "Lowest broad curved band at the bottom right",
+      "order": 106
+    },
+    {
+      "id": 109,
+      "name": "Bottom-left background",
+      "order": 114
+    },
+    {
+      "id": 110,
+      "name": "Bottom-right border strip",
+      "order": 15
+    },
+    {
+      "id": 111,
+      "name": "Bottom-left border strip",
+      "order": 16
+    },
+    {
+      "id": 112,
+      "name": "Narrow rising band at the lower right",
+      "order": 107
+    },
+    {
+      "id": 113,
+      "name": "Lower band beneath the bottom-left leaf",
+      "order": 115
+    },
+    {
+      "id": 114,
+      "name": "Thin lowest band at the bottom right",
+      "order": 108
+    },
+    {
+      "id": 115,
+      "name": "Bottom-right corner background",
+      "order": 109
+    },
+    {
+      "id": 116,
+      "name": "Small lower pane left of the creature's neck",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Small lower pane right of the bottom-left leaf",
+      "order": 117
+    }
+  ],
+  "schemaVersion": 1
+}

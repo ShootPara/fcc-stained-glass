@@ -1,0 +1,2291 @@
+{
+  "artworks": {
+    "design-002": {
+      "activeVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+      "versions": {
+        "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e": {
+          "archiveRecipe": "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/recipe.json",
+          "contentVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/package.json",
+            "sha256": "dc362a335e4238748ceb88b8f251313910437eb36a72a1b25370cd060cc7182c"
+          },
+          "preparationDigest": "cf09f708afcec5d8dc636c5901c5f2ae7504dc538f3f28ceb1086443b72fd3b2",
+          "sourceDigest": "013578d8ab487e7f2dfe1c0af61bbf296353f464940436da1d9b6a5bbb0a4a73",
+          "sourceId": "design-002"
+        }
+      }
+    },
+    "design-003": {
+      "activeVersion": "9add389f5a0e4acd87032d43220f473d1977adf81c813bd013e76aa076bad60d",
+      "versions": {
+        "21bc98c4b5c660497231765a8b53303711f0aec53739d68ae4a90b61ba7b6b54": {
+          "archiveRecipe": "generated/recipes/design-003/21bc98c4b5c660497231765a8b53303711f0aec53739d68ae4a90b61ba7b6b54/recipe.json",
+          "contentVersion": "21bc98c4b5c660497231765a8b53303711f0aec53739d68ae4a90b61ba7b6b54",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-003/21bc98c4b5c660497231765a8b53303711f0aec53739d68ae4a90b61ba7b6b54/package.json",
+            "sha256": "1119856b3cea806c5017396075bc40d13b12829a5d68fd799a6ae9d55e165ef6"
+          },
+          "preparationDigest": "efa03551276057bf30306d0405b32c5221e14e798fe33a795e3c1031a12ff6d2",
+          "sourceDigest": "604704c46091b7d68c7730988e543139870d1642d911e56d30d0479bd52b8fb8",
+          "sourceId": "design-003"
+        },
+        "9add389f5a0e4acd87032d43220f473d1977adf81c813bd013e76aa076bad60d": {
+          "archiveRecipe": "generated/recipes/design-003/9add389f5a0e4acd87032d43220f473d1977adf81c813bd013e76aa076bad60d/recipe.json",
+          "contentVersion": "9add389f5a0e4acd87032d43220f473d1977adf81c813bd013e76aa076bad60d",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-003/9add389f5a0e4acd87032d43220f473d1977adf81c813bd013e76aa076bad60d/package.json",
+            "sha256": "015109fea1a31855eb47b73d537dd13c5b9604a14a97618e68ae0341ca1012b6"
+          },
+          "preparationDigest": "2363eb71e12063bfbd8df961dc6a110f8641a3ab0555e6294488f451b45838f7",
+          "sourceDigest": "604704c46091b7d68c7730988e543139870d1642d911e56d30d0479bd52b8fb8",
+          "sourceId": "design-003"
+        }
+      }
+    },
+    "design-004": {
+      "activeVersion": "82987f707ebfb19b2767254fe9baecdfcdbc8a9e1c27c7237cd51191c01b217d",
+      "versions": {
+        "2883438d6f3368f14ff2dbaf8b17aae5b99635929a4d3a7d84d2c4572b1054bc": {
+          "archiveRecipe": "generated/recipes/design-004/2883438d6f3368f14ff2dbaf8b17aae5b99635929a4d3a7d84d2c4572b1054bc/recipe.json",
+          "contentVersion": "2883438d6f3368f14ff2dbaf8b17aae5b99635929a4d3a7d84d2c4572b1054bc",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-004/2883438d6f3368f14ff2dbaf8b17aae5b99635929a4d3a7d84d2c4572b1054bc/package.json",
+            "sha256": "9c1be080baa72fb84261cb719820b0805ee540c230fd55d00569182321f5b26c"
+          },
+          "preparationDigest": "078c688ac4441354c314dad2337498c541267586cc52ac1ac4508d34546d396e",
+          "sourceDigest": "850e9ed5480d1257e216e05ecdedf4fbc92fc98d24e63bd6d8e83dcac28c1d4f",
+          "sourceId": "design-004"
+        },
+        "82987f707ebfb19b2767254fe9baecdfcdbc8a9e1c27c7237cd51191c01b217d": {
+          "archiveRecipe": "generated/recipes/design-004/82987f707ebfb19b2767254fe9baecdfcdbc8a9e1c27c7237cd51191c01b217d/recipe.json",
+          "contentVersion": "82987f707ebfb19b2767254fe9baecdfcdbc8a9e1c27c7237cd51191c01b217d",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-004/82987f707ebfb19b2767254fe9baecdfcdbc8a9e1c27c7237cd51191c01b217d/package.json",
+            "sha256": "27f893b3c1ead8e745722641bd561ad76c19f479c39d9ff91f1b5258ba3a0ac0"
+          },
+          "preparationDigest": "51e00b3cdcbfc53fbdf2b536786ef81d30431083f7062430aeb74670c3d0c891",
+          "sourceDigest": "850e9ed5480d1257e216e05ecdedf4fbc92fc98d24e63bd6d8e83dcac28c1d4f",
+          "sourceId": "design-004"
+        }
+      }
+    },
+    "design-005": {
+      "activeVersion": "91dea701f9ce2de7b27ff4e0cefc398d87654257addcd8a339c429ecd85561b4",
+      "versions": {
+        "37327e53d4bf8e317e68e2f3b9bdf2138ef0c207b78deb18a2aa68f435f17953": {
+          "archiveRecipe": "generated/recipes/design-005/37327e53d4bf8e317e68e2f3b9bdf2138ef0c207b78deb18a2aa68f435f17953/recipe.json",
+          "contentVersion": "37327e53d4bf8e317e68e2f3b9bdf2138ef0c207b78deb18a2aa68f435f17953",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-005/37327e53d4bf8e317e68e2f3b9bdf2138ef0c207b78deb18a2aa68f435f17953/package.json",
+            "sha256": "d95a4dd76d763bd40a0c57dabb11b0b3768b5a0f8662aa3c526a9f9b95434887"
+          },
+          "preparationDigest": "d1b131850975a0209249c2e70c9d4e02fab5172555e0848f156648496f8987a6",
+          "sourceDigest": "a658b75981fb211e261cdc3655bcfaa3977cc495e28ec450dcfbeea0713f40e9",
+          "sourceId": "design-005"
+        },
+        "7a6fc27f97b9e47489f0ecf22449ab31d3f8b1df2ae6ddf0de252ca668cc265e": {
+          "archiveRecipe": "generated/recipes/design-005/7a6fc27f97b9e47489f0ecf22449ab31d3f8b1df2ae6ddf0de252ca668cc265e/recipe.json",
+          "contentVersion": "7a6fc27f97b9e47489f0ecf22449ab31d3f8b1df2ae6ddf0de252ca668cc265e",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-005/7a6fc27f97b9e47489f0ecf22449ab31d3f8b1df2ae6ddf0de252ca668cc265e/package.json",
+            "sha256": "e32deaa779dedbb9dd0141c61bdb5ecd69bc494bc96b36ce6899cfec503b15a6"
+          },
+          "preparationDigest": "6724b02693434e550fb0772bcdaa44fc23d9220cce31d60992516afc64e46df9",
+          "sourceDigest": "a658b75981fb211e261cdc3655bcfaa3977cc495e28ec450dcfbeea0713f40e9",
+          "sourceId": "design-005"
+        },
+        "91dea701f9ce2de7b27ff4e0cefc398d87654257addcd8a339c429ecd85561b4": {
+          "archiveRecipe": "generated/recipes/design-005/91dea701f9ce2de7b27ff4e0cefc398d87654257addcd8a339c429ecd85561b4/recipe.json",
+          "contentVersion": "91dea701f9ce2de7b27ff4e0cefc398d87654257addcd8a339c429ecd85561b4",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-005/91dea701f9ce2de7b27ff4e0cefc398d87654257addcd8a339c429ecd85561b4/package.json",
+            "sha256": "5ac12062768a3c9e121939b931b9418f037455c600a4794e0d12a3dfc34fbaf1"
+          },
+          "preparationDigest": "a8441642c2eb2a168a3ad0dd3de326656c289983bd4f4c75844018b11e09c90d",
+          "sourceDigest": "a658b75981fb211e261cdc3655bcfaa3977cc495e28ec450dcfbeea0713f40e9",
+          "sourceId": "design-005"
+        }
+      }
+    },
+    "design-006": {
+      "activeVersion": "0dd7b2da31064d5e9223c1bef23849bef8ac77220972d2e1316f439bb74f1066",
+      "versions": {
+        "0dd7b2da31064d5e9223c1bef23849bef8ac77220972d2e1316f439bb74f1066": {
+          "archiveRecipe": "generated/recipes/design-006/0dd7b2da31064d5e9223c1bef23849bef8ac77220972d2e1316f439bb74f1066/recipe.json",
+          "contentVersion": "0dd7b2da31064d5e9223c1bef23849bef8ac77220972d2e1316f439bb74f1066",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-006/0dd7b2da31064d5e9223c1bef23849bef8ac77220972d2e1316f439bb74f1066/package.json",
+            "sha256": "53839808959a41b0cfd59bddeb3be18636a257320087951de0dce6d2dfa97da5"
+          },
+          "preparationDigest": "407c40ac415e0a7338d34e3b45d3a44a322fe66cb386afc2faf58f5333b326e5",
+          "sourceDigest": "786c701bbcd1467505090bb380de08bcbf6fc936788e7536da3a6fbf27fdd7f3",
+          "sourceId": "design-006"
+        },
+        "0eb9a36e8c5bcdae211cfd752e40c702235a27c5c0ae4f1891aae60556c20e53": {
+          "archiveRecipe": "generated/recipes/design-006/0eb9a36e8c5bcdae211cfd752e40c702235a27c5c0ae4f1891aae60556c20e53/recipe.json",
+          "contentVersion": "0eb9a36e8c5bcdae211cfd752e40c702235a27c5c0ae4f1891aae60556c20e53",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-006/0eb9a36e8c5bcdae211cfd752e40c702235a27c5c0ae4f1891aae60556c20e53/package.json",
+            "sha256": "0053045c2deda6369e9b2c2d4eac2532b8f83a573e02b35426d29817f1a37372"
+          },
+          "preparationDigest": "7301dfccf825255f80abd5ce7421ffe2cd07eb98b0a2f82c15836233ddbd2ef4",
+          "sourceDigest": "786c701bbcd1467505090bb380de08bcbf6fc936788e7536da3a6fbf27fdd7f3",
+          "sourceId": "design-006"
+        }
+      }
+    },
+    "design-007": {
+      "activeVersion": "f4310586f5c8664d31c5ad6499525b40d87d3249e3c949bea25924cd60e783ea",
+      "versions": {
+        "7766c9329aee3d664424fac479eb742297ed09617741d117bdf00bd6e289ff7e": {
+          "archiveRecipe": "generated/recipes/design-007/7766c9329aee3d664424fac479eb742297ed09617741d117bdf00bd6e289ff7e/recipe.json",
+          "contentVersion": "7766c9329aee3d664424fac479eb742297ed09617741d117bdf00bd6e289ff7e",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-007/7766c9329aee3d664424fac479eb742297ed09617741d117bdf00bd6e289ff7e/package.json",
+            "sha256": "af3c37db98abb3d5ce09625db0024056faada26155d3363a33269de6bb49981e"
+          },
+          "preparationDigest": "6a72fcb56a7f22b00678de7fe7cf6b784b86137f7a33232103fb5ced59ba7466",
+          "sourceDigest": "b6abe84881ccbbbddedb3e87607d62b856a2147b799344584adb01733675c1ea",
+          "sourceId": "design-007"
+        },
+        "f4310586f5c8664d31c5ad6499525b40d87d3249e3c949bea25924cd60e783ea": {
+          "archiveRecipe": "generated/recipes/design-007/f4310586f5c8664d31c5ad6499525b40d87d3249e3c949bea25924cd60e783ea/recipe.json",
+          "contentVersion": "f4310586f5c8664d31c5ad6499525b40d87d3249e3c949bea25924cd60e783ea",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-007/f4310586f5c8664d31c5ad6499525b40d87d3249e3c949bea25924cd60e783ea/package.json",
+            "sha256": "e8c0a0c722e698fa0f6f3347c6a54d8a4196f1804f2785226a6a936892a0a900"
+          },
+          "preparationDigest": "d6151ecdb4eabd0449d5133849f24c95834e7e2ed3d844e5872d56e659ffcc80",
+          "sourceDigest": "b6abe84881ccbbbddedb3e87607d62b856a2147b799344584adb01733675c1ea",
+          "sourceId": "design-007"
+        }
+      }
+    },
+    "design-008": {
+      "activeVersion": "2f8e2e35ea15f24847703bc78be2369a2f743d66410c59fb2d1a3e8c3c570406",
+      "versions": {
+        "2f8e2e35ea15f24847703bc78be2369a2f743d66410c59fb2d1a3e8c3c570406": {
+          "archiveRecipe": "generated/recipes/design-008/2f8e2e35ea15f24847703bc78be2369a2f743d66410c59fb2d1a3e8c3c570406/recipe.json",
+          "contentVersion": "2f8e2e35ea15f24847703bc78be2369a2f743d66410c59fb2d1a3e8c3c570406",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-008/2f8e2e35ea15f24847703bc78be2369a2f743d66410c59fb2d1a3e8c3c570406/package.json",
+            "sha256": "c84a703f27159cecbe0f5ce7afdfbbcd2c37a0ee0f6f031d4cf32fca5417fb74"
+          },
+          "preparationDigest": "90eeabd834e07251274cc32677012c721531d6ac0b97967d704b55f386375c3d",
+          "sourceDigest": "fd156a6f786dc2693c27538859c1a3fe75c85987db9ce3209aeb76ef94b3726e",
+          "sourceId": "design-008"
+        },
+        "3a467c04b9ba9eabca57ace71536072cdec067e61b34b0be9eb90f4495ea5ac7": {
+          "archiveRecipe": "generated/recipes/design-008/3a467c04b9ba9eabca57ace71536072cdec067e61b34b0be9eb90f4495ea5ac7/recipe.json",
+          "contentVersion": "3a467c04b9ba9eabca57ace71536072cdec067e61b34b0be9eb90f4495ea5ac7",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-008/3a467c04b9ba9eabca57ace71536072cdec067e61b34b0be9eb90f4495ea5ac7/package.json",
+            "sha256": "4300cdde91089828b3ea54e36cda317890da769e48b4d59d7ca48c60684c8187"
+          },
+          "preparationDigest": "8305f0b05116ab76f209fdfba6e1fb168bfebdc672731efd591fb7b2ab1efc01",
+          "sourceDigest": "fd156a6f786dc2693c27538859c1a3fe75c85987db9ce3209aeb76ef94b3726e",
+          "sourceId": "design-008"
+        }
+      }
+    },
+    "design-009": {
+      "activeVersion": "63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0",
+      "versions": {
+        "63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0": {
+          "archiveRecipe": "generated/recipes/design-009/63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0/recipe.json",
+          "contentVersion": "63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-009/63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0/package.json",
+            "sha256": "979d166a1fa49c6c6cd6d314ee1403701ea9c4e0136260fc4b8e562ea0a34286"
+          },
+          "preparationDigest": "6125adaf5dc562ca0da599c85f99277ec9283adec88639d63f500330641035b3",
+          "sourceDigest": "3d76f18ea1060f448e01b6c533853d31ba623ee89e92cf7ebb95fff1f633ab30",
+          "sourceId": "design-009"
+        },
+        "9a565b7e4b846201cfa73b88ecd84b6a98cb6644a86a39c0dcd1f84060bbdb49": {
+          "archiveRecipe": "generated/recipes/design-009/9a565b7e4b846201cfa73b88ecd84b6a98cb6644a86a39c0dcd1f84060bbdb49/recipe.json",
+          "contentVersion": "9a565b7e4b846201cfa73b88ecd84b6a98cb6644a86a39c0dcd1f84060bbdb49",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-009/9a565b7e4b846201cfa73b88ecd84b6a98cb6644a86a39c0dcd1f84060bbdb49/package.json",
+            "sha256": "7bd2d5987d6e29482d9e54fc71c033db6ed8d5d7807a0cfbe2edf1d2fc0989b7"
+          },
+          "preparationDigest": "4032a75b21933816691cc1cbbed8b39e34df4512edeac55620c1779fd7d5eee4",
+          "sourceDigest": "3d76f18ea1060f448e01b6c533853d31ba623ee89e92cf7ebb95fff1f633ab30",
+          "sourceId": "design-009"
+        }
+      }
+    },
+    "design-010": {
+      "activeVersion": "4590d31c2810a9fdb8e9e06dd57bf73c391119ae743baab808ae5ee8a633cfcc",
+      "versions": {
+        "4590d31c2810a9fdb8e9e06dd57bf73c391119ae743baab808ae5ee8a633cfcc": {
+          "archiveRecipe": "generated/recipes/design-010/4590d31c2810a9fdb8e9e06dd57bf73c391119ae743baab808ae5ee8a633cfcc/recipe.json",
+          "contentVersion": "4590d31c2810a9fdb8e9e06dd57bf73c391119ae743baab808ae5ee8a633cfcc",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-010/4590d31c2810a9fdb8e9e06dd57bf73c391119ae743baab808ae5ee8a633cfcc/package.json",
+            "sha256": "a0f74f1b025173778ede522bd852240981a3cd23147e1e9d7f21781cabfe9047"
+          },
+          "preparationDigest": "8aec8efbe517d794cc4847ba48c3276a1a0aeec3167dba996f9572a6761a420c",
+          "sourceDigest": "6a7fa4a433721388cd63bc42980d0bfc1aa15f38ec77604d1cb4884e605542a6",
+          "sourceId": "design-010"
+        },
+        "d30760631655bcf65e150f0be6e00afbfb85b26feca4857155d91de023951738": {
+          "archiveRecipe": "generated/recipes/design-010/d30760631655bcf65e150f0be6e00afbfb85b26feca4857155d91de023951738/recipe.json",
+          "contentVersion": "d30760631655bcf65e150f0be6e00afbfb85b26feca4857155d91de023951738",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-010/d30760631655bcf65e150f0be6e00afbfb85b26feca4857155d91de023951738/package.json",
+            "sha256": "e7f7b35e1af0b6ba6643510a67c7b062a45f4a7f78f28cbacc560c77dc04b91f"
+          },
+          "preparationDigest": "e59ff3f37042a398193cfcbde9229e0440eb3ac8149c7249be9fb4a8167210bf",
+          "sourceDigest": "6a7fa4a433721388cd63bc42980d0bfc1aa15f38ec77604d1cb4884e605542a6",
+          "sourceId": "design-010"
+        }
+      }
+    },
+    "design-011": {
+      "activeVersion": "127653217a730ad122e909609cf6170ba71746cc8c856103d904bedd0278d3ab",
+      "versions": {
+        "127653217a730ad122e909609cf6170ba71746cc8c856103d904bedd0278d3ab": {
+          "archiveRecipe": "generated/recipes/design-011/127653217a730ad122e909609cf6170ba71746cc8c856103d904bedd0278d3ab/recipe.json",
+          "contentVersion": "127653217a730ad122e909609cf6170ba71746cc8c856103d904bedd0278d3ab",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-011/127653217a730ad122e909609cf6170ba71746cc8c856103d904bedd0278d3ab/package.json",
+            "sha256": "b9ac453e3324ec175910bdc29e8627c2d4a1367578d917ea219febf1eaa05446"
+          },
+          "preparationDigest": "5091a773fb496ffaff0c1946fc96ea4a530cfda293aace7c4e13c5bbd06956e3",
+          "sourceDigest": "7796bc3dbbe5da101d5bfc94f0417dff3535e8baa9d08257c7d0bc6b7184d446",
+          "sourceId": "design-011"
+        },
+        "6f831e8b0f9204469cc4f0313e10c72cd00ae7a5df4239acb00bb45ddd436d51": {
+          "archiveRecipe": "generated/recipes/design-011/6f831e8b0f9204469cc4f0313e10c72cd00ae7a5df4239acb00bb45ddd436d51/recipe.json",
+          "contentVersion": "6f831e8b0f9204469cc4f0313e10c72cd00ae7a5df4239acb00bb45ddd436d51",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-011/6f831e8b0f9204469cc4f0313e10c72cd00ae7a5df4239acb00bb45ddd436d51/package.json",
+            "sha256": "f81be9bac6e9d51c01377f26f51598ad24a77ad9bb9bce3e81f5068a9899dc90"
+          },
+          "preparationDigest": "e7c318a0713fd9bed015aca854576343f6ebec0dfffac4f81d61b8d5f9fce84a",
+          "sourceDigest": "7796bc3dbbe5da101d5bfc94f0417dff3535e8baa9d08257c7d0bc6b7184d446",
+          "sourceId": "design-011"
+        }
+      }
+    },
+    "design-012": {
+      "activeVersion": "225c945ac4644a037d56a4f14873741f9163c2db9ed0c2eb060f778db86b1a1a",
+      "versions": {
+        "225c945ac4644a037d56a4f14873741f9163c2db9ed0c2eb060f778db86b1a1a": {
+          "archiveRecipe": "generated/recipes/design-012/225c945ac4644a037d56a4f14873741f9163c2db9ed0c2eb060f778db86b1a1a/recipe.json",
+          "contentVersion": "225c945ac4644a037d56a4f14873741f9163c2db9ed0c2eb060f778db86b1a1a",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-012/225c945ac4644a037d56a4f14873741f9163c2db9ed0c2eb060f778db86b1a1a/package.json",
+            "sha256": "eb6859b636a575a32e1c3a740f715af090e34e45122671fada86cace202a42ee"
+          },
+          "preparationDigest": "be63942031daecc6c7bc1c147535b04f672dc7899301ed1cd3945fe04796b99b",
+          "sourceDigest": "4697a0a1f9e2961748dc04dae45f96d3e5332b7af89125d265fe4acdb3894e2a",
+          "sourceId": "design-012"
+        },
+        "a245b4b5aa6319d71b7e92d435f2661265660ac6ce5860f20b83590b257f4625": {
+          "archiveRecipe": "generated/recipes/design-012/a245b4b5aa6319d71b7e92d435f2661265660ac6ce5860f20b83590b257f4625/recipe.json",
+          "contentVersion": "a245b4b5aa6319d71b7e92d435f2661265660ac6ce5860f20b83590b257f4625",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-012/a245b4b5aa6319d71b7e92d435f2661265660ac6ce5860f20b83590b257f4625/package.json",
+            "sha256": "912f9da63a439e04cf9217ad8eece9e7dada1348a682adc81ad24da0a95d2260"
+          },
+          "preparationDigest": "c6e3b3bed56f72a5bb3fde05b084ac9da782d615da3558b49b6d0f031137ae7b",
+          "sourceDigest": "4697a0a1f9e2961748dc04dae45f96d3e5332b7af89125d265fe4acdb3894e2a",
+          "sourceId": "design-012"
+        }
+      }
+    },
+    "design-013": {
+      "activeVersion": "9308983c4fd385a9b914a889bbdb1c6784d6b374d993f4b8ffbf90b4346654ec",
+      "versions": {
+        "9308983c4fd385a9b914a889bbdb1c6784d6b374d993f4b8ffbf90b4346654ec": {
+          "archiveRecipe": "generated/recipes/design-013/9308983c4fd385a9b914a889bbdb1c6784d6b374d993f4b8ffbf90b4346654ec/recipe.json",
+          "contentVersion": "9308983c4fd385a9b914a889bbdb1c6784d6b374d993f4b8ffbf90b4346654ec",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-013/9308983c4fd385a9b914a889bbdb1c6784d6b374d993f4b8ffbf90b4346654ec/package.json",
+            "sha256": "8a996160dfbd7b17773929ad038215cfa82f6830f392fb8fda46dd1287077bfe"
+          },
+          "preparationDigest": "b9bae8a5432f4a5dadbece1b408ca392f51f30a4d7369d448dfd4c4052e6ce31",
+          "sourceDigest": "8a75d28da1cb552d24e3d742e22f0e34485e03b30cf6d80ba2335088022bb85c",
+          "sourceId": "design-013"
+        },
+        "a5816d62b852ba96b06d6a72555a079707234da1fb420f2fe92ddfd336d7ef84": {
+          "archiveRecipe": "generated/recipes/design-013/a5816d62b852ba96b06d6a72555a079707234da1fb420f2fe92ddfd336d7ef84/recipe.json",
+          "contentVersion": "a5816d62b852ba96b06d6a72555a079707234da1fb420f2fe92ddfd336d7ef84",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-013/a5816d62b852ba96b06d6a72555a079707234da1fb420f2fe92ddfd336d7ef84/package.json",
+            "sha256": "479a228c327d4f336e0dc47f12e3e22414b7eca1a9162043775e6a41754150e4"
+          },
+          "preparationDigest": "a129e3f17946e62740b297b1e6ed7a9817678d55c2668227c741d33f8fff1cd5",
+          "sourceDigest": "8a75d28da1cb552d24e3d742e22f0e34485e03b30cf6d80ba2335088022bb85c",
+          "sourceId": "design-013"
+        }
+      }
+    },
+    "design-014": {
+      "activeVersion": "a0a13bf57f314e55b981d25628f510ba113fe2f4f124579f04e30f8bb99543d8",
+      "versions": {
+        "a0a13bf57f314e55b981d25628f510ba113fe2f4f124579f04e30f8bb99543d8": {
+          "archiveRecipe": "generated/recipes/design-014/a0a13bf57f314e55b981d25628f510ba113fe2f4f124579f04e30f8bb99543d8/recipe.json",
+          "contentVersion": "a0a13bf57f314e55b981d25628f510ba113fe2f4f124579f04e30f8bb99543d8",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-014/a0a13bf57f314e55b981d25628f510ba113fe2f4f124579f04e30f8bb99543d8/package.json",
+            "sha256": "143d30297283d6e4d1eadaf8e872616a3c004fd6fa142c170a4ed00f1eb3ea4f"
+          },
+          "preparationDigest": "8cf430c0a2555a85e2eceadb55b4b1e099d9f77153f50018515b8b2610a86ad6",
+          "sourceDigest": "ea167437e812d6f998da9a74836a4a077ae50266f6ea81137eacee0b6135c80a",
+          "sourceId": "design-014"
+        },
+        "afabe2dae5ddfa86b1566bf63ce633321346c1c42c3581b51dbfa972dd9efc94": {
+          "archiveRecipe": "generated/recipes/design-014/afabe2dae5ddfa86b1566bf63ce633321346c1c42c3581b51dbfa972dd9efc94/recipe.json",
+          "contentVersion": "afabe2dae5ddfa86b1566bf63ce633321346c1c42c3581b51dbfa972dd9efc94",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-014/afabe2dae5ddfa86b1566bf63ce633321346c1c42c3581b51dbfa972dd9efc94/package.json",
+            "sha256": "810c887b42b8776fa59eaddcc37ec865b4ad151a42db1ab00d31c649f56d8566"
+          },
+          "preparationDigest": "0ef26732075d85b834141904447db8c81cd4fc1dbf68ded18a4f77ef3355cd30",
+          "sourceDigest": "ea167437e812d6f998da9a74836a4a077ae50266f6ea81137eacee0b6135c80a",
+          "sourceId": "design-014"
+        }
+      }
+    },
+    "design-015": {
+      "activeVersion": "216833ff220515d0345218d7974763c7641cbe3ceb022f5843d04d7a65dc4447",
+      "versions": {
+        "216833ff220515d0345218d7974763c7641cbe3ceb022f5843d04d7a65dc4447": {
+          "archiveRecipe": "generated/recipes/design-015/216833ff220515d0345218d7974763c7641cbe3ceb022f5843d04d7a65dc4447/recipe.json",
+          "contentVersion": "216833ff220515d0345218d7974763c7641cbe3ceb022f5843d04d7a65dc4447",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-015/216833ff220515d0345218d7974763c7641cbe3ceb022f5843d04d7a65dc4447/package.json",
+            "sha256": "4a03de09c3626bb9090dc566fa71f35f1ada865dcd09c270a1f5c869042b7eb6"
+          },
+          "preparationDigest": "aa5efa88b74f198b6d3383507fdede821c352a64a8dc66ee8df7725bfd4a6b73",
+          "sourceDigest": "1893a74d63fae1b0f6f8ab13e7f5d6c17420d61a913f9fadbf35932fd29a201a",
+          "sourceId": "design-015"
+        },
+        "89cfcfbcef3e920d3b8fbe7876ef1ec13454ae35324740902b931c456895bc23": {
+          "archiveRecipe": "generated/recipes/design-015/89cfcfbcef3e920d3b8fbe7876ef1ec13454ae35324740902b931c456895bc23/recipe.json",
+          "contentVersion": "89cfcfbcef3e920d3b8fbe7876ef1ec13454ae35324740902b931c456895bc23",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-015/89cfcfbcef3e920d3b8fbe7876ef1ec13454ae35324740902b931c456895bc23/package.json",
+            "sha256": "b9625024045254da5305e5ddd527488a4d9de9eeab2c871ba7dee67fb113d1ba"
+          },
+          "preparationDigest": "9c83918b0d9ec02249fd2013efa7424e73166e4464d28c085e4506ecec86b2b3",
+          "sourceDigest": "1893a74d63fae1b0f6f8ab13e7f5d6c17420d61a913f9fadbf35932fd29a201a",
+          "sourceId": "design-015"
+        }
+      }
+    },
+    "design-016": {
+      "activeVersion": "c0e7e324ec807b806d00257a31a973d409dc26d9ef47d8c3e7c9595536b8aa4c",
+      "versions": {
+        "36d6e10acd3df388096c5925cc52a6db0d3c328608791881172aa062fe149aaf": {
+          "archiveRecipe": "generated/recipes/design-016/36d6e10acd3df388096c5925cc52a6db0d3c328608791881172aa062fe149aaf/recipe.json",
+          "contentVersion": "36d6e10acd3df388096c5925cc52a6db0d3c328608791881172aa062fe149aaf",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-016/36d6e10acd3df388096c5925cc52a6db0d3c328608791881172aa062fe149aaf/package.json",
+            "sha256": "6810a35b9207a29fcdc575221dd06a72d5068cd8f1ff6c09647c866eafedf777"
+          },
+          "preparationDigest": "9b6013321122ceeba125949ac79086d7f9a3f33e8945c206032a8224f14e127c",
+          "sourceDigest": "d6788d9e9b1bf64585372ce0552bdb1ffa922cd44566ee526a4a5f7d60b4893d",
+          "sourceId": "design-016"
+        },
+        "c0e7e324ec807b806d00257a31a973d409dc26d9ef47d8c3e7c9595536b8aa4c": {
+          "archiveRecipe": "generated/recipes/design-016/c0e7e324ec807b806d00257a31a973d409dc26d9ef47d8c3e7c9595536b8aa4c/recipe.json",
+          "contentVersion": "c0e7e324ec807b806d00257a31a973d409dc26d9ef47d8c3e7c9595536b8aa4c",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-016/c0e7e324ec807b806d00257a31a973d409dc26d9ef47d8c3e7c9595536b8aa4c/package.json",
+            "sha256": "fccd4e15bcd527e8eee3e7c68021b6bf8828df740897c4480f5391e5b283e119"
+          },
+          "preparationDigest": "6f05a02db040184947a1b50be5864041cf75e757016811bee2202306b4b8881c",
+          "sourceDigest": "d6788d9e9b1bf64585372ce0552bdb1ffa922cd44566ee526a4a5f7d60b4893d",
+          "sourceId": "design-016"
+        }
+      }
+    },
+    "design-017": {
+      "activeVersion": "a072641e7c870ab4dfd9bd7a433fac95b1b036b17c19d8c6510680fa659ab324",
+      "versions": {
+        "80855a1d7ab3a09acbcb2b63ae2093f0676840b646ee7765f03999f60ce817a0": {
+          "archiveRecipe": "generated/recipes/design-017/80855a1d7ab3a09acbcb2b63ae2093f0676840b646ee7765f03999f60ce817a0/recipe.json",
+          "contentVersion": "80855a1d7ab3a09acbcb2b63ae2093f0676840b646ee7765f03999f60ce817a0",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-017/80855a1d7ab3a09acbcb2b63ae2093f0676840b646ee7765f03999f60ce817a0/package.json",
+            "sha256": "56daaf9d1422aa188e2b2be6f0598ec3f9ba1188604964c3fa4fd7821410d700"
+          },
+          "preparationDigest": "be7e16abf3a1442f78e5782695326a3f721049bbeb876b3ced04a30da1410244",
+          "sourceDigest": "114f5d4aeb98484ecc68c391932b51c3124af01caca4bc01aece118b66c6f4ab",
+          "sourceId": "design-017"
+        },
+        "a072641e7c870ab4dfd9bd7a433fac95b1b036b17c19d8c6510680fa659ab324": {
+          "archiveRecipe": "generated/recipes/design-017/a072641e7c870ab4dfd9bd7a433fac95b1b036b17c19d8c6510680fa659ab324/recipe.json",
+          "contentVersion": "a072641e7c870ab4dfd9bd7a433fac95b1b036b17c19d8c6510680fa659ab324",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-017/a072641e7c870ab4dfd9bd7a433fac95b1b036b17c19d8c6510680fa659ab324/package.json",
+            "sha256": "90065b7ca47c637515e6ed1e374f04634de4eaf0117c0f39403fe971df7d29ae"
+          },
+          "preparationDigest": "59e92432406005b88112c6a8cb93c91398b56624c41051e67511381b91a2bab9",
+          "sourceDigest": "114f5d4aeb98484ecc68c391932b51c3124af01caca4bc01aece118b66c6f4ab",
+          "sourceId": "design-017"
+        }
+      }
+    },
+    "design-018": {
+      "activeVersion": "76578fd27c0168397c8082e37955d9974c7baab859310457a4a742fb9854a8aa",
+      "versions": {
+        "2c6768d8b1a4671a1bf6c87769ca748ef9ff2c29ad23ef2fce14693ced44e267": {
+          "archiveRecipe": "generated/recipes/design-018/2c6768d8b1a4671a1bf6c87769ca748ef9ff2c29ad23ef2fce14693ced44e267/recipe.json",
+          "contentVersion": "2c6768d8b1a4671a1bf6c87769ca748ef9ff2c29ad23ef2fce14693ced44e267",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-018/2c6768d8b1a4671a1bf6c87769ca748ef9ff2c29ad23ef2fce14693ced44e267/package.json",
+            "sha256": "fce10855828497d595f2fb72003a112b44f01e42929aeace29a0e02981ebc1f4"
+          },
+          "preparationDigest": "e4b8e0010beaaf42c8d9ec9bcd79d6cfd26732a4d6ec7a37de3acc01a1820ede",
+          "sourceDigest": "c1a6a5aeaa229a7c99e81c3a9e138cf40e32c34dd33ad476f4a9c945f239f046",
+          "sourceId": "design-018"
+        },
+        "76578fd27c0168397c8082e37955d9974c7baab859310457a4a742fb9854a8aa": {
+          "archiveRecipe": "generated/recipes/design-018/76578fd27c0168397c8082e37955d9974c7baab859310457a4a742fb9854a8aa/recipe.json",
+          "contentVersion": "76578fd27c0168397c8082e37955d9974c7baab859310457a4a742fb9854a8aa",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-018/76578fd27c0168397c8082e37955d9974c7baab859310457a4a742fb9854a8aa/package.json",
+            "sha256": "2845e306788e125a5b94056c71e044c015a41c08bf4bac9f402a85712e36e5e2"
+          },
+          "preparationDigest": "f214fe4e56ba7ff765349dd86a91337f375deceb8eff9f878ab98e570222a4ee",
+          "sourceDigest": "c1a6a5aeaa229a7c99e81c3a9e138cf40e32c34dd33ad476f4a9c945f239f046",
+          "sourceId": "design-018"
+        }
+      }
+    },
+    "design-019": {
+      "activeVersion": "7483a547083d23884115e38ba2eaf100a328a248d2e8e93c2d8677ac96f0062c",
+      "versions": {
+        "7483a547083d23884115e38ba2eaf100a328a248d2e8e93c2d8677ac96f0062c": {
+          "archiveRecipe": "generated/recipes/design-019/7483a547083d23884115e38ba2eaf100a328a248d2e8e93c2d8677ac96f0062c/recipe.json",
+          "contentVersion": "7483a547083d23884115e38ba2eaf100a328a248d2e8e93c2d8677ac96f0062c",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-019/7483a547083d23884115e38ba2eaf100a328a248d2e8e93c2d8677ac96f0062c/package.json",
+            "sha256": "be98a46ee7e8ab0cfdff4f413af972fddf7190837c2dedc645624156cc2db3b9"
+          },
+          "preparationDigest": "d8eb57e085dd709528bec6cd4abe06e9562bad339c3e11ad0304dcd2f7115736",
+          "sourceDigest": "cf49a7e0486d6fab9e34a771dd3a0a516995c9dbe93df2968e0820806eb265c6",
+          "sourceId": "design-019"
+        },
+        "8ee98164bebbd600dbd66b48f6c694d2106defdaec684bfa927c324d57cf8609": {
+          "archiveRecipe": "generated/recipes/design-019/8ee98164bebbd600dbd66b48f6c694d2106defdaec684bfa927c324d57cf8609/recipe.json",
+          "contentVersion": "8ee98164bebbd600dbd66b48f6c694d2106defdaec684bfa927c324d57cf8609",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-019/8ee98164bebbd600dbd66b48f6c694d2106defdaec684bfa927c324d57cf8609/package.json",
+            "sha256": "8a401692603f2b27f6e130284bbef5a1d5175eb3694ca069f54182e4fb55bf8d"
+          },
+          "preparationDigest": "10ade80dab783eb87f8d08e9e34d2a8278b839d1ecb248330974aa481d7d2c5d",
+          "sourceDigest": "cf49a7e0486d6fab9e34a771dd3a0a516995c9dbe93df2968e0820806eb265c6",
+          "sourceId": "design-019"
+        }
+      }
+    },
+    "design-020": {
+      "activeVersion": "0be4feca3984d99e3c424d69e32066f54c1386a259b866a6080ff2add2837e83",
+      "versions": {
+        "0be4feca3984d99e3c424d69e32066f54c1386a259b866a6080ff2add2837e83": {
+          "archiveRecipe": "generated/recipes/design-020/0be4feca3984d99e3c424d69e32066f54c1386a259b866a6080ff2add2837e83/recipe.json",
+          "contentVersion": "0be4feca3984d99e3c424d69e32066f54c1386a259b866a6080ff2add2837e83",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-020/0be4feca3984d99e3c424d69e32066f54c1386a259b866a6080ff2add2837e83/package.json",
+            "sha256": "dd571a2e3561fcdd69c08a7b093ec31f46da6b7ead9d7b9c658ad1ff6c3cf1a2"
+          },
+          "preparationDigest": "3dfe694a74e6fb498a9547c98f87a0d236cb0d6074a72dbee12c847ab6b5e18a",
+          "sourceDigest": "588067ebc0762f29d354ce59ebb3ea846958cfd8c1b5207aaeda7723baf04e9e",
+          "sourceId": "design-020"
+        },
+        "fd89aa1c4bb416594d50f9d031fb9e98d23ee81a7aa84c68e054154e69bf41fd": {
+          "archiveRecipe": "generated/recipes/design-020/fd89aa1c4bb416594d50f9d031fb9e98d23ee81a7aa84c68e054154e69bf41fd/recipe.json",
+          "contentVersion": "fd89aa1c4bb416594d50f9d031fb9e98d23ee81a7aa84c68e054154e69bf41fd",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-020/fd89aa1c4bb416594d50f9d031fb9e98d23ee81a7aa84c68e054154e69bf41fd/package.json",
+            "sha256": "686ff43476c916b4876410dbc0ab9298d91d0b6611df5a885f6dd1288e1a5e8d"
+          },
+          "preparationDigest": "53cfec36057e197ad867eb1251c4045d9d44eb3c9910345d71441b4aa694f32d",
+          "sourceDigest": "588067ebc0762f29d354ce59ebb3ea846958cfd8c1b5207aaeda7723baf04e9e",
+          "sourceId": "design-020"
+        }
+      }
+    },
+    "design-021": {
+      "activeVersion": "d017a1fe8d2207f80f3c039bc77815aa1e3221db3569545f0fa96cf9c0acaae1",
+      "versions": {
+        "2b160115381fbe6b899e92fda16d112a70a2f8beff402868232d579704e91ac3": {
+          "archiveRecipe": "generated/recipes/design-021/2b160115381fbe6b899e92fda16d112a70a2f8beff402868232d579704e91ac3/recipe.json",
+          "contentVersion": "2b160115381fbe6b899e92fda16d112a70a2f8beff402868232d579704e91ac3",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-021/2b160115381fbe6b899e92fda16d112a70a2f8beff402868232d579704e91ac3/package.json",
+            "sha256": "4d08b8face0c5da95ab8d59eadca9f3c92d69e17f423e7a1bfc84e1478e15683"
+          },
+          "preparationDigest": "7c63948050f2e4ab4575d6a697f59c6e2b12fb5e97f2cbfc6976616b61192d9c",
+          "sourceDigest": "6292c4d6a6b0d04f887d85144cbb34f6ff5a7eed0384500add2acb7bd17639f5",
+          "sourceId": "design-021"
+        },
+        "d017a1fe8d2207f80f3c039bc77815aa1e3221db3569545f0fa96cf9c0acaae1": {
+          "archiveRecipe": "generated/recipes/design-021/d017a1fe8d2207f80f3c039bc77815aa1e3221db3569545f0fa96cf9c0acaae1/recipe.json",
+          "contentVersion": "d017a1fe8d2207f80f3c039bc77815aa1e3221db3569545f0fa96cf9c0acaae1",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-021/d017a1fe8d2207f80f3c039bc77815aa1e3221db3569545f0fa96cf9c0acaae1/package.json",
+            "sha256": "f77a611b8187066d12d1edfb08e0871f9f25ad0937d6426ebfd85b9109b89e14"
+          },
+          "preparationDigest": "eed71f386168ee0a28788658d9a882738f8e2e67af831ae64a131a4dfe5fcb5d",
+          "sourceDigest": "6292c4d6a6b0d04f887d85144cbb34f6ff5a7eed0384500add2acb7bd17639f5",
+          "sourceId": "design-021"
+        }
+      }
+    },
+    "design-022": {
+      "activeVersion": "b049ec7dcc642e51512d793daaac53ee83bf2b06121d3490c186f4a390510964",
+      "versions": {
+        "ab7b14a199aaa1cb84be22aa8ce01154a6eb0685ee7f3383e772df98cb8d5dbb": {
+          "archiveRecipe": "generated/recipes/design-022/ab7b14a199aaa1cb84be22aa8ce01154a6eb0685ee7f3383e772df98cb8d5dbb/recipe.json",
+          "contentVersion": "ab7b14a199aaa1cb84be22aa8ce01154a6eb0685ee7f3383e772df98cb8d5dbb",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-022/ab7b14a199aaa1cb84be22aa8ce01154a6eb0685ee7f3383e772df98cb8d5dbb/package.json",
+            "sha256": "05b28bb304032b8a349abe19573a53166eed2d3d78b90d3525921550c9f7080a"
+          },
+          "preparationDigest": "bead1cec740745027e674a95f92d85639edb75bca9d72a95c93b3c856e6a4ca0",
+          "sourceDigest": "3a8d629771912ac5d3decc23241bc6e53942b47c7691f47168d651734513bbef",
+          "sourceId": "design-022"
+        },
+        "b049ec7dcc642e51512d793daaac53ee83bf2b06121d3490c186f4a390510964": {
+          "archiveRecipe": "generated/recipes/design-022/b049ec7dcc642e51512d793daaac53ee83bf2b06121d3490c186f4a390510964/recipe.json",
+          "contentVersion": "b049ec7dcc642e51512d793daaac53ee83bf2b06121d3490c186f4a390510964",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-022/b049ec7dcc642e51512d793daaac53ee83bf2b06121d3490c186f4a390510964/package.json",
+            "sha256": "8622626d8184edc3c15198976864de0c2b0e153b6b3e8865160e6e4320a204b5"
+          },
+          "preparationDigest": "ed99eb4c3efbebdf3b013c520ee414099d97d812f279b887368c699174aa99e0",
+          "sourceDigest": "3a8d629771912ac5d3decc23241bc6e53942b47c7691f47168d651734513bbef",
+          "sourceId": "design-022"
+        }
+      }
+    },
+    "design-023": {
+      "activeVersion": "af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658",
+      "versions": {
+        "af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658": {
+          "archiveRecipe": "generated/recipes/design-023/af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658/recipe.json",
+          "contentVersion": "af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-023/af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658/package.json",
+            "sha256": "6886ddfccc32f4e92e21cd0adbcb417a37ed0b217a587e021eb9c53c254a128b"
+          },
+          "preparationDigest": "c66bf4a6d20fbab904322b8b4c329b068c4e572adbc357ba02f8958bf24937e0",
+          "sourceDigest": "5e26affe416195474644675c76d783a975498b939aceaabc4097cab17fd56e2b",
+          "sourceId": "design-023"
+        },
+        "ce228bdc9423b924a37cbd17672eb1bcc1b5858b800705eb58888ba53499f0ca": {
+          "archiveRecipe": "generated/recipes/design-023/ce228bdc9423b924a37cbd17672eb1bcc1b5858b800705eb58888ba53499f0ca/recipe.json",
+          "contentVersion": "ce228bdc9423b924a37cbd17672eb1bcc1b5858b800705eb58888ba53499f0ca",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-023/ce228bdc9423b924a37cbd17672eb1bcc1b5858b800705eb58888ba53499f0ca/package.json",
+            "sha256": "f1494f06d0be68c95eafbe4b8cd1b228364f6412f07f80be42327f2419a9ce7f"
+          },
+          "preparationDigest": "c0b77ce1a7d2d026fc5c5ec106953fc3a3827cf38c899cd571367e154f48d16c",
+          "sourceDigest": "5e26affe416195474644675c76d783a975498b939aceaabc4097cab17fd56e2b",
+          "sourceId": "design-023"
+        }
+      }
+    },
+    "design-024": {
+      "activeVersion": "56d9775d4b68d9c379f20b6e63a01d84359962c982d9de1de1ae7df0bfc3f6e8",
+      "versions": {
+        "2ae2b160355601fbb59dec89dcff0eca2dae9758283e6387cc7f987f768eee51": {
+          "archiveRecipe": "generated/recipes/design-024/2ae2b160355601fbb59dec89dcff0eca2dae9758283e6387cc7f987f768eee51/recipe.json",
+          "contentVersion": "2ae2b160355601fbb59dec89dcff0eca2dae9758283e6387cc7f987f768eee51",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-024/2ae2b160355601fbb59dec89dcff0eca2dae9758283e6387cc7f987f768eee51/package.json",
+            "sha256": "f97dbd64413ea645d7853f3173e819a935a8d4a611b83c50aedb8acdd2b09e89"
+          },
+          "preparationDigest": "e2d0234b3867df4c7c4f3c1fc948ba2f5d5b4597c2270acba4a777fc444fb7b7",
+          "sourceDigest": "60225ecca76c7f2ed1477d7ca9f1940b30f4b34352d2eb9d06a2af70bf7ff9d0",
+          "sourceId": "design-024"
+        },
+        "56d9775d4b68d9c379f20b6e63a01d84359962c982d9de1de1ae7df0bfc3f6e8": {
+          "archiveRecipe": "generated/recipes/design-024/56d9775d4b68d9c379f20b6e63a01d84359962c982d9de1de1ae7df0bfc3f6e8/recipe.json",
+          "contentVersion": "56d9775d4b68d9c379f20b6e63a01d84359962c982d9de1de1ae7df0bfc3f6e8",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-024/56d9775d4b68d9c379f20b6e63a01d84359962c982d9de1de1ae7df0bfc3f6e8/package.json",
+            "sha256": "cdfd67cb83ec0a4a3dc17f4c29e467b835a9f10a2aee60975aac631167f49253"
+          },
+          "preparationDigest": "6ee3cf244745a68ff996ba9135164509f95ba5247a6670c9e58ec9f8a66ee01d",
+          "sourceDigest": "60225ecca76c7f2ed1477d7ca9f1940b30f4b34352d2eb9d06a2af70bf7ff9d0",
+          "sourceId": "design-024"
+        }
+      }
+    },
+    "design-025": {
+      "activeVersion": "1658381312bbb2561ab63d989b14f194138db186f85bf648d42e941b8fbcba7b",
+      "versions": {
+        "1658381312bbb2561ab63d989b14f194138db186f85bf648d42e941b8fbcba7b": {
+          "archiveRecipe": "generated/recipes/design-025/1658381312bbb2561ab63d989b14f194138db186f85bf648d42e941b8fbcba7b/recipe.json",
+          "contentVersion": "1658381312bbb2561ab63d989b14f194138db186f85bf648d42e941b8fbcba7b",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-025/1658381312bbb2561ab63d989b14f194138db186f85bf648d42e941b8fbcba7b/package.json",
+            "sha256": "8c77b854fba73ef063651cda48e4024bde946c2932dfe5e4d73b977931e7067e"
+          },
+          "preparationDigest": "b721413b93601c006c243acecc4953d8a1e3c871bdc9481dc3c5ccc30d8093d1",
+          "sourceDigest": "716128c7f03508e92cf862c8bc63c04c49fcd1354ffa4b97251432d6ba027294",
+          "sourceId": "design-025"
+        },
+        "e35c6a21024fba118200345216515b2d32235b6ddcb35c114775baff15e4cefd": {
+          "archiveRecipe": "generated/recipes/design-025/e35c6a21024fba118200345216515b2d32235b6ddcb35c114775baff15e4cefd/recipe.json",
+          "contentVersion": "e35c6a21024fba118200345216515b2d32235b6ddcb35c114775baff15e4cefd",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-025/e35c6a21024fba118200345216515b2d32235b6ddcb35c114775baff15e4cefd/package.json",
+            "sha256": "42b6115cf78695d45b30acf12d2662cfe4a3ef5f15755135fb78f2792c8c3c0f"
+          },
+          "preparationDigest": "ae7fe64da226b323896b0d72d9fc9734fb609f02b8dc8c56b6f2f5e276caf4ab",
+          "sourceDigest": "716128c7f03508e92cf862c8bc63c04c49fcd1354ffa4b97251432d6ba027294",
+          "sourceId": "design-025"
+        }
+      }
+    },
+    "design-026": {
+      "activeVersion": "3226fc274671c37bf2f5e84b2c75821d493b25774b802ae0c256576fed82d46c",
+      "versions": {
+        "3226fc274671c37bf2f5e84b2c75821d493b25774b802ae0c256576fed82d46c": {
+          "archiveRecipe": "generated/recipes/design-026/3226fc274671c37bf2f5e84b2c75821d493b25774b802ae0c256576fed82d46c/recipe.json",
+          "contentVersion": "3226fc274671c37bf2f5e84b2c75821d493b25774b802ae0c256576fed82d46c",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-026/3226fc274671c37bf2f5e84b2c75821d493b25774b802ae0c256576fed82d46c/package.json",
+            "sha256": "d332d80bd714365049fe103a713351b1b33babf6547c62812cc8c664dc6fa798"
+          },
+          "preparationDigest": "590802d7aaef1722404347ce1cffe28ed89fbdfffb26ef20a376f33d987bc832",
+          "sourceDigest": "bb60d5ac007d1a47619dd3175c27f8b9c8465be1286fe909b044a7be2544f451",
+          "sourceId": "design-026"
+        },
+        "f584478c282df90c3a3b7ba66120015c40892165e1dc5950ac0bb52ffdd62275": {
+          "archiveRecipe": "generated/recipes/design-026/f584478c282df90c3a3b7ba66120015c40892165e1dc5950ac0bb52ffdd62275/recipe.json",
+          "contentVersion": "f584478c282df90c3a3b7ba66120015c40892165e1dc5950ac0bb52ffdd62275",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-026/f584478c282df90c3a3b7ba66120015c40892165e1dc5950ac0bb52ffdd62275/package.json",
+            "sha256": "98289815f186ba4b71579b111eea33fc5ed93a6f9def058d7a2226663028189b"
+          },
+          "preparationDigest": "5070686512777497a8c7f6f407fb1c104a9eb73243322d4f1a29dc9794f30e9a",
+          "sourceDigest": "bb60d5ac007d1a47619dd3175c27f8b9c8465be1286fe909b044a7be2544f451",
+          "sourceId": "design-026"
+        }
+      }
+    },
+    "design-027": {
+      "activeVersion": "2e901c4e9226639481d8497ce2065c2ad8b59d71c114ea1a327136e68ed917df",
+      "versions": {
+        "2e901c4e9226639481d8497ce2065c2ad8b59d71c114ea1a327136e68ed917df": {
+          "archiveRecipe": "generated/recipes/design-027/2e901c4e9226639481d8497ce2065c2ad8b59d71c114ea1a327136e68ed917df/recipe.json",
+          "contentVersion": "2e901c4e9226639481d8497ce2065c2ad8b59d71c114ea1a327136e68ed917df",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-027/2e901c4e9226639481d8497ce2065c2ad8b59d71c114ea1a327136e68ed917df/package.json",
+            "sha256": "95a38a8ec3cd14c2cf0e792ffbed7e2f46c0832d6cb4968a960b953959416475"
+          },
+          "preparationDigest": "0bf3f0df6d495262e23014f76b0f6027c1ef4e2bd671a02b9f9e793b18449f4c",
+          "sourceDigest": "e7aa5ca88d24d18f3282a10be87baff141da844a8c14b53cef5330aa4bc566e9",
+          "sourceId": "design-027"
+        },
+        "8c89dc1bf3e91eea4e7ebe3961944139fdee58cf4bfcc7cc2523b6b8c5b647e5": {
+          "archiveRecipe": "generated/recipes/design-027/8c89dc1bf3e91eea4e7ebe3961944139fdee58cf4bfcc7cc2523b6b8c5b647e5/recipe.json",
+          "contentVersion": "8c89dc1bf3e91eea4e7ebe3961944139fdee58cf4bfcc7cc2523b6b8c5b647e5",
+          "package": {
+            "bytes": 1484,
+            "path": "public/art/design-027/8c89dc1bf3e91eea4e7ebe3961944139fdee58cf4bfcc7cc2523b6b8c5b647e5/package.json",
+            "sha256": "f68d0c9c1d9cfca71ce9eaa9dc903e3bd00a9d48b135de5746ddcbd419f5ce15"
+          },
+          "preparationDigest": "d4cc2c482c43628e5eb71a871137efc9456d6df782b8571c7953e850126e0117",
+          "sourceDigest": "e7aa5ca88d24d18f3282a10be87baff141da844a8c14b53cef5330aa4bc566e9",
+          "sourceId": "design-027"
+        }
+      }
+    },
+    "design-028": {
+      "activeVersion": "b739f2ad803f0a206ab6b0a30a337df6b226cc23ec58b81e3fe27af1fffb25e8",
+      "versions": {
+        "535c360ff1d5ef866ebf9c317de0fe883f9ff1ddfad04af61802145eab97b961": {
+          "archiveRecipe": "generated/recipes/design-028/535c360ff1d5ef866ebf9c317de0fe883f9ff1ddfad04af61802145eab97b961/recipe.json",
+          "contentVersion": "535c360ff1d5ef866ebf9c317de0fe883f9ff1ddfad04af61802145eab97b961",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-028/535c360ff1d5ef866ebf9c317de0fe883f9ff1ddfad04af61802145eab97b961/package.json",
+            "sha256": "66aa6ba11e295a4e03dd92014419764fea4fa4736b2e27ea5ec44494552c0fef"
+          },
+          "preparationDigest": "2c54791e2474f1b033a3fc8615d3bce7bfef6e8a795cec338a4deab2916c897e",
+          "sourceDigest": "bb11c923d19ce17b49c80823e7a72897ae829dc3c5776c59bf6ad60ad7021f8a",
+          "sourceId": "design-028"
+        },
+        "b739f2ad803f0a206ab6b0a30a337df6b226cc23ec58b81e3fe27af1fffb25e8": {
+          "archiveRecipe": "generated/recipes/design-028/b739f2ad803f0a206ab6b0a30a337df6b226cc23ec58b81e3fe27af1fffb25e8/recipe.json",
+          "contentVersion": "b739f2ad803f0a206ab6b0a30a337df6b226cc23ec58b81e3fe27af1fffb25e8",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-028/b739f2ad803f0a206ab6b0a30a337df6b226cc23ec58b81e3fe27af1fffb25e8/package.json",
+            "sha256": "9157cdca185ae3afe841fde1364c88dc626306d7ece1370ec40e75c3292c1717"
+          },
+          "preparationDigest": "288b5903b584a9b780fcb3cc40f85f32c1c58b20e3a8121b6793ae3e253519c8",
+          "sourceDigest": "bb11c923d19ce17b49c80823e7a72897ae829dc3c5776c59bf6ad60ad7021f8a",
+          "sourceId": "design-028"
+        }
+      }
+    },
+    "design-029": {
+      "activeVersion": "3acd4fb6bf0d2dc27c6413407619930c5153155df00d154a6d02d0a831291bc4",
+      "versions": {
+        "3acd4fb6bf0d2dc27c6413407619930c5153155df00d154a6d02d0a831291bc4": {
+          "archiveRecipe": "generated/recipes/design-029/3acd4fb6bf0d2dc27c6413407619930c5153155df00d154a6d02d0a831291bc4/recipe.json",
+          "contentVersion": "3acd4fb6bf0d2dc27c6413407619930c5153155df00d154a6d02d0a831291bc4",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-029/3acd4fb6bf0d2dc27c6413407619930c5153155df00d154a6d02d0a831291bc4/package.json",
+            "sha256": "6ef57e3fac4743eb6258de676401ebfb0d48ba252c741020da43e74ee1053611"
+          },
+          "preparationDigest": "3729c0f9db2d004b9d09f2c7dfc94ff282aee9a12203bd6b93260004a40863c8",
+          "sourceDigest": "41784d8a66b1bb2197b33f0abae618225b109cf6fc762d85d1eb6232b315fe98",
+          "sourceId": "design-029"
+        },
+        "ceeea311d3a4a75017c8ab802046c8cd01520beedab029d253cfac7f62d070f7": {
+          "archiveRecipe": "generated/recipes/design-029/ceeea311d3a4a75017c8ab802046c8cd01520beedab029d253cfac7f62d070f7/recipe.json",
+          "contentVersion": "ceeea311d3a4a75017c8ab802046c8cd01520beedab029d253cfac7f62d070f7",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-029/ceeea311d3a4a75017c8ab802046c8cd01520beedab029d253cfac7f62d070f7/package.json",
+            "sha256": "2a1b6ef93e5e9918098695457e95f9e28008e752b9d2da283df24520663cf6ab"
+          },
+          "preparationDigest": "c224d41a6dbb294d2016618197fb4fe9191868ba7995ca65c5a11dff0fc25858",
+          "sourceDigest": "41784d8a66b1bb2197b33f0abae618225b109cf6fc762d85d1eb6232b315fe98",
+          "sourceId": "design-029"
+        }
+      }
+    },
+    "design-030": {
+      "activeVersion": "95568c53f3e7fc7697077bbe58d1dee8c06e1679290eab34c04260ba757c6475",
+      "versions": {
+        "4e38390ef5bab93173239c15bac87aea0c5652ea86cab0a46c9fb59fa2730328": {
+          "archiveRecipe": "generated/recipes/design-030/4e38390ef5bab93173239c15bac87aea0c5652ea86cab0a46c9fb59fa2730328/recipe.json",
+          "contentVersion": "4e38390ef5bab93173239c15bac87aea0c5652ea86cab0a46c9fb59fa2730328",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-030/4e38390ef5bab93173239c15bac87aea0c5652ea86cab0a46c9fb59fa2730328/package.json",
+            "sha256": "5a0c356f8c58b46f86ca67eb73ca18f4bdde50c3a34d41a05f64c4c7850b90be"
+          },
+          "preparationDigest": "d3edb0731b3225528ec0db59bee2605bfbd479b2cd153d3f0af4a6d193df7916",
+          "sourceDigest": "c98508b428acafd0bfaccf3f2684287e6a232dc73db8db67470d82d3cb33b01f",
+          "sourceId": "design-030"
+        },
+        "95568c53f3e7fc7697077bbe58d1dee8c06e1679290eab34c04260ba757c6475": {
+          "archiveRecipe": "generated/recipes/design-030/95568c53f3e7fc7697077bbe58d1dee8c06e1679290eab34c04260ba757c6475/recipe.json",
+          "contentVersion": "95568c53f3e7fc7697077bbe58d1dee8c06e1679290eab34c04260ba757c6475",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-030/95568c53f3e7fc7697077bbe58d1dee8c06e1679290eab34c04260ba757c6475/package.json",
+            "sha256": "5ffe18aa7e4a35703c22b9b4848f3357339b803e7fcd15130604150efedb403f"
+          },
+          "preparationDigest": "4e6537eabae2a789ccf30d4cdae975d2a0f5586ae549d7af766b1a96a089cef8",
+          "sourceDigest": "c98508b428acafd0bfaccf3f2684287e6a232dc73db8db67470d82d3cb33b01f",
+          "sourceId": "design-030"
+        }
+      }
+    },
+    "design-031": {
+      "activeVersion": "6573912c2e15f5b25b12b513a79ae4daca14446515c20f33ed21a19405630320",
+      "versions": {
+        "47dca56d84f2a46689e5a78a25b4b47eab0566aeccd7fc4bf6c5224a615e4adb": {
+          "archiveRecipe": "generated/recipes/design-031/47dca56d84f2a46689e5a78a25b4b47eab0566aeccd7fc4bf6c5224a615e4adb/recipe.json",
+          "contentVersion": "47dca56d84f2a46689e5a78a25b4b47eab0566aeccd7fc4bf6c5224a615e4adb",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-031/47dca56d84f2a46689e5a78a25b4b47eab0566aeccd7fc4bf6c5224a615e4adb/package.json",
+            "sha256": "f68d3125b25dbe461f8b228359e520b6f95c2ebbd8c9a4f407ee35413d65b7c0"
+          },
+          "preparationDigest": "3977579a180f069270ce178e8b23f41b6ca13a16492b60bd3573817169b797aa",
+          "sourceDigest": "dfab1d31db063613f6ed76750635240cbb07db87a5cc45c13a40955e63519b97",
+          "sourceId": "design-031"
+        },
+        "6573912c2e15f5b25b12b513a79ae4daca14446515c20f33ed21a19405630320": {
+          "archiveRecipe": "generated/recipes/design-031/6573912c2e15f5b25b12b513a79ae4daca14446515c20f33ed21a19405630320/recipe.json",
+          "contentVersion": "6573912c2e15f5b25b12b513a79ae4daca14446515c20f33ed21a19405630320",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-031/6573912c2e15f5b25b12b513a79ae4daca14446515c20f33ed21a19405630320/package.json",
+            "sha256": "2c29ad5c90eb510e62673245882976593e05ea21af308108d3defd94f1216491"
+          },
+          "preparationDigest": "42a52d15e3929b1209b45c30832350947c19ef1a731e3ca92163e52d1c97e44d",
+          "sourceDigest": "dfab1d31db063613f6ed76750635240cbb07db87a5cc45c13a40955e63519b97",
+          "sourceId": "design-031"
+        },
+        "b5516feba6e080eb6991a12014127e5fd603957082940860ae79f182fe54ca09": {
+          "archiveRecipe": "generated/recipes/design-031/b5516feba6e080eb6991a12014127e5fd603957082940860ae79f182fe54ca09/recipe.json",
+          "contentVersion": "b5516feba6e080eb6991a12014127e5fd603957082940860ae79f182fe54ca09",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-031/b5516feba6e080eb6991a12014127e5fd603957082940860ae79f182fe54ca09/package.json",
+            "sha256": "a384af313b4229e9f532675d0a9ea0610e129108dc4f1c444278cb02864ad324"
+          },
+          "preparationDigest": "8d7049793bccdfdb14fba9002ecc5502c93fe8dbc5a2c9eb6f6ee1e873b18a4d",
+          "sourceDigest": "dfab1d31db063613f6ed76750635240cbb07db87a5cc45c13a40955e63519b97",
+          "sourceId": "design-031"
+        }
+      }
+    },
+    "design-032": {
+      "activeVersion": "439706e460852ddf2101aebe73a3e0755777c962640238555f4da9d8f4f9287d",
+      "versions": {
+        "439706e460852ddf2101aebe73a3e0755777c962640238555f4da9d8f4f9287d": {
+          "archiveRecipe": "generated/recipes/design-032/439706e460852ddf2101aebe73a3e0755777c962640238555f4da9d8f4f9287d/recipe.json",
+          "contentVersion": "439706e460852ddf2101aebe73a3e0755777c962640238555f4da9d8f4f9287d",
+          "package": {
+            "bytes": 1484,
+            "path": "public/art/design-032/439706e460852ddf2101aebe73a3e0755777c962640238555f4da9d8f4f9287d/package.json",
+            "sha256": "b894365c0143bfe667f2f565b6e4a3c687e9672b4cd27110f81e4d8a0336fdb6"
+          },
+          "preparationDigest": "818061ac300a087b789ba90b8859475394bfffe69ebb9785dc924b7b7798f873",
+          "sourceDigest": "f9fb528777c9b9423cfb33e16bbd25105fba12251df7ef76b8430a1dd6935687",
+          "sourceId": "design-032"
+        },
+        "a8503913fc9358497e7addc1e0149bb770c6322d20b43f4af52999ac1f180d4d": {
+          "archiveRecipe": "generated/recipes/design-032/a8503913fc9358497e7addc1e0149bb770c6322d20b43f4af52999ac1f180d4d/recipe.json",
+          "contentVersion": "a8503913fc9358497e7addc1e0149bb770c6322d20b43f4af52999ac1f180d4d",
+          "package": {
+            "bytes": 1484,
+            "path": "public/art/design-032/a8503913fc9358497e7addc1e0149bb770c6322d20b43f4af52999ac1f180d4d/package.json",
+            "sha256": "73ee79a389fc27551a873cc2d779aa60c35372773a6b792158eb097b7bd580a3"
+          },
+          "preparationDigest": "3f313cb49bc2fb6da6877088561402d80addc1e7164a44ef9225f0af2d0776d7",
+          "sourceDigest": "f9fb528777c9b9423cfb33e16bbd25105fba12251df7ef76b8430a1dd6935687",
+          "sourceId": "design-032"
+        }
+      }
+    },
+    "design-033": {
+      "activeVersion": "a3b6c849bb11bf7f81eee7c9ed562545fa3300886b2d44153dc6460701640a3b",
+      "versions": {
+        "91ea82fda3c351e9891334e5caa7980c76d720f2e78d8578720fa9ae7df46837": {
+          "archiveRecipe": "generated/recipes/design-033/91ea82fda3c351e9891334e5caa7980c76d720f2e78d8578720fa9ae7df46837/recipe.json",
+          "contentVersion": "91ea82fda3c351e9891334e5caa7980c76d720f2e78d8578720fa9ae7df46837",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-033/91ea82fda3c351e9891334e5caa7980c76d720f2e78d8578720fa9ae7df46837/package.json",
+            "sha256": "033d44165252d323ddf7c4d1dcdad9f09c241aec161c2d399f4ad6811bb5e306"
+          },
+          "preparationDigest": "6c4739df0a5fb3c282d13a52ea02be03f923a6e8dbebe9d2ea964b9bd2b900d4",
+          "sourceDigest": "620305a6186da161df3f1b66010f2ae17fc11e7eefa1823b7f332f552ed47199",
+          "sourceId": "design-033"
+        },
+        "a3b6c849bb11bf7f81eee7c9ed562545fa3300886b2d44153dc6460701640a3b": {
+          "archiveRecipe": "generated/recipes/design-033/a3b6c849bb11bf7f81eee7c9ed562545fa3300886b2d44153dc6460701640a3b/recipe.json",
+          "contentVersion": "a3b6c849bb11bf7f81eee7c9ed562545fa3300886b2d44153dc6460701640a3b",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-033/a3b6c849bb11bf7f81eee7c9ed562545fa3300886b2d44153dc6460701640a3b/package.json",
+            "sha256": "febf6e22204b19d6819e60f084fa15d43c0103bb3f908b1468b6cd2f5c68048a"
+          },
+          "preparationDigest": "836719d2b8abb8c5b5362c0a562e7ff88eabd72ee36d6e57bd62d83b20df04fd",
+          "sourceDigest": "620305a6186da161df3f1b66010f2ae17fc11e7eefa1823b7f332f552ed47199",
+          "sourceId": "design-033"
+        }
+      }
+    },
+    "design-034": {
+      "activeVersion": "8466c9c92b2d89ec2b0dae25fae81c8f71cf0c9f28d9b8c75288a4d81c59f08b",
+      "versions": {
+        "8466c9c92b2d89ec2b0dae25fae81c8f71cf0c9f28d9b8c75288a4d81c59f08b": {
+          "archiveRecipe": "generated/recipes/design-034/8466c9c92b2d89ec2b0dae25fae81c8f71cf0c9f28d9b8c75288a4d81c59f08b/recipe.json",
+          "contentVersion": "8466c9c92b2d89ec2b0dae25fae81c8f71cf0c9f28d9b8c75288a4d81c59f08b",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-034/8466c9c92b2d89ec2b0dae25fae81c8f71cf0c9f28d9b8c75288a4d81c59f08b/package.json",
+            "sha256": "4ee8e35850083ca013c3ea1a5c6a45d86684e934ca53f13705bda34ed95ee423"
+          },
+          "preparationDigest": "b0efdaa665756cf647cf80d54c2dd1ba7a5ebf09a57b824b2951586c2d609065",
+          "sourceDigest": "3337f1a3379946d90dc5302f234d628cd6007bc7ce1d5483ae791b7ee58dd70b",
+          "sourceId": "design-034"
+        },
+        "87ccb031f1b7d750807ff3d170163fffa252c1f103b7c327bd636dff826997fc": {
+          "archiveRecipe": "generated/recipes/design-034/87ccb031f1b7d750807ff3d170163fffa252c1f103b7c327bd636dff826997fc/recipe.json",
+          "contentVersion": "87ccb031f1b7d750807ff3d170163fffa252c1f103b7c327bd636dff826997fc",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-034/87ccb031f1b7d750807ff3d170163fffa252c1f103b7c327bd636dff826997fc/package.json",
+            "sha256": "743c1e1159a7c8d885a303589285c536410155d1924537586d69315b7eb875e6"
+          },
+          "preparationDigest": "f8c3c9c60e00c7b75bbb5a8f273404deb25eabb74658e251223dda953f501e27",
+          "sourceDigest": "3337f1a3379946d90dc5302f234d628cd6007bc7ce1d5483ae791b7ee58dd70b",
+          "sourceId": "design-034"
+        }
+      }
+    },
+    "design-035": {
+      "activeVersion": "a06050cc3772492f8b8f9fd2b852947bd98eaea0f9a3964d79b73803ebe7d525",
+      "versions": {
+        "a06050cc3772492f8b8f9fd2b852947bd98eaea0f9a3964d79b73803ebe7d525": {
+          "archiveRecipe": "generated/recipes/design-035/a06050cc3772492f8b8f9fd2b852947bd98eaea0f9a3964d79b73803ebe7d525/recipe.json",
+          "contentVersion": "a06050cc3772492f8b8f9fd2b852947bd98eaea0f9a3964d79b73803ebe7d525",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-035/a06050cc3772492f8b8f9fd2b852947bd98eaea0f9a3964d79b73803ebe7d525/package.json",
+            "sha256": "3be962a2218a2a3599e0abcc1c9f31ab187b6b4b1d129b437762639eb5a0b7e7"
+          },
+          "preparationDigest": "07db48a35b6a23c051fcee859ffa662608b28e02844ebf308a0e8f5ba6d06408",
+          "sourceDigest": "d75e5d9e518b3c9cb40ebfd7d93fd69c169b443f4cc60449a7dd75d663ff970a",
+          "sourceId": "design-035"
+        },
+        "ef9ad0112e0165f39abe025a94fe3af599cf5b5c0a2c87cf84dfe560007a2a29": {
+          "archiveRecipe": "generated/recipes/design-035/ef9ad0112e0165f39abe025a94fe3af599cf5b5c0a2c87cf84dfe560007a2a29/recipe.json",
+          "contentVersion": "ef9ad0112e0165f39abe025a94fe3af599cf5b5c0a2c87cf84dfe560007a2a29",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-035/ef9ad0112e0165f39abe025a94fe3af599cf5b5c0a2c87cf84dfe560007a2a29/package.json",
+            "sha256": "c78664097085ed269643a6eb77b9010270b7edc72dd751a44bcf0caed058b549"
+          },
+          "preparationDigest": "f0bfca430ffbfdf399b31326d98ad5bb21298138bb896be825258506070b7162",
+          "sourceDigest": "d75e5d9e518b3c9cb40ebfd7d93fd69c169b443f4cc60449a7dd75d663ff970a",
+          "sourceId": "design-035"
+        }
+      }
+    },
+    "design-036": {
+      "activeVersion": "09363c611aad5576feb8cbeb87c4ccdb081f9569917e3e2de9d1e682da823cc3",
+      "versions": {
+        "09363c611aad5576feb8cbeb87c4ccdb081f9569917e3e2de9d1e682da823cc3": {
+          "archiveRecipe": "generated/recipes/design-036/09363c611aad5576feb8cbeb87c4ccdb081f9569917e3e2de9d1e682da823cc3/recipe.json",
+          "contentVersion": "09363c611aad5576feb8cbeb87c4ccdb081f9569917e3e2de9d1e682da823cc3",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-036/09363c611aad5576feb8cbeb87c4ccdb081f9569917e3e2de9d1e682da823cc3/package.json",
+            "sha256": "0609f15489ce44883da4fb219621007c8e6bdfc2f7e104c94721d55118d7861e"
+          },
+          "preparationDigest": "801f542dfbbc84d549dbba249183da8d21305962af2983c4cb9c901422a9b22f",
+          "sourceDigest": "e187180a7b71a0f3a7ef0e3f40729f4a75afcb04892e2902c02addad46fa945a",
+          "sourceId": "design-036"
+        },
+        "ec4c48613ebcc11552581a9812cbec908cac398f7aa7ae65158396785a72bd96": {
+          "archiveRecipe": "generated/recipes/design-036/ec4c48613ebcc11552581a9812cbec908cac398f7aa7ae65158396785a72bd96/recipe.json",
+          "contentVersion": "ec4c48613ebcc11552581a9812cbec908cac398f7aa7ae65158396785a72bd96",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-036/ec4c48613ebcc11552581a9812cbec908cac398f7aa7ae65158396785a72bd96/package.json",
+            "sha256": "1296354a6197da0ec4cdca4036898e676dcaff8a3b3f5a3dbf121cfaac0be08a"
+          },
+          "preparationDigest": "fe32f582a3ce0d051fcf1bd1eb3e77ed1dccb0f3933dac129a630506b91f8c38",
+          "sourceDigest": "e187180a7b71a0f3a7ef0e3f40729f4a75afcb04892e2902c02addad46fa945a",
+          "sourceId": "design-036"
+        }
+      }
+    },
+    "design-037": {
+      "activeVersion": "ad083871378a1a1b1fa7e981b93aa31de26138872f102ebbe2fe840086abe290",
+      "versions": {
+        "ad083871378a1a1b1fa7e981b93aa31de26138872f102ebbe2fe840086abe290": {
+          "archiveRecipe": "generated/recipes/design-037/ad083871378a1a1b1fa7e981b93aa31de26138872f102ebbe2fe840086abe290/recipe.json",
+          "contentVersion": "ad083871378a1a1b1fa7e981b93aa31de26138872f102ebbe2fe840086abe290",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-037/ad083871378a1a1b1fa7e981b93aa31de26138872f102ebbe2fe840086abe290/package.json",
+            "sha256": "1d06e869d48fc145a4c850730fc37f6f137de87b3bbb85fe645c0cc89d4bc730"
+          },
+          "preparationDigest": "4e4c5bd1efa87090416c9838fa0687a5851bcb017245eb009c95e6b6a2be4d79",
+          "sourceDigest": "4661db9fc29945e20066b7564c4b40227e7b9300a3e5e0777e2850a510ee8140",
+          "sourceId": "design-037"
+        },
+        "bb3a2b3d9b97d85d997e3dbab2e7be6408a861239d8c89468c7e402c1d7212df": {
+          "archiveRecipe": "generated/recipes/design-037/bb3a2b3d9b97d85d997e3dbab2e7be6408a861239d8c89468c7e402c1d7212df/recipe.json",
+          "contentVersion": "bb3a2b3d9b97d85d997e3dbab2e7be6408a861239d8c89468c7e402c1d7212df",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-037/bb3a2b3d9b97d85d997e3dbab2e7be6408a861239d8c89468c7e402c1d7212df/package.json",
+            "sha256": "ffa976595dc388f2f9fb4857548517c2271d15e02dfb7b6b464187ac82788f2f"
+          },
+          "preparationDigest": "7129351a69daf2d01b5d2f6dce8bfd9ed5a1bbaff2fd4aa2de51a9aefe3bc3bf",
+          "sourceDigest": "4661db9fc29945e20066b7564c4b40227e7b9300a3e5e0777e2850a510ee8140",
+          "sourceId": "design-037"
+        }
+      }
+    },
+    "design-038": {
+      "activeVersion": "7ab078eb2d147f3ffb4e5a5d6c405193359d939154d6b79336a0328a7de06d17",
+      "versions": {
+        "7ab078eb2d147f3ffb4e5a5d6c405193359d939154d6b79336a0328a7de06d17": {
+          "archiveRecipe": "generated/recipes/design-038/7ab078eb2d147f3ffb4e5a5d6c405193359d939154d6b79336a0328a7de06d17/recipe.json",
+          "contentVersion": "7ab078eb2d147f3ffb4e5a5d6c405193359d939154d6b79336a0328a7de06d17",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-038/7ab078eb2d147f3ffb4e5a5d6c405193359d939154d6b79336a0328a7de06d17/package.json",
+            "sha256": "32648a546142a88b6e59637d3dd05dbe57f57e3a72b6917ae8b57a53fe6a7fe0"
+          },
+          "preparationDigest": "be26a56f1414fce202a801c497a77ac1f07814a22e5b924b0e98b7aef4c99993",
+          "sourceDigest": "814cc6904f0baf4f7183236b8e45cf6987459efa577bf8b73d225327cd355eb6",
+          "sourceId": "design-038"
+        },
+        "ab8b10a4e3f5f5d90ea74cc1355acb87a7e4c61651dfc305024f11490b6cf208": {
+          "archiveRecipe": "generated/recipes/design-038/ab8b10a4e3f5f5d90ea74cc1355acb87a7e4c61651dfc305024f11490b6cf208/recipe.json",
+          "contentVersion": "ab8b10a4e3f5f5d90ea74cc1355acb87a7e4c61651dfc305024f11490b6cf208",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-038/ab8b10a4e3f5f5d90ea74cc1355acb87a7e4c61651dfc305024f11490b6cf208/package.json",
+            "sha256": "e5940865cda938a512323e9bfe82495c16d42585ebb349d5895c0cd37daaea1d"
+          },
+          "preparationDigest": "66fb69d8fd71e8803d6277b13a6262f9a62958b9870acab7794751f697720710",
+          "sourceDigest": "814cc6904f0baf4f7183236b8e45cf6987459efa577bf8b73d225327cd355eb6",
+          "sourceId": "design-038"
+        }
+      }
+    },
+    "design-039": {
+      "activeVersion": "d617be786556ebb9810c43ba6b5ef24eaa105b17607dc526be705b10a11f2446",
+      "versions": {
+        "081814a244ef2bfc3e24021176f04417ee9a22594d3aaa67bcefcd0484376b06": {
+          "archiveRecipe": "generated/recipes/design-039/081814a244ef2bfc3e24021176f04417ee9a22594d3aaa67bcefcd0484376b06/recipe.json",
+          "contentVersion": "081814a244ef2bfc3e24021176f04417ee9a22594d3aaa67bcefcd0484376b06",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-039/081814a244ef2bfc3e24021176f04417ee9a22594d3aaa67bcefcd0484376b06/package.json",
+            "sha256": "80d2a0a8e0e5111b51168da65d8bc6757f81198f28303d19fa7601c5154d6b97"
+          },
+          "preparationDigest": "3db308a4f7ce8c12babe09af3878a27770db2b975623380c61f3931d2052ea01",
+          "sourceDigest": "191140f4d5392f26ce2ddc7359603d4f3d49876c2d88fefef5468f71e9501833",
+          "sourceId": "design-039"
+        },
+        "d617be786556ebb9810c43ba6b5ef24eaa105b17607dc526be705b10a11f2446": {
+          "archiveRecipe": "generated/recipes/design-039/d617be786556ebb9810c43ba6b5ef24eaa105b17607dc526be705b10a11f2446/recipe.json",
+          "contentVersion": "d617be786556ebb9810c43ba6b5ef24eaa105b17607dc526be705b10a11f2446",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-039/d617be786556ebb9810c43ba6b5ef24eaa105b17607dc526be705b10a11f2446/package.json",
+            "sha256": "5a1803f2e4c915790c9e4e8bcb0736e00316089ff85c4e0844ebc6562153a0d1"
+          },
+          "preparationDigest": "692b1da92dd4788e83facd0a55d44668bda7425751bce5e3c7767070c9f72b63",
+          "sourceDigest": "191140f4d5392f26ce2ddc7359603d4f3d49876c2d88fefef5468f71e9501833",
+          "sourceId": "design-039"
+        }
+      }
+    },
+    "design-040": {
+      "activeVersion": "dfbff0f4a6ce7488da59b1243d4454d23b32c792ecbcc7b6adc4d7b513bcf04d",
+      "versions": {
+        "dfbff0f4a6ce7488da59b1243d4454d23b32c792ecbcc7b6adc4d7b513bcf04d": {
+          "archiveRecipe": "generated/recipes/design-040/dfbff0f4a6ce7488da59b1243d4454d23b32c792ecbcc7b6adc4d7b513bcf04d/recipe.json",
+          "contentVersion": "dfbff0f4a6ce7488da59b1243d4454d23b32c792ecbcc7b6adc4d7b513bcf04d",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-040/dfbff0f4a6ce7488da59b1243d4454d23b32c792ecbcc7b6adc4d7b513bcf04d/package.json",
+            "sha256": "fe3758a66e16dfccd351d8caa7a1a64aedf4369253751e8b7bb163ceab28ac15"
+          },
+          "preparationDigest": "266380fe6ef0e7d0b14eac01064db1a50bc92b5b42ca05cc9e48b8398a205db4",
+          "sourceDigest": "0bcd1485c411da1fb6a3042ea3465d454e4e491f7f23d7c527103a851d9c4c86",
+          "sourceId": "design-040"
+        },
+        "f9117b61da0d5f160388be228cb41e3b5ae7a7a7d6e8ff705abac56a890160e3": {
+          "archiveRecipe": "generated/recipes/design-040/f9117b61da0d5f160388be228cb41e3b5ae7a7a7d6e8ff705abac56a890160e3/recipe.json",
+          "contentVersion": "f9117b61da0d5f160388be228cb41e3b5ae7a7a7d6e8ff705abac56a890160e3",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-040/f9117b61da0d5f160388be228cb41e3b5ae7a7a7d6e8ff705abac56a890160e3/package.json",
+            "sha256": "382424115f1ccb9b0eaae8447dd01eb498c3201afe587065ff97906fcc9e8f68"
+          },
+          "preparationDigest": "dfa85d7913d273601fb6c42347e870cbebcff2876ad224c025ea0ce950abcc18",
+          "sourceDigest": "0bcd1485c411da1fb6a3042ea3465d454e4e491f7f23d7c527103a851d9c4c86",
+          "sourceId": "design-040"
+        }
+      }
+    },
+    "design-041": {
+      "activeVersion": "f8a5eff2b1bb79423b1a4acdf848cf0c5182930a0eace824f080367dd8c13cb0",
+      "versions": {
+        "932d14c90302d8a3df7ad4fb7b56963092f11743695b55095eb42df411ff0b99": {
+          "archiveRecipe": "generated/recipes/design-041/932d14c90302d8a3df7ad4fb7b56963092f11743695b55095eb42df411ff0b99/recipe.json",
+          "contentVersion": "932d14c90302d8a3df7ad4fb7b56963092f11743695b55095eb42df411ff0b99",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-041/932d14c90302d8a3df7ad4fb7b56963092f11743695b55095eb42df411ff0b99/package.json",
+            "sha256": "c35e81bea22bbb7fc1f3018645eb13c01464e9e66dd19b9dc2c66b3183927009"
+          },
+          "preparationDigest": "d59d8dfa82cdd78515b79cd9a63a922bcac416314ae6a99eaf11e1177a985106",
+          "sourceDigest": "7f4e15340e0f3bdab23468582c3db30eb92209f0927b10255cdef1d0ad317cf4",
+          "sourceId": "design-041"
+        },
+        "f8a5eff2b1bb79423b1a4acdf848cf0c5182930a0eace824f080367dd8c13cb0": {
+          "archiveRecipe": "generated/recipes/design-041/f8a5eff2b1bb79423b1a4acdf848cf0c5182930a0eace824f080367dd8c13cb0/recipe.json",
+          "contentVersion": "f8a5eff2b1bb79423b1a4acdf848cf0c5182930a0eace824f080367dd8c13cb0",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-041/f8a5eff2b1bb79423b1a4acdf848cf0c5182930a0eace824f080367dd8c13cb0/package.json",
+            "sha256": "05de521a797b61118758e5795294e7578886a928b921c62db424757da2f46d11"
+          },
+          "preparationDigest": "ebdeb7b74ac45c30bac73385f7fdc2f3630692a56e8e00e98158db189119c95b",
+          "sourceDigest": "7f4e15340e0f3bdab23468582c3db30eb92209f0927b10255cdef1d0ad317cf4",
+          "sourceId": "design-041"
+        }
+      }
+    },
+    "design-042": {
+      "activeVersion": "b18009cd4f5e55c77368e6aa71f54fb4002aeea65ec754b8f075404528366bda",
+      "versions": {
+        "6ecee7ef6120c155dac8954853859f2cd22bb03128a147a2ab1679897ed285d5": {
+          "archiveRecipe": "generated/recipes/design-042/6ecee7ef6120c155dac8954853859f2cd22bb03128a147a2ab1679897ed285d5/recipe.json",
+          "contentVersion": "6ecee7ef6120c155dac8954853859f2cd22bb03128a147a2ab1679897ed285d5",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-042/6ecee7ef6120c155dac8954853859f2cd22bb03128a147a2ab1679897ed285d5/package.json",
+            "sha256": "f744cbce35dea913713c41aa16af4659e8671d7eb116cf7d615ea9effc1ca3c8"
+          },
+          "preparationDigest": "b441a21d06b336394ae75f2ed9d8cbd0b9fbcaa84dc7d0ff26731dd6f933d3bb",
+          "sourceDigest": "fecd1d78cb1123da1a043eca78053deaf93b046da4e24056e40e229c7bf9413b",
+          "sourceId": "design-042"
+        },
+        "b18009cd4f5e55c77368e6aa71f54fb4002aeea65ec754b8f075404528366bda": {
+          "archiveRecipe": "generated/recipes/design-042/b18009cd4f5e55c77368e6aa71f54fb4002aeea65ec754b8f075404528366bda/recipe.json",
+          "contentVersion": "b18009cd4f5e55c77368e6aa71f54fb4002aeea65ec754b8f075404528366bda",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-042/b18009cd4f5e55c77368e6aa71f54fb4002aeea65ec754b8f075404528366bda/package.json",
+            "sha256": "b14c9accc1e694438c522ad5b401e617ec9f1561d32b068028d7d42fb23fc256"
+          },
+          "preparationDigest": "f85f31d58d04b1f79f17389d71b13394bee70a7dc565e8fa4d32d0ab6287f4bf",
+          "sourceDigest": "fecd1d78cb1123da1a043eca78053deaf93b046da4e24056e40e229c7bf9413b",
+          "sourceId": "design-042"
+        }
+      }
+    },
+    "design-043": {
+      "activeVersion": "f168b3d6bfc8413fffbb71f9583b5f6858bf7b47dec3e06deb55e1792ee7ed04",
+      "versions": {
+        "a679b23a0a54bcc4ba182d82e36d98d34c3443ee77f2f158cdcd76518d63c1fc": {
+          "archiveRecipe": "generated/recipes/design-043/a679b23a0a54bcc4ba182d82e36d98d34c3443ee77f2f158cdcd76518d63c1fc/recipe.json",
+          "contentVersion": "a679b23a0a54bcc4ba182d82e36d98d34c3443ee77f2f158cdcd76518d63c1fc",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-043/a679b23a0a54bcc4ba182d82e36d98d34c3443ee77f2f158cdcd76518d63c1fc/package.json",
+            "sha256": "e6f75cecaa6bbd2da2167354b93439829c328d4ef6f6bef3fa9ddcdc7f87b7b6"
+          },
+          "preparationDigest": "44618def783f18ec9ae57a1f4056876a2cbe1ee5791530547089d49ec978e957",
+          "sourceDigest": "e56d6c2a7cc1c9f92b80844733197a1f5679adf7dfd87b3c8bf2f5ece9b9b3be",
+          "sourceId": "design-043"
+        },
+        "f168b3d6bfc8413fffbb71f9583b5f6858bf7b47dec3e06deb55e1792ee7ed04": {
+          "archiveRecipe": "generated/recipes/design-043/f168b3d6bfc8413fffbb71f9583b5f6858bf7b47dec3e06deb55e1792ee7ed04/recipe.json",
+          "contentVersion": "f168b3d6bfc8413fffbb71f9583b5f6858bf7b47dec3e06deb55e1792ee7ed04",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-043/f168b3d6bfc8413fffbb71f9583b5f6858bf7b47dec3e06deb55e1792ee7ed04/package.json",
+            "sha256": "ca8bd8b065d6124225f3fb2b331230669f939c0ccaee026cb6fdf1c77bf0ad38"
+          },
+          "preparationDigest": "a94985eeb32cc502932a24aca0d0b7b2d1555b6f5a83d6328bb82f0bc8a1605b",
+          "sourceDigest": "e56d6c2a7cc1c9f92b80844733197a1f5679adf7dfd87b3c8bf2f5ece9b9b3be",
+          "sourceId": "design-043"
+        }
+      }
+    },
+    "design-044": {
+      "activeVersion": "04ed38e2231bf99e3a01b91190bba50e098f3daee9daf46fbfd8a6448e275647",
+      "versions": {
+        "04ed38e2231bf99e3a01b91190bba50e098f3daee9daf46fbfd8a6448e275647": {
+          "archiveRecipe": "generated/recipes/design-044/04ed38e2231bf99e3a01b91190bba50e098f3daee9daf46fbfd8a6448e275647/recipe.json",
+          "contentVersion": "04ed38e2231bf99e3a01b91190bba50e098f3daee9daf46fbfd8a6448e275647",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-044/04ed38e2231bf99e3a01b91190bba50e098f3daee9daf46fbfd8a6448e275647/package.json",
+            "sha256": "d6c3b98362f3eaedc3dfad36aca4361d9716f84becc579f95932ccb50649975b"
+          },
+          "preparationDigest": "7d9ee72f45eccab117183721d75f0c7bf820ff44b673702d9de061beb06dac10",
+          "sourceDigest": "236b6d18d9179998bad1d99b16adbe658771ece3eac5f068c6d0145d177cf51b",
+          "sourceId": "design-044"
+        },
+        "f5565afebd940cfbcf5c6249336d718b6dfb01434879538bd04014c670810913": {
+          "archiveRecipe": "generated/recipes/design-044/f5565afebd940cfbcf5c6249336d718b6dfb01434879538bd04014c670810913/recipe.json",
+          "contentVersion": "f5565afebd940cfbcf5c6249336d718b6dfb01434879538bd04014c670810913",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-044/f5565afebd940cfbcf5c6249336d718b6dfb01434879538bd04014c670810913/package.json",
+            "sha256": "2c0a1a1ac45b91a39a1e2f0ba628cb73e3187900f90a1264b54a87e2aec81dbe"
+          },
+          "preparationDigest": "de2b64e1c5f238a964eb751b1a27f90ee477e340b4ad8f31480e562444c21b0a",
+          "sourceDigest": "236b6d18d9179998bad1d99b16adbe658771ece3eac5f068c6d0145d177cf51b",
+          "sourceId": "design-044"
+        }
+      }
+    },
+    "design-045": {
+      "activeVersion": "3be7044c6f6f8fe89025f38393e690614ee85939359543e18c880d3cc0d7b7a6",
+      "versions": {
+        "3be7044c6f6f8fe89025f38393e690614ee85939359543e18c880d3cc0d7b7a6": {
+          "archiveRecipe": "generated/recipes/design-045/3be7044c6f6f8fe89025f38393e690614ee85939359543e18c880d3cc0d7b7a6/recipe.json",
+          "contentVersion": "3be7044c6f6f8fe89025f38393e690614ee85939359543e18c880d3cc0d7b7a6",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-045/3be7044c6f6f8fe89025f38393e690614ee85939359543e18c880d3cc0d7b7a6/package.json",
+            "sha256": "b2c3caad97d332da2bf22e7437a9a3c5e3025eddaa1d83c9cf1085e81b5d2442"
+          },
+          "preparationDigest": "628dddb5c4627656aed4c790469f6d3f2e3157f0a5dcc2861f4e46edb1fad280",
+          "sourceDigest": "47a3534e6c307b37cac908f6b2538ff584fb102de58ce2111a5def305e49095e",
+          "sourceId": "design-045"
+        },
+        "ee32d52b303aac7f9201c42d9e6e9a72de53ebba3c6541f861901409408b97f6": {
+          "archiveRecipe": "generated/recipes/design-045/ee32d52b303aac7f9201c42d9e6e9a72de53ebba3c6541f861901409408b97f6/recipe.json",
+          "contentVersion": "ee32d52b303aac7f9201c42d9e6e9a72de53ebba3c6541f861901409408b97f6",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-045/ee32d52b303aac7f9201c42d9e6e9a72de53ebba3c6541f861901409408b97f6/package.json",
+            "sha256": "d72ddbf1b2697f299c88a3d1f467fa9bf31c35a66b39870afb0530908dbef00b"
+          },
+          "preparationDigest": "ef19de361ecd6610d903a660e51da87662697c30f099ff28412ea54162be57bf",
+          "sourceDigest": "47a3534e6c307b37cac908f6b2538ff584fb102de58ce2111a5def305e49095e",
+          "sourceId": "design-045"
+        }
+      }
+    },
+    "design-046": {
+      "activeVersion": "692aace4cf31a9b7edfbbd6e2965fb66fb3511b7f675ee086948afb12034317c",
+      "versions": {
+        "5a823e7541295ee38952285ab14e72e5020a3a25dc547d729420242798b227d0": {
+          "archiveRecipe": "generated/recipes/design-046/5a823e7541295ee38952285ab14e72e5020a3a25dc547d729420242798b227d0/recipe.json",
+          "contentVersion": "5a823e7541295ee38952285ab14e72e5020a3a25dc547d729420242798b227d0",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-046/5a823e7541295ee38952285ab14e72e5020a3a25dc547d729420242798b227d0/package.json",
+            "sha256": "fd3843b1ab675834ca7feec5a63e8112ff7cb9cf281606b5ecd2aa3e89795bad"
+          },
+          "preparationDigest": "7ab2d71cc5af4776e6aa4d022e1b2d7fc304407ddb236b11e1b6b39d5ca2632b",
+          "sourceDigest": "9319e99b1c676b0fb0a62dbd788bd4768f3055f2172a67beb5d543d60405c0cc",
+          "sourceId": "design-046"
+        },
+        "692aace4cf31a9b7edfbbd6e2965fb66fb3511b7f675ee086948afb12034317c": {
+          "archiveRecipe": "generated/recipes/design-046/692aace4cf31a9b7edfbbd6e2965fb66fb3511b7f675ee086948afb12034317c/recipe.json",
+          "contentVersion": "692aace4cf31a9b7edfbbd6e2965fb66fb3511b7f675ee086948afb12034317c",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-046/692aace4cf31a9b7edfbbd6e2965fb66fb3511b7f675ee086948afb12034317c/package.json",
+            "sha256": "e33faa98aa58bc882c777292c3beecf4fcf413f7be78bb21a7a941733987449c"
+          },
+          "preparationDigest": "38aa029721a9e2a8b54da3f37eddd451264bb7a2269791fc9d55490bb15c5267",
+          "sourceDigest": "9319e99b1c676b0fb0a62dbd788bd4768f3055f2172a67beb5d543d60405c0cc",
+          "sourceId": "design-046"
+        }
+      }
+    },
+    "design-047": {
+      "activeVersion": "c169a8576512f39271ed89dd0bbf7f04e15f83bd34ff17f5c032cd6d761d0674",
+      "versions": {
+        "018ce6f1c01bc3172ddb4912cec158c47f4dbc8556b523a517098b9e116d405c": {
+          "archiveRecipe": "generated/recipes/design-047/018ce6f1c01bc3172ddb4912cec158c47f4dbc8556b523a517098b9e116d405c/recipe.json",
+          "contentVersion": "018ce6f1c01bc3172ddb4912cec158c47f4dbc8556b523a517098b9e116d405c",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-047/018ce6f1c01bc3172ddb4912cec158c47f4dbc8556b523a517098b9e116d405c/package.json",
+            "sha256": "10cf0383603406d46df70cc2001b9e0455b43c233e15db29c782d3ffc33efc0a"
+          },
+          "preparationDigest": "2ef95bc7d3c31d752dd277f3fd7a7222491ff5243ae081ec903ecc0b6003f4f2",
+          "sourceDigest": "fe52c711fdbe46ff42b0731a414cbbe06c0dff7fd8088c85e7c08d1b1a582ebd",
+          "sourceId": "design-047"
+        },
+        "c169a8576512f39271ed89dd0bbf7f04e15f83bd34ff17f5c032cd6d761d0674": {
+          "archiveRecipe": "generated/recipes/design-047/c169a8576512f39271ed89dd0bbf7f04e15f83bd34ff17f5c032cd6d761d0674/recipe.json",
+          "contentVersion": "c169a8576512f39271ed89dd0bbf7f04e15f83bd34ff17f5c032cd6d761d0674",
+          "package": {
+            "bytes": 1482,
+            "path": "public/art/design-047/c169a8576512f39271ed89dd0bbf7f04e15f83bd34ff17f5c032cd6d761d0674/package.json",
+            "sha256": "cd26cf0152a8f42c3a861679855dd7f52ed99bbaa242d4b07d3d96453139d54e"
+          },
+          "preparationDigest": "049f30243377afcc82d0f2d02821fbbecbce1d6c8440ea1a91fa6cd57fdfe726",
+          "sourceDigest": "fe52c711fdbe46ff42b0731a414cbbe06c0dff7fd8088c85e7c08d1b1a582ebd",
+          "sourceId": "design-047"
+        }
+      }
+    },
+    "design-048": {
+      "activeVersion": "e27d54b275e66a6220016f044c53913e99d8ef0b4c98ee6e30e29948b86d00dc",
+      "versions": {
+        "be2cb99554df32c57b736d428e4b8d427de6ffecd190e737694ea46e103d84b9": {
+          "archiveRecipe": "generated/recipes/design-048/be2cb99554df32c57b736d428e4b8d427de6ffecd190e737694ea46e103d84b9/recipe.json",
+          "contentVersion": "be2cb99554df32c57b736d428e4b8d427de6ffecd190e737694ea46e103d84b9",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-048/be2cb99554df32c57b736d428e4b8d427de6ffecd190e737694ea46e103d84b9/package.json",
+            "sha256": "259bd742844a5edf8767ce4a20a566fbf48cf5f15c79d59bcdd6f8d88e57b23e"
+          },
+          "preparationDigest": "49f0f31e506811287fc435a7996c9deed42783b1cccc1e57b500a4f9cd835f62",
+          "sourceDigest": "15f6e9fa88aa6331380761466fc3d83141ab6bffc107cf8d6f0ff03824cd207d",
+          "sourceId": "design-048"
+        },
+        "e27d54b275e66a6220016f044c53913e99d8ef0b4c98ee6e30e29948b86d00dc": {
+          "archiveRecipe": "generated/recipes/design-048/e27d54b275e66a6220016f044c53913e99d8ef0b4c98ee6e30e29948b86d00dc/recipe.json",
+          "contentVersion": "e27d54b275e66a6220016f044c53913e99d8ef0b4c98ee6e30e29948b86d00dc",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-048/e27d54b275e66a6220016f044c53913e99d8ef0b4c98ee6e30e29948b86d00dc/package.json",
+            "sha256": "866245c5eb352eabb44adbc341ba8a63f26dccd6b007d399fd6ad852c627047c"
+          },
+          "preparationDigest": "b2a97f0314a6ce595d33fc8da11dfb213e954c58800b36bfa9ef7c8a40e65015",
+          "sourceDigest": "15f6e9fa88aa6331380761466fc3d83141ab6bffc107cf8d6f0ff03824cd207d",
+          "sourceId": "design-048"
+        }
+      }
+    },
+    "design-049": {
+      "activeVersion": "a6da037811c20a285fdebf5c6089ad5f84499d1ce15e93e76ae3c2e5c025f977",
+      "versions": {
+        "a6da037811c20a285fdebf5c6089ad5f84499d1ce15e93e76ae3c2e5c025f977": {
+          "archiveRecipe": "generated/recipes/design-049/a6da037811c20a285fdebf5c6089ad5f84499d1ce15e93e76ae3c2e5c025f977/recipe.json",
+          "contentVersion": "a6da037811c20a285fdebf5c6089ad5f84499d1ce15e93e76ae3c2e5c025f977",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-049/a6da037811c20a285fdebf5c6089ad5f84499d1ce15e93e76ae3c2e5c025f977/package.json",
+            "sha256": "2f00111a2bfe49980e9e90db171829aec0c42893e896e391392932e00a2f9887"
+          },
+          "preparationDigest": "713ae236c9da9ea362efbdaafc691e347deba3d8edfbf55d761e61b460a66182",
+          "sourceDigest": "a467c998a5dfcaf0b672cd633e12da515183386ddb390de34cc53886607a6e84",
+          "sourceId": "design-049"
+        },
+        "ecb0896f792f2d319333a9d635e7fe8d5c6d53c9247856683212ef66572bc612": {
+          "archiveRecipe": "generated/recipes/design-049/ecb0896f792f2d319333a9d635e7fe8d5c6d53c9247856683212ef66572bc612/recipe.json",
+          "contentVersion": "ecb0896f792f2d319333a9d635e7fe8d5c6d53c9247856683212ef66572bc612",
+          "package": {
+            "bytes": 1483,
+            "path": "public/art/design-049/ecb0896f792f2d319333a9d635e7fe8d5c6d53c9247856683212ef66572bc612/package.json",
+            "sha256": "3445c1b89040f8503a8fd3479556168af681a2f6f8d6693d2ca62cc37458f09b"
+          },
+          "preparationDigest": "cd762f601578bf454bbc9070aae37289a3904cfe297c46ed45c05c3d2f80e4c6",
+          "sourceDigest": "a467c998a5dfcaf0b672cd633e12da515183386ddb390de34cc53886607a6e84",
+          "sourceId": "design-049"
+        }
+      }
+    }
+  },
+  "photos": {
+    "photo-001": {
+      "height": 2000,
+      "preparationDigest": "6dcceb447d524f054a76237a91968ffbb310578c2a663727ab2a2e2c2b0ac4d8",
+      "sourceDigest": "39beff9a2f1740118992dc3142cdf4f6d9880b1f042c4cd26216d1ff6bee8615",
+      "thumbnail": {
+        "bytes": 26644,
+        "path": "public/photos/photo-001/6dcceb447d524f054a76237a91968ffbb310578c2a663727ab2a2e2c2b0ac4d8/thumbnail.webp",
+        "sha256": "f07f96611d19b3185e1ac2224a213807df55c6c7181e70cb1f43cb86dab24092"
+      },
+      "web": {
+        "bytes": 958728,
+        "path": "public/photos/photo-001/6dcceb447d524f054a76237a91968ffbb310578c2a663727ab2a2e2c2b0ac4d8/web.webp",
+        "sha256": "6852b6388526c4cac96356629374f0c5e851e41183cf325cae37117e141412fe"
+      },
+      "width": 1343
+    },
+    "photo-002": {
+      "height": 2000,
+      "preparationDigest": "bd7c2248f0b280448405c2ebbadf8c2061e046700a1744b023bf46ec36c313c1",
+      "sourceDigest": "b5ac465f05f2282835a663c9a3cf3ef39fdd2fd1b07cafeb9f1a9df678c60563",
+      "thumbnail": {
+        "bytes": 23432,
+        "path": "public/photos/photo-002/bd7c2248f0b280448405c2ebbadf8c2061e046700a1744b023bf46ec36c313c1/thumbnail.webp",
+        "sha256": "33669d530d632a11b590f0c80fbbf7e57467bc91cf6959d4304965efc1bf0659"
+      },
+      "web": {
+        "bytes": 777894,
+        "path": "public/photos/photo-002/bd7c2248f0b280448405c2ebbadf8c2061e046700a1744b023bf46ec36c313c1/web.webp",
+        "sha256": "82720ba12c1c8f059943339d2dc4fce03915ab2bc525375e34b187a52a40d74b"
+      },
+      "width": 1324
+    },
+    "photo-003": {
+      "height": 2000,
+      "preparationDigest": "de2ab344b9dd7fd44be289282d783695ddf1dfceaab6b0b1cf88baf7423c7367",
+      "sourceDigest": "ac97044e66e461a08c63d6faedb1a9224a1619bd833836c8e55b41519c5d9c13",
+      "thumbnail": {
+        "bytes": 23784,
+        "path": "public/photos/photo-003/de2ab344b9dd7fd44be289282d783695ddf1dfceaab6b0b1cf88baf7423c7367/thumbnail.webp",
+        "sha256": "725bc44b334c1d5d35878c6390cadef57034ba3af74fa953a5b0da46214251f4"
+      },
+      "web": {
+        "bytes": 847956,
+        "path": "public/photos/photo-003/de2ab344b9dd7fd44be289282d783695ddf1dfceaab6b0b1cf88baf7423c7367/web.webp",
+        "sha256": "dc6eb50e79d011085010ab17dd32a79c4b20fe7827d43c8c7325c287dd2b909c"
+      },
+      "width": 1328
+    },
+    "photo-004": {
+      "height": 2000,
+      "preparationDigest": "a2d6b641a5516a8c0fada2b54ebfe3ecca238bd1e3eaae5adc096a892474973d",
+      "sourceDigest": "c9198bd4a57d47a120f0808ad9d8ca31d57399e0259abbb3eb05bbd564ddc580",
+      "thumbnail": {
+        "bytes": 20862,
+        "path": "public/photos/photo-004/a2d6b641a5516a8c0fada2b54ebfe3ecca238bd1e3eaae5adc096a892474973d/thumbnail.webp",
+        "sha256": "041fb965f5fc08225f44c57af1ee2478e3014093c2f9d82aabb7064c7bc70b36"
+      },
+      "web": {
+        "bytes": 521044,
+        "path": "public/photos/photo-004/a2d6b641a5516a8c0fada2b54ebfe3ecca238bd1e3eaae5adc096a892474973d/web.webp",
+        "sha256": "fca74aa8bf20e58fa0b78ae9e75ffcae0ef3b47c00b98c0a56c880bb071e6373"
+      },
+      "width": 1251
+    },
+    "photo-005": {
+      "height": 2000,
+      "preparationDigest": "af6dc2a917fd6cc7323948b971456329acbc4be1b2d91a339789c018b8e69b61",
+      "sourceDigest": "1e5fb4d9eb6f286186e3dd75ae8548395ee0564cb4c96d0ebca5a6aa834ac683",
+      "thumbnail": {
+        "bytes": 20720,
+        "path": "public/photos/photo-005/af6dc2a917fd6cc7323948b971456329acbc4be1b2d91a339789c018b8e69b61/thumbnail.webp",
+        "sha256": "c36059dfe0705b58d057a7e84ac3f13de0818605e82ec1f65daea08f0c49650c"
+      },
+      "web": {
+        "bytes": 638552,
+        "path": "public/photos/photo-005/af6dc2a917fd6cc7323948b971456329acbc4be1b2d91a339789c018b8e69b61/web.webp",
+        "sha256": "360e4c061852d04e9b7fb224e19c8e7760a5014c3da6c3f38f91c269fe1cba02"
+      },
+      "width": 1212
+    },
+    "photo-006": {
+      "height": 2000,
+      "preparationDigest": "b6d5b80d4c684380c85bc683fc9b89990f9bae2f78c00c3702e03543257fe823",
+      "sourceDigest": "8b2daf9c6e3f9cd4469f25aa782b9146ff1d30355b8a8839e0186f4b85dd8bed",
+      "thumbnail": {
+        "bytes": 22406,
+        "path": "public/photos/photo-006/b6d5b80d4c684380c85bc683fc9b89990f9bae2f78c00c3702e03543257fe823/thumbnail.webp",
+        "sha256": "2fb8b9b17bba2ff8616866a6d0ab3739bb0ed2eab1155923f50db70bdbeb5141"
+      },
+      "web": {
+        "bytes": 590104,
+        "path": "public/photos/photo-006/b6d5b80d4c684380c85bc683fc9b89990f9bae2f78c00c3702e03543257fe823/web.webp",
+        "sha256": "aa3ed13899dc726125e04753f5ffc5e766bfadc859d733dd61a7aa499489f1f9"
+      },
+      "width": 1226
+    },
+    "photo-007": {
+      "height": 2000,
+      "preparationDigest": "675679707991aacf8fb0294ab49984e48560687e86b6be652f79bc8ee33754ad",
+      "sourceDigest": "3b367743fa387fdfb12318b5be0918cc684fe321605143baf2750d4c51453b34",
+      "thumbnail": {
+        "bytes": 20520,
+        "path": "public/photos/photo-007/675679707991aacf8fb0294ab49984e48560687e86b6be652f79bc8ee33754ad/thumbnail.webp",
+        "sha256": "5a301e78189d363ed26ffab47aecbc70eb8d25fb70faf68f20aa3cae7a8e1bf5"
+      },
+      "web": {
+        "bytes": 542540,
+        "path": "public/photos/photo-007/675679707991aacf8fb0294ab49984e48560687e86b6be652f79bc8ee33754ad/web.webp",
+        "sha256": "58c155617a9055b666159521fd3c6682ad62997caa61cefcb6ae733ad0b0634d"
+      },
+      "width": 1333
+    },
+    "photo-008": {
+      "height": 2000,
+      "preparationDigest": "0c91b0dc48b3aef407dda0c8b8688f9d8368a7a64d8e48660439579988b5547d",
+      "sourceDigest": "a679c0f23749374d6b4c0c09a974b45e500d48eb97a1e71c8eeb6896cbad70ae",
+      "thumbnail": {
+        "bytes": 21290,
+        "path": "public/photos/photo-008/0c91b0dc48b3aef407dda0c8b8688f9d8368a7a64d8e48660439579988b5547d/thumbnail.webp",
+        "sha256": "93a46b8f5500b59bed2a2620a41994cc148b5c635bb17947abb0952ae1fde0d9"
+      },
+      "web": {
+        "bytes": 635966,
+        "path": "public/photos/photo-008/0c91b0dc48b3aef407dda0c8b8688f9d8368a7a64d8e48660439579988b5547d/web.webp",
+        "sha256": "49c55c35cfafa17c0f963f2a3e4a341dbeaa03c864df493fd4581426abcc7e98"
+      },
+      "width": 1338
+    },
+    "photo-009": {
+      "height": 2000,
+      "preparationDigest": "25f0c73b69cf5c0a2646936c1ad5c5e8f4236ef172b991bdd1d632219465945d",
+      "sourceDigest": "3ede160ea04c36955984b98be24528bcd0d447afa38cbb2b3cf0bd50deb49573",
+      "thumbnail": {
+        "bytes": 20844,
+        "path": "public/photos/photo-009/25f0c73b69cf5c0a2646936c1ad5c5e8f4236ef172b991bdd1d632219465945d/thumbnail.webp",
+        "sha256": "31c59d8354fc76f171bff7401e5a7b75166f0339c104e32f8171b7b119306b9d"
+      },
+      "web": {
+        "bytes": 524880,
+        "path": "public/photos/photo-009/25f0c73b69cf5c0a2646936c1ad5c5e8f4236ef172b991bdd1d632219465945d/web.webp",
+        "sha256": "eddf8f685ff18887f41687a61837e656461d1e3adc31ecce3185d4074e64b66f"
+      },
+      "width": 1246
+    },
+    "photo-010": {
+      "height": 2000,
+      "preparationDigest": "fc71b8a917bbf444c0c9bfccb87909564aa1d78b05b38c992c88f4f516d87064",
+      "sourceDigest": "5a671d18d6ebd5089545f9b852cb3a9da97b7c05499d3a22ebde859f0b13eba1",
+      "thumbnail": {
+        "bytes": 23134,
+        "path": "public/photos/photo-010/fc71b8a917bbf444c0c9bfccb87909564aa1d78b05b38c992c88f4f516d87064/thumbnail.webp",
+        "sha256": "90f4799fedc2e240e4b85c931e94c6d4dc09bdc6aa352772579e440cb25b8b0e"
+      },
+      "web": {
+        "bytes": 672334,
+        "path": "public/photos/photo-010/fc71b8a917bbf444c0c9bfccb87909564aa1d78b05b38c992c88f4f516d87064/web.webp",
+        "sha256": "56260f2400d85447e9e179e9f41b86213e1b81d0d300ec48696736e3df5e1c27"
+      },
+      "width": 1188
+    },
+    "photo-011": {
+      "height": 2000,
+      "preparationDigest": "2d17265ca887ded51f3f992852a97f4378550a37464954929d98a362ebd4b2f9",
+      "sourceDigest": "282d1a949e2a2227f2af882e2bd62e1d60433b8459ed3ee532f0cc3831626d15",
+      "thumbnail": {
+        "bytes": 21382,
+        "path": "public/photos/photo-011/2d17265ca887ded51f3f992852a97f4378550a37464954929d98a362ebd4b2f9/thumbnail.webp",
+        "sha256": "5034b4670651de5d82977cdbdbbfe7b08a9aed6ee09346952533d7fb087c021d"
+      },
+      "web": {
+        "bytes": 562572,
+        "path": "public/photos/photo-011/2d17265ca887ded51f3f992852a97f4378550a37464954929d98a362ebd4b2f9/web.webp",
+        "sha256": "f8be2eba021d06101f40fb26aacd1bda9fd0ec1da656c8d680f7f2361c571fde"
+      },
+      "width": 1215
+    },
+    "photo-012": {
+      "height": 2000,
+      "preparationDigest": "e329641050f05be4bacc3a75778ede66596c884a3527f0e0558c6e93e0e9693d",
+      "sourceDigest": "75a8c34c8502205e656edcbb87c92345b79673dc0d01519e4184848d3a7f775b",
+      "thumbnail": {
+        "bytes": 24538,
+        "path": "public/photos/photo-012/e329641050f05be4bacc3a75778ede66596c884a3527f0e0558c6e93e0e9693d/thumbnail.webp",
+        "sha256": "4b3dda8c526335af0a821013aa143652b296532e98e2b36c03dc1fd774942a87"
+      },
+      "web": {
+        "bytes": 684352,
+        "path": "public/photos/photo-012/e329641050f05be4bacc3a75778ede66596c884a3527f0e0558c6e93e0e9693d/web.webp",
+        "sha256": "70c2da14c81c67966f7bd333b6b9fecb7e27a9f2d34a5e246f3eb07f8003fe11"
+      },
+      "width": 1340
+    },
+    "photo-013": {
+      "height": 2000,
+      "preparationDigest": "fc57c12a0216b2d40d078a82971ee6f28b0f189b6c79d5967116d6ce2cf0f21d",
+      "sourceDigest": "dc33c1c3c7fcb9a4bb03fb489437b7e3c695c5f16b622d536f75220ee8c6ddbf",
+      "thumbnail": {
+        "bytes": 24930,
+        "path": "public/photos/photo-013/fc57c12a0216b2d40d078a82971ee6f28b0f189b6c79d5967116d6ce2cf0f21d/thumbnail.webp",
+        "sha256": "cb9e45ec509c10e522e69dd8d10b4037aa9ee521c341e10a4c8eee48f41fbf11"
+      },
+      "web": {
+        "bytes": 710186,
+        "path": "public/photos/photo-013/fc57c12a0216b2d40d078a82971ee6f28b0f189b6c79d5967116d6ce2cf0f21d/web.webp",
+        "sha256": "23a0c6110b698f62e0ce873c860f2e80c03d8563d7b1bbe2c8d02b3758d20da5"
+      },
+      "width": 1278
+    },
+    "photo-014": {
+      "height": 2000,
+      "preparationDigest": "fd57465a1dd09a66d096b0abc19a729b7edc5f6bed614a70bfc40b09e64e6e5f",
+      "sourceDigest": "318425b6ff4bd642bc5c0ab93dd71545562c68599130ea32797a923385a39fb4",
+      "thumbnail": {
+        "bytes": 24074,
+        "path": "public/photos/photo-014/fd57465a1dd09a66d096b0abc19a729b7edc5f6bed614a70bfc40b09e64e6e5f/thumbnail.webp",
+        "sha256": "9efe372635d0b36eed367788a73970a5d8323d60dd015d7984060478df946ef7"
+      },
+      "web": {
+        "bytes": 738174,
+        "path": "public/photos/photo-014/fd57465a1dd09a66d096b0abc19a729b7edc5f6bed614a70bfc40b09e64e6e5f/web.webp",
+        "sha256": "b4af809ce88b2b44e7a6d2c0a675ec2266ee960913ee1a47746f22f10a024e7e"
+      },
+      "width": 1336
+    },
+    "photo-015": {
+      "height": 2000,
+      "preparationDigest": "f1006074411b5fabd1fd155232730bcb55eb9bcade24bf391dd5f73833d5aec9",
+      "sourceDigest": "ef71a5014910d1c8ee1d726c644546ac0abcd0e25e0b46e8fa3d861de22f3ae8",
+      "thumbnail": {
+        "bytes": 24564,
+        "path": "public/photos/photo-015/f1006074411b5fabd1fd155232730bcb55eb9bcade24bf391dd5f73833d5aec9/thumbnail.webp",
+        "sha256": "c8a461abe20569cc76a160c424b042854694da93cd81ae27a7c9bc3cd8d40422"
+      },
+      "web": {
+        "bytes": 627298,
+        "path": "public/photos/photo-015/f1006074411b5fabd1fd155232730bcb55eb9bcade24bf391dd5f73833d5aec9/web.webp",
+        "sha256": "7f9df0347052f0bddf98a75dd0b127cf193fa69936515c27875ebe1e24c026a8"
+      },
+      "width": 1351
+    },
+    "photo-016": {
+      "height": 2000,
+      "preparationDigest": "580bdac34e0ccc4da3d1b81ee7b4e4656249d8431e81cabfcda00f8238d35536",
+      "sourceDigest": "a04400e956d0c32c667388ad5525c3fa71e2ebf3a12af8d975c1a1bd1184890a",
+      "thumbnail": {
+        "bytes": 24130,
+        "path": "public/photos/photo-016/580bdac34e0ccc4da3d1b81ee7b4e4656249d8431e81cabfcda00f8238d35536/thumbnail.webp",
+        "sha256": "b4af7eda2c4bbcc84b7a9071e65ddba06c36bd012b4a0ca78cc5a6d49ef4e2e2"
+      },
+      "web": {
+        "bytes": 777848,
+        "path": "public/photos/photo-016/580bdac34e0ccc4da3d1b81ee7b4e4656249d8431e81cabfcda00f8238d35536/web.webp",
+        "sha256": "23f0b9865e627215ebc5543b31ce026664456ef40c3b58306ac4f39a65933939"
+      },
+      "width": 1318
+    },
+    "photo-017": {
+      "height": 2000,
+      "preparationDigest": "5b079f6b71b155abb4161f5b53c0d35825facdad1ebb93910793d11472e3c87f",
+      "sourceDigest": "98f141d8ee2cb97b80cb60070c15f8a606fd625e44462de0486c34fb57a578be",
+      "thumbnail": {
+        "bytes": 23596,
+        "path": "public/photos/photo-017/5b079f6b71b155abb4161f5b53c0d35825facdad1ebb93910793d11472e3c87f/thumbnail.webp",
+        "sha256": "40a2f99c0bcdb3adf1d348ce5f90007aa54e8a246551926f59b371f961a3c5f3"
+      },
+      "web": {
+        "bytes": 698302,
+        "path": "public/photos/photo-017/5b079f6b71b155abb4161f5b53c0d35825facdad1ebb93910793d11472e3c87f/web.webp",
+        "sha256": "72f7c418490e008169255e9e11f52a9555b4a8b159c26faf2351fa6c2114ac16"
+      },
+      "width": 1241
+    },
+    "photo-018": {
+      "height": 2000,
+      "preparationDigest": "63d4af419731b28a36c83a316167187472862a6acc42a6ec3e4d24e67410df3e",
+      "sourceDigest": "d8fd1beaf91e4c6ea285c38892065644ec3ff309cb30ac1b6692b5f37627170b",
+      "thumbnail": {
+        "bytes": 22000,
+        "path": "public/photos/photo-018/63d4af419731b28a36c83a316167187472862a6acc42a6ec3e4d24e67410df3e/thumbnail.webp",
+        "sha256": "b5384982acbcd36fbd614680812b44e0395c1559cf5ec067e44fcdbd2ffafccd"
+      },
+      "web": {
+        "bytes": 726712,
+        "path": "public/photos/photo-018/63d4af419731b28a36c83a316167187472862a6acc42a6ec3e4d24e67410df3e/web.webp",
+        "sha256": "1234fc73929bb0790c1aeeeb709ffdebdd74b4cd69ea0ce28b5e62fe67363067"
+      },
+      "width": 1232
+    },
+    "photo-019": {
+      "height": 2000,
+      "preparationDigest": "e960d1d772339d9e2760ef667d446f799401de656334803c642ef6b37890579e",
+      "sourceDigest": "068b3898a02e744fcb25ff48ce2c64e01a5436186a12b3245430ee69d84c9bf6",
+      "thumbnail": {
+        "bytes": 21042,
+        "path": "public/photos/photo-019/e960d1d772339d9e2760ef667d446f799401de656334803c642ef6b37890579e/thumbnail.webp",
+        "sha256": "bd13a74bbbf2da2bb74fc70bc187cc32de13a9c9a7b88fff3467e6c2ec0da0c2"
+      },
+      "web": {
+        "bytes": 591710,
+        "path": "public/photos/photo-019/e960d1d772339d9e2760ef667d446f799401de656334803c642ef6b37890579e/web.webp",
+        "sha256": "a2ae89e0fdad91692710d34683a6e62c6a59f1980e1841f8756ba5604c929867"
+      },
+      "width": 1223
+    },
+    "photo-020": {
+      "height": 2000,
+      "preparationDigest": "fdf01ad2ef123206b5fc916c5b1ec708fe8d48cc53330757cd64a0ba5b0412a7",
+      "sourceDigest": "0f2f3a176f1ecb9ad996ad8b7f8b8423b089a3784a721d07764c9e67540e22f5",
+      "thumbnail": {
+        "bytes": 20996,
+        "path": "public/photos/photo-020/fdf01ad2ef123206b5fc916c5b1ec708fe8d48cc53330757cd64a0ba5b0412a7/thumbnail.webp",
+        "sha256": "f90ca345bbaf5219fd5b1e40a0bde5f5988743d5991f46c51e034214e3a7dca4"
+      },
+      "web": {
+        "bytes": 506150,
+        "path": "public/photos/photo-020/fdf01ad2ef123206b5fc916c5b1ec708fe8d48cc53330757cd64a0ba5b0412a7/web.webp",
+        "sha256": "f4bf383e7d6e76c4399ef5cd5b28c5053076782cc8c750019e4d9f33a548fbf4"
+      },
+      "width": 1310
+    },
+    "photo-021": {
+      "height": 2000,
+      "preparationDigest": "27ce3f2ee17a296b8771c8cc8ef469e49fe42d940c42228933291ffd81ec44cd",
+      "sourceDigest": "d582879bdd210237fe56ff526d7b4c0cf3c710bae2285331a01e7ecb6fde711a",
+      "thumbnail": {
+        "bytes": 25194,
+        "path": "public/photos/photo-021/27ce3f2ee17a296b8771c8cc8ef469e49fe42d940c42228933291ffd81ec44cd/thumbnail.webp",
+        "sha256": "a10dc4adac4a62fbb5fe3f1487ce4295ce2cd000dd12899c7087addc3df57e1c"
+      },
+      "web": {
+        "bytes": 737878,
+        "path": "public/photos/photo-021/27ce3f2ee17a296b8771c8cc8ef469e49fe42d940c42228933291ffd81ec44cd/web.webp",
+        "sha256": "12c59df7e692b636f98cd1885e10f8e8af580d424852944a8423181e350395eb"
+      },
+      "width": 1339
+    },
+    "photo-022": {
+      "height": 2000,
+      "preparationDigest": "dc063364c092cf178957ab3e2269f3c620eb76d4510675f25abe3e8883e99164",
+      "sourceDigest": "8dd73bffae06e320135491912120ae34c4474ee03d503a05266621c751bb1ced",
+      "thumbnail": {
+        "bytes": 23028,
+        "path": "public/photos/photo-022/dc063364c092cf178957ab3e2269f3c620eb76d4510675f25abe3e8883e99164/thumbnail.webp",
+        "sha256": "0c104f1e9b68debbaa6b62cb8decbc2d1628def893cb62acc57bde2d49fc6f5a"
+      },
+      "web": {
+        "bytes": 558004,
+        "path": "public/photos/photo-022/dc063364c092cf178957ab3e2269f3c620eb76d4510675f25abe3e8883e99164/web.webp",
+        "sha256": "5b6e2e8f46eaaad03f741448e6dde0babfa985ac76921cfe6e33fc6d75b6f149"
+      },
+      "width": 1447
+    },
+    "photo-023": {
+      "height": 2000,
+      "preparationDigest": "b5319ce14fe79e6a8370c863e449a79a921d75d5bcf14f9ff265fc9eaef7381f",
+      "sourceDigest": "b0c8a69e7451edae05b202b9192f2b34425699044c145d06099963ddcfc25c8b",
+      "thumbnail": {
+        "bytes": 24786,
+        "path": "public/photos/photo-023/b5319ce14fe79e6a8370c863e449a79a921d75d5bcf14f9ff265fc9eaef7381f/thumbnail.webp",
+        "sha256": "876a2a8c68729da9428bcb3faea8fa6b0d224bee29c9b7ae73051fe7da1a7a77"
+      },
+      "web": {
+        "bytes": 681972,
+        "path": "public/photos/photo-023/b5319ce14fe79e6a8370c863e449a79a921d75d5bcf14f9ff265fc9eaef7381f/web.webp",
+        "sha256": "f1ca668d79a46f63f04ebd968efd64b120c463109b883efa8351fdb246534ee3"
+      },
+      "width": 1396
+    },
+    "photo-024": {
+      "height": 2000,
+      "preparationDigest": "6388811e3940dc2372d18ea033933ba560738783a34557887a6343020694a49c",
+      "sourceDigest": "a41bd4fbe9b315feacf0b01b27ec4627d5b0143573a8f83f7af31690d69e3a7b",
+      "thumbnail": {
+        "bytes": 21626,
+        "path": "public/photos/photo-024/6388811e3940dc2372d18ea033933ba560738783a34557887a6343020694a49c/thumbnail.webp",
+        "sha256": "eb1bd18fc580d4a5447c4f8f98ad8b0814b467459fed81f0a5e82b5a6fa3a9dd"
+      },
+      "web": {
+        "bytes": 565262,
+        "path": "public/photos/photo-024/6388811e3940dc2372d18ea033933ba560738783a34557887a6343020694a49c/web.webp",
+        "sha256": "f2f2d43504edb4467c167e248b4c7d3adaaa38352e9e1d31af0f11205e1d427d"
+      },
+      "width": 1254
+    },
+    "photo-025": {
+      "height": 2000,
+      "preparationDigest": "714f2e73c8f7abefb82177668cd9326c9d8bbcca2a92a0f6f424531cef4a5598",
+      "sourceDigest": "3984d727d9175a79b910df1a5ec5fa5f582b7193603d38acb2162b29b21f9555",
+      "thumbnail": {
+        "bytes": 24050,
+        "path": "public/photos/photo-025/714f2e73c8f7abefb82177668cd9326c9d8bbcca2a92a0f6f424531cef4a5598/thumbnail.webp",
+        "sha256": "e496872d20444049e3ca88cd7a09d580a1cf38f28d857f929968d24199b6f5cc"
+      },
+      "web": {
+        "bytes": 749738,
+        "path": "public/photos/photo-025/714f2e73c8f7abefb82177668cd9326c9d8bbcca2a92a0f6f424531cef4a5598/web.webp",
+        "sha256": "10bc055271603f54ef905207dc64888d74c6593d7fcdf14f896ce47b174d2268"
+      },
+      "width": 1239
+    },
+    "photo-026": {
+      "height": 2000,
+      "preparationDigest": "e8f70be8755f5ee866f8196f49c0b874788d86dbdd7dce719199a4ef333d60b1",
+      "sourceDigest": "0b2821157df684da5f74a95fd0b76bac06a57263f40150c1d3848dedab8bcaea",
+      "thumbnail": {
+        "bytes": 20538,
+        "path": "public/photos/photo-026/e8f70be8755f5ee866f8196f49c0b874788d86dbdd7dce719199a4ef333d60b1/thumbnail.webp",
+        "sha256": "2422e01f389fda58f235c8ed97309fd0d007cf109d403ba9708aedd9b57ea071"
+      },
+      "web": {
+        "bytes": 491180,
+        "path": "public/photos/photo-026/e8f70be8755f5ee866f8196f49c0b874788d86dbdd7dce719199a4ef333d60b1/web.webp",
+        "sha256": "43ba8ad3375623d67166d5bc74079730f7d56f249ea6b850bd5359f469d26df0"
+      },
+      "width": 1252
+    },
+    "photo-027": {
+      "height": 2000,
+      "preparationDigest": "b0c29b2a63b1555c3e73871bacce7258e5f06a2429d89c5624d70cb39c8c74bc",
+      "sourceDigest": "90e35ec98ae19348e4822a6d46ce8124ec14e76dce27778160b4498f15cdeb17",
+      "thumbnail": {
+        "bytes": 28824,
+        "path": "public/photos/photo-027/b0c29b2a63b1555c3e73871bacce7258e5f06a2429d89c5624d70cb39c8c74bc/thumbnail.webp",
+        "sha256": "b0c7e0c7ac534f6ec9f07ec84e2f6a4295682359ff3c0f22f2752c924f5078d9"
+      },
+      "web": {
+        "bytes": 762218,
+        "path": "public/photos/photo-027/b0c29b2a63b1555c3e73871bacce7258e5f06a2429d89c5624d70cb39c8c74bc/web.webp",
+        "sha256": "262904c5e48ced5406182e8437688cd9f5fdc22389d3e8a917589b8b5da438a9"
+      },
+      "width": 1378
+    },
+    "photo-028": {
+      "height": 2000,
+      "preparationDigest": "3c65dc08fd8f0841d0fd5cc2a628f54e2f3f1c0884bf4d753ef8734784478de5",
+      "sourceDigest": "c73ba62a173b5bc32be2ce316410d75e33f4b794845ed4895effee8497328a81",
+      "thumbnail": {
+        "bytes": 24458,
+        "path": "public/photos/photo-028/3c65dc08fd8f0841d0fd5cc2a628f54e2f3f1c0884bf4d753ef8734784478de5/thumbnail.webp",
+        "sha256": "8c1f71737ccd6687a56be06d7043750110d5e89f6994ad3cf19236229efd4cf9"
+      },
+      "web": {
+        "bytes": 647000,
+        "path": "public/photos/photo-028/3c65dc08fd8f0841d0fd5cc2a628f54e2f3f1c0884bf4d753ef8734784478de5/web.webp",
+        "sha256": "a06fa483895d5f03a414e416d4a593c7eb893eeef2dc658266bf1199d5ca75fe"
+      },
+      "width": 1229
+    },
+    "photo-029": {
+      "height": 2000,
+      "preparationDigest": "2935bdac49d68bab3642cc31b62ea92cff55229dc29b8060cd7766e835fe44e8",
+      "sourceDigest": "cbe59d0ad7558bc154dd0e72985ebec1769322325131e04859e77fce8b207909",
+      "thumbnail": {
+        "bytes": 23178,
+        "path": "public/photos/photo-029/2935bdac49d68bab3642cc31b62ea92cff55229dc29b8060cd7766e835fe44e8/thumbnail.webp",
+        "sha256": "d00ca8536bd40580055bc60e5969b6cab0b5b9c78c608ad2bb6a4aca98f498db"
+      },
+      "web": {
+        "bytes": 622144,
+        "path": "public/photos/photo-029/2935bdac49d68bab3642cc31b62ea92cff55229dc29b8060cd7766e835fe44e8/web.webp",
+        "sha256": "13467adf08521ee099b325a7165152a1d97c5fafe8c78f2fa854e50cf9a6068c"
+      },
+      "width": 1234
+    },
+    "photo-030": {
+      "height": 2000,
+      "preparationDigest": "37502872b1ff3049e36d8eec5ac95058db1933fe39966909e3c964227c112e4c",
+      "sourceDigest": "ff336ca6a4522d2c3a1bce346d1046d379c429dc2cfc25b9185de257e8fa3e27",
+      "thumbnail": {
+        "bytes": 23890,
+        "path": "public/photos/photo-030/37502872b1ff3049e36d8eec5ac95058db1933fe39966909e3c964227c112e4c/thumbnail.webp",
+        "sha256": "a235fbbbcacbd6b6703bb139b3b4f05da868626b3748847581335f80f64554ec"
+      },
+      "web": {
+        "bytes": 601138,
+        "path": "public/photos/photo-030/37502872b1ff3049e36d8eec5ac95058db1933fe39966909e3c964227c112e4c/web.webp",
+        "sha256": "4c8675272482b22a8416e19faf80e3e262ad15320118d55a3eafc6df1243cc36"
+      },
+      "width": 1328
+    },
+    "photo-031": {
+      "height": 2000,
+      "preparationDigest": "ee6501001abaea1347d3fc6291090ede73630d54af9105082149a1d254c5d8e0",
+      "sourceDigest": "22f16087f16e957b57ee9140b718121a1e985722336f7732ab98521e120ba842",
+      "thumbnail": {
+        "bytes": 27240,
+        "path": "public/photos/photo-031/ee6501001abaea1347d3fc6291090ede73630d54af9105082149a1d254c5d8e0/thumbnail.webp",
+        "sha256": "0241c9137d2266b5eb09838b76b4095b413eefd6158634f895670fee0d053a26"
+      },
+      "web": {
+        "bytes": 767158,
+        "path": "public/photos/photo-031/ee6501001abaea1347d3fc6291090ede73630d54af9105082149a1d254c5d8e0/web.webp",
+        "sha256": "56f81bd1785bd66aeaa1767c070998bd24f3c6419dbc9046286297f1f48fa359"
+      },
+      "width": 1348
+    },
+    "photo-032": {
+      "height": 2000,
+      "preparationDigest": "8f126b1e7cf46087d6882d322914c30e7b3c0858988029f610e1d82814a378a5",
+      "sourceDigest": "35ebc1e7af242337f0a1c71896c02c265493251faace6d9b6536bccbc42e2144",
+      "thumbnail": {
+        "bytes": 22240,
+        "path": "public/photos/photo-032/8f126b1e7cf46087d6882d322914c30e7b3c0858988029f610e1d82814a378a5/thumbnail.webp",
+        "sha256": "c2fe4dc3199030b99793086d5c52d93d309be33230c755fef39f0ebe7a0b3b1b"
+      },
+      "web": {
+        "bytes": 559836,
+        "path": "public/photos/photo-032/8f126b1e7cf46087d6882d322914c30e7b3c0858988029f610e1d82814a378a5/web.webp",
+        "sha256": "2595a7cb2ab4838c2ccf1b34f85ccfa45eae34e380c62303e4f1c611ce1a0e76"
+      },
+      "width": 1213
+    },
+    "photo-033": {
+      "height": 2000,
+      "preparationDigest": "c2af8bfc415c937bf8c86d38d01437b597c36e9d71be28831cb8af0ae99ab51b",
+      "sourceDigest": "e990413f9dcd0fca69e403f3dddffc1d12ac2705810b97bba295c43080783176",
+      "thumbnail": {
+        "bytes": 23536,
+        "path": "public/photos/photo-033/c2af8bfc415c937bf8c86d38d01437b597c36e9d71be28831cb8af0ae99ab51b/thumbnail.webp",
+        "sha256": "f1ae4a3a7cd5515d32a8be2b90865b78a9b31e5cac6846f294ffc65ddb437da4"
+      },
+      "web": {
+        "bytes": 657694,
+        "path": "public/photos/photo-033/c2af8bfc415c937bf8c86d38d01437b597c36e9d71be28831cb8af0ae99ab51b/web.webp",
+        "sha256": "9880fab0510d6a872a6bde71a11379535ad985f600daadaa07753bc8eab1aba7"
+      },
+      "width": 1244
+    },
+    "photo-034": {
+      "height": 2000,
+      "preparationDigest": "aba5c6a488314f50db1481889b06ca97a2ca3cb5f1491f8191d654195aa1865c",
+      "sourceDigest": "25777733bdb93218f2ebd28bdfde8a9678089093d94c40a752f1e25d299c1124",
+      "thumbnail": {
+        "bytes": 25952,
+        "path": "public/photos/photo-034/aba5c6a488314f50db1481889b06ca97a2ca3cb5f1491f8191d654195aa1865c/thumbnail.webp",
+        "sha256": "fc8921b1e7b2849f072855bc66ebfc9c21e51a10f06321049a50d28be6348a76"
+      },
+      "web": {
+        "bytes": 735140,
+        "path": "public/photos/photo-034/aba5c6a488314f50db1481889b06ca97a2ca3cb5f1491f8191d654195aa1865c/web.webp",
+        "sha256": "39e083c8d1517fbf31cc5ab0eb472d1cb6e1dbe35f077a3cb89652c816bd36ad"
+      },
+      "width": 1310
+    },
+    "photo-035": {
+      "height": 2000,
+      "preparationDigest": "6532b48ac585387c3514207463823eab7b1137dd280f514ae234685d2961c02b",
+      "sourceDigest": "bc21797ac4ff7e9f77c62489027b90afa73d395fe38c1120bfe55fcf6a9b756e",
+      "thumbnail": {
+        "bytes": 23770,
+        "path": "public/photos/photo-035/6532b48ac585387c3514207463823eab7b1137dd280f514ae234685d2961c02b/thumbnail.webp",
+        "sha256": "ad395d420956d0f99302b0d9cfe806edb60b5288b826394fa3cf9a10a26d8be9"
+      },
+      "web": {
+        "bytes": 638616,
+        "path": "public/photos/photo-035/6532b48ac585387c3514207463823eab7b1137dd280f514ae234685d2961c02b/web.webp",
+        "sha256": "dfbeca1f183835553a55da9f01d8772a451ce5c564d8b82cd0e99f8716127e87"
+      },
+      "width": 1331
+    },
+    "photo-036": {
+      "height": 2000,
+      "preparationDigest": "f6fa5f9e2b3aa2a21f20230147dfdb9243de83cb6b836e145477533358c7b3e0",
+      "sourceDigest": "333999683ab3b1fa7a09817254b0947655af3f9ef51f6746b15bf832c9c9fd9f",
+      "thumbnail": {
+        "bytes": 22506,
+        "path": "public/photos/photo-036/f6fa5f9e2b3aa2a21f20230147dfdb9243de83cb6b836e145477533358c7b3e0/thumbnail.webp",
+        "sha256": "a6acafb236b8d530c482f88ff3fae86c9af89d3ff060b39bd30ca3e839d7217d"
+      },
+      "web": {
+        "bytes": 695852,
+        "path": "public/photos/photo-036/f6fa5f9e2b3aa2a21f20230147dfdb9243de83cb6b836e145477533358c7b3e0/web.webp",
+        "sha256": "2d56f3ccc2a5419e1f566fc8edb19fbc6af53963f90293c61868a714ffedc9b5"
+      },
+      "width": 1236
+    },
+    "photo-037": {
+      "height": 2000,
+      "preparationDigest": "ed856bd2101a71d1ae1c06ca954eb40dd9f52f01715098cd1557e4a545790c82",
+      "sourceDigest": "29a830952575e87e35d01512af05956a2099785b794f8f9fa698ba42c8674059",
+      "thumbnail": {
+        "bytes": 24088,
+        "path": "public/photos/photo-037/ed856bd2101a71d1ae1c06ca954eb40dd9f52f01715098cd1557e4a545790c82/thumbnail.webp",
+        "sha256": "19ed217db72fc807625801b0626afe418992d6edb05e9c40c89233d492d198d8"
+      },
+      "web": {
+        "bytes": 592388,
+        "path": "public/photos/photo-037/ed856bd2101a71d1ae1c06ca954eb40dd9f52f01715098cd1557e4a545790c82/web.webp",
+        "sha256": "e8cf7bd7e77caf77206b3dc15260900cdc07ea125aad231a48fb64c4eaa8cd76"
+      },
+      "width": 1252
+    },
+    "photo-038": {
+      "height": 2000,
+      "preparationDigest": "5ed4c02a90468f36641cee7a53270a3ee3b1bcbfe3cac88b6e4c67854fa0a269",
+      "sourceDigest": "add880d4e5bc7ab0a858959be95b82e9e23b047bc1b35219dd67dfa63cc9deba",
+      "thumbnail": {
+        "bytes": 23024,
+        "path": "public/photos/photo-038/5ed4c02a90468f36641cee7a53270a3ee3b1bcbfe3cac88b6e4c67854fa0a269/thumbnail.webp",
+        "sha256": "e4c0261fceb39812f44dd7e4807a9d72fb68684ea0c97c086fc07affaa67d7e2"
+      },
+      "web": {
+        "bytes": 587594,
+        "path": "public/photos/photo-038/5ed4c02a90468f36641cee7a53270a3ee3b1bcbfe3cac88b6e4c67854fa0a269/web.webp",
+        "sha256": "a2f08cd5d8ff18326f38562c23e64ed8b5edb81fecd1554842d7e2756870a46b"
+      },
+      "width": 1327
+    },
+    "photo-039": {
+      "height": 2000,
+      "preparationDigest": "d015ff3b5d8a5251d4f7d840358bb1660f3a4fd49c56f999a768e1aa97fc9a71",
+      "sourceDigest": "b277db81c3447a7c26b0e508c0bec2bd8f4aed3800165ea07c9912691b5311c6",
+      "thumbnail": {
+        "bytes": 24248,
+        "path": "public/photos/photo-039/d015ff3b5d8a5251d4f7d840358bb1660f3a4fd49c56f999a768e1aa97fc9a71/thumbnail.webp",
+        "sha256": "3eb99765c20a39ddc6bc7c88e7cc11c85baf6d0fcdcc3ecbecbfd4ea8dd05812"
+      },
+      "web": {
+        "bytes": 681700,
+        "path": "public/photos/photo-039/d015ff3b5d8a5251d4f7d840358bb1660f3a4fd49c56f999a768e1aa97fc9a71/web.webp",
+        "sha256": "e758cb60b1e537c6f66e49a58b671cf11c023550a61b887e1a8150dc11826195"
+      },
+      "width": 1348
+    },
+    "photo-040": {
+      "height": 2000,
+      "preparationDigest": "e4a11bb1c0e9918f263a2776f1e5e2db7fb3c8b583e8b1e2e3ebcb620d862b77",
+      "sourceDigest": "2f8ecc203062e2f46ee28fa688df18342843cb590a8685e6f6b7268d62d3f86b",
+      "thumbnail": {
+        "bytes": 20244,
+        "path": "public/photos/photo-040/e4a11bb1c0e9918f263a2776f1e5e2db7fb3c8b583e8b1e2e3ebcb620d862b77/thumbnail.webp",
+        "sha256": "1e9c2c21ec06b0e08ad409ab1aa80b8f59aa283932a6936c93b5159598376ba7"
+      },
+      "web": {
+        "bytes": 534282,
+        "path": "public/photos/photo-040/e4a11bb1c0e9918f263a2776f1e5e2db7fb3c8b583e8b1e2e3ebcb620d862b77/web.webp",
+        "sha256": "0b0f1b944f05b9a45b6f82b6d2eace4d7f698714477d231698a93016f89e84a3"
+      },
+      "width": 1217
+    },
+    "photo-041": {
+      "height": 2000,
+      "preparationDigest": "e5e02dd382f24472d10b6b902ec0112e82f0073d3c8de3ff60b9532045a0acb4",
+      "sourceDigest": "9c2d8bcfd9526922f27c1f65a09965ea882288a788fbbc2b96978d43d08bcb10",
+      "thumbnail": {
+        "bytes": 21232,
+        "path": "public/photos/photo-041/e5e02dd382f24472d10b6b902ec0112e82f0073d3c8de3ff60b9532045a0acb4/thumbnail.webp",
+        "sha256": "d59b72eefd0d168a9439e4598c72d7046428c43fe3a558ab587fe3dd4189d794"
+      },
+      "web": {
+        "bytes": 432352,
+        "path": "public/photos/photo-041/e5e02dd382f24472d10b6b902ec0112e82f0073d3c8de3ff60b9532045a0acb4/web.webp",
+        "sha256": "901bfe28e4c874103c46c8ff5728163d0b01299e14a552bc6ba53eb09139ffae"
+      },
+      "width": 1209
+    },
+    "photo-042": {
+      "height": 2000,
+      "preparationDigest": "22050de4080b49a91b3d54ade8b1df1bfa4678c941426ee4a8359536421655d5",
+      "sourceDigest": "81e5f8b90a65842bf10f18db1c44ee15961523258e9bd86d9f0eb646e39ff19b",
+      "thumbnail": {
+        "bytes": 23542,
+        "path": "public/photos/photo-042/22050de4080b49a91b3d54ade8b1df1bfa4678c941426ee4a8359536421655d5/thumbnail.webp",
+        "sha256": "04dfa62ff2398c0595054c342db042e718fbb3f65fdbc236fe31a566a5638459"
+      },
+      "web": {
+        "bytes": 761358,
+        "path": "public/photos/photo-042/22050de4080b49a91b3d54ade8b1df1bfa4678c941426ee4a8359536421655d5/web.webp",
+        "sha256": "a62a70c6486732371d19d46123513c2c712b9775ff0f7e870ae55ae44f897a14"
+      },
+      "width": 1309
+    },
+    "photo-043": {
+      "height": 2000,
+      "preparationDigest": "6844432fb5654b9b394c4d349ac5edd54299e37f5393a8998936d3d4260e6a59",
+      "sourceDigest": "d4e0e7ef65d10635c3c83c1867ff182f5e47c6e5893a402320ba20452db18975",
+      "thumbnail": {
+        "bytes": 22354,
+        "path": "public/photos/photo-043/6844432fb5654b9b394c4d349ac5edd54299e37f5393a8998936d3d4260e6a59/thumbnail.webp",
+        "sha256": "eb7c0efed6ce42f31c8dddf61e0f786e905b11cc74f8ddd32d52ff8507a858cc"
+      },
+      "web": {
+        "bytes": 578946,
+        "path": "public/photos/photo-043/6844432fb5654b9b394c4d349ac5edd54299e37f5393a8998936d3d4260e6a59/web.webp",
+        "sha256": "a5d3d4b9170342d6b1a762457473e429a530506bfca6a7322ddac733084badfb"
+      },
+      "width": 1332
+    },
+    "photo-044": {
+      "height": 2000,
+      "preparationDigest": "f04547aec84138e1409e37eaa0140121f8d595c6491ad4aee605ad063d5c657f",
+      "sourceDigest": "6d3ab8cb1caac15c38aac469b4c8ae7622bcafd1c5718a90eedda03c9b30d8f6",
+      "thumbnail": {
+        "bytes": 27602,
+        "path": "public/photos/photo-044/f04547aec84138e1409e37eaa0140121f8d595c6491ad4aee605ad063d5c657f/thumbnail.webp",
+        "sha256": "9685192e5035f4249afe36003674223d33e2ec75e7df85b57f782f6ca39b86a8"
+      },
+      "web": {
+        "bytes": 911994,
+        "path": "public/photos/photo-044/f04547aec84138e1409e37eaa0140121f8d595c6491ad4aee605ad063d5c657f/web.webp",
+        "sha256": "dd8dab419db01f6c10acea29528290af1d5371c5f17599785bf8817680f85833"
+      },
+      "width": 1213
+    },
+    "photo-045": {
+      "height": 2000,
+      "preparationDigest": "31e6dd6b2efba64440f11e2d13df8cfe4c6f2c346695e064c6a9ebfc63dc8f30",
+      "sourceDigest": "9dd05fd87710dd40c5e4417cbff17288168205131299bbd99b6679ae798c8ce3",
+      "thumbnail": {
+        "bytes": 23254,
+        "path": "public/photos/photo-045/31e6dd6b2efba64440f11e2d13df8cfe4c6f2c346695e064c6a9ebfc63dc8f30/thumbnail.webp",
+        "sha256": "95048824156d281f8a2c43f82de0e947d8b52c8669ea82b9b2bdc3a5f4a3e879"
+      },
+      "web": {
+        "bytes": 799676,
+        "path": "public/photos/photo-045/31e6dd6b2efba64440f11e2d13df8cfe4c6f2c346695e064c6a9ebfc63dc8f30/web.webp",
+        "sha256": "102112a5f3151763e3e4fe8736158a61c16fb074f24f9c1ff4d33e3ec54f34ce"
+      },
+      "width": 1236
+    },
+    "photo-046": {
+      "height": 2000,
+      "preparationDigest": "ae693710d43eb82f9e68e3efb22a22d0d356a32024230e1c3bef39820d5e6bc7",
+      "sourceDigest": "f5cb2a9d6f9c400a6cc3d8ba9353ed422a1110557a00be6e3b1089bef96d225c",
+      "thumbnail": {
+        "bytes": 24460,
+        "path": "public/photos/photo-046/ae693710d43eb82f9e68e3efb22a22d0d356a32024230e1c3bef39820d5e6bc7/thumbnail.webp",
+        "sha256": "d985325254402c3432bd6e48898e2f9cc3097e2969892da999e403df250af2f5"
+      },
+      "web": {
+        "bytes": 697132,
+        "path": "public/photos/photo-046/ae693710d43eb82f9e68e3efb22a22d0d356a32024230e1c3bef39820d5e6bc7/web.webp",
+        "sha256": "4c88b5f2ac4b265fa27d8d78c57444cf1503aa8f98a03450c39c05bb83357592"
+      },
+      "width": 1218
+    },
+    "photo-047": {
+      "height": 2000,
+      "preparationDigest": "41ee6cf27cf12402b776ae0c362a75eb4537e82f10b010264ce0659367d5d5d9",
+      "sourceDigest": "80e052199a2d9dbf532544a5f67a4dc9ee5711d3cd343266c27d165734c9e73e",
+      "thumbnail": {
+        "bytes": 23428,
+        "path": "public/photos/photo-047/41ee6cf27cf12402b776ae0c362a75eb4537e82f10b010264ce0659367d5d5d9/thumbnail.webp",
+        "sha256": "7f26a5ce7674e7caf39ae33c0ad2d3220274ad89adc9c19c6aa1006a7be701a7"
+      },
+      "web": {
+        "bytes": 601496,
+        "path": "public/photos/photo-047/41ee6cf27cf12402b776ae0c362a75eb4537e82f10b010264ce0659367d5d5d9/web.webp",
+        "sha256": "82ccf6fa0ad02e2073f523f13354810ae362f8eedc42de27be5a86388be92be5"
+      },
+      "width": 1221
+    },
+    "photo-048": {
+      "height": 2000,
+      "preparationDigest": "1216536c7ffd7c220fd75508ae108fb9d3947e635f87cfb6c655aa4f31801b25",
+      "sourceDigest": "d90a3ac58659fece6f1e3aa7c3b24ddd5681149f00b57c23ee745a99109c6cdf",
+      "thumbnail": {
+        "bytes": 26654,
+        "path": "public/photos/photo-048/1216536c7ffd7c220fd75508ae108fb9d3947e635f87cfb6c655aa4f31801b25/thumbnail.webp",
+        "sha256": "b555c5b8291de05f3953762dafc7141dd114a31794ca0511669bdabff1227a26"
+      },
+      "web": {
+        "bytes": 687650,
+        "path": "public/photos/photo-048/1216536c7ffd7c220fd75508ae108fb9d3947e635f87cfb6c655aa4f31801b25/web.webp",
+        "sha256": "765ea81aa3d215160b1fa19ed1a7b9fb8755556f1d3a769dd1b9097783d52ff8"
+      },
+      "width": 1326
+    },
+    "photo-049": {
+      "height": 2000,
+      "preparationDigest": "2a8c870b4eeb3f748bd358f6f269b4950f9d2708f67e32d96ce182398daee28d",
+      "sourceDigest": "d402caa0473cb7125d06393200f566f2e94831b12de9279d0c4e626e63c217c6",
+      "thumbnail": {
+        "bytes": 20896,
+        "path": "public/photos/photo-049/2a8c870b4eeb3f748bd358f6f269b4950f9d2708f67e32d96ce182398daee28d/thumbnail.webp",
+        "sha256": "a6af6f955f99be1df93ea09eb7606091df8092d798916cb167edea7fbb2054b1"
+      },
+      "web": {
+        "bytes": 507564,
+        "path": "public/photos/photo-049/2a8c870b4eeb3f748bd358f6f269b4950f9d2708f67e32d96ce182398daee28d/web.webp",
+        "sha256": "dc33bb3514704db1b6865e26e2b07880b913a0d061ddcfff7cec409d9db72340"
+      },
+      "width": 1298
+    },
+    "photo-050": {
+      "height": 2000,
+      "preparationDigest": "78defa8e3690b1b03581f956a888c88296e47d9decd4bf0e124b74724c0e7aae",
+      "sourceDigest": "509250a0e5ec1e174ac221a0330a29e6344e2b27e56fdc411258ff6e649cc060",
+      "thumbnail": {
+        "bytes": 21394,
+        "path": "public/photos/photo-050/78defa8e3690b1b03581f956a888c88296e47d9decd4bf0e124b74724c0e7aae/thumbnail.webp",
+        "sha256": "a3ffbb09bae45f3eee255fe4afa2d0926e098d821ac90b84cca82ebe0c17157e"
+      },
+      "web": {
+        "bytes": 816926,
+        "path": "public/photos/photo-050/78defa8e3690b1b03581f956a888c88296e47d9decd4bf0e124b74724c0e7aae/web.webp",
+        "sha256": "b841a0949a3f809062d3910ea0f4e490f2bc53311a1890833b6f122687a5989f"
+      },
+      "width": 1026
+    },
+    "photo-051": {
+      "height": 2000,
+      "preparationDigest": "2bcc3ea7f688017c268b836698dd34937f34b4cc1280260fe9ec181ce7d5f79c",
+      "sourceDigest": "7ddd531ea4cfab20ad8c0c13d38096771e54d5ae7d47546848e10b121b57b798",
+      "thumbnail": {
+        "bytes": 21734,
+        "path": "public/photos/photo-051/2bcc3ea7f688017c268b836698dd34937f34b4cc1280260fe9ec181ce7d5f79c/thumbnail.webp",
+        "sha256": "2f190d244d355120d5635a6ecbcc73eeeb88ebd7df471fd2771b3558f904328c"
+      },
+      "web": {
+        "bytes": 907388,
+        "path": "public/photos/photo-051/2bcc3ea7f688017c268b836698dd34937f34b4cc1280260fe9ec181ce7d5f79c/web.webp",
+        "sha256": "a8530068081b4debdf0b93c1430427bf215c5aaa0f8a7bc6e52eb0780e911b02"
+      },
+      "width": 1017
+    },
+    "photo-052": {
+      "height": 2000,
+      "preparationDigest": "54e22a1d81e62a101c33dcc40607803792a535d984fd57306ee0100ccfe52509",
+      "sourceDigest": "113b80b842e88c7fcea5ff6e96e270968ce780b12f674e727c7fc8cd8c905cd4",
+      "thumbnail": {
+        "bytes": 21220,
+        "path": "public/photos/photo-052/54e22a1d81e62a101c33dcc40607803792a535d984fd57306ee0100ccfe52509/thumbnail.webp",
+        "sha256": "01cf2925f5ebbef745c48d9e68622fafa928f9b6ec734c2d146c116fb38a0d43"
+      },
+      "web": {
+        "bytes": 875126,
+        "path": "public/photos/photo-052/54e22a1d81e62a101c33dcc40607803792a535d984fd57306ee0100ccfe52509/web.webp",
+        "sha256": "599a974a1def24260379ed85bad7e3286a616b553b66c34fb58737f9f145575d"
+      },
+      "width": 1030
+    },
+    "photo-053": {
+      "height": 2000,
+      "preparationDigest": "9e4a9ad4ff2433634707b78e48916d20f11bfb83e56fd6e6a8776c38700a9e72",
+      "sourceDigest": "f95b32d1cf2af422a4bf591b0a67ce8fdd7ce5a74e0c31ac920467bba8fd0898",
+      "thumbnail": {
+        "bytes": 21050,
+        "path": "public/photos/photo-053/9e4a9ad4ff2433634707b78e48916d20f11bfb83e56fd6e6a8776c38700a9e72/thumbnail.webp",
+        "sha256": "bbb43710ad50e2b7016723fd57058b7be595daeb06d7b95fb07ba5fd4e22f936"
+      },
+      "web": {
+        "bytes": 859342,
+        "path": "public/photos/photo-053/9e4a9ad4ff2433634707b78e48916d20f11bfb83e56fd6e6a8776c38700a9e72/web.webp",
+        "sha256": "72d16f2194253429dd36097a51b29d0b2875879cf8df6896fe8206b6d22603c4"
+      },
+      "width": 1007
+    },
+    "photo-054": {
+      "height": 2000,
+      "preparationDigest": "a17611167f7c702c7e93aca74f4252214cf8ae02a7697eaa610552692fdddce2",
+      "sourceDigest": "7981db3ee5efd4be305e6aed014134186a01eac64ed71316c0beda55981c8644",
+      "thumbnail": {
+        "bytes": 21558,
+        "path": "public/photos/photo-054/a17611167f7c702c7e93aca74f4252214cf8ae02a7697eaa610552692fdddce2/thumbnail.webp",
+        "sha256": "55eaaa853f0958626adf84bd21c7b8bd3b22e1e745d4f3ae6b52095857a3f1c6"
+      },
+      "web": {
+        "bytes": 837198,
+        "path": "public/photos/photo-054/a17611167f7c702c7e93aca74f4252214cf8ae02a7697eaa610552692fdddce2/web.webp",
+        "sha256": "adfe21c0efdb50acce0094de1c189e3f7661d4ca50cb873dc400f41ee92c4ead"
+      },
+      "width": 1021
+    },
+    "photo-055": {
+      "height": 1370,
+      "preparationDigest": "909b7b0029176a385adc7664d572acbd208bb8abefcdadc74ddf106bd22377c5",
+      "sourceDigest": "b9abe751200934f00fbb83dbf1c67182cada80c924d55bb5455bb01628dff24c",
+      "thumbnail": {
+        "bytes": 33846,
+        "path": "public/photos/photo-055/909b7b0029176a385adc7664d572acbd208bb8abefcdadc74ddf106bd22377c5/thumbnail.webp",
+        "sha256": "6b85e01c2af6e5b437d96104a4d39cb4204fcdc08da0dcbae01eab531bd7874b"
+      },
+      "web": {
+        "bytes": 1055718,
+        "path": "public/photos/photo-055/909b7b0029176a385adc7664d572acbd208bb8abefcdadc74ddf106bd22377c5/web.webp",
+        "sha256": "f3753ab5e985e73f4547bd85aca91bdd592e90722cc72d759f15c0965174b378"
+      },
+      "width": 2000
+    }
+  },
+  "schemaVersion": 1
+}

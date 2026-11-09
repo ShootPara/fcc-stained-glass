@@ -1,0 +1,324 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> fcc-stained-glass@0.1.0 validate
+> node --import tsx scripts/validate-content.ts --stage assets
+
+E_ASSET_MISSING generated/assets.json [design-003]
+design-003 has no prepared region package.
+Run: npm run prepare -- --id design-003
+E_ASSET_MISSING generated/assets.json [design-004]
+design-004 has no prepared region package.
+Run: npm run prepare -- --id design-004
+E_ASSET_MISSING generated/assets.json [design-005]
+design-005 has no prepared region package.
+Run: npm run prepare -- --id design-005
+E_ASSET_MISSING generated/assets.json [design-006]
+design-006 has no prepared region package.
+Run: npm run prepare -- --id design-006
+E_ASSET_MISSING generated/assets.json [design-007]
+design-007 has no prepared region package.
+Run: npm run prepare -- --id design-007
+E_ASSET_MISSING generated/assets.json [design-008]
+design-008 has no prepared region package.
+Run: npm run prepare -- --id design-008
+E_ASSET_MISSING generated/assets.json [design-009]
+design-009 has no prepared region package.
+Run: npm run prepare -- --id design-009
+E_ASSET_MISSING generated/assets.json [design-010]
+design-010 has no prepared region package.
+Run: npm run prepare -- --id design-010
+E_ASSET_MISSING generated/assets.json [design-011]
+design-011 has no prepared region package.
+Run: npm run prepare -- --id design-011
+E_ASSET_MISSING generated/assets.json [design-012]
+design-012 has no prepared region package.
+Run: npm run prepare -- --id design-012
+E_ASSET_MISSING generated/assets.json [design-013]
+design-013 has no prepared region package.
+Run: npm run prepare -- --id design-013
+E_ASSET_MISSING generated/assets.json [design-014]
+design-014 has no prepared region package.
+Run: npm run prepare -- --id design-014
+E_ASSET_MISSING generated/assets.json [design-015]
+design-015 has no prepared region package.
+Run: npm run prepare -- --id design-015
+E_ASSET_MISSING generated/assets.json [design-016]
+design-016 has no prepared region package.
+Run: npm run prepare -- --id design-016
+E_ASSET_MISSING generated/assets.json [design-017]
+design-017 has no prepared region package.
+Run: npm run prepare -- --id design-017
+E_ASSET_MISSING generated/assets.json [design-018]
+design-018 has no prepared region package.
+Run: npm run prepare -- --id design-018
+E_ASSET_MISSING generated/assets.json [design-019]
+design-019 has no prepared region package.
+Run: npm run prepare -- --id design-019
+E_ASSET_MISSING generated/assets.json [design-020]
+design-020 has no prepared region package.
+Run: npm run prepare -- --id design-020
+E_ASSET_MISSING generated/assets.json [design-021]
+design-021 has no prepared region package.
+Run: npm run prepare -- --id design-021
+E_ASSET_MISSING generated/assets.json [design-022]
+design-022 has no prepared region package.
+Run: npm run prepare -- --id design-022
+E_ASSET_MISSING generated/assets.json [design-023]
+design-023 has no prepared region package.
+Run: npm run prepare -- --id design-023
+E_ASSET_MISSING generated/assets.json [design-024]
+design-024 has no prepared region package.
+Run: npm run prepare -- --id design-024
+E_ASSET_MISSING generated/assets.json [design-025]
+design-025 has no prepared region package.
+Run: npm run prepare -- --id design-025
+E_ASSET_MISSING generated/assets.json [design-026]
+design-026 has no prepared region package.
+Run: npm run prepare -- --id design-026
+E_ASSET_MISSING generated/assets.json [design-027]
+design-027 has no prepared region package.
+Run: npm run prepare -- --id design-027
+E_ASSET_MISSING generated/assets.json [design-028]
+design-028 has no prepared region package.
+Run: npm run prepare -- --id design-028
+E_ASSET_MISSING generated/assets.json [design-029]
+design-029 has no prepared region package.
+Run: npm run prepare -- --id design-029
+E_ASSET_MISSING generated/assets.json [design-030]
+design-030 has no prepared region package.
+Run: npm run prepare -- --id design-030
+E_ASSET_MISSING generated/assets.json [design-031]
+design-031 has no prepared region package.
+Run: npm run prepare -- --id design-031
+E_ASSET_MISSING generated/assets.json [design-032]
+design-032 has no prepared region package.
+Run: npm run prepare -- --id design-032
+E_ASSET_MISSING generated/assets.json [design-033]
+design-033 has no prepared region package.
+Run: npm run prepare -- --id design-033
+E_ASSET_MISSING generated/assets.json [design-034]
+design-034 has no prepared region package.
+Run: npm run prepare -- --id design-034
+E_ASSET_MISSING generated/assets.json [design-035]
+design-035 has no prepared region package.
+Run: npm run prepare -- --id design-035
+E_ASSET_MISSING generated/assets.json [design-036]
+design-036 has no prepared region package.
+Run: npm run prepare -- --id design-036
+E_ASSET_MISSING generated/assets.json [design-037]
+design-037 has no prepared region package.
+Run: npm run prepare -- --id design-037
+E_ASSET_MISSING generated/assets.json [design-038]
+design-038 has no prepared region package.
+Run: npm run prepare -- --id design-038
+E_ASSET_MISSING generated/assets.json [design-039]
+design-039 has no prepared region package.
+Run: npm run prepare -- --id design-039
+E_ASSET_MISSING generated/assets.json [design-040]
+design-040 has no prepared region package.
+Run: npm run prepare -- --id design-040
+E_ASSET_MISSING generated/assets.json [design-041]
+design-041 has no prepared region package.
+Run: npm run prepare -- --id design-041
+E_ASSET_MISSING generated/assets.json [design-042]
+design-042 has no prepared region package.
+Run: npm run prepare -- --id design-042
+E_ASSET_MISSING generated/assets.json [design-043]
+design-043 has no prepared region package.
+Run: npm run prepare -- --id design-043
+E_ASSET_MISSING generated/assets.json [design-044]
+design-044 has no prepared region package.
+Run: npm run prepare -- --id design-044
+E_ASSET_MISSING generated/assets.json [design-045]
+design-045 has no prepared region package.
+Run: npm run prepare -- --id design-045
+E_ASSET_MISSING generated/assets.json [design-046]
+design-046 has no prepared region package.
+Run: npm run prepare -- --id design-046
+E_ASSET_MISSING generated/assets.json [design-047]
+design-047 has no prepared region package.
+Run: npm run prepare -- --id design-047
+E_ASSET_MISSING generated/assets.json [design-048]
+design-048 has no prepared region package.
+Run: npm run prepare -- --id design-048
+E_ASSET_MISSING generated/assets.json [design-049]
+design-049 has no prepared region package.
+Run: npm run prepare -- --id design-049
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-001]
+photo-001 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-003]
+photo-003 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-004]
+photo-004 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-005]
+photo-005 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-006]
+photo-006 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-007]
+photo-007 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-008]
+photo-008 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-009]
+photo-009 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-010]
+photo-010 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-011]
+photo-011 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-012]
+photo-012 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-013]
+photo-013 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-014]
+photo-014 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-015]
+photo-015 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-016]
+photo-016 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-017]
+photo-017 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-018]
+photo-018 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-019]
+photo-019 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-020]
+photo-020 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-021]
+photo-021 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-022]
+photo-022 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-023]
+photo-023 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-024]
+photo-024 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-025]
+photo-025 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-026]
+photo-026 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-027]
+photo-027 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-028]
+photo-028 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-029]
+photo-029 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-030]
+photo-030 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-031]
+photo-031 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-032]
+photo-032 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-033]
+photo-033 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-034]
+photo-034 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-035]
+photo-035 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-036]
+photo-036 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-037]
+photo-037 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-038]
+photo-038 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-039]
+photo-039 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-040]
+photo-040 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-041]
+photo-041 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-042]
+photo-042 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-043]
+photo-043 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-044]
+photo-044 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-045]
+photo-045 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-046]
+photo-046 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-047]
+photo-047 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-048]
+photo-048 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-049]
+photo-049 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-050]
+photo-050 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-051]
+photo-051 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-052]
+photo-052 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-053]
+photo-053 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-054]
+photo-054 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_PHOTO_DERIVATIVE_MISSING generated/assets.json [photo-055]
+photo-055 has no current web and thumbnail derivatives.
+Run: npm run prepare -- --all
+E_ASSETS_INVALID: Asset validation failed with 101 issue(s).
+validate-content: failed. Report: .work/reports/validate-content-2026-11-06T20-51-46-001Z-7869b4fd.json
+{
+  "stage": "assets",
+  "id": null,
+  "photoCount": 55,
+  "artworkCount": 48,
+  "sourceCount": 110,
+  "sourceBytes": 258074562,
+  "verifiedSourceCount": 110,
+  "validatedArtworks": 1,
+  "validatedVersions": 1,
+  "validatedPhotos": 1,
+  "pendingSegmentationReviews": 0,
+  "pendingPairingReviews": 0
+}

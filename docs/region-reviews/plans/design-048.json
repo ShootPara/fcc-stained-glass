@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-048",
+  "sourceVersion": "be2cb99554df32c57b736d428e4b8d427de6ffecd190e737694ea46e103d84b9",
+  "observations": "Inspected the complete numbered lamb, banner, halo and lower ornament drawing plus all three sheets of 34 tiny source/fill pairs. Retain the intentional one-pixel closed counter in the lower cross-shaped ornament, eye highlight, floral medallion centers and hoof corner panes. Reconnect inspected narrow halo rim fragments, the outer orange ring and the closed chest corner only. Exclude explicit acute border, chest and ornament outline tips rather than all small regions. Head/chest and body remain separately selectable as drawn, with legs, banner panes and nested ornaments named by feature and position. Original source and canonical ink remain unchanged.",
+  "evidence": [
+    ".work/review/design-048/be2cb99554df32c57b736d428e4b8d427de6ffecd190e737694ea46e103d84b9/regions-numbered-2x.png",
+    ".work/region-crops/design-048/small-01.png",
+    ".work/region-crops/design-048/small-02.png",
+    ".work/region-crops/design-048/small-03.png"
+  ],
+  "tips": "18,21,23,26,32,50,64,67,74,75,82,98,106,124,137,143,145,149,159,169,172",
+  "joins": [
+    "33,41,43-47,65,66",
+    "57,59,60",
+    "71,72"
+  ],
+  "groups": [
+    {
+      "name": "Lamb's head neck and chest",
+      "ids": "49"
+    },
+    {
+      "name": "Lamb's body and front bent leg",
+      "ids": "73"
+    },
+    {
+      "name": "Lamb's remaining legs and small hoof panes",
+      "ids": "76,83,84,88,90,92,96,100,108,110"
+    },
+    {
+      "name": "Lamb's eye highlight",
+      "ids": "53"
+    },
+    {
+      "name": "Cross staff and rounded finials",
+      "ids": "24,25,93"
+    },
+    {
+      "name": "Cross banner and its divided panes",
+      "ids": "38,39,40,48,51,52,56,58,68,69"
+    },
+    {
+      "name": "Halo inner field",
+      "ids": "36"
+    },
+    {
+      "name": "Halo narrow rim",
+      "ids": "33,41,43,44,45,46,47,65,66"
+    },
+    {
+      "name": "Small closed corner beside lamb's chest",
+      "ids": "71,72"
+    },
+    {
+      "name": "Circular border bands",
+      "ids": "22,27,29,31,37,42,54,55,57,59,60,61,77,78,79,80"
+    },
+    {
+      "name": "Background inside lamb medallion",
+      "ids": "28,30,34,35,62,63,70,81,85,86,87,89,91,94,95,97,99,101,103,104,109"
+    },
+    {
+      "name": "Upper architectural corners and diagonal bands",
+      "ids": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20"
+    },
+    {
+      "name": "Small lower-left corner ornaments",
+      "ids": "102,105,111,112,113,114,115,120"
+    },
+    {
+      "name": "Small lower-right scroll ornaments",
+      "ids": "107,116,117,118,119,125"
+    },
+    {
+      "name": "Lower sweeping border bands",
+      "ids": "121,122,123,126,127,128,129,153,158"
+    },
+    {
+      "name": "Cross-shaped lower ornament and its bands",
+      "ids": "130,131,135,136,140,144,147,150,151,152"
+    },
+    {
+      "name": "Lower left round floral medallion",
+      "ids": "132,134,139,142,146,154,155,157,160,161,162,164,165,166,168,170"
+    },
+    {
+      "name": "Lower right circular medallion",
+      "ids": "138,141,148,156,163,167"
+    },
+    {
+      "name": "Background around lower ornament",
+      "ids": "133,171"
+    }
+  ]
+}

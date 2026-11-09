@@ -1,0 +1,14 @@
+{
+  "artworkId": "design-045",
+  "effectiveDpi": 179.4375,
+  "file": {
+    "bytes": 1081295,
+    "path": "print/design-045.pdf",
+    "sha256": "61e6f0edd573a83029c5873c76ff6cdcb452f7392e4b0dc14b3527bb8f196620"
+  },
+  "height": 792,
+  "inputDigest": "de65b5e00ce36289ccb38af947c6368c3d14b3c21257e2b0a643850802fb1a30",
+  "pages": 1,
+  "schemaVersion": 1,
+  "width": 612
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "operation": "catalog",
+  "scope": "development",
+  "startedAtUtc": "2026-11-06T20:47:20.810Z",
+  "status": "passed",
+  "exitCode": 0,
+  "inputs": [
+    "source/manifest.json",
+    "project.json",
+    "content",
+    "generated/assets.json"
+  ],
+  "outputs": [
+    "public/catalog.dev.json"
+  ],
+  "digests": {
+    "sourceSnapshot": "443cf439629f616292fbb90d3ab2b93741d2f0f34bd8365bc20422c91f74d988"
+  },
+  "warnings": [],
+  "errors": [],
+  "summary": {
+    "mode": "development",
+    "photos": 55,
+    "artworks": 48,
+    "availableArtworks": 1
+  },
+  "completedAtUtc": "2026-11-06T20:47:22.822Z"
+}

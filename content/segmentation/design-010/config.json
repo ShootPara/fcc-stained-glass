@@ -1,0 +1,13 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Complete source and numbered overlay inspected, plus all 50 small components in five paired source/overlay sheets. Forty-five isolated acute raster tips excluded explicitly. The eye glint, enclosed eyelid corner, enclosed mouth detail, small wrist triangle and small triangle at the lower cuff remain. Roof stripes, cabin window, hull planks and circular portholes retain their boundaries. The figure's face and neck are continuous; facial strokes are open. Raised fingers are separate bounded panes; palm contour strokes remain open. The lower hand's fingers and forearm stay distinct. Large curling plant leaves and garment bands retain open vein/fold strokes. Names group repeated panes by visible feature and distinguish them by position and within-feature sequence. Source/canonical ink remains unchanged, and the original package remains available for local saves. Explicit inspected tip IDs: 17,19,20,23,25,30,31,36,40,46,49,53,54,55,61,65,78,87,89,93,111,114,121,122,123,126,129,130,136,137,138,139,141,142,147,179,181,183,191,196,205,206,207,208,209. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

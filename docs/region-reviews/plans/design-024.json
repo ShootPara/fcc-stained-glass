@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-024",
+  "sourceVersion": "2ae2b160355601fbb59dec89dcff0eca2dae9758283e6387cc7f987f768eee51",
+  "observations": "Inspected full numbered overlay and all five sheets of small components against the uncolored drawing. Exclude only explicit isolated acute endpoints; retain the eye highlight, closed finger space and the small interstices among the round head ornaments. Reconnect fragmented nostril, eye and narrow closed hand details without changing the visible ink. Round ornaments and their enclosed background gaps remain independently selectable. Upper figure, raised hand, lower profiles, curved staff and flowing background bands receive feature-based positional names. Source drawing pixels and earlier packages remain unchanged.",
+  "evidence": [
+    ".work/review/design-024/2ae2b160355601fbb59dec89dcff0eca2dae9758283e6387cc7f987f768eee51/regions-numbered-2x.png",
+    ".work/region-crops/design-024/small-01.png",
+    ".work/region-crops/design-024/small-02.png",
+    ".work/region-crops/design-024/small-03.png",
+    ".work/region-crops/design-024/small-04.png",
+    ".work/region-crops/design-024/small-05.png"
+  ],
+  "tips": "12,17,26,38,40,42,43,48,52,53,57,59,77,87,101,103,110,114,116,133,135,158,165,173,182",
+  "joins": [
+    "32-35",
+    "49,50",
+    "122,126,127",
+    "123,125",
+    "138,139,141",
+    "140,143",
+    "161,162",
+    "179,180"
+  ],
+  "groups": [
+    {
+      "name": "Outer frame and middle divider",
+      "ids": "1"
+    },
+    {
+      "name": "Upper flowing background and pointed rays",
+      "ids": "2-10,15,19,24,28,30,36,44,54-56"
+    },
+    {
+      "name": "Upper figure's hair curls",
+      "ids": "11,14,16,20,21,23"
+    },
+    {
+      "name": "Upper figure's left eye panes",
+      "ids": "22,25,27"
+    },
+    {
+      "name": "Upper figure's face and beard",
+      "ids": "13"
+    },
+    {
+      "name": "Upper figure's eye highlight",
+      "ids": "29"
+    },
+    {
+      "name": "Upper figure's closed nostril",
+      "ids": "32-35"
+    },
+    {
+      "name": "Raised hand and closed finger spaces",
+      "ids": "18,31,37,39,41"
+    },
+    {
+      "name": "Upper figure's robe and collar",
+      "ids": "45-47,49-51,58"
+    },
+    {
+      "name": "Lower flowing background bands",
+      "ids": "60-73,76,78-81,83,85,86,177"
+    },
+    {
+      "name": "Curved staff and its closed inner space",
+      "ids": "74,82"
+    },
+    {
+      "name": "Background around the lower left figure",
+      "ids": "75"
+    },
+    {
+      "name": "Hand holding the staff",
+      "ids": "84"
+    },
+    {
+      "name": "Lower right figure's head covering",
+      "ids": "88,117"
+    },
+    {
+      "name": "Round head ornaments and enclosed gaps",
+      "ids": "89-109,111-113,118-147,149-157,160"
+    },
+    {
+      "name": "Small pane above the lower right forehead",
+      "ids": "159"
+    },
+    {
+      "name": "Lower left figure's face below the round ornaments",
+      "ids": "115"
+    },
+    {
+      "name": "Lower right figure's face",
+      "ids": "148"
+    },
+    {
+      "name": "Lower right figure's eye slit",
+      "ids": "161,162"
+    },
+    {
+      "name": "Raised hand beside the round ornaments",
+      "ids": "166,169"
+    },
+    {
+      "name": "Lower left figure's robe and sleeve",
+      "ids": "164,167,168,170-175,184,186"
+    },
+    {
+      "name": "Object held between the lower hands",
+      "ids": "176"
+    },
+    {
+      "name": "Lower hand and its enclosed palm slit",
+      "ids": "178-180"
+    },
+    {
+      "name": "Lower right figure's robe and surrounding bands",
+      "ids": "163,181,183,185"
+    }
+  ]
+}

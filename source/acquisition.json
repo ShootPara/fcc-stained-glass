@@ -1,0 +1,1872 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "id": "photo-001",
+      "role": "photo",
+      "path": "source/photos/001 FCC Window First Congo South Window Pan4.jpg",
+      "originalFilename": "001 FCC Window First Congo South Window Pan4.jpg",
+      "expectedBytes": 16325926,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1sNRlxTy3gLrMpu4NaGuDfXPE_Ibyv05d/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "001 FCC Window First Congo South Window Pan4.jpg"
+      },
+      "expectedSha256": "39beff9a2f1740118992dc3142cdf4f6d9880b1f042c4cd26216d1ff6bee8615"
+    },
+    {
+      "id": "photo-002",
+      "role": "photo",
+      "path": "source/photos/002 FCC Window Igp4048 Tu2.jpg",
+      "originalFilename": "002 FCC Window Igp4048 Tu2.jpg",
+      "expectedBytes": 3056120,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1YMfSgtKGvlcwzOyYsRwEjTgT9DkWzBAx/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "002 FCC Window Igp4048 Tu2.jpg"
+      },
+      "expectedSha256": "b5ac465f05f2282835a663c9a3cf3ef39fdd2fd1b07cafeb9f1a9df678c60563"
+    },
+    {
+      "id": "photo-003",
+      "role": "photo",
+      "path": "source/photos/003 FCC Window Igp4056.jpg",
+      "originalFilename": "003 FCC Window Igp4056.jpg",
+      "expectedBytes": 3703016,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1BMI6y4ytRthMJ3IVGuviktA-xKWq9jqN/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "003 FCC Window Igp4056.jpg"
+      },
+      "expectedSha256": "ac97044e66e461a08c63d6faedb1a9224a1619bd833836c8e55b41519c5d9c13"
+    },
+    {
+      "id": "photo-004",
+      "role": "photo",
+      "path": "source/photos/004 FCC Window Igp4060.jpg",
+      "originalFilename": "004 FCC Window Igp4060.jpg",
+      "expectedBytes": 2140309,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1tyzsNyhWtlfjnHVrkh2Gem-pCplT-Y42/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "004 FCC Window Igp4060.jpg"
+      },
+      "expectedSha256": "c9198bd4a57d47a120f0808ad9d8ca31d57399e0259abbb3eb05bbd564ddc580"
+    },
+    {
+      "id": "photo-005",
+      "role": "photo",
+      "path": "source/photos/005 FCC Window Igp4064.jpg",
+      "originalFilename": "005 FCC Window Igp4064.jpg",
+      "expectedBytes": 2638562,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1xTTtVruuJOqpsqWS7kghD8hmRdqSTTnO/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "005 FCC Window Igp4064.jpg"
+      },
+      "expectedSha256": "1e5fb4d9eb6f286186e3dd75ae8548395ee0564cb4c96d0ebca5a6aa834ac683"
+    },
+    {
+      "id": "photo-006",
+      "role": "photo",
+      "path": "source/photos/006 FCC Window Igp4075.jpg",
+      "originalFilename": "006 FCC Window Igp4075.jpg",
+      "expectedBytes": 2281671,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1Nz8riQ3teCE4oRGy6hWS4x49CbaJ5uci/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "006 FCC Window Igp4075.jpg"
+      },
+      "expectedSha256": "8b2daf9c6e3f9cd4469f25aa782b9146ff1d30355b8a8839e0186f4b85dd8bed"
+    },
+    {
+      "id": "photo-007",
+      "role": "photo",
+      "path": "source/photos/007 FCC Window Igp4089.jpg",
+      "originalFilename": "007 FCC Window Igp4089.jpg",
+      "expectedBytes": 1734096,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1bg7P-sWsC-DBcv8RB7r_HkqE7dAdmKsw/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "007 FCC Window Igp4089.jpg"
+      },
+      "expectedSha256": "3b367743fa387fdfb12318b5be0918cc684fe321605143baf2750d4c51453b34"
+    },
+    {
+      "id": "photo-008",
+      "role": "photo",
+      "path": "source/photos/008 FCC Window Igp4095.jpg",
+      "originalFilename": "008 FCC Window Igp4095.jpg",
+      "expectedBytes": 1979768,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1_OmBkOImhJPuG4JpMHdzRit0LezBs-xo/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "008 FCC Window Igp4095.jpg"
+      },
+      "expectedSha256": "a679c0f23749374d6b4c0c09a974b45e500d48eb97a1e71c8eeb6896cbad70ae"
+    },
+    {
+      "id": "photo-009",
+      "role": "photo",
+      "path": "source/photos/009 FCC Window Igp4104.jpg",
+      "originalFilename": "009 FCC Window Igp4104.jpg",
+      "expectedBytes": 2962715,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/16sNEXP6AV7gP9YK3Tu8JPcLsqzc6uzc1/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "009 FCC Window Igp4104.jpg"
+      },
+      "expectedSha256": "3ede160ea04c36955984b98be24528bcd0d447afa38cbb2b3cf0bd50deb49573"
+    },
+    {
+      "id": "photo-010",
+      "role": "photo",
+      "path": "source/photos/010 FCC Window Igp4108.jpg",
+      "originalFilename": "010 FCC Window Igp4108.jpg",
+      "expectedBytes": 3338567,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1xK6pJoQEaZYbH6u1igL_ihbcGpzFmc87/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "010 FCC Window Igp4108.jpg"
+      },
+      "expectedSha256": "5a671d18d6ebd5089545f9b852cb3a9da97b7c05499d3a22ebde859f0b13eba1"
+    },
+    {
+      "id": "photo-011",
+      "role": "photo",
+      "path": "source/photos/011 FCC Window Igp4115.jpg",
+      "originalFilename": "011 FCC Window Igp4115.jpg",
+      "expectedBytes": 2974812,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1Du1lJvFh4LLUrC0tJodFNWtnEIabWjNR/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "011 FCC Window Igp4115.jpg"
+      },
+      "expectedSha256": "282d1a949e2a2227f2af882e2bd62e1d60433b8459ed3ee532f0cc3831626d15"
+    },
+    {
+      "id": "photo-012",
+      "role": "photo",
+      "path": "source/photos/012 FCC Window Igp4119.jpg",
+      "originalFilename": "012 FCC Window Igp4119.jpg",
+      "expectedBytes": 2812401,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1GYh5GwiZLddZCZ6_DG6Sl1BA5qLISCgM/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "012 FCC Window Igp4119.jpg"
+      },
+      "expectedSha256": "75a8c34c8502205e656edcbb87c92345b79673dc0d01519e4184848d3a7f775b"
+    },
+    {
+      "id": "photo-013",
+      "role": "photo",
+      "path": "source/photos/013 FCC Window Igp4123.jpg",
+      "originalFilename": "013 FCC Window Igp4123.jpg",
+      "expectedBytes": 2952058,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1v2FSfXWrM4axVdIsTG4vXBY19h00BKN3/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "013 FCC Window Igp4123.jpg"
+      },
+      "expectedSha256": "dc33c1c3c7fcb9a4bb03fb489437b7e3c695c5f16b622d536f75220ee8c6ddbf"
+    },
+    {
+      "id": "photo-014",
+      "role": "photo",
+      "path": "source/photos/014 FCC Window Igp4131.jpg",
+      "originalFilename": "014 FCC Window Igp4131.jpg",
+      "expectedBytes": 2764425,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1kIdsIrzEO2QGIsPQ-qD05mzhuAy5G14Y/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "014 FCC Window Igp4131.jpg"
+      },
+      "expectedSha256": "318425b6ff4bd642bc5c0ab93dd71545562c68599130ea32797a923385a39fb4"
+    },
+    {
+      "id": "photo-015",
+      "role": "photo",
+      "path": "source/photos/015 FCC Window Igp4134.jpg",
+      "originalFilename": "015 FCC Window Igp4134.jpg",
+      "expectedBytes": 2438975,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1cVUrrfE9_dUt-39n_MINIjlL9_8mlU9Z/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "015 FCC Window Igp4134.jpg"
+      },
+      "expectedSha256": "ef71a5014910d1c8ee1d726c644546ac0abcd0e25e0b46e8fa3d861de22f3ae8"
+    },
+    {
+      "id": "photo-016",
+      "role": "photo",
+      "path": "source/photos/016 FCC Window Igp4140.jpg",
+      "originalFilename": "016 FCC Window Igp4140.jpg",
+      "expectedBytes": 3948901,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1JwVDBBech-2u8eeQWQrWX_9XeoF9O3RO/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "016 FCC Window Igp4140.jpg"
+      },
+      "expectedSha256": "a04400e956d0c32c667388ad5525c3fa71e2ebf3a12af8d975c1a1bd1184890a"
+    },
+    {
+      "id": "photo-017",
+      "role": "photo",
+      "path": "source/photos/017 FCC Window Igp4145.jpg",
+      "originalFilename": "017 FCC Window Igp4145.jpg",
+      "expectedBytes": 3345146,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1wN-1psu0w58YMuqd9yqgIRUVOXDr8Px3/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "017 FCC Window Igp4145.jpg"
+      },
+      "expectedSha256": "98f141d8ee2cb97b80cb60070c15f8a606fd625e44462de0486c34fb57a578be"
+    },
+    {
+      "id": "photo-018",
+      "role": "photo",
+      "path": "source/photos/018 FCC Window Igp4162.jpg",
+      "originalFilename": "018 FCC Window Igp4162.jpg",
+      "expectedBytes": 3590129,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1LnUnCepzBOa1E-EnrSOianILp3q1u46Q/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "018 FCC Window Igp4162.jpg"
+      },
+      "expectedSha256": "d8fd1beaf91e4c6ea285c38892065644ec3ff309cb30ac1b6692b5f37627170b"
+    },
+    {
+      "id": "photo-019",
+      "role": "photo",
+      "path": "source/photos/019 FCC Window Igp4165.jpg",
+      "originalFilename": "019 FCC Window Igp4165.jpg",
+      "expectedBytes": 3093740,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1oQ-PB9dzwUv7E1HQp7N_xTBXuG8vzFE4/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "019 FCC Window Igp4165.jpg"
+      },
+      "expectedSha256": "068b3898a02e744fcb25ff48ce2c64e01a5436186a12b3245430ee69d84c9bf6"
+    },
+    {
+      "id": "photo-020",
+      "role": "photo",
+      "path": "source/photos/020 FCC Window Igp4170.jpg",
+      "originalFilename": "020 FCC Window Igp4170.jpg",
+      "expectedBytes": 2222003,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/17GBjauCKlsaKsKMly8ckthLTcxDqJmov/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "020 FCC Window Igp4170.jpg"
+      },
+      "expectedSha256": "0f2f3a176f1ecb9ad996ad8b7f8b8423b089a3784a721d07764c9e67540e22f5"
+    },
+    {
+      "id": "photo-021",
+      "role": "photo",
+      "path": "source/photos/021 FCC Window Igp4181.jpg",
+      "originalFilename": "021 FCC Window Igp4181.jpg",
+      "expectedBytes": 2926471,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1uOPfx96Zn21zuJd78J8CTveia2e4e9CU/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "021 FCC Window Igp4181.jpg"
+      },
+      "expectedSha256": "d582879bdd210237fe56ff526d7b4c0cf3c710bae2285331a01e7ecb6fde711a"
+    },
+    {
+      "id": "photo-022",
+      "role": "photo",
+      "path": "source/photos/022 FCC Window Igp4185.jpg",
+      "originalFilename": "022 FCC Window Igp4185.jpg",
+      "expectedBytes": 2625718,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1Py6kGREJP53uuXbpuowqUsvoyCGqhMGY/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "022 FCC Window Igp4185.jpg"
+      },
+      "expectedSha256": "8dd73bffae06e320135491912120ae34c4474ee03d503a05266621c751bb1ced"
+    },
+    {
+      "id": "photo-023",
+      "role": "photo",
+      "path": "source/photos/023 FCC Window Igp4190.jpg",
+      "originalFilename": "023 FCC Window Igp4190.jpg",
+      "expectedBytes": 3760774,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/10JqQa2W4ldSxxUw-ZKfrJBDaBuus19Iw/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "023 FCC Window Igp4190.jpg"
+      },
+      "expectedSha256": "b0c8a69e7451edae05b202b9192f2b34425699044c145d06099963ddcfc25c8b"
+    },
+    {
+      "id": "photo-024",
+      "role": "photo",
+      "path": "source/photos/024 FCC Window Igp4233.jpg",
+      "originalFilename": "024 FCC Window Igp4233.jpg",
+      "expectedBytes": 2990234,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/14r4gS2Qr5epY4doEyZ82gF-jzMIUipnz/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "024 FCC Window Igp4233.jpg"
+      },
+      "expectedSha256": "a41bd4fbe9b315feacf0b01b27ec4627d5b0143573a8f83f7af31690d69e3a7b"
+    },
+    {
+      "id": "photo-025",
+      "role": "photo",
+      "path": "source/photos/025 FCC Window Igp4240.jpg",
+      "originalFilename": "025 FCC Window Igp4240.jpg",
+      "expectedBytes": 4067004,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1idGv6dJDuL6QHszyY31vzmXyL4UQv-fI/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "025 FCC Window Igp4240.jpg"
+      },
+      "expectedSha256": "3984d727d9175a79b910df1a5ec5fa5f582b7193603d38acb2162b29b21f9555"
+    },
+    {
+      "id": "photo-026",
+      "role": "photo",
+      "path": "source/photos/026 FCC Window Igp4245.jpg",
+      "originalFilename": "026 FCC Window Igp4245.jpg",
+      "expectedBytes": 2315564,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1xJ4Q_Vp13LEqubs5FVS0TTr635ZLq7Pc/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "026 FCC Window Igp4245.jpg"
+      },
+      "expectedSha256": "0b2821157df684da5f74a95fd0b76bac06a57263f40150c1d3848dedab8bcaea"
+    },
+    {
+      "id": "photo-027",
+      "role": "photo",
+      "path": "source/photos/027 FCC Window Igp4265.jpg",
+      "originalFilename": "027 FCC Window Igp4265.jpg",
+      "expectedBytes": 3051380,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1oEuzZGykzOXL-ZOa20F0ZuRKWE8p7TRl/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "027 FCC Window Igp4265.jpg"
+      },
+      "expectedSha256": "90e35ec98ae19348e4822a6d46ce8124ec14e76dce27778160b4498f15cdeb17"
+    },
+    {
+      "id": "photo-028",
+      "role": "photo",
+      "path": "source/photos/028 FCC Window Igp4270.jpg",
+      "originalFilename": "028 FCC Window Igp4270.jpg",
+      "expectedBytes": 3719707,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1gzXAwwOFdpVu4fFscSNZgc34EzfkZ-rZ/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "028 FCC Window Igp4270.jpg"
+      },
+      "expectedSha256": "c73ba62a173b5bc32be2ce316410d75e33f4b794845ed4895effee8497328a81"
+    },
+    {
+      "id": "photo-029",
+      "role": "photo",
+      "path": "source/photos/029 FCC Window Igp4275.jpg",
+      "originalFilename": "029 FCC Window Igp4275.jpg",
+      "expectedBytes": 3518908,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1g686HFRpXIrgWicExZROw7oDZue6OOhb/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "029 FCC Window Igp4275.jpg"
+      },
+      "expectedSha256": "cbe59d0ad7558bc154dd0e72985ebec1769322325131e04859e77fce8b207909"
+    },
+    {
+      "id": "photo-030",
+      "role": "photo",
+      "path": "source/photos/030 FCC Window Igp4280.jpg",
+      "originalFilename": "030 FCC Window Igp4280.jpg",
+      "expectedBytes": 2227202,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1-sY32FqpIYnuIaVlTmBWtzYy1nOiIq93/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "030 FCC Window Igp4280.jpg"
+      },
+      "expectedSha256": "ff336ca6a4522d2c3a1bce346d1046d379c429dc2cfc25b9185de257e8fa3e27"
+    },
+    {
+      "id": "photo-031",
+      "role": "photo",
+      "path": "source/photos/031 FCC Window Igp4289.jpg",
+      "originalFilename": "031 FCC Window Igp4289.jpg",
+      "expectedBytes": 2891388,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1ZdZcjBYAiNZ2bmnwD3Lq-MtCoyXHT3B5/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "031 FCC Window Igp4289.jpg"
+      },
+      "expectedSha256": "22f16087f16e957b57ee9140b718121a1e985722336f7732ab98521e120ba842"
+    },
+    {
+      "id": "photo-032",
+      "role": "photo",
+      "path": "source/photos/032 FCC Window Igp4296.jpg",
+      "originalFilename": "032 FCC Window Igp4296.jpg",
+      "expectedBytes": 3304006,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1xHgXoXaZBdkq029r-9w3DE-9Rfz4BJXi/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "032 FCC Window Igp4296.jpg"
+      },
+      "expectedSha256": "35ebc1e7af242337f0a1c71896c02c265493251faace6d9b6536bccbc42e2144"
+    },
+    {
+      "id": "photo-033",
+      "role": "photo",
+      "path": "source/photos/033 FCC Window Igp4302.jpg",
+      "originalFilename": "033 FCC Window Igp4302.jpg",
+      "expectedBytes": 3363008,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1MqesgGqaeEWEGphaGeM-v6is6-Fr6L9t/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "033 FCC Window Igp4302.jpg"
+      },
+      "expectedSha256": "e990413f9dcd0fca69e403f3dddffc1d12ac2705810b97bba295c43080783176"
+    },
+    {
+      "id": "photo-034",
+      "role": "photo",
+      "path": "source/photos/034 FCC Window Igp4305.jpg",
+      "originalFilename": "034 FCC Window Igp4305.jpg",
+      "expectedBytes": 2813214,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1JTkLX61mDwloP50TTee3ACBCnhFelhqS/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "034 FCC Window Igp4305.jpg"
+      },
+      "expectedSha256": "25777733bdb93218f2ebd28bdfde8a9678089093d94c40a752f1e25d299c1124"
+    },
+    {
+      "id": "photo-035",
+      "role": "photo",
+      "path": "source/photos/035 FCC Window Igp4320.jpg",
+      "originalFilename": "035 FCC Window Igp4320.jpg",
+      "expectedBytes": 2528186,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1mBKV_TIKPsotPOYqmpBTgF9a1jOr4UMd/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "035 FCC Window Igp4320.jpg"
+      },
+      "expectedSha256": "bc21797ac4ff7e9f77c62489027b90afa73d395fe38c1120bfe55fcf6a9b756e"
+    },
+    {
+      "id": "photo-036",
+      "role": "photo",
+      "path": "source/photos/036 FCC Window Igp4325.jpg",
+      "originalFilename": "036 FCC Window Igp4325.jpg",
+      "expectedBytes": 3469744,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1RaIAatK3L1s3iDUg_jLKHKLJVq0fLZJI/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "036 FCC Window Igp4325.jpg"
+      },
+      "expectedSha256": "333999683ab3b1fa7a09817254b0947655af3f9ef51f6746b15bf832c9c9fd9f"
+    },
+    {
+      "id": "photo-037",
+      "role": "photo",
+      "path": "source/photos/037 FCC Window Igp4330.jpg",
+      "originalFilename": "037 FCC Window Igp4330.jpg",
+      "expectedBytes": 3028733,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1-OuHYgb7AQPnlb1JOSq8dJ2mtCIEGdgs/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "037 FCC Window Igp4330.jpg"
+      },
+      "expectedSha256": "29a830952575e87e35d01512af05956a2099785b794f8f9fa698ba42c8674059"
+    },
+    {
+      "id": "photo-038",
+      "role": "photo",
+      "path": "source/photos/038 FCC Window Igp4334.jpg",
+      "originalFilename": "038 FCC Window Igp4334.jpg",
+      "expectedBytes": 2325676,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/114--KJfjxZPFQQ1hajUcKXf4lbZChyR3/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "038 FCC Window Igp4334.jpg"
+      },
+      "expectedSha256": "add880d4e5bc7ab0a858959be95b82e9e23b047bc1b35219dd67dfa63cc9deba"
+    },
+    {
+      "id": "photo-039",
+      "role": "photo",
+      "path": "source/photos/039 FCC Window Igp4338.jpg",
+      "originalFilename": "039 FCC Window Igp4338.jpg",
+      "expectedBytes": 2485159,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1az-fp9zHkvlHiC45xf5n3dhT616xWTi-/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "039 FCC Window Igp4338.jpg"
+      },
+      "expectedSha256": "b277db81c3447a7c26b0e508c0bec2bd8f4aed3800165ea07c9912691b5311c6"
+    },
+    {
+      "id": "photo-040",
+      "role": "photo",
+      "path": "source/photos/040 FCC Window Igp4343.jpg",
+      "originalFilename": "040 FCC Window Igp4343.jpg",
+      "expectedBytes": 2829683,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/13MdPE89TmeUlG-_fPYC79JeRpaPvuHx_/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "040 FCC Window Igp4343.jpg"
+      },
+      "expectedSha256": "2f8ecc203062e2f46ee28fa688df18342843cb590a8685e6f6b7268d62d3f86b"
+    },
+    {
+      "id": "photo-041",
+      "role": "photo",
+      "path": "source/photos/041 FCC Window Igp4351.jpg",
+      "originalFilename": "041 FCC Window Igp4351.jpg",
+      "expectedBytes": 2519379,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1jHt_qxdkmG6nhc2FIGxW3YLBlonxmGuD/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "041 FCC Window Igp4351.jpg"
+      },
+      "expectedSha256": "9c2d8bcfd9526922f27c1f65a09965ea882288a788fbbc2b96978d43d08bcb10"
+    },
+    {
+      "id": "photo-042",
+      "role": "photo",
+      "path": "source/photos/042 FCC Window Igp4353.jpg",
+      "originalFilename": "042 FCC Window Igp4353.jpg",
+      "expectedBytes": 3025628,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1PCmwvXC-XouGKG9Cd3s9-k9b2cuS3kAn/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "042 FCC Window Igp4353.jpg"
+      },
+      "expectedSha256": "81e5f8b90a65842bf10f18db1c44ee15961523258e9bd86d9f0eb646e39ff19b"
+    },
+    {
+      "id": "photo-043",
+      "role": "photo",
+      "path": "source/photos/043 FCC Window Igp4360.jpg",
+      "originalFilename": "043 FCC Window Igp4360.jpg",
+      "expectedBytes": 2598709,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1yJG1cB7q-LH7sUCPwTZwMZcllvzQlDNP/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "043 FCC Window Igp4360.jpg"
+      },
+      "expectedSha256": "d4e0e7ef65d10635c3c83c1867ff182f5e47c6e5893a402320ba20452db18975"
+    },
+    {
+      "id": "photo-044",
+      "role": "photo",
+      "path": "source/photos/044 FCC Window Igp4365.jpg",
+      "originalFilename": "044 FCC Window Igp4365.jpg",
+      "expectedBytes": 4717852,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1YsaBFpZ9H4yp8rkY_WsLrUKtV65uNwRI/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "044 FCC Window Igp4365.jpg"
+      },
+      "expectedSha256": "6d3ab8cb1caac15c38aac469b4c8ae7622bcafd1c5718a90eedda03c9b30d8f6"
+    },
+    {
+      "id": "photo-045",
+      "role": "photo",
+      "path": "source/photos/045 FCC Window Igp4370.jpg",
+      "originalFilename": "045 FCC Window Igp4370.jpg",
+      "expectedBytes": 4054779,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1iQP_r5zyfAoHCuvb9ivByMEIVPMKyO6v/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "045 FCC Window Igp4370.jpg"
+      },
+      "expectedSha256": "9dd05fd87710dd40c5e4417cbff17288168205131299bbd99b6679ae798c8ce3"
+    },
+    {
+      "id": "photo-046",
+      "role": "photo",
+      "path": "source/photos/046 FCC Window Igp4375.jpg",
+      "originalFilename": "046 FCC Window Igp4375.jpg",
+      "expectedBytes": 3483611,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1brC1FdN3B7VP7-ZmF2LjMTDD6DwptL1g/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "046 FCC Window Igp4375.jpg"
+      },
+      "expectedSha256": "f5cb2a9d6f9c400a6cc3d8ba9353ed422a1110557a00be6e3b1089bef96d225c"
+    },
+    {
+      "id": "photo-047",
+      "role": "photo",
+      "path": "source/photos/047 FCC Window Igp4380.jpg",
+      "originalFilename": "047 FCC Window Igp4380.jpg",
+      "expectedBytes": 2997428,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1jEKUbCqa2UiIuzO2rKUlWP_wqcI9xvII/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "047 FCC Window Igp4380.jpg"
+      },
+      "expectedSha256": "80e052199a2d9dbf532544a5f67a4dc9ee5711d3cd343266c27d165734c9e73e"
+    },
+    {
+      "id": "photo-048",
+      "role": "photo",
+      "path": "source/photos/048 FCC Window Igp4385.jpg",
+      "originalFilename": "048 FCC Window Igp4385.jpg",
+      "expectedBytes": 2760602,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1MOwfrq8P7P1O7A2EIXwUbEJT8_g2Sj1f/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "048 FCC Window Igp4385.jpg"
+      },
+      "expectedSha256": "d90a3ac58659fece6f1e3aa7c3b24ddd5681149f00b57c23ee745a99109c6cdf"
+    },
+    {
+      "id": "photo-049",
+      "role": "photo",
+      "path": "source/photos/049 FCC Window Igp4398.jpg",
+      "originalFilename": "049 FCC Window Igp4398.jpg",
+      "expectedBytes": 2508281,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1LdXuozndvVrnE1iqk2tWWBO00R3yvLcq/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "049 FCC Window Igp4398.jpg"
+      },
+      "expectedSha256": "d402caa0473cb7125d06393200f566f2e94831b12de9279d0c4e626e63c217c6"
+    },
+    {
+      "id": "photo-050",
+      "role": "photo",
+      "path": "source/photos/050 FCC Window Igp4487 8 9 Tonemapped.jpg",
+      "originalFilename": "050 FCC Window Igp4487 8 9 Tonemapped.jpg",
+      "expectedBytes": 2300244,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1RV3tmF4av_41dtYMItgvmX1ELzaER2QF/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "050 FCC Window Igp4487 8 9 Tonemapped.jpg"
+      },
+      "expectedSha256": "509250a0e5ec1e174ac221a0330a29e6344e2b27e56fdc411258ff6e649cc060"
+    },
+    {
+      "id": "photo-051",
+      "role": "photo",
+      "path": "source/photos/051 FCC Window Igp4495 6 7 Tonemapped.jpg",
+      "originalFilename": "051 FCC Window Igp4495 6 7 Tonemapped.jpg",
+      "expectedBytes": 3012002,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1u4exMMsTow6sU0uqn8DBf_p12i7vMuzQ/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "051 FCC Window Igp4495 6 7 Tonemapped.jpg"
+      },
+      "expectedSha256": "7ddd531ea4cfab20ad8c0c13d38096771e54d5ae7d47546848e10b121b57b798"
+    },
+    {
+      "id": "photo-052",
+      "role": "photo",
+      "path": "source/photos/052 FCC Window Igp4500 1 2 Tonemapped.jpg",
+      "originalFilename": "052 FCC Window Igp4500 1 2 Tonemapped.jpg",
+      "expectedBytes": 2789855,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1b1qFy8mSOvK1uf5xJxWZnXKzIOZjmt2T/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "052 FCC Window Igp4500 1 2 Tonemapped.jpg"
+      },
+      "expectedSha256": "113b80b842e88c7fcea5ff6e96e270968ce780b12f674e727c7fc8cd8c905cd4"
+    },
+    {
+      "id": "photo-053",
+      "role": "photo",
+      "path": "source/photos/053 FCC Window Igp4505 6 7 Tonemapped.jpg",
+      "originalFilename": "053 FCC Window Igp4505 6 7 Tonemapped.jpg",
+      "expectedBytes": 2708959,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1nHiXK7-rOqcArrCUOwANmHMDP4RZFEgN/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "053 FCC Window Igp4505 6 7 Tonemapped.jpg"
+      },
+      "expectedSha256": "f95b32d1cf2af422a4bf591b0a67ce8fdd7ce5a74e0c31ac920467bba8fd0898"
+    },
+    {
+      "id": "photo-054",
+      "role": "photo",
+      "path": "source/photos/054 FCC Window Igp4510 1 2 Tonemapped.jpg",
+      "originalFilename": "054 FCC Window Igp4510 1 2 Tonemapped.jpg",
+      "expectedBytes": 2465453,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1VsOUMlqCJOUNlQxZaJccMgZpGEln3mVD/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "054 FCC Window Igp4510 1 2 Tonemapped.jpg"
+      },
+      "expectedSha256": "7981db3ee5efd4be305e6aed014134186a01eac64ed71316c0beda55981c8644"
+    },
+    {
+      "id": "photo-055",
+      "role": "photo",
+      "path": "source/photos/055 FCC Window North Window Panorama1.jpg",
+      "originalFilename": "055 FCC Window North Window Panorama1.jpg",
+      "expectedBytes": 5660577,
+      "provenance": {
+        "sourceId": "PHOTO-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1hGzQAyidSEfpPhoFtACIa5BaBFZbEJjC/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "photos",
+        "relativePath": "055 FCC Window North Window Panorama1.jpg"
+      },
+      "expectedSha256": "b9abe751200934f00fbb83dbf1c67182cada80c924d55bb5455bb01628dff24c"
+    },
+    {
+      "id": "design-002",
+      "role": "coloring",
+      "path": "source/coloring/002.png",
+      "originalFilename": "002.png",
+      "expectedBytes": 1475014,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1WboMc59cw0kYgwsH1iPDTTJh-9kHDpDw/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/002.png"
+      },
+      "expectedSha256": "013578d8ab487e7f2dfe1c0af61bbf296353f464940436da1d9b6a5bbb0a4a73"
+    },
+    {
+      "id": "design-003",
+      "role": "coloring",
+      "path": "source/coloring/003.png",
+      "originalFilename": "003.png",
+      "expectedBytes": 1433046,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/17PR92RqOQwglRjGgv0ZXKEnZz_A68Gz5/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/003.png"
+      },
+      "expectedSha256": "604704c46091b7d68c7730988e543139870d1642d911e56d30d0479bd52b8fb8"
+    },
+    {
+      "id": "design-004",
+      "role": "coloring",
+      "path": "source/coloring/004.png",
+      "originalFilename": "004.png",
+      "expectedBytes": 1553817,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/148shUUtX7UREiwUQ6NCODtDts4vLs_Q7/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/004.png"
+      },
+      "expectedSha256": "850e9ed5480d1257e216e05ecdedf4fbc92fc98d24e63bd6d8e83dcac28c1d4f"
+    },
+    {
+      "id": "design-005",
+      "role": "coloring",
+      "path": "source/coloring/005.png",
+      "originalFilename": "005.png",
+      "expectedBytes": 1573797,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/11x7aPhr5yBlD5NcMCAXT1_y8wEHKxs3b/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/005.png"
+      },
+      "expectedSha256": "a658b75981fb211e261cdc3655bcfaa3977cc495e28ec450dcfbeea0713f40e9"
+    },
+    {
+      "id": "design-006",
+      "role": "coloring",
+      "path": "source/coloring/006.png",
+      "originalFilename": "006.png",
+      "expectedBytes": 1733797,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1QdfwBz_uF6CMIQ8C0Sdn14uF2lQDcUez/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/006.png"
+      },
+      "expectedSha256": "786c701bbcd1467505090bb380de08bcbf6fc936788e7536da3a6fbf27fdd7f3"
+    },
+    {
+      "id": "design-007",
+      "role": "coloring",
+      "path": "source/coloring/007.png",
+      "originalFilename": "007.png",
+      "expectedBytes": 1654442,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1sAa8mX1uVXSlCOKb4bpBgkg1VCcZ6Jjd/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/007.png"
+      },
+      "expectedSha256": "b6abe84881ccbbbddedb3e87607d62b856a2147b799344584adb01733675c1ea"
+    },
+    {
+      "id": "design-008",
+      "role": "coloring",
+      "path": "source/coloring/008.png",
+      "originalFilename": "008.png",
+      "expectedBytes": 1499326,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1XRj8W7LiK-C35B6x73_-K1YVOFimbk10/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/008.png"
+      },
+      "expectedSha256": "fd156a6f786dc2693c27538859c1a3fe75c85987db9ce3209aeb76ef94b3726e"
+    },
+    {
+      "id": "design-009",
+      "role": "coloring",
+      "path": "source/coloring/009.png",
+      "originalFilename": "009.png",
+      "expectedBytes": 1726440,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1fTtC5DqKGdRNr8nSBZQR2AS-p9WZT-yn/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/009.png"
+      },
+      "expectedSha256": "3d76f18ea1060f448e01b6c533853d31ba623ee89e92cf7ebb95fff1f633ab30"
+    },
+    {
+      "id": "design-010",
+      "role": "coloring",
+      "path": "source/coloring/010.png",
+      "originalFilename": "010.png",
+      "expectedBytes": 1816874,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/17SIeeW6a65sERkEhLQdVfBTthYNaNCSf/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/010.png"
+      },
+      "expectedSha256": "6a7fa4a433721388cd63bc42980d0bfc1aa15f38ec77604d1cb4884e605542a6"
+    },
+    {
+      "id": "design-011",
+      "role": "coloring",
+      "path": "source/coloring/011.png",
+      "originalFilename": "011.png",
+      "expectedBytes": 1407171,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1SOVod4s1wOlNl3MRmx13JasF5Rn13Vk_/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/011.png"
+      },
+      "expectedSha256": "7796bc3dbbe5da101d5bfc94f0417dff3535e8baa9d08257c7d0bc6b7184d446"
+    },
+    {
+      "id": "design-012",
+      "role": "coloring",
+      "path": "source/coloring/012.png",
+      "originalFilename": "012.png",
+      "expectedBytes": 1546339,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1ziFESMGNqAXeX4KCfH0OB9qcPbe6hzA9/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/012.png"
+      },
+      "expectedSha256": "4697a0a1f9e2961748dc04dae45f96d3e5332b7af89125d265fe4acdb3894e2a"
+    },
+    {
+      "id": "design-013",
+      "role": "coloring",
+      "path": "source/coloring/013.png",
+      "originalFilename": "013.png",
+      "expectedBytes": 1844603,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1jmyI8qDLevzDqIWx49DQg-c2QRw3pqDQ/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/013.png"
+      },
+      "expectedSha256": "8a75d28da1cb552d24e3d742e22f0e34485e03b30cf6d80ba2335088022bb85c"
+    },
+    {
+      "id": "design-014",
+      "role": "coloring",
+      "path": "source/coloring/014.png",
+      "originalFilename": "014.png",
+      "expectedBytes": 1429438,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1sJrjta1-sOh9lEkdkeIFCFY5KXHOVaqj/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/014.png"
+      },
+      "expectedSha256": "ea167437e812d6f998da9a74836a4a077ae50266f6ea81137eacee0b6135c80a"
+    },
+    {
+      "id": "design-015",
+      "role": "coloring",
+      "path": "source/coloring/015.png",
+      "originalFilename": "015.png",
+      "expectedBytes": 1520240,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1lJtXr_K78CDk-PSp4r00T_mUf3_lrg5A/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/015.png"
+      },
+      "expectedSha256": "1893a74d63fae1b0f6f8ab13e7f5d6c17420d61a913f9fadbf35932fd29a201a"
+    },
+    {
+      "id": "design-016",
+      "role": "coloring",
+      "path": "source/coloring/016.png",
+      "originalFilename": "016.png",
+      "expectedBytes": 1840813,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1iIGtFUTRvFoX3fmkHK7xLmwyBscfMDJk/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/016.png"
+      },
+      "expectedSha256": "d6788d9e9b1bf64585372ce0552bdb1ffa922cd44566ee526a4a5f7d60b4893d"
+    },
+    {
+      "id": "design-017",
+      "role": "coloring",
+      "path": "source/coloring/017.png",
+      "originalFilename": "017.png",
+      "expectedBytes": 1764349,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1tDNjD4uoyDAwBrrnICRVvLOqNI9niAcx/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/017.png"
+      },
+      "expectedSha256": "114f5d4aeb98484ecc68c391932b51c3124af01caca4bc01aece118b66c6f4ab"
+    },
+    {
+      "id": "design-018",
+      "role": "coloring",
+      "path": "source/coloring/018.png",
+      "originalFilename": "018.png",
+      "expectedBytes": 1675589,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/146kMxJSx1-qwnivMZD1ZNeGFVxwPeNLw/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/018.png"
+      },
+      "expectedSha256": "c1a6a5aeaa229a7c99e81c3a9e138cf40e32c34dd33ad476f4a9c945f239f046"
+    },
+    {
+      "id": "design-019",
+      "role": "coloring",
+      "path": "source/coloring/019.png",
+      "originalFilename": "019.png",
+      "expectedBytes": 1597025,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1cqLa9yNJkT31UoTUY4tyyzcImdCM8KyV/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/019.png"
+      },
+      "expectedSha256": "cf49a7e0486d6fab9e34a771dd3a0a516995c9dbe93df2968e0820806eb265c6"
+    },
+    {
+      "id": "design-020",
+      "role": "coloring",
+      "path": "source/coloring/020.png",
+      "originalFilename": "020.png",
+      "expectedBytes": 1408629,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1seYT2JIeLT6gGBKDXsOzVuzdPi65arxm/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/020.png"
+      },
+      "expectedSha256": "588067ebc0762f29d354ce59ebb3ea846958cfd8c1b5207aaeda7723baf04e9e"
+    },
+    {
+      "id": "design-021",
+      "role": "coloring",
+      "path": "source/coloring/021.png",
+      "originalFilename": "021.png",
+      "expectedBytes": 1662896,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1Z6oXToZ_ShSnpZuCdHf4BX_grbXwbEkj/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/021.png"
+      },
+      "expectedSha256": "6292c4d6a6b0d04f887d85144cbb34f6ff5a7eed0384500add2acb7bd17639f5"
+    },
+    {
+      "id": "design-022",
+      "role": "coloring",
+      "path": "source/coloring/022.png",
+      "originalFilename": "022.png",
+      "expectedBytes": 1720349,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1n9WlOIKfgItU1VZxwKIt4nrVyYOUwgiK/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/022.png"
+      },
+      "expectedSha256": "3a8d629771912ac5d3decc23241bc6e53942b47c7691f47168d651734513bbef"
+    },
+    {
+      "id": "design-023",
+      "role": "coloring",
+      "path": "source/coloring/023.png",
+      "originalFilename": "023.png",
+      "expectedBytes": 1767318,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1-Z6s6EvGfU6fBbxXHr-57n8_GGbzPa37/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/023.png"
+      },
+      "expectedSha256": "5e26affe416195474644675c76d783a975498b939aceaabc4097cab17fd56e2b"
+    },
+    {
+      "id": "design-024",
+      "role": "coloring",
+      "path": "source/coloring/024.png",
+      "originalFilename": "024.png",
+      "expectedBytes": 1674724,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1zLmK_H7Otr8IfgbCuGaxYx9bc23GeKU3/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/024.png"
+      },
+      "expectedSha256": "60225ecca76c7f2ed1477d7ca9f1940b30f4b34352d2eb9d06a2af70bf7ff9d0"
+    },
+    {
+      "id": "design-025",
+      "role": "coloring",
+      "path": "source/coloring/025.png",
+      "originalFilename": "025.png",
+      "expectedBytes": 1497314,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1OgXsiJvu7vGIvdUcGTY8RLDeGPcH89wx/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/025.png"
+      },
+      "expectedSha256": "716128c7f03508e92cf862c8bc63c04c49fcd1354ffa4b97251432d6ba027294"
+    },
+    {
+      "id": "design-026",
+      "role": "coloring",
+      "path": "source/coloring/026.png",
+      "originalFilename": "026.png",
+      "expectedBytes": 1644080,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1Jate_lBDPFU63dlANMoqdBGgLr8l6jqm/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/026.png"
+      },
+      "expectedSha256": "bb60d5ac007d1a47619dd3175c27f8b9c8465be1286fe909b044a7be2544f451"
+    },
+    {
+      "id": "design-027",
+      "role": "coloring",
+      "path": "source/coloring/027.png",
+      "originalFilename": "027.png",
+      "expectedBytes": 1746670,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1nvz92LKjmH8dZNnnjj7q7Si3OlhIYRLb/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/027.png"
+      },
+      "expectedSha256": "e7aa5ca88d24d18f3282a10be87baff141da844a8c14b53cef5330aa4bc566e9"
+    },
+    {
+      "id": "design-028",
+      "role": "coloring",
+      "path": "source/coloring/028.png",
+      "originalFilename": "028.png",
+      "expectedBytes": 1642123,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1TmAPWgWAXvGjIGnvvlQZvM-tI9iwX7DC/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/028.png"
+      },
+      "expectedSha256": "bb11c923d19ce17b49c80823e7a72897ae829dc3c5776c59bf6ad60ad7021f8a"
+    },
+    {
+      "id": "design-029",
+      "role": "coloring",
+      "path": "source/coloring/029.png",
+      "originalFilename": "029.png",
+      "expectedBytes": 1643596,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1Bhy-AkizJ10q5JUKT1EjW_0qfMTlmA_6/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/029.png"
+      },
+      "expectedSha256": "41784d8a66b1bb2197b33f0abae618225b109cf6fc762d85d1eb6232b315fe98"
+    },
+    {
+      "id": "design-030",
+      "role": "coloring",
+      "path": "source/coloring/030.png",
+      "originalFilename": "030.png",
+      "expectedBytes": 1659332,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1YjFe_AbgijTKLDn48O66wlPVBYYiiMv_/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/030.png"
+      },
+      "expectedSha256": "c98508b428acafd0bfaccf3f2684287e6a232dc73db8db67470d82d3cb33b01f"
+    },
+    {
+      "id": "design-031",
+      "role": "coloring",
+      "path": "source/coloring/031.png",
+      "originalFilename": "031.png",
+      "expectedBytes": 1666981,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1u_sH1D6MXtkWbqVkRWy8285xZeD9Vvj3/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/031.png"
+      },
+      "expectedSha256": "dfab1d31db063613f6ed76750635240cbb07db87a5cc45c13a40955e63519b97"
+    },
+    {
+      "id": "design-032",
+      "role": "coloring",
+      "path": "source/coloring/032.png",
+      "originalFilename": "032.png",
+      "expectedBytes": 1840706,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1uubOTf5dSUDirYAiBldNyD-77k5-A6XH/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/032.png"
+      },
+      "expectedSha256": "f9fb528777c9b9423cfb33e16bbd25105fba12251df7ef76b8430a1dd6935687"
+    },
+    {
+      "id": "design-033",
+      "role": "coloring",
+      "path": "source/coloring/033.png",
+      "originalFilename": "033.png",
+      "expectedBytes": 1551308,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/11EmdHC4300NsVyDhlamVT3jzCJRc7W_a/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/033.png"
+      },
+      "expectedSha256": "620305a6186da161df3f1b66010f2ae17fc11e7eefa1823b7f332f552ed47199"
+    },
+    {
+      "id": "design-034",
+      "role": "coloring",
+      "path": "source/coloring/034.png",
+      "originalFilename": "034.png",
+      "expectedBytes": 1677106,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1xRkz_OVj2JniMOexZsT6yZvU2ydqosAT/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/034.png"
+      },
+      "expectedSha256": "3337f1a3379946d90dc5302f234d628cd6007bc7ce1d5483ae791b7ee58dd70b"
+    },
+    {
+      "id": "design-035",
+      "role": "coloring",
+      "path": "source/coloring/035.png",
+      "originalFilename": "035.png",
+      "expectedBytes": 1511190,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1pX5c4I17zSfQ6LcuSVgdUjbCH0xN6Rt0/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/035.png"
+      },
+      "expectedSha256": "d75e5d9e518b3c9cb40ebfd7d93fd69c169b443f4cc60449a7dd75d663ff970a"
+    },
+    {
+      "id": "design-036",
+      "role": "coloring",
+      "path": "source/coloring/036.png",
+      "originalFilename": "036.png",
+      "expectedBytes": 1737185,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1wPdAuP8Q14Igd2w5jb5p9wFu6ao0VcGr/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/036.png"
+      },
+      "expectedSha256": "e187180a7b71a0f3a7ef0e3f40729f4a75afcb04892e2902c02addad46fa945a"
+    },
+    {
+      "id": "design-037",
+      "role": "coloring",
+      "path": "source/coloring/037.png",
+      "originalFilename": "037.png",
+      "expectedBytes": 1611791,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/10ERgy-8CnvH-Ow7ifhcyC5wdUa1bAf5e/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/037.png"
+      },
+      "expectedSha256": "4661db9fc29945e20066b7564c4b40227e7b9300a3e5e0777e2850a510ee8140"
+    },
+    {
+      "id": "design-038",
+      "role": "coloring",
+      "path": "source/coloring/038.png",
+      "originalFilename": "038.png",
+      "expectedBytes": 1573478,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1KTmvU4Hzq1SYvFnXVRjqORqbTbD7uBV0/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/038.png"
+      },
+      "expectedSha256": "814cc6904f0baf4f7183236b8e45cf6987459efa577bf8b73d225327cd355eb6"
+    },
+    {
+      "id": "design-039",
+      "role": "coloring",
+      "path": "source/coloring/039.png",
+      "originalFilename": "039.png",
+      "expectedBytes": 1393267,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1de2ak2hoAmUB2ip2MLfVCuAE-1t5qFvt/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/039.png"
+      },
+      "expectedSha256": "191140f4d5392f26ce2ddc7359603d4f3d49876c2d88fefef5468f71e9501833"
+    },
+    {
+      "id": "design-040",
+      "role": "coloring",
+      "path": "source/coloring/040.png",
+      "originalFilename": "040.png",
+      "expectedBytes": 1472747,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1ZR-pg7qNO3y9-Y8jFE1LqBDJvqO_TcMx/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/040.png"
+      },
+      "expectedSha256": "0bcd1485c411da1fb6a3042ea3465d454e4e491f7f23d7c527103a851d9c4c86"
+    },
+    {
+      "id": "design-041",
+      "role": "coloring",
+      "path": "source/coloring/041.png",
+      "originalFilename": "041.png",
+      "expectedBytes": 1671027,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1br64FQYEsernxea4xMOjilvEyf4shSIn/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/041.png"
+      },
+      "expectedSha256": "7f4e15340e0f3bdab23468582c3db30eb92209f0927b10255cdef1d0ad317cf4"
+    },
+    {
+      "id": "design-042",
+      "role": "coloring",
+      "path": "source/coloring/042.png",
+      "originalFilename": "042.png",
+      "expectedBytes": 1271111,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1eoSXuD9SOVF9ZOEESm82qTSabdJjn1CD/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/042.png"
+      },
+      "expectedSha256": "fecd1d78cb1123da1a043eca78053deaf93b046da4e24056e40e229c7bf9413b"
+    },
+    {
+      "id": "design-043",
+      "role": "coloring",
+      "path": "source/coloring/043.png",
+      "originalFilename": "043.png",
+      "expectedBytes": 1511311,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/16hhNRmSXOQppE-mwJgdIYoI7BfGmap2C/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/043.png"
+      },
+      "expectedSha256": "e56d6c2a7cc1c9f92b80844733197a1f5679adf7dfd87b3c8bf2f5ece9b9b3be"
+    },
+    {
+      "id": "design-044",
+      "role": "coloring",
+      "path": "source/coloring/044.png",
+      "originalFilename": "044.png",
+      "expectedBytes": 1597569,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1Yp3Cb0vRApCxJH3_U17qSD2wNncg8oQo/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/044.png"
+      },
+      "expectedSha256": "236b6d18d9179998bad1d99b16adbe658771ece3eac5f068c6d0145d177cf51b"
+    },
+    {
+      "id": "design-045",
+      "role": "coloring",
+      "path": "source/coloring/045.png",
+      "originalFilename": "045.png",
+      "expectedBytes": 1569675,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1mUztupp-LLQmDxFiQAthu6ENzogmEJGR/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/045.png"
+      },
+      "expectedSha256": "47a3534e6c307b37cac908f6b2538ff584fb102de58ce2111a5def305e49095e"
+    },
+    {
+      "id": "design-046",
+      "role": "coloring",
+      "path": "source/coloring/046.png",
+      "originalFilename": "046.png",
+      "expectedBytes": 1770354,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1j3GhR64KNoADKuIQ1V131PKi7iKuVYSa/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/046.png"
+      },
+      "expectedSha256": "9319e99b1c676b0fb0a62dbd788bd4768f3055f2172a67beb5d543d60405c0cc"
+    },
+    {
+      "id": "design-047",
+      "role": "coloring",
+      "path": "source/coloring/047.png",
+      "originalFilename": "047.png",
+      "expectedBytes": 1679250,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1pr-RRwVwXtBIZlIDRGq6uYcTyI6ujvOw/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/047.png"
+      },
+      "expectedSha256": "fe52c711fdbe46ff42b0731a414cbbe06c0dff7fd8088c85e7c08d1b1a582ebd"
+    },
+    {
+      "id": "design-048",
+      "role": "coloring",
+      "path": "source/coloring/048.png",
+      "originalFilename": "048.png",
+      "expectedBytes": 1778358,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/1taZMnrWcTWLo44gueFq615JcK_Ea22BV/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/048.png"
+      },
+      "expectedSha256": "15f6e9fa88aa6331380761466fc3d83141ab6bffc107cf8d6f0ff03824cd207d"
+    },
+    {
+      "id": "design-049",
+      "role": "coloring",
+      "path": "source/coloring/049.png",
+      "originalFilename": "049.png",
+      "expectedBytes": 1687677,
+      "provenance": {
+        "sourceId": "COLORING-COLLECTION",
+        "referenceUrl": "https://drive.google.com/file/d/15pLreBlJ0uHj32PQlJn3-P0nEGY-36DW/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "coloring",
+        "relativePath": "Coloring Pages/049.png"
+      },
+      "expectedSha256": "a467c998a5dfcaf0b672cd633e12da515183386ddb390de34cc53886607a6e84"
+    },
+    {
+      "id": "H28-DOCX",
+      "role": "history",
+      "path": "source/histories/Church History 1928.docx",
+      "originalFilename": "Church History 1928.docx",
+      "expectedBytes": 77991,
+      "provenance": {
+        "sourceId": "H28",
+        "referenceUrl": "https://docs.google.com/document/d/1T3kosR0CzgFJ3xJ5yNAYd5hSyFChfieG/edit",
+        "form": "transcription"
+      },
+      "acquisition": {
+        "group": "history",
+        "relativePath": "Church History 1928.docx"
+      },
+      "expectedSha256": "965975604c82582a15fa926ba4e09ebeacddd4302a0e80dbd53e2d17a26bb2e8"
+    },
+    {
+      "id": "H28",
+      "role": "history",
+      "path": "source/histories/h28.txt",
+      "originalFilename": "Church History 1928.docx",
+      "provenance": {
+        "sourceId": "H28",
+        "referenceUrl": "https://docs.google.com/document/d/1T3kosR0CzgFJ3xJ5yNAYd5hSyFChfieG/edit",
+        "form": "transcription"
+      },
+      "acquisition": {
+        "group": "history",
+        "relativePath": "h28.txt"
+      },
+      "expectedBytes": 103328,
+      "expectedSha256": "87a744b87c85783b64537b2d7b839437ec73c6f5ab0416370a621b9598285f3a"
+    },
+    {
+      "id": "H35-DOCX",
+      "role": "history",
+      "path": "source/histories/Church History 1935.docx",
+      "originalFilename": "Church History 1935.docx",
+      "expectedBytes": 48807,
+      "provenance": {
+        "sourceId": "H35",
+        "referenceUrl": "https://docs.google.com/document/d/1TNf7BWNSTjjxA8QsqVFQNwwg75sk_ADr/edit",
+        "form": "transcription"
+      },
+      "acquisition": {
+        "group": "history",
+        "relativePath": "Church History 1935.docx"
+      },
+      "expectedSha256": "2a384603f2cfd8fca2e3df12ddeabcf159a7effed4411947e64fb8648a305a0b"
+    },
+    {
+      "id": "H35",
+      "role": "history",
+      "path": "source/histories/h35.txt",
+      "originalFilename": "Church History 1935.docx",
+      "provenance": {
+        "sourceId": "H35",
+        "referenceUrl": "https://docs.google.com/document/d/1TNf7BWNSTjjxA8QsqVFQNwwg75sk_ADr/edit",
+        "form": "transcription"
+      },
+      "acquisition": {
+        "group": "history",
+        "relativePath": "h35.txt"
+      },
+      "expectedBytes": 63069,
+      "expectedSha256": "230374686effcf0bb61f7f2755f09d76310d709bc31ea38573c36eeddb4b8b14"
+    },
+    {
+      "id": "cover-front",
+      "role": "cover",
+      "path": "source/cover/Design_01_Front.png",
+      "originalFilename": "Design_01_Front.png",
+      "expectedBytes": 1486541,
+      "provenance": {
+        "sourceId": "COVER",
+        "referenceUrl": "https://drive.google.com/file/d/1z-WPDPDjXZU0wUxdoGHGDboSNEXq2xef/view",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "cover"
+      },
+      "expectedSha256": "e12a04c30c1333e86867bebca57ae297d1c599c073c7e3584c572badc7bcaef3"
+    },
+    {
+      "id": "font-liberation-sans-regular",
+      "role": "font",
+      "path": "source/fonts/LiberationSans-Regular.ttf",
+      "originalFilename": "LiberationSans-Regular.ttf",
+      "expectedBytes": 410712,
+      "expectedSha256": "76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8",
+      "provenance": {
+        "sourceId": "FONT",
+        "referenceUrl": "https://github.com/liberationfonts/liberation-fonts",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "included"
+      }
+    },
+    {
+      "id": "font-liberation-license",
+      "role": "font",
+      "path": "source/fonts/OFL-Liberation.txt",
+      "originalFilename": "OFL-Liberation.txt",
+      "expectedBytes": 4414,
+      "expectedSha256": "93fed46019c38bbe566b479d22148e2e8a1e85ada614accb0211c37b2c61c19b",
+      "provenance": {
+        "sourceId": "FONT",
+        "referenceUrl": "https://github.com/liberationfonts/liberation-fonts",
+        "form": "original-file"
+      },
+      "acquisition": {
+        "group": "included"
+      }
+    }
+  ]
+}

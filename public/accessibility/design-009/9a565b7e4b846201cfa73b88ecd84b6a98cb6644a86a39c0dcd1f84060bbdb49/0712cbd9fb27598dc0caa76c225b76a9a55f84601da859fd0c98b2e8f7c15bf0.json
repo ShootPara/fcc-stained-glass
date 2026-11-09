@@ -1,0 +1,842 @@
+{
+  "artworkId": "design-009",
+  "contentVersion": "9a565b7e4b846201cfa73b88ecd84b6a98cb6644a86a39c0dcd1f84060bbdb49",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Top border strip, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Top-left border corner, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Top-right border corner, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Upper-left background outside the tree, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Connected curved dividing bars, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Background surrounding the tree crown, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Upper-right background outside the tree, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Top leaf slanting right, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Top leaf slanting left, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Top central leaf, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Upper-left border strip, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Upper-right border strip, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Long upper-left leaf, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "High leaf to the right, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Upright leaf on the left, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Tree crown and trunk, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Long leaf at the upper right, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Slanting leaf at the upper left, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Horizontal leaf at the upper right, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Horizontal leaf at the upper left, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Large round detail near the top of the crown, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Fine outline fragment beside Round detail on the crown's upper right, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Leaf on the crown's right side, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Horizontal leaf at the middle left, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Tiny enclosed dot above the central circle, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Round detail on the crown's upper right, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Tiny enclosed dot on the upper left, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Tiny enclosed dot above the middle of the crown, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Round detail in the upper middle, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Pointed opening inside the crown on the right, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Fine outline fragment beside Round detail on the crown's upper right, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Narrow right-hand crown opening, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Fine outline fragment beside Round detail on the crown's upper right, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Fine outline fragment beside Large round detail near the top of the crown, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Fine outline fragment beside Background surrounding the tree crown, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Narrow central crown opening, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Tiny enclosed dot left of the central branches, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Fine outline fragment beside Background surrounding the tree crown, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Long leaf on the middle left, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Large circle at the middle left of the crown, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Fine outline fragment beside Background surrounding the tree crown, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Fine outline fragment beside Large circle at the middle left of the crown, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Small background above the upper-right leaf, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Lower leaf on the crown's left side, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Background to the left of the upper-right leaf, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Large pointed upper-right leaf, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Pointed opening below the middle of the crown, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Fine outline fragment beside Tree crown and trunk, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Fine outline fragment beside Tree crown and trunk, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Fine outline fragment beside Pointed opening below the middle of the crown, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Narrow background at the right of the upper leaf, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Lowest large circle in the crown, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Tiny enclosed dot beside the lowest circle, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Fine outline fragment beside Tree crown and trunk, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Right background below the upper leaf, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Lowest horizontal leaf on the left, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Left border joint beside the crown, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Tiny enclosed dot below the lowest circle, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Lowest pointed opening inside the crown, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Fine outline fragment beside Lowest slanting leaf beside the crown, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Lowest slanting leaf beside the crown, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Middle-left border strip, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Fine outline fragment beside Tiny enclosed dot below the lowest circle, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Upper band below the tree panel, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Small crescent at the base of the crown, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Fine outline fragment beside Lowest pointed opening inside the crown, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Fine outline fragment beside Lower leaf on the crown's left side, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Background beneath the upper-right leaf, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Lower band below the tree panel, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Fine outline fragment beside Small crescent at the base of the crown, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Large curved pane below the tree, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Small curved opening in the pane below the tree, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Fine outline fragment beside Small upper opening beside the curved pane, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Small upper opening beside the curved pane, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Long curved opening beside the curved pane, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Lower-left curved strip beneath the tree, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Fine outline fragment beside Right pane beneath the tree, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Right pane beneath the tree, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Fine outline fragment beside Large curved pane below the tree, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Left background beneath the tree, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Right border joint beside the tree base, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Long upper background in the middle-right panel, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Large curled middle-right leaf, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Middle-right border strip, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Upper background above the creature's head, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Narrow crescent above the middle-right leaf, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Lower background beneath the middle-right leaf, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Fine outline fragment beside Long upper background in the middle-right panel, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Large pointed leaf to the left of the head, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Left border joint at the middle, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Curved strip above the creature's head, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Inner curved strip above the creature's head, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Narrow upright strip below the middle-right leaf, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Long middle-left border strip, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Long left background beside the creature, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Thin upright strip beside the middle-right stem, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Broad upright strip beside the middle-right stem, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Fine outline fragment beside Upper background above the creature's head, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Narrow background following the creature's neck, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Creature's head and long scaled neck, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Rightmost tooth, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Long thin upper lip, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Fine outline fragment beside Large pointed leaf to the left of the head, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Long thin upper lip, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Long thin upper lip, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Second tooth from the right, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Eye crescent, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Curled pupil, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Long thin upper lip, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Eye crescent, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Long thin upper lip, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Eye crescent, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Long thin upper lip, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Third tooth from the right, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Eye crescent, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Long thin upper lip, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Eye crescent, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Leftmost tooth, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Long thin upper lip, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Long thin upper lip, retained section 120",
+      "order": 120
+    },
+    {
+      "id": 121,
+      "name": "Long thin upper lip, retained section 121",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Long thin upper lip, retained section 122",
+      "order": 122
+    },
+    {
+      "id": 123,
+      "name": "Long thin upper lip, retained section 123",
+      "order": 123
+    },
+    {
+      "id": 124,
+      "name": "Long thin upper lip, retained section 124",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Long forked tongue, retained section 125",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Small triangle beyond the tongue tip, retained section 126",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Small opening above the mouth corner, retained section 127",
+      "order": 127
+    },
+    {
+      "id": 128,
+      "name": "Long thin upper lip, retained section 128",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Fine outline fragment beside Small triangle beyond the tongue tip, retained section 129",
+      "order": 129
+    },
+    {
+      "id": 130,
+      "name": "Mouth corner beside the tongue, retained section 130",
+      "order": 130
+    },
+    {
+      "id": 131,
+      "name": "Large background inside the neck's curve, retained section 131",
+      "order": 131
+    },
+    {
+      "id": 132,
+      "name": "Lower mouth cavity, retained section 132",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Fine outline fragment beside Lower mouth cavity, retained section 133",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Curved lower lip, retained section 134",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Strip along the right side of the neck, retained section 135",
+      "order": 135
+    },
+    {
+      "id": 136,
+      "name": "Lower-right border strip, retained section 136",
+      "order": 136
+    },
+    {
+      "id": 137,
+      "name": "Upper background in the bottom-right panel, retained section 137",
+      "order": 137
+    },
+    {
+      "id": 138,
+      "name": "Top-right pane in the bottom-right panel, retained section 138",
+      "order": 138
+    },
+    {
+      "id": 139,
+      "name": "Pointed leaf in the bottom-right panel, retained section 139",
+      "order": 139
+    },
+    {
+      "id": 140,
+      "name": "Broad rising strip at the bottom right, retained section 140",
+      "order": 140
+    },
+    {
+      "id": 141,
+      "name": "Large leaf at the bottom left, retained section 141",
+      "order": 141
+    },
+    {
+      "id": 142,
+      "name": "Curved strip beside the bottom-left leaf, retained section 142",
+      "order": 142
+    },
+    {
+      "id": 143,
+      "name": "Thin hook inside the bottom-left leaf, retained section 143",
+      "order": 143
+    },
+    {
+      "id": 144,
+      "name": "Fine outline fragment beside Narrow background following the creature's neck, retained section 144",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Upper curved band below the bottom-right leaf, retained section 145",
+      "order": 145
+    },
+    {
+      "id": 146,
+      "name": "Fine outline fragment beside Lower-right border strip, retained section 146",
+      "order": 146
+    },
+    {
+      "id": 147,
+      "name": "Fine outline fragment beside Lower-right border strip, retained section 147",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Small pane inside the lower neck curve, retained section 148",
+      "order": 148
+    },
+    {
+      "id": 149,
+      "name": "Small pane beneath the bottom-right leaf tip, retained section 149",
+      "order": 149
+    },
+    {
+      "id": 150,
+      "name": "Right border joint near the base, retained section 150",
+      "order": 150
+    },
+    {
+      "id": 151,
+      "name": "Left border joint near the base, retained section 151",
+      "order": 151
+    },
+    {
+      "id": 152,
+      "name": "Middle curved band at the bottom right, retained section 152",
+      "order": 152
+    },
+    {
+      "id": 153,
+      "name": "Fine outline fragment beside Narrow rising band at the lower right, retained section 153",
+      "order": 153
+    },
+    {
+      "id": 154,
+      "name": "Fine outline fragment beside Narrow rising band at the lower right, retained section 154",
+      "order": 154
+    },
+    {
+      "id": 155,
+      "name": "Lowest broad curved band at the bottom right, retained section 155",
+      "order": 155
+    },
+    {
+      "id": 156,
+      "name": "Bottom-left background, retained section 156",
+      "order": 156
+    },
+    {
+      "id": 157,
+      "name": "Bottom-right border strip, retained section 157",
+      "order": 157
+    },
+    {
+      "id": 158,
+      "name": "Bottom-left border strip, retained section 158",
+      "order": 158
+    },
+    {
+      "id": 159,
+      "name": "Narrow rising band at the lower right, retained section 159",
+      "order": 159
+    },
+    {
+      "id": 160,
+      "name": "Lower band beneath the bottom-left leaf, retained section 160",
+      "order": 160
+    },
+    {
+      "id": 161,
+      "name": "Thin lowest band at the bottom right, retained section 161",
+      "order": 161
+    },
+    {
+      "id": 162,
+      "name": "Bottom-right corner background, retained section 162",
+      "order": 162
+    },
+    {
+      "id": 163,
+      "name": "Fine outline fragment beside Small lower pane right of the bottom-left leaf, retained section 163",
+      "order": 163
+    },
+    {
+      "id": 164,
+      "name": "Fine outline fragment beside Small lower pane right of the bottom-left leaf, retained section 164",
+      "order": 164
+    },
+    {
+      "id": 165,
+      "name": "Small lower pane left of the creature's neck, retained section 165",
+      "order": 165
+    },
+    {
+      "id": 166,
+      "name": "Small lower pane right of the bottom-left leaf, retained section 166",
+      "order": 166
+    },
+    {
+      "id": 167,
+      "name": "Fine outline fragment beside Small lower pane left of the creature's neck, retained section 167",
+      "order": 167
+    }
+  ],
+  "schemaVersion": 1
+}

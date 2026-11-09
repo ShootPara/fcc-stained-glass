@@ -1,0 +1,872 @@
+{
+  "artworkId": "design-029",
+  "contentVersion": "3acd4fb6bf0d2dc27c6413407619930c5153155df00d154a6d02d0a831291bc4",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper background and halo bands, top left section 7",
+      "order": 32
+    },
+    {
+      "id": 2,
+      "name": "Upper background and halo bands, top left section 11",
+      "order": 36
+    },
+    {
+      "id": 3,
+      "name": "Upper background and halo bands, top left section 16",
+      "order": 41
+    },
+    {
+      "id": 4,
+      "name": "Upper background and halo bands, top center section 8",
+      "order": 33
+    },
+    {
+      "id": 5,
+      "name": "Upper background and halo bands, top center section 2",
+      "order": 27
+    },
+    {
+      "id": 6,
+      "name": "Upper background and halo bands, top center section 13",
+      "order": 38
+    },
+    {
+      "id": 7,
+      "name": "Upper background and halo bands, top center section 3",
+      "order": 28
+    },
+    {
+      "id": 8,
+      "name": "Upper background and halo bands, top center section 5",
+      "order": 30
+    },
+    {
+      "id": 9,
+      "name": "Upper background and halo bands, top right section 14",
+      "order": 39
+    },
+    {
+      "id": 10,
+      "name": "Upper background and halo bands, top right section 1",
+      "order": 26
+    },
+    {
+      "id": 11,
+      "name": "Upper background and halo bands, top right section 12",
+      "order": 37
+    },
+    {
+      "id": 12,
+      "name": "Upper background and halo bands, top right section 18",
+      "order": 43
+    },
+    {
+      "id": 13,
+      "name": "Upper background and halo bands, top right section 17",
+      "order": 42
+    },
+    {
+      "id": 14,
+      "name": "Upper background and halo bands, top right section 4",
+      "order": 29
+    },
+    {
+      "id": 15,
+      "name": "Upper background and halo bands, top center section 6",
+      "order": 31
+    },
+    {
+      "id": 16,
+      "name": "Upper face and neck",
+      "order": 46
+    },
+    {
+      "id": 17,
+      "name": "Veil and hair beside the upper face, top center section 1",
+      "order": 47
+    },
+    {
+      "id": 18,
+      "name": "Upper background and halo bands, top right section 10",
+      "order": 35
+    },
+    {
+      "id": 19,
+      "name": "Upper background and halo bands, top center section 9",
+      "order": 34
+    },
+    {
+      "id": 20,
+      "name": "Veil and hair beside the upper face, top center section 2",
+      "order": 48
+    },
+    {
+      "id": 21,
+      "name": "Upper background and halo bands, top right section 15",
+      "order": 40
+    },
+    {
+      "id": 22,
+      "name": "Veil and hair beside the upper face, top center section 3",
+      "order": 49
+    },
+    {
+      "id": 23,
+      "name": "Veil and hair beside the upper face, top center section 5",
+      "order": 51
+    },
+    {
+      "id": 24,
+      "name": "Veil and hair beside the upper face, top center section 6",
+      "order": 52
+    },
+    {
+      "id": 25,
+      "name": "Veil and hair beside the upper face, top center section 4",
+      "order": 50
+    },
+    {
+      "id": 26,
+      "name": "Veil and hair beside the upper face, top center section 7",
+      "order": 53
+    },
+    {
+      "id": 27,
+      "name": "Upper background and halo bands, top left section 19",
+      "order": 44
+    },
+    {
+      "id": 28,
+      "name": "Veil and hair beside the upper face, top center section 8",
+      "order": 54
+    },
+    {
+      "id": 29,
+      "name": "Veil and hair beside the upper face, top center section 9",
+      "order": 55
+    },
+    {
+      "id": 30,
+      "name": "Upper background and halo bands, top left section 20",
+      "order": 45
+    },
+    {
+      "id": 31,
+      "name": "Round-ornament panel's outer border and background, upper-middle right section 1",
+      "order": 70
+    },
+    {
+      "id": 32,
+      "name": "Round-ornament panel's outer border and background, upper-middle right section 2",
+      "order": 71
+    },
+    {
+      "id": 33,
+      "name": "Upper figure's garment folds, upper-middle center section 5",
+      "order": 60
+    },
+    {
+      "id": 34,
+      "name": "Upper figure's garment folds, upper-middle center section 2",
+      "order": 57
+    },
+    {
+      "id": 35,
+      "name": "Upper figure's garment folds, upper-middle center section 3",
+      "order": 58
+    },
+    {
+      "id": 36,
+      "name": "Upper figure's garment folds, upper-middle center section 1",
+      "order": 56
+    },
+    {
+      "id": 37,
+      "name": "Upper figure's garment folds, upper-middle center section 4",
+      "order": 59
+    },
+    {
+      "id": 38,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 11",
+      "order": 111
+    },
+    {
+      "id": 39,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 2",
+      "order": 102
+    },
+    {
+      "id": 40,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 1",
+      "order": 73
+    },
+    {
+      "id": 41,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle center section 2",
+      "order": 74
+    },
+    {
+      "id": 42,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 3",
+      "order": 75
+    },
+    {
+      "id": 43,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle center section 5",
+      "order": 77
+    },
+    {
+      "id": 44,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 6",
+      "order": 78
+    },
+    {
+      "id": 45,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 4",
+      "order": 76
+    },
+    {
+      "id": 46,
+      "name": "Smaller face beside the round ornaments",
+      "order": 167
+    },
+    {
+      "id": 47,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 7",
+      "order": 79
+    },
+    {
+      "id": 48,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 1",
+      "order": 101
+    },
+    {
+      "id": 49,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 8",
+      "order": 80
+    },
+    {
+      "id": 50,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 9",
+      "order": 81
+    },
+    {
+      "id": 51,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 14",
+      "order": 114
+    },
+    {
+      "id": 52,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 10",
+      "order": 82
+    },
+    {
+      "id": 53,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 3",
+      "order": 103
+    },
+    {
+      "id": 54,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 11",
+      "order": 83
+    },
+    {
+      "id": 55,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 14",
+      "order": 86
+    },
+    {
+      "id": 56,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 15",
+      "order": 87
+    },
+    {
+      "id": 57,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 12",
+      "order": 84
+    },
+    {
+      "id": 58,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 13",
+      "order": 85
+    },
+    {
+      "id": 59,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 16",
+      "order": 88
+    },
+    {
+      "id": 60,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle left section 17",
+      "order": 89
+    },
+    {
+      "id": 61,
+      "name": "Upper figure's garment folds, upper-middle center section 6",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 18",
+      "order": 90
+    },
+    {
+      "id": 63,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 4",
+      "order": 104
+    },
+    {
+      "id": 64,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle right section 5",
+      "order": 105
+    },
+    {
+      "id": 65,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 20",
+      "order": 92
+    },
+    {
+      "id": 66,
+      "name": "Horse's mane and adjacent bands, upper-middle right section 1",
+      "order": 121
+    },
+    {
+      "id": 67,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 19",
+      "order": 91
+    },
+    {
+      "id": 68,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle left section 22",
+      "order": 94
+    },
+    {
+      "id": 69,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 6",
+      "order": 106
+    },
+    {
+      "id": 70,
+      "name": "Background around the bearded figure, upper-middle right section 1",
+      "order": 116
+    },
+    {
+      "id": 71,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 21",
+      "order": 93
+    },
+    {
+      "id": 72,
+      "name": "Round-ornament panel's outer border and background, upper-middle right section 3",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Horse's mane and adjacent bands, upper-middle right section 2",
+      "order": 122
+    },
+    {
+      "id": 74,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 23",
+      "order": 95
+    },
+    {
+      "id": 75,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 8",
+      "order": 108
+    },
+    {
+      "id": 76,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle right section 7",
+      "order": 107
+    },
+    {
+      "id": 77,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 13",
+      "order": 113
+    },
+    {
+      "id": 78,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle left section 5",
+      "order": 20
+    },
+    {
+      "id": 79,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 24",
+      "order": 96
+    },
+    {
+      "id": 80,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 9",
+      "order": 109
+    },
+    {
+      "id": 81,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 12",
+      "order": 112
+    },
+    {
+      "id": 82,
+      "name": "Upper figure's garment folds, upper-middle center section 7",
+      "order": 62
+    },
+    {
+      "id": 83,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 25",
+      "order": 97
+    },
+    {
+      "id": 84,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 26",
+      "order": 98
+    },
+    {
+      "id": 85,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 10",
+      "order": 110
+    },
+    {
+      "id": 86,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle left section 1",
+      "order": 16
+    },
+    {
+      "id": 87,
+      "name": "Smaller figure's wrap collar and closed gaps, upper-middle right section 5",
+      "order": 172
+    },
+    {
+      "id": 88,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle right section 27",
+      "order": 99
+    },
+    {
+      "id": 89,
+      "name": "Smaller figure's wrap collar and closed gaps, upper-middle right section 4",
+      "order": 171
+    },
+    {
+      "id": 90,
+      "name": "Round head ornaments and small enclosed gaps, upper-middle left section 28",
+      "order": 100
+    },
+    {
+      "id": 91,
+      "name": "Upper figure's garment folds, upper-middle center section 8",
+      "order": 63
+    },
+    {
+      "id": 92,
+      "name": "Smaller figure's wrap collar and closed gaps, upper-middle right section 2",
+      "order": 169
+    },
+    {
+      "id": 93,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle left section 2",
+      "order": 17
+    },
+    {
+      "id": 94,
+      "name": "Smaller figure's wrap collar and closed gaps, upper-middle right section 1",
+      "order": 168
+    },
+    {
+      "id": 95,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle left section 3",
+      "order": 18
+    },
+    {
+      "id": 96,
+      "name": "Smaller figure's wrap collar and closed gaps, upper-middle right section 3",
+      "order": 170
+    },
+    {
+      "id": 97,
+      "name": "Horse's head ears and eye",
+      "order": 120
+    },
+    {
+      "id": 98,
+      "name": "Horse's mane and adjacent bands, upper-middle right section 3",
+      "order": 123
+    },
+    {
+      "id": 99,
+      "name": "Upper figure's garment folds, upper-middle center section 9",
+      "order": 64
+    },
+    {
+      "id": 100,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle left section 4",
+      "order": 19
+    },
+    {
+      "id": 101,
+      "name": "Upper figure's garment folds, upper-middle center section 10",
+      "order": 65
+    },
+    {
+      "id": 102,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle left section 6",
+      "order": 21
+    },
+    {
+      "id": 103,
+      "name": "Bearded figure's head covering and its small enclosed panes, upper-middle left section 15",
+      "order": 115
+    },
+    {
+      "id": 104,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle left section 7",
+      "order": 22
+    },
+    {
+      "id": 105,
+      "name": "Upper figure's garment folds, upper-middle center section 11",
+      "order": 66
+    },
+    {
+      "id": 106,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle center section 8",
+      "order": 23
+    },
+    {
+      "id": 107,
+      "name": "Horse's mane and adjacent bands, lower-middle center section 4",
+      "order": 124
+    },
+    {
+      "id": 108,
+      "name": "Bearded figure's robe and collar, lower-middle left section 1",
+      "order": 1
+    },
+    {
+      "id": 109,
+      "name": "Background around the bearded figure, upper-middle center section 2",
+      "order": 117
+    },
+    {
+      "id": 110,
+      "name": "Background around the bearded figure, upper-middle left section 3",
+      "order": 118
+    },
+    {
+      "id": 111,
+      "name": "Background around the bearded figure, lower-middle center section 4",
+      "order": 119
+    },
+    {
+      "id": 112,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle center section 9",
+      "order": 24
+    },
+    {
+      "id": 113,
+      "name": "Bearded figure's robe and collar, lower-middle center section 2",
+      "order": 2
+    },
+    {
+      "id": 114,
+      "name": "Bearded figure's face and enclosed eye detail, upper-middle left section 10",
+      "order": 25
+    },
+    {
+      "id": 115,
+      "name": "Upper figure's garment folds, upper-middle center section 12",
+      "order": 67
+    },
+    {
+      "id": 116,
+      "name": "Bearded figure's robe and collar, lower-middle left section 4",
+      "order": 4
+    },
+    {
+      "id": 117,
+      "name": "Upper figure's garment folds, lower-middle center section 13",
+      "order": 68
+    },
+    {
+      "id": 118,
+      "name": "Bearded figure's robe and collar, lower-middle left section 7",
+      "order": 7
+    },
+    {
+      "id": 119,
+      "name": "Bearded figure's robe and collar, lower-middle left section 5",
+      "order": 5
+    },
+    {
+      "id": 120,
+      "name": "Bearded figure's robe and collar, lower-middle center section 8",
+      "order": 8
+    },
+    {
+      "id": 121,
+      "name": "Upper figure's garment folds, lower-middle left section 14",
+      "order": 69
+    },
+    {
+      "id": 122,
+      "name": "Bearded figure's robe and collar, bottom center section 11",
+      "order": 11
+    },
+    {
+      "id": 123,
+      "name": "Horse's mane and adjacent bands, lower-middle center section 8",
+      "order": 128
+    },
+    {
+      "id": 124,
+      "name": "Bearded figure's robe and collar, lower-middle left section 3",
+      "order": 3
+    },
+    {
+      "id": 125,
+      "name": "Horse's mane and adjacent bands, lower-middle center section 6",
+      "order": 126
+    },
+    {
+      "id": 126,
+      "name": "Horse's mane and adjacent bands, lower-middle center section 7",
+      "order": 127
+    },
+    {
+      "id": 127,
+      "name": "Curved staff and closed inner spaces, lower-middle left section 1",
+      "order": 141
+    },
+    {
+      "id": 128,
+      "name": "Curved staff and closed inner spaces, lower-middle left section 2",
+      "order": 142
+    },
+    {
+      "id": 129,
+      "name": "Bearded figure's robe and collar, lower-middle left section 6",
+      "order": 6
+    },
+    {
+      "id": 130,
+      "name": "Horse's mane and adjacent bands, lower-middle center section 5",
+      "order": 125
+    },
+    {
+      "id": 131,
+      "name": "Horse's mane and adjacent bands, bottom right section 9",
+      "order": 129
+    },
+    {
+      "id": 132,
+      "name": "Bearded figure's robe and collar, lower-middle left section 9",
+      "order": 9
+    },
+    {
+      "id": 133,
+      "name": "Large hand around the curved staff",
+      "order": 140
+    },
+    {
+      "id": 134,
+      "name": "Bearded figure's robe and collar, lower-middle left section 10",
+      "order": 10
+    },
+    {
+      "id": 135,
+      "name": "Horse's bridle and lower straps, bottom right section 1",
+      "order": 130
+    },
+    {
+      "id": 136,
+      "name": "Bearded figure's robe and collar, bottom left section 13",
+      "order": 13
+    },
+    {
+      "id": 137,
+      "name": "Bearded figure's robe and collar, bottom left section 15",
+      "order": 15
+    },
+    {
+      "id": 138,
+      "name": "Curved staff and closed inner spaces, bottom left section 3",
+      "order": 143
+    },
+    {
+      "id": 139,
+      "name": "Bearded figure's robe and collar, bottom left section 14",
+      "order": 14
+    },
+    {
+      "id": 140,
+      "name": "Bearded figure's robe and collar, bottom left section 12",
+      "order": 12
+    },
+    {
+      "id": 141,
+      "name": "Horse's bridle and lower straps, bottom right section 2",
+      "order": 131
+    },
+    {
+      "id": 142,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 3",
+      "order": 146
+    },
+    {
+      "id": 143,
+      "name": "Horse's bridle and lower straps, bottom right section 3",
+      "order": 132
+    },
+    {
+      "id": 144,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 7",
+      "order": 150
+    },
+    {
+      "id": 145,
+      "name": "Horse's bridle and lower straps, bottom right section 5",
+      "order": 134
+    },
+    {
+      "id": 146,
+      "name": "Horse's bridle and lower straps, bottom right section 4",
+      "order": 133
+    },
+    {
+      "id": 147,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 1",
+      "order": 144
+    },
+    {
+      "id": 148,
+      "name": "Vessel body handles and base rings, bottom left section 1",
+      "order": 158
+    },
+    {
+      "id": 149,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 2",
+      "order": 145
+    },
+    {
+      "id": 150,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 6",
+      "order": 149
+    },
+    {
+      "id": 151,
+      "name": "Vessel body handles and base rings, bottom left section 2",
+      "order": 159
+    },
+    {
+      "id": 152,
+      "name": "Horse's bridle and lower straps, bottom right section 6",
+      "order": 135
+    },
+    {
+      "id": 153,
+      "name": "Lower flowing fabric and narrow outlines, bottom center section 4",
+      "order": 147
+    },
+    {
+      "id": 154,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 9",
+      "order": 152
+    },
+    {
+      "id": 155,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 8",
+      "order": 151
+    },
+    {
+      "id": 156,
+      "name": "Vessel body handles and base rings, bottom center section 5",
+      "order": 162
+    },
+    {
+      "id": 157,
+      "name": "Vessel body handles and base rings, bottom right section 3",
+      "order": 160
+    },
+    {
+      "id": 158,
+      "name": "Lower flowing fabric and narrow outlines, bottom right section 5",
+      "order": 148
+    },
+    {
+      "id": 159,
+      "name": "Vessel body handles and base rings, bottom left section 4",
+      "order": 161
+    },
+    {
+      "id": 160,
+      "name": "Horse's bridle and lower straps, bottom right section 8",
+      "order": 137
+    },
+    {
+      "id": 161,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 11",
+      "order": 154
+    },
+    {
+      "id": 162,
+      "name": "Horse's bridle and lower straps, bottom right section 9",
+      "order": 138
+    },
+    {
+      "id": 163,
+      "name": "Horse's bridle and lower straps, bottom right section 7",
+      "order": 136
+    },
+    {
+      "id": 164,
+      "name": "Vessel body handles and base rings, bottom center section 6",
+      "order": 163
+    },
+    {
+      "id": 165,
+      "name": "Lower background beside the vessel",
+      "order": 173
+    },
+    {
+      "id": 166,
+      "name": "Horse's bridle and lower straps, bottom right section 10",
+      "order": 139
+    },
+    {
+      "id": 167,
+      "name": "Vessel body handles and base rings, bottom center section 7",
+      "order": 164
+    },
+    {
+      "id": 168,
+      "name": "Lower flowing fabric and narrow outlines, bottom left section 12",
+      "order": 155
+    },
+    {
+      "id": 169,
+      "name": "Lower flowing fabric and narrow outlines, bottom right section 10",
+      "order": 153
+    },
+    {
+      "id": 170,
+      "name": "Vessel body handles and base rings, bottom center section 8",
+      "order": 165
+    },
+    {
+      "id": 171,
+      "name": "Lower flowing fabric and narrow outlines, bottom right section 13",
+      "order": 156
+    },
+    {
+      "id": 172,
+      "name": "Vessel body handles and base rings, bottom center section 9",
+      "order": 166
+    },
+    {
+      "id": 173,
+      "name": "Lower flowing fabric and narrow outlines, bottom center section 14",
+      "order": 157
+    }
+  ],
+  "schemaVersion": 1
+}

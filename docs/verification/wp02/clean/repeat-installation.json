@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "command": "npm ci",
+  "argv": [
+    "npm",
+    "ci"
+  ],
+  "startedAtUtc": "2026-11-06T20:50:32.917Z",
+  "completedAtUtc": "2026-11-06T20:50:37.218Z",
+  "elapsedSeconds": 4.301,
+  "exitCode": 0,
+  "log": "10-repeat-npm-ci.log",
+  "flags": {
+    "ignoreScripts": false,
+    "offline": false,
+    "ignoreTemporaryFilenames": false
+  },
+  "fileCountBefore": 264,
+  "fileCountAfter": 264,
+  "fileBytesBefore": 267284229,
+  "fileBytesAfter": 267284229,
+  "diff": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  "status": "passed"
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "operation": "prepare-assets",
+  "scope": "project",
+  "startedAtUtc": "2026-11-06T20:47:16.687Z",
+  "status": "failed",
+  "exitCode": 2,
+  "inputs": [],
+  "outputs": [],
+  "digests": {},
+  "warnings": [],
+  "errors": [
+    {
+      "code": "E_ARGUMENT",
+      "message": "Unknown option: --unknown"
+    }
+  ],
+  "completedAtUtc": "2026-11-06T20:47:16.689Z"
+}

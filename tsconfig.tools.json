@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "lib": ["ES2022"],
+    "types": ["node"],
+    "strict": true,
+    "skipLibCheck": true,
+    "composite": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "rootDir": ".",
+    "outDir": ".work/typecheck/tools",
+    "tsBuildInfoFile": ".work/typecheck/tools.tsbuildinfo"
+  },
+  "include": ["scripts/**/*.ts", "tests/unit/**/*.ts", "tests/fixtures/**/*.ts", "src/shared/**/*.ts", "src/editor/compositor.ts", "src/editor/reducer.ts", "src/editor/storage.ts", "src/editor/export.ts", "src/editor/package-loader.ts", "vite.config.ts", "vitest.config.ts"]
+}

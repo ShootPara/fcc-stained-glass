@@ -1,0 +1,42 @@
+{
+  "name": "fcc-stained-glass",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The Stained Glass of First Congregational Church, Kalamazoo.",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "license": "MIT",
+  "scripts": {
+    "pdf": "node --import tsx scripts/build-pdf.ts",
+    "import": "node --import tsx scripts/import-sources.ts",
+    "prepare": "node --import tsx scripts/prepare-assets.ts",
+    "catalog": "node --import tsx scripts/build-catalog.ts",
+    "validate": "node --import tsx scripts/validate-content.ts",
+    "predev": "node --import tsx scripts/build-catalog.ts --mode development",
+    "dev": "vite",
+    "typecheck": "tsc --build",
+    "test": "vitest run",
+    "build": "node --import tsx scripts/build-site.ts",
+    "preview": "node scripts/serve-static.mjs --root dist",
+    "package:site": "node --import tsx scripts/package-site.ts"
+  },
+  "dependencies": {
+    "@pdf-lib/fontkit": "1.1.1",
+    "fast-png": "6.4.0",
+    "fflate": "0.8.3",
+    "pdf-lib": "1.17.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.2",
+    "fake-indexeddb": "6.2.4",
+    "happy-dom": "21.0.4",
+    "sharp": "0.35.5",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2",
+    "vite": "8.3.6",
+    "vitest": "5.1.0"
+  }
+}

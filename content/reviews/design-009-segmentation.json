@@ -1,0 +1,11 @@
+{
+  "contentVersion": "63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0",
+  "keyboardMetadataDigest": "535172e8c51fbf211eb4a80a5c8eb1d5695889355680784eddee1b2fbb484863",
+  "outcome": "complete",
+  "recordId": "design-009",
+  "reviewKind": "segmentation",
+  "reviewedAtUtc": "2026-11-09T17:20:43.874Z",
+  "reviewedDigest": "dab533416c0b0aba663f695e10201626c0d10a666e670664f1a672a243620cc6",
+  "reviewer": "Codex source, numbered overlay, all small-component crops and 6x head comparison",
+  "schemaVersion": 1
+}

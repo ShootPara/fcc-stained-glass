@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-046",
+  "sourceVersion": "5a823e7541295ee38952285ab14e72e5020a3a25dc547d729420242798b227d0",
+  "observations": "Inspected the full inverted figure, all eight sheets of 95 tiny source/fill components and an enlarged numbered head. Retain the closed toe slit, binding triangle, narrow garment slits, tiny ears and real eye panes. Reconnect only inspected same-band arch/beam fragments, hair interstices, upper eye white and narrow eyelid/beard crescents. The left lower eye opens into the face and must not be separated artificially. Exclude explicit acute tips only. The lettered ST PETER inscription is visible, but naming remains based on visible features and position. Source/canonical pixels, print drawing and older packages remain unchanged.",
+  "evidence": [
+    ".work/review/design-046/5a823e7541295ee38952285ab14e72e5020a3a25dc547d729420242798b227d0/regions-numbered-2x.png",
+    ".work/region-crops/design-046/small-01.png",
+    ".work/region-crops/design-046/small-02.png",
+    ".work/region-crops/design-046/small-03.png",
+    ".work/region-crops/design-046/small-04.png",
+    ".work/region-crops/design-046/small-05.png",
+    ".work/region-crops/design-046/small-06.png",
+    ".work/region-crops/design-046/small-07.png",
+    ".work/region-crops/design-046/small-08.png",
+    ".work/region-crops/design-046/head-numbered.png"
+  ],
+  "tips": "21,29,37,46,51,54,55,68,88,89,101,135,142,143,151,167,171,184,186,196,197,198,201,202,203,205,206,213,214,218,219,220,229,237,239,268,269,273,284,287,288,291,296",
+  "joins": [
+    "44,47-50",
+    "157,159-162",
+    "170,172-180",
+    "165,181,182",
+    "154,185",
+    "204,208,209,212",
+    "210,215",
+    "211,207",
+    "224,226-228",
+    "233,234,236,238,241,243",
+    "260,265",
+    "258,255,267",
+    "263,245",
+    "274,276,280,281",
+    "285,282,292",
+    "275,293-295"
+  ],
+  "groups": [
+    {
+      "name": "Inverted figure's face and continuous beard",
+      "ids": "192"
+    },
+    {
+      "name": "Figure's torso and outstretched arms",
+      "ids": "119"
+    },
+    {
+      "name": "Left foot and toes",
+      "ids": "35,42"
+    },
+    {
+      "name": "Right foot",
+      "ids": "36"
+    },
+    {
+      "name": "Upper binding and small enclosed slits",
+      "ids": "58,60,67,71,105,107"
+    },
+    {
+      "name": "Legs and leg-covering panels",
+      "ids": "62,63,64,65,66,95,97,98,99"
+    },
+    {
+      "name": "Main pointed arch bands",
+      "ids": "6,40,41,43,44,47,48,49,50,52,53,54,55,57,59,72,108,112,113,117,128,129,145,154,155,185,188"
+    },
+    {
+      "name": "Upper architectural inserts",
+      "ids": "14,15,16,17,18,19,20,22,23,24,25,26,28,31,33,34,38,39,70,73,77,81,82,86,87,90,93,94,96,100,102,103,104,106"
+    },
+    {
+      "name": "Lower radiating panels and robe fold sections",
+      "ids": "114,115,116,118,120,121,122,123,124,125,126,127,134,136,137,140,141,144,146,147,148,149,150,152,153,156,157,158,159,160,161,162,163,164,165,166,168,169,170,172,173,174,175,176,177,178,179,180,181,182,183,187"
+    },
+    {
+      "name": "Surrounding flame-shaped panels",
+      "ids": "1,2,3,4,5,7,8,9,10,11,12,13,27,30,32,45,56,61,69,74,75,76,78,79,80,83,84,85,91,92,109,110,111,130,131,132,133,138,139,189,190,191,216,217"
+    },
+    {
+      "name": "Forehead and side hair locks",
+      "ids": "193,194,195,199,200,204,207,208,209,210,211,212,215,221,222,223,224,226,227,228,242,245,246,255,256,257,258,259,262,263,267,271,272,275,290,293,294,295"
+    },
+    {
+      "name": "Left ear",
+      "ids": "225"
+    },
+    {
+      "name": "Left upper eye-white pane",
+      "ids": "232"
+    },
+    {
+      "name": "Right upper eye-white pane",
+      "ids": "233,234,236,238,241,243"
+    },
+    {
+      "name": "Right lower eye-white pane",
+      "ids": "244"
+    },
+    {
+      "name": "Left narrow eyelid crescent",
+      "ids": "260,265"
+    },
+    {
+      "name": "Right narrow eyelid crescent",
+      "ids": "261"
+    },
+    {
+      "name": "Lower beard curls and interstices",
+      "ids": "252,274,276,277,278,279,280,281,282,283,285,286,289,292"
+    },
+    {
+      "name": "Left inscription field and letters",
+      "ids": "230,235,247,248,249,250,264,270"
+    },
+    {
+      "name": "Right inscription field and letters",
+      "ids": "231,240,251,253,254,266"
+    }
+  ]
+}

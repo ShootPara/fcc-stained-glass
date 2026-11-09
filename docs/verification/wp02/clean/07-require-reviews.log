@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "options": {
+    "id": "design-002",
+    "requireReviews": true
+  },
+  "stats": {
+    "validatedArtworks": 1,
+    "validatedVersions": 1,
+    "validatedPhotos": 1,
+    "pendingSegmentationReviews": 0,
+    "pendingPairingReviews": 0
+  },
+  "warnings": [],
+  "issues": [],
+  "activeVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e"
+}

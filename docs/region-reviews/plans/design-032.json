@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-032",
+  "sourceVersion": "a8503913fc9358497e7addc1e0149bb770c6322d20b43f4af52999ac1f180d4d",
+  "observations": "Inspected the complete numbered composition and all eleven small-component sheets, covering 132 tiny regions. Most small regions are intentional bead-border interstices, eye highlights, necklace gaps and diamond-panel edge triangles, so retain them rather than filtering by size. Exclude only listed isolated acute endpoints. Reconnect inspected same-detail fragments in two top crown gaps, facial highlights/mouth slits, narrow hair outlines and one bead interstice. Multiple figures, stacked window faces, dome/block frame, diamond-pattern garment, throne bead borders, flame scroll and bottom scallops receive feature/position names. No historical subject is inferred from the filename. Source pixels, canonical ink and prior packages remain unchanged.",
+  "evidence": [
+    ".work/review/design-032/a8503913fc9358497e7addc1e0149bb770c6322d20b43f4af52999ac1f180d4d/regions-numbered-2x.png",
+    ".work/region-crops/design-032/small-01.png",
+    ".work/region-crops/design-032/small-02.png",
+    ".work/region-crops/design-032/small-03.png",
+    ".work/region-crops/design-032/small-04.png",
+    ".work/region-crops/design-032/small-05.png",
+    ".work/region-crops/design-032/small-06.png",
+    ".work/region-crops/design-032/small-07.png",
+    ".work/region-crops/design-032/small-08.png",
+    ".work/region-crops/design-032/small-09.png",
+    ".work/region-crops/design-032/small-10.png",
+    ".work/region-crops/design-032/small-11.png"
+  ],
+  "tips": "27,99,100,122,151,154,196,217,227,239,251,255,257,258,301,415,440,450,451,595,603",
+  "joins": [
+    "20,22",
+    "119,123",
+    "156,157",
+    "158,161,165-167",
+    "169,170",
+    "173,175",
+    "524,525"
+  ],
+  "groups": [
+    {
+      "name": "Top background and flowing bands",
+      "ids": "1,2,5,6,10,11"
+    },
+    {
+      "name": "Upper left beaded band and its outlines",
+      "ids": "3,4,12,16,18,26,52,55,57,58,59,60,61,62,63,64,65"
+    },
+    {
+      "name": "Upper left hand and adjacent small pane",
+      "ids": "28,56,70"
+    },
+    {
+      "name": "Upper left broad garment",
+      "ids": "68"
+    },
+    {
+      "name": "Small upper crown and dome ornament",
+      "ids": "7,8,9,13,14,15,17,19,20,21,22,23,24,25,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,53,54,66,67,69,71,72,73,74,75,76,77,78,79"
+    },
+    {
+      "name": "Background around the left upper heads",
+      "ids": "80,81,83,86,115,130"
+    },
+    {
+      "name": "Upper left figure's hair curls and hair-edge beads",
+      "ids": "87,93,94,95,96,97,102,103,104,118,127"
+    },
+    {
+      "name": "Upper left figure's face and beard",
+      "ids": "101"
+    },
+    {
+      "name": "Upper left figure's left eye highlight",
+      "ids": "119,123"
+    },
+    {
+      "name": "Upper left figure's right eyelid detail",
+      "ids": "120,124"
+    },
+    {
+      "name": "Upper left figure's tiny closed mouth slit",
+      "ids": "137"
+    },
+    {
+      "name": "Adjacent profile's hair and face",
+      "ids": "88,121"
+    },
+    {
+      "name": "Adjacent profile's small eye highlight",
+      "ids": "128"
+    },
+    {
+      "name": "Upper left figure's collar chest and sleeve",
+      "ids": "153,155,174,195,203,204,243"
+    },
+    {
+      "name": "Upper left figure's round pendant",
+      "ids": "220"
+    },
+    {
+      "name": "Upper left figure's necklace beads and closed gaps",
+      "ids": "173,175,179,185,186,189"
+    },
+    {
+      "name": "Foreground crown and enclosed jewel details",
+      "ids": "110,129,131,132,134,140,144,147,148,149"
+    },
+    {
+      "name": "Foreground bearded profile",
+      "ids": "152"
+    },
+    {
+      "name": "Foreground profile's eye-white pane",
+      "ids": "168"
+    },
+    {
+      "name": "Foreground profile's thin hair outlines",
+      "ids": "158,161,163,165,166,167,169,170"
+    },
+    {
+      "name": "Foreground profile's small closed nose detail",
+      "ids": "190"
+    },
+    {
+      "name": "Foreground profile's closed border opening",
+      "ids": "215"
+    },
+    {
+      "name": "Foreground figure's neck collar and pendant",
+      "ids": "221,228,230"
+    },
+    {
+      "name": "Foreground figure's cloak sleeve and raised hand",
+      "ids": "202,213,216,218,233,236,244,246,253"
+    },
+    {
+      "name": "Window's upper face",
+      "ids": "111"
+    },
+    {
+      "name": "Window upper face's hair curls and neck beads",
+      "ids": "112,113,125,133,150,171,172,177,178,180,181,182,183,184,187,188,191,192,194"
+    },
+    {
+      "name": "Window upper face's eye highlights",
+      "ids": "138,139"
+    },
+    {
+      "name": "Window upper face's closed mouth slit",
+      "ids": "156,157"
+    },
+    {
+      "name": "Window middle face",
+      "ids": "193"
+    },
+    {
+      "name": "Window middle face's eye highlights",
+      "ids": "208,209"
+    },
+    {
+      "name": "Window middle face's closed mouth slit",
+      "ids": "225"
+    },
+    {
+      "name": "Window middle face's hair beads and enclosed details",
+      "ids": "198,199,200,201,205,206,207,211,212,223,224,226,231,234,235,214"
+    },
+    {
+      "name": "Window lower face and beard",
+      "ids": "240"
+    },
+    {
+      "name": "Window lower face's hair collar and enclosed details",
+      "ids": "241,242,247,271,302,315"
+    },
+    {
+      "name": "Window's side leaf-like ornaments",
+      "ids": "114,116,126,162,210,222,245,254,270,281"
+    },
+    {
+      "name": "Window's lower flame-like scroll",
+      "ids": "314,318,377,384,418,442,452,453,454,455,460"
+    },
+    {
+      "name": "Foreground seated figure's broad robe folds",
+      "ids": "272,277,347,352,370,399,461,518,519"
+    },
+    {
+      "name": "Left throne's curled arm and adjacent scrolls",
+      "ids": "331,336,337,338,342,344,346,348,353,361,362,369,408,444,445,456,457,469,472,567,580"
+    },
+    {
+      "name": "Lower horizontal base bands",
+      "ids": "597,601,606"
+    },
+    {
+      "name": "Bottom scallops and flowing bands",
+      "ids": "526,535,547,548,553,559,563,569,571,585,596,598,599,600,602,604,605,607,608,609,610,611,612"
+    },
+    {
+      "name": "Lower surrounding curved bands",
+      "ids": "82,84,85,284,297,317,327,333"
+    },
+    {
+      "name": "Window's interior background and ornamental panes",
+      "ids": "89,90,91,105,106,107,108,109,136,229,232,268,296,306,310,443"
+    },
+    {
+      "name": "Window's block frame and lower border",
+      "ids": "92,142,143,146,197,237,238,263,329,330,387,388,389,436,437,464,465,470,474,478,486,491,159"
+    },
+    {
+      "name": "Upper left garments and adjacent enclosed details",
+      "ids": "98,117,135,141,145,160,164,176,219,252,256"
+    },
+    {
+      "name": "Diamond-pattern garment and enclosed edge triangles",
+      "ids": "259,260,261,264,265,266,267,269,273,274,275,276,278,279,280,282,283,285,286,287,288,289,290,291,292,293,294,295,298,299,300,303,304,305,307,308,309,311,312,313,316,319,320,321,322,323,324,325,326,328,332,334,335,339,340,341,343,345,349,350,351,354,356,357,358,360,364,365,366,371,372,375,378,379,382,385,386,393,394,395,400,402,404,407,409,410,411,417,420,429,262"
+    },
+    {
+      "name": "Throne's bead border and enclosed interstices",
+      "ids": "355,359,363,367,373,374,376,380,381,383,390,391,392,396,397,398,401,403,405,406,412,413,416,421,430,433,435,438,439,446,447,448,458,459,462,466,467,468,483,484,487,496,500,504,512,514,515,523,524,525,527,539,543,560,414,419"
+    },
+    {
+      "name": "Throne's diamond panels and enclosed border details",
+      "ids": "368,422,423,424,425,426,427,428,431,432,434,471,473,475,476,477,479,480,481,482,485,488,489,490,492,493,494,495,497,498,499,501,502,503,505,506,507,508,509,510,511,513,516,517,520,521,522,529,530,531,532,533,534,536,537,540,541,542,544,545,546,554,555,556,557,558,561,562,564,566,568,570,578,579,581,582,583,584,586,591"
+    },
+    {
+      "name": "Lower robe and throne trim",
+      "ids": "441,449,463,528"
+    },
+    {
+      "name": "Throne's lower trim and enclosed details",
+      "ids": "538,549,550,551,552"
+    },
+    {
+      "name": "Throne's bottom round ornaments and enclosed gaps",
+      "ids": "565,572,573,574,575,576,577,587,588,589,590,592,593,594"
+    },
+    {
+      "name": "Window lower face's eye highlights",
+      "ids": "248,249,250"
+    }
+  ]
+}

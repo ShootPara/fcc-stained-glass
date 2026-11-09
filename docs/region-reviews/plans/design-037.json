@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-037",
+  "sourceVersion": "bb3a2b3d9b97d85d997e3dbab2e7be6408a861239d8c89468c7e402c1d7212df",
+  "observations": "Inspected full numbered drawing and all three small-component sheets. Retain small crown triangles, closed face-side strip, ear/beard holes, brow detail, hand corners and bird/foliage-like border gaps. Reconnect six pieces of the small left figure's narrow face-side band, the small separate beard opening and a closed bottom interstice. Exclude explicitly inspected acute endpoint fragments only. Distinguish upper head, raised hand and broad cloak; the lower bent profile, curled head ornament, shaggy coat, staff and feet; the framed small figure and layered right border. Names describe visible forms without asserting historical identification. Source/canonical ink and previous packages are retained.",
+  "evidence": [
+    ".work/review/design-037/bb3a2b3d9b97d85d997e3dbab2e7be6408a861239d8c89468c7e402c1d7212df/regions-numbered-2x.png",
+    ".work/region-crops/design-037/small-01.png",
+    ".work/region-crops/design-037/small-02.png",
+    ".work/region-crops/design-037/small-03.png"
+  ],
+  "tips": "30,50,52,74,81,122,124,126,129-131,133,137,147,151,160",
+  "joins": [
+    "35,36,39,41,43,44",
+    "53,54",
+    "176,178"
+  ],
+  "groups": [
+    {
+      "name": "Upper figure's head and beard",
+      "ids": "13"
+    },
+    {
+      "name": "Upper figure's hair curl",
+      "ids": "14"
+    },
+    {
+      "name": "Upper figure's closed brow detail",
+      "ids": "26"
+    },
+    {
+      "name": "Upper figure's small closed beard spaces",
+      "ids": "49,53,54"
+    },
+    {
+      "name": "Raised hand fingers and closed finger space",
+      "ids": "24,27,40"
+    },
+    {
+      "name": "Upper figure's neck collar and cuff",
+      "ids": "47,51,60,63,64,65,67,69,73"
+    },
+    {
+      "name": "Upper figure's broad cloak and lower trim",
+      "ids": "57,70,71"
+    },
+    {
+      "name": "Hand resting on the lower head",
+      "ids": "79,90,96"
+    },
+    {
+      "name": "Lower figure's head and profile",
+      "ids": "115"
+    },
+    {
+      "name": "Curled ornaments around the lower head",
+      "ids": "82,86,89,91,93,94,97,99,100,101,102,108,109,114,123,125"
+    },
+    {
+      "name": "Lower figure's shaggy coat and enclosed coat gaps",
+      "ids": "118,142,150,154"
+    },
+    {
+      "name": "Lower figure's raised arm and hand",
+      "ids": "121"
+    },
+    {
+      "name": "Long diagonal staff",
+      "ids": "134"
+    },
+    {
+      "name": "Lower figure's leg and foot",
+      "ids": "156,166"
+    },
+    {
+      "name": "Small framed figure's face",
+      "ids": "33"
+    },
+    {
+      "name": "Small framed figure's torso arms and hands",
+      "ids": "29,38,46,55,58,59,61"
+    },
+    {
+      "name": "Small framed figure's hair and narrow face-side bands",
+      "ids": "31,32,35,36,39,41,43,44"
+    },
+    {
+      "name": "Small figure's arch crown triangles and base",
+      "ids": "18,19,20,21,22,23,25,28,34,37,42,45,62,66"
+    },
+    {
+      "name": "Top architectural frame and broad background",
+      "ids": "4,5,6,7,8,9,10,11,12,15,16,17,68"
+    },
+    {
+      "name": "Upper figure's halo and surrounding bands",
+      "ids": "1,2,3,48,56,76,83,84,87,92"
+    },
+    {
+      "name": "Left lower architectural arch and column",
+      "ids": "72,75,77,80,85,88,95,103,104,105,106,107,110,111,116,117"
+    },
+    {
+      "name": "Background around the lower figure",
+      "ids": "78,98,112,113,119,120,127,128,132,136,140,141,143,144,146,153,158,159,161,163,164,165"
+    },
+    {
+      "name": "Layered right border's head-like crest and scales",
+      "ids": "135,138,139,145,148,149,152,155,157,162,172,181,186"
+    },
+    {
+      "name": "Bottom small panes and rounded scallops",
+      "ids": "167,168,169,170,171,173,174,175,176,177,178,179,180,182,183,184,185,187"
+    }
+  ]
+}

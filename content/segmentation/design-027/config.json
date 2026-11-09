@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered composition and all eleven sheets covering 127 small regions. Many tiny white islands are genuine double-line outlines, eye glints, ornament interstices and closed triangles. Retain these and reconnect only explicit same-band fragments whose isolated paths stay clear of other panes. Exclude identified acute endpoint artifacts rather than applying a size filter. Preserve the two upper figures, bearded lower profile, decorated round object, drapery and architectural ornaments as separate features. Names describe visible forms and position; no historical identity is inferred from the filename. Source ink and earlier versions remain unchanged. Explicit inspected tip IDs: 18,19,67,86,96,104,115,130,159,163,168,169,176,201,218,222,224,225,226,236,237,256,257,260,272,281,292,296,300,306,308,311,314,324,332,338,343,349,361,362,363,364. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

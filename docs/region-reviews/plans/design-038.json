@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-038",
+  "sourceVersion": "ab8b10a4e3f5f5d90ea74cc1355acb87a7e4c61651dfc305024f11490b6cf208",
+  "observations": "Inspected complete numbered source and all five small-component sheets. The numerous tiny eye components are real iris crescents and eye-white corners; retain and reconnect each inspected crescent independently, leaving adjacent eye-white panes distinct. Keep small nose, mouth, temple and robe triangles. Exclude only listed acute endpoint artifacts and one border speck. Closed beard detail and leaf-stem fragments reconnect separately. Three heads, helmet/halo, extended pointing arm, wrapped garments, central ornamental column, leaves and large angled foreground panel keep visible source boundaries. Names describe visible forms without assigning identities from filenames. Canonical ink/source art and older packages are preserved.",
+  "evidence": [
+    ".work/review/design-038/ab8b10a4e3f5f5d90ea74cc1355acb87a7e4c61651dfc305024f11490b6cf208/regions-numbered-2x.png",
+    ".work/region-crops/design-038/small-01.png",
+    ".work/region-crops/design-038/small-02.png",
+    ".work/region-crops/design-038/small-03.png",
+    ".work/region-crops/design-038/small-04.png",
+    ".work/region-crops/design-038/small-05.png"
+  ],
+  "tips": "20,89,100,105,129,152,158,162,165,168,171,175,177",
+  "joins": [
+    "40,41,44-46",
+    "52-56",
+    "63,64,66,67",
+    "70,75,76",
+    "68,69,71,72",
+    "79,83,84,86,87",
+    "80,85,88",
+    "49,51",
+    "103,104",
+    "149,153,154"
+  ],
+  "groups": [
+    {"name":"Long diagonal band beside the pointing arm","ids":"132"},
+    {
+      "name": "Central ornamental column and background",
+      "ids": "4,5,9,34,74,106,123,125"
+    },
+    {
+      "name": "Cropped figure's forehead eye-white and hair-side panes",
+      "ids": "25,33,37,58,61,78,90,97,108,109,110,111,112,113,117"
+    },
+    {
+      "name": "Right figure's face and beard",
+      "ids": "23"
+    },
+    {
+      "name": "Right figure's right iris crescent",
+      "ids": "40,41,44,45,46"
+    },
+    {
+      "name": "Right figure's left iris crescent",
+      "ids": "52,53,54,55,56"
+    },
+    {
+      "name": "Right figure's eyelid and surrounding eye-white panes",
+      "ids": "27,43,47,48,50,57"
+    },
+    {
+      "name": "Right figure's mouth and small nose opening",
+      "ids": "91,93"
+    },
+    {
+      "name": "Right figure's hair curls and head covering",
+      "ids": "14,15,18,19,21,22,24,31,38,42"
+    },
+    {
+      "name": "Right figure's neck and draped garment bands",
+      "ids": "82,92,98,99,107,114,116,122,124,126,128,130,131,135,138,140,143,147,151,155,157,159"
+    },
+    {
+      "name": "Central figure's face and beard",
+      "ids": "32"
+    },
+    {
+      "name": "Central figure's right iris crescent",
+      "ids": "63,64,66,67"
+    },
+    {
+      "name": "Central figure's left iris crescent",
+      "ids": "70,75,76"
+    },
+    {
+      "name": "Central figure's eye-white and eyelid panes",
+      "ids": "59,60,62,65,77"
+    },
+    {
+      "name": "Central figure's temple and small closed beard details",
+      "ids": "30,73,95,96,101,103,104"
+    },
+    {
+      "name": "Central figure's helmet halo and hair borders",
+      "ids": "13,16,26,29,35,49,51,81,94,102,115"
+    },
+    {
+      "name": "Central figure's long robe and pointing forearm",
+      "ids": "118,121,137"
+    },
+    {
+      "name": "Cropped left figure's face and beard",
+      "ids": "36"
+    },
+    {
+      "name": "Cropped figure's upper iris crescent",
+      "ids": "68,69,71,72"
+    },
+    {
+      "name": "Cropped figure's lower iris crescent",
+      "ids": "79,83,84,86,87"
+    },
+    {
+      "name": "Cropped figure's outer eye-white wedge",
+      "ids": "80,85,88"
+    },
+    {
+      "name": "Top background scallops and broad outer bands",
+      "ids": "1,2,3,6,7,8,10,11,12,17,28,39"
+    },
+    {
+      "name": "Background beside the left figure and robe",
+      "ids": "119,120,127,133,134,136,139,144,145,148,150,164"
+    },
+    {
+      "name": "Lower leaves and enclosed decorative spaces",
+      "ids": "141,142,146,149,153,154,156,160,161,163,166"
+    },
+    {
+      "name": "Large angled foreground panel and small corner",
+      "ids": "167,174"
+    },
+    {
+      "name": "Panel edge lower base and surrounding bands",
+      "ids": "169,170,172,173,176"
+    }
+  ]
+}

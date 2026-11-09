@@ -1,0 +1,922 @@
+{
+  "artworkId": "design-017",
+  "contentVersion": "80855a1d7ab3a09acbcb2b63ae2093f0676840b646ee7765f03999f60ce817a0",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Continuous outer frame, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Upper bands around the left foot, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Upper bands around the left foot, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Upper bands around the left foot, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Upper bands around the left foot, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Upper garments and ankle folds, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Long hanging bands on the upper right, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Long hanging bands on the upper right, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Long hanging bands on the upper right, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Long hanging bands on the upper right, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Long hanging bands on the upper right, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Upper bands around the left foot, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Long hanging bands on the upper right, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Long hanging bands on the upper right, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Long hanging bands on the upper right, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Upper garments and ankle folds, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Upper bands around the left foot, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Bare foot at the upper left, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Upper bands around the left foot, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Upper bands around the left foot, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Upper bands around the left foot, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Upper bands around the left foot, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Fine outline fragment beside Upper bands around the left foot, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Upper bands around the left foot, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Upper bands around the left foot, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Upper bands around the left foot, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Fine outline fragment beside Long hanging bands on the upper right, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Long hanging bands on the upper right, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Upper bands around the left foot, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Upper bands around the left foot, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Fine outline fragment beside Upper bands around the left foot, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Diagonal stair panes and background strips, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Upper bands around the left foot, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Diagonal stair panes and background strips, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Upper garments and ankle folds, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Diagonal stair panes and background strips, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Diagonal stair panes and background strips, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Small enclosed gap beneath the upper toes, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Small enclosed gap beneath the upper toes, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Tiny separate gap beneath the leftmost toe, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Fine outline fragment beside Upper garments and ankle folds, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Upper garments and ankle folds, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Upper garments and ankle folds, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Fine outline fragment beside Upper garments and ankle folds, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Upper garments and ankle folds, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Fine outline fragment beside Upper garments and ankle folds, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Upper garments and ankle folds, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Upper garments and ankle folds, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Diagonal rail around its round details, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Upper garments and ankle folds, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Upper garments and ankle folds, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Diagonal stair panes and background strips, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Fine outline fragment beside Upper garments and ankle folds, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Upper garments and ankle folds, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Fine outline fragment beside Upper garments and ankle folds, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Upper garments and ankle folds, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Upper garments and ankle folds, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Upper garments and ankle folds, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Upper garments and ankle folds, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Upper garments and ankle folds, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Upper garments and ankle folds, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Diagonal stair panes and background strips, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Upper garments and ankle folds, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Fine outline fragment beside Upper garments and ankle folds, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Diagonal stair panes and background strips, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Diagonal stair panes and background strips, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Upper garments and ankle folds, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Fine outline fragment beside Upper garments and ankle folds, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Fine outline fragment beside Upper garments and ankle folds, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Fine outline fragment beside Diagonal stair panes and background strips, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Round details in the diagonal rail, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Diagonal stair panes and background strips, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Diagonal stair panes and background strips, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Diagonal stair panes and background strips, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Diagonal stair panes and background strips, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Diagonal stair panes and background strips, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Diagonal stair panes and background strips, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Diagonal stair panes and background strips, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Lower bare foot on the steps, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Diagonal stair panes and background strips, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Diagonal stair panes and background strips, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Diagonal stair panes and background strips, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Figure's curled hair and separate strands, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Figure's face, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Diagonal stair panes and background strips, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Diagonal stair panes and background strips, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Round details in the diagonal rail, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Diagonal stair panes and background strips, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Diagonal stair panes and background strips, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Fine outline fragment beside Diagonal stair panes and background strips, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Diagonal stair panes and background strips, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Diagonal stair panes and background strips, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Fine outline fragment beside Diagonal stair panes and background strips, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Figure's curled hair and separate strands, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Small closed eye crescent, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Small closed eye crescent, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Diagonal stair panes and background strips, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Diagonal stair panes and background strips, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Figure's curled hair and separate strands, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Round details in the diagonal rail, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Fine outline fragment beside Diagonal stair panes and background strips, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Diagonal stair panes and background strips, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Narrow enclosed hair-curl slit, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Narrow enclosed hair-curl slit, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Narrow enclosed hair-curl slit, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Narrow enclosed hair-curl slit, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Narrow enclosed hair-curl slit, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Tiny inner ear curl, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Narrow enclosed hair-curl slit, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Diagonal stair panes and background strips, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Figure's curled hair and separate strands, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Figure's curled hair and separate strands, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Figure's curled hair and separate strands, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Round details in the diagonal rail, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Figure's curled hair and separate strands, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Diagonal stair panes and background strips, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Garment folds and body-side strips, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Diagonal stair panes and background strips, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Diagonal stair panes and background strips, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Diagonal stair panes and background strips, retained section 120",
+      "order": 120
+    },
+    {
+      "id": 121,
+      "name": "Fine outline fragment beside Diagonal stair panes and background strips, retained section 121",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Hand resting on the chest, retained section 122",
+      "order": 122
+    },
+    {
+      "id": 123,
+      "name": "Fine outline fragment beside Diagonal stair panes and background strips, retained section 123",
+      "order": 123
+    },
+    {
+      "id": 124,
+      "name": "Round details in the diagonal rail, retained section 124",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Fine outline fragment beside Diagonal stair panes and background strips, retained section 125",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Fine outline fragment beside Diagonal stair panes and background strips, retained section 126",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Garment folds and body-side strips, retained section 127",
+      "order": 127
+    },
+    {
+      "id": 128,
+      "name": "Garment folds and body-side strips, retained section 128",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Garment folds and body-side strips, retained section 129",
+      "order": 129
+    },
+    {
+      "id": 130,
+      "name": "Garment folds and body-side strips, retained section 130",
+      "order": 130
+    },
+    {
+      "id": 131,
+      "name": "Curved background bands to the figure's right, retained section 131",
+      "order": 131
+    },
+    {
+      "id": 132,
+      "name": "Garment folds and body-side strips, retained section 132",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Curved background bands to the figure's right, retained section 133",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Fine outline fragment beside Garment folds and body-side strips, retained section 134",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Garment folds and body-side strips, retained section 135",
+      "order": 135
+    },
+    {
+      "id": 136,
+      "name": "Fine outline fragment beside Hand resting on the chest, retained section 136",
+      "order": 136
+    },
+    {
+      "id": 137,
+      "name": "Garment folds and body-side strips, retained section 137",
+      "order": 137
+    },
+    {
+      "id": 138,
+      "name": "Garment folds and body-side strips, retained section 138",
+      "order": 138
+    },
+    {
+      "id": 139,
+      "name": "Curved background bands to the figure's right, retained section 139",
+      "order": 139
+    },
+    {
+      "id": 140,
+      "name": "Garment folds and body-side strips, retained section 140",
+      "order": 140
+    },
+    {
+      "id": 141,
+      "name": "Garment folds and body-side strips, retained section 141",
+      "order": 141
+    },
+    {
+      "id": 142,
+      "name": "Curled lower-left ornament and background, retained section 142",
+      "order": 142
+    },
+    {
+      "id": 143,
+      "name": "Curved background bands to the figure's right, retained section 143",
+      "order": 143
+    },
+    {
+      "id": 144,
+      "name": "Fine outline fragment beside Curved background bands to the figure's right, retained section 144",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Curled lower-left ornament and background, retained section 145",
+      "order": 145
+    },
+    {
+      "id": 146,
+      "name": "Curved background bands to the figure's right, retained section 146",
+      "order": 146
+    },
+    {
+      "id": 147,
+      "name": "Curled lower-left ornament and background, retained section 147",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Curved background bands to the figure's right, retained section 148",
+      "order": 148
+    },
+    {
+      "id": 149,
+      "name": "Curved background bands to the figure's right, retained section 149",
+      "order": 149
+    },
+    {
+      "id": 150,
+      "name": "Curved background bands to the figure's right, retained section 150",
+      "order": 150
+    },
+    {
+      "id": 151,
+      "name": "Fine outline fragment beside Curled lower-left ornament and background, retained section 151",
+      "order": 151
+    },
+    {
+      "id": 152,
+      "name": "Curled lower-left ornament and background, retained section 152",
+      "order": 152
+    },
+    {
+      "id": 153,
+      "name": "Curled lower-left ornament and background, retained section 153",
+      "order": 153
+    },
+    {
+      "id": 154,
+      "name": "Curved background bands to the figure's right, retained section 154",
+      "order": 154
+    },
+    {
+      "id": 155,
+      "name": "Curled lower-left ornament and background, retained section 155",
+      "order": 155
+    },
+    {
+      "id": 156,
+      "name": "Lower wrist band, retained section 156",
+      "order": 156
+    },
+    {
+      "id": 157,
+      "name": "Pot rim and opening, retained section 157",
+      "order": 157
+    },
+    {
+      "id": 158,
+      "name": "Pot rim and opening, retained section 158",
+      "order": 158
+    },
+    {
+      "id": 159,
+      "name": "Lower hand and fingers, retained section 159",
+      "order": 159
+    },
+    {
+      "id": 160,
+      "name": "Background spaces around the pot and lower hand, retained section 160",
+      "order": 160
+    },
+    {
+      "id": 161,
+      "name": "Background spaces around the pot and lower hand, retained section 161",
+      "order": 161
+    },
+    {
+      "id": 162,
+      "name": "Pot body and geometric decorations, retained section 162",
+      "order": 162
+    },
+    {
+      "id": 163,
+      "name": "Background spaces around the pot and lower hand, retained section 163",
+      "order": 163
+    },
+    {
+      "id": 164,
+      "name": "Background spaces around the pot and lower hand, retained section 164",
+      "order": 164
+    },
+    {
+      "id": 165,
+      "name": "Background spaces around the pot and lower hand, retained section 165",
+      "order": 165
+    },
+    {
+      "id": 166,
+      "name": "Pot body and geometric decorations, retained section 166",
+      "order": 166
+    },
+    {
+      "id": 167,
+      "name": "Pot body and geometric decorations, retained section 167",
+      "order": 167
+    },
+    {
+      "id": 168,
+      "name": "Pot body and geometric decorations, retained section 168",
+      "order": 168
+    },
+    {
+      "id": 169,
+      "name": "Pot body and geometric decorations, retained section 169",
+      "order": 169
+    },
+    {
+      "id": 170,
+      "name": "Pot body and geometric decorations, retained section 170",
+      "order": 170
+    },
+    {
+      "id": 171,
+      "name": "Pot body and geometric decorations, retained section 171",
+      "order": 171
+    },
+    {
+      "id": 172,
+      "name": "Pot body and geometric decorations, retained section 172",
+      "order": 172
+    },
+    {
+      "id": 173,
+      "name": "Pot body and geometric decorations, retained section 173",
+      "order": 173
+    },
+    {
+      "id": 174,
+      "name": "Background spaces around the pot and lower hand, retained section 174",
+      "order": 174
+    },
+    {
+      "id": 175,
+      "name": "Fine outline fragment beside Pot body and geometric decorations, retained section 175",
+      "order": 175
+    },
+    {
+      "id": 176,
+      "name": "Pot body and geometric decorations, retained section 176",
+      "order": 176
+    },
+    {
+      "id": 177,
+      "name": "Pot body and geometric decorations, retained section 177",
+      "order": 177
+    },
+    {
+      "id": 178,
+      "name": "Pot body and geometric decorations, retained section 178",
+      "order": 178
+    },
+    {
+      "id": 179,
+      "name": "Fine outline fragment beside Curled lower-left ornament and background, retained section 179",
+      "order": 179
+    },
+    {
+      "id": 180,
+      "name": "Pot body and geometric decorations, retained section 180",
+      "order": 180
+    },
+    {
+      "id": 181,
+      "name": "Pot body and geometric decorations, retained section 181",
+      "order": 181
+    },
+    {
+      "id": 182,
+      "name": "Pot body and geometric decorations, retained section 182",
+      "order": 182
+    },
+    {
+      "id": 183,
+      "name": "Background spaces around the pot and lower hand, retained section 183",
+      "order": 183
+    }
+  ],
+  "schemaVersion": 1
+}

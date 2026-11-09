@@ -1,0 +1,1172 @@
+{
+  "artworkId": "design-041",
+  "contentVersion": "f8a5eff2b1bb79423b1a4acdf848cf0c5182930a0eace824f080367dd8c13cb0",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper halo and surrounding background fields, top left section 9",
+      "order": 60
+    },
+    {
+      "id": 2,
+      "name": "Upper halo and surrounding background fields, top left section 6",
+      "order": 57
+    },
+    {
+      "id": 3,
+      "name": "Upper halo and surrounding background fields, top left section 2",
+      "order": 53
+    },
+    {
+      "id": 4,
+      "name": "Upper halo and surrounding background fields, top center section 1",
+      "order": 52
+    },
+    {
+      "id": 5,
+      "name": "Upper halo and surrounding background fields, top center section 5",
+      "order": 56
+    },
+    {
+      "id": 6,
+      "name": "Upper halo and surrounding background fields, top right section 3",
+      "order": 54
+    },
+    {
+      "id": 7,
+      "name": "Upper halo and surrounding background fields, top right section 4",
+      "order": 55
+    },
+    {
+      "id": 8,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 1",
+      "order": 32
+    },
+    {
+      "id": 9,
+      "name": "Upper halo and surrounding background fields, top center section 7",
+      "order": 58
+    },
+    {
+      "id": 10,
+      "name": "Upper halo and surrounding background fields, top left section 8",
+      "order": 59
+    },
+    {
+      "id": 11,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 2",
+      "order": 33
+    },
+    {
+      "id": 12,
+      "name": "Upper figure's face and beard",
+      "order": 1
+    },
+    {
+      "id": 13,
+      "name": "Upper head's hair curls and small enclosed panes, top left section 4",
+      "order": 35
+    },
+    {
+      "id": 14,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 3",
+      "order": 34
+    },
+    {
+      "id": 15,
+      "name": "Upper head's hair curls and small enclosed panes, top left section 6",
+      "order": 37
+    },
+    {
+      "id": 16,
+      "name": "Curved flag and cross bands, top right section 1",
+      "order": 71
+    },
+    {
+      "id": 17,
+      "name": "Curved flag and cross bands, top right section 3",
+      "order": 73
+    },
+    {
+      "id": 18,
+      "name": "Curved flag and cross bands, top right section 2",
+      "order": 72
+    },
+    {
+      "id": 19,
+      "name": "Upper figure's right iris crescent",
+      "order": 2
+    },
+    {
+      "id": 20,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 5",
+      "order": 36
+    },
+    {
+      "id": 21,
+      "name": "Upper halo and surrounding background fields, top left section 11",
+      "order": 62
+    },
+    {
+      "id": 22,
+      "name": "Upper figure's left eye-white pane",
+      "order": 3
+    },
+    {
+      "id": 23,
+      "name": "Upper halo and surrounding background fields, top center section 10",
+      "order": 61
+    },
+    {
+      "id": 24,
+      "name": "Upper halo and surrounding background fields, top left section 12",
+      "order": 63
+    },
+    {
+      "id": 25,
+      "name": "Curved flag and cross bands, top right section 4",
+      "order": 74
+    },
+    {
+      "id": 26,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 7",
+      "order": 38
+    },
+    {
+      "id": 27,
+      "name": "Upper head's hair curls and small enclosed panes, top right section 8",
+      "order": 39
+    },
+    {
+      "id": 28,
+      "name": "Upper head's hair curls and small enclosed panes, top left section 10",
+      "order": 41
+    },
+    {
+      "id": 29,
+      "name": "Upper figure's small nostril",
+      "order": 4
+    },
+    {
+      "id": 30,
+      "name": "Upper head's hair curls and small enclosed panes, upper-middle right section 20",
+      "order": 51
+    },
+    {
+      "id": 31,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 9",
+      "order": 40
+    },
+    {
+      "id": 32,
+      "name": "Upper figure's enclosed ear and hair-side details, top center section 1",
+      "order": 6
+    },
+    {
+      "id": 33,
+      "name": "Upper figure's closed lip opening",
+      "order": 5
+    },
+    {
+      "id": 34,
+      "name": "Upper figure's enclosed ear and hair-side details, top left section 2",
+      "order": 7
+    },
+    {
+      "id": 35,
+      "name": "Upper figure's enclosed ear and hair-side details, top left section 3",
+      "order": 8
+    },
+    {
+      "id": 36,
+      "name": "Curved flag and cross bands, top right section 5",
+      "order": 75
+    },
+    {
+      "id": 37,
+      "name": "Upper figure's enclosed ear and hair-side details, upper-middle right section 5",
+      "order": 10
+    },
+    {
+      "id": 38,
+      "name": "Upper halo and surrounding background fields, top left section 13",
+      "order": 64
+    },
+    {
+      "id": 39,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 11",
+      "order": 42
+    },
+    {
+      "id": 40,
+      "name": "Upper head's surrounding enclosed panes",
+      "order": 192
+    },
+    {
+      "id": 41,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 12",
+      "order": 43
+    },
+    {
+      "id": 42,
+      "name": "Upper figure's enclosed ear and hair-side details, top center section 4",
+      "order": 9
+    },
+    {
+      "id": 43,
+      "name": "Upper head's hair curls and small enclosed panes, top left section 13",
+      "order": 44
+    },
+    {
+      "id": 44,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 14",
+      "order": 45
+    },
+    {
+      "id": 45,
+      "name": "Upper head's hair curls and small enclosed panes, upper-middle left section 16",
+      "order": 47
+    },
+    {
+      "id": 46,
+      "name": "Upper halo and surrounding background fields, upper-middle right section 15",
+      "order": 66
+    },
+    {
+      "id": 47,
+      "name": "Curved flag and cross bands, upper-middle center section 6",
+      "order": 76
+    },
+    {
+      "id": 48,
+      "name": "Upper figure's raised hand and fingers, upper-middle left section 7",
+      "order": 19
+    },
+    {
+      "id": 49,
+      "name": "Upper figure's neck and collar, upper-middle center section 1",
+      "order": 11
+    },
+    {
+      "id": 50,
+      "name": "Upper head's hair curls and small enclosed panes, upper-middle center section 17",
+      "order": 48
+    },
+    {
+      "id": 51,
+      "name": "Upper head's hair curls and small enclosed panes, top center section 15",
+      "order": 46
+    },
+    {
+      "id": 52,
+      "name": "Upper head's hair curls and small enclosed panes, upper-middle left section 18",
+      "order": 49
+    },
+    {
+      "id": 53,
+      "name": "Upper figure's raised hand and fingers, upper-middle left section 2",
+      "order": 14
+    },
+    {
+      "id": 54,
+      "name": "Upper figure's raised hand and fingers, upper-middle left section 1",
+      "order": 13
+    },
+    {
+      "id": 55,
+      "name": "Upper figure's robe chest sash and sleeves, upper-middle center section 3",
+      "order": 22
+    },
+    {
+      "id": 56,
+      "name": "Upper figure's raised hand and fingers, upper-middle left section 4",
+      "order": 16
+    },
+    {
+      "id": 57,
+      "name": "Upper figure's robe chest sash and sleeves, upper-middle center section 5",
+      "order": 24
+    },
+    {
+      "id": 58,
+      "name": "Upper halo and surrounding background fields, upper-middle left section 17",
+      "order": 68
+    },
+    {
+      "id": 59,
+      "name": "Upper figure's raised hand and fingers, upper-middle left section 3",
+      "order": 15
+    },
+    {
+      "id": 60,
+      "name": "Upper halo and surrounding background fields, upper-middle right section 14",
+      "order": 65
+    },
+    {
+      "id": 61,
+      "name": "Upper figure's raised hand and fingers, upper-middle left section 5",
+      "order": 17
+    },
+    {
+      "id": 62,
+      "name": "Upper head's hair curls and small enclosed panes, upper-middle left section 19",
+      "order": 50
+    },
+    {
+      "id": 63,
+      "name": "Upper halo and surrounding background fields, upper-middle right section 16",
+      "order": 67
+    },
+    {
+      "id": 64,
+      "name": "Upper figure's robe chest sash and sleeves, upper-middle center section 7",
+      "order": 26
+    },
+    {
+      "id": 65,
+      "name": "Upper figure's robe chest sash and sleeves, upper-middle center section 1",
+      "order": 20
+    },
+    {
+      "id": 66,
+      "name": "Upper figure's neck and collar, upper-middle center section 2",
+      "order": 12
+    },
+    {
+      "id": 67,
+      "name": "Upper figure's raised hand and fingers, upper-middle left section 6",
+      "order": 18
+    },
+    {
+      "id": 68,
+      "name": "Upper figure's robe chest sash and sleeves, upper-middle center section 2",
+      "order": 21
+    },
+    {
+      "id": 69,
+      "name": "Curved flag and cross bands, upper-middle right section 7",
+      "order": 77
+    },
+    {
+      "id": 70,
+      "name": "Upper cloak and flag's enclosed edge panes, upper-middle right section 1",
+      "order": 193
+    },
+    {
+      "id": 71,
+      "name": "Upper figure's robe chest sash and sleeves, lower-middle left section 8",
+      "order": 27
+    },
+    {
+      "id": 72,
+      "name": "Upper halo and surrounding background fields, upper-middle left section 18",
+      "order": 69
+    },
+    {
+      "id": 73,
+      "name": "Upper cloak and flag's enclosed edge panes, lower-middle right section 2",
+      "order": 194
+    },
+    {
+      "id": 74,
+      "name": "Curved flag and cross bands, upper-middle right section 8",
+      "order": 78
+    },
+    {
+      "id": 75,
+      "name": "Upper figure's robe chest sash and sleeves, upper-middle left section 6",
+      "order": 25
+    },
+    {
+      "id": 76,
+      "name": "Upper figure's robe chest sash and sleeves, upper-middle center section 4",
+      "order": 23
+    },
+    {
+      "id": 77,
+      "name": "Curved flag and cross bands, lower-middle right section 10",
+      "order": 80
+    },
+    {
+      "id": 78,
+      "name": "Curved flag and cross bands, upper-middle right section 9",
+      "order": 79
+    },
+    {
+      "id": 79,
+      "name": "Curved flag and cross bands, lower-middle right section 11",
+      "order": 81
+    },
+    {
+      "id": 80,
+      "name": "Upper figure's robe chest sash and sleeves, lower-middle center section 9",
+      "order": 28
+    },
+    {
+      "id": 81,
+      "name": "Upper halo and surrounding background fields, lower-middle left section 19",
+      "order": 70
+    },
+    {
+      "id": 82,
+      "name": "Curved flag and cross bands, lower-middle right section 13",
+      "order": 83
+    },
+    {
+      "id": 83,
+      "name": "Curved flag and cross bands, lower-middle right section 12",
+      "order": 82
+    },
+    {
+      "id": 84,
+      "name": "Upper figure's robe chest sash and sleeves, lower-middle center section 10",
+      "order": 29
+    },
+    {
+      "id": 85,
+      "name": "Upper figure's robe chest sash and sleeves, lower-middle center section 11",
+      "order": 30
+    },
+    {
+      "id": 86,
+      "name": "Curved flag and cross bands, lower-middle right section 14",
+      "order": 84
+    },
+    {
+      "id": 87,
+      "name": "Upper figure's robe chest sash and sleeves, lower-middle center section 12",
+      "order": 31
+    },
+    {
+      "id": 88,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle left section 4",
+      "order": 177
+    },
+    {
+      "id": 89,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle left section 1",
+      "order": 174
+    },
+    {
+      "id": 90,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle center section 2",
+      "order": 175
+    },
+    {
+      "id": 91,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 8",
+      "order": 133
+    },
+    {
+      "id": 92,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 1",
+      "order": 126
+    },
+    {
+      "id": 93,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 6",
+      "order": 95
+    },
+    {
+      "id": 94,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle center section 2",
+      "order": 127
+    },
+    {
+      "id": 95,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle center section 3",
+      "order": 176
+    },
+    {
+      "id": 96,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 18",
+      "order": 143
+    },
+    {
+      "id": 97,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 5",
+      "order": 130
+    },
+    {
+      "id": 98,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 4",
+      "order": 129
+    },
+    {
+      "id": 99,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 2",
+      "order": 91
+    },
+    {
+      "id": 100,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 11",
+      "order": 136
+    },
+    {
+      "id": 101,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle center section 5",
+      "order": 94
+    },
+    {
+      "id": 102,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 3",
+      "order": 128
+    },
+    {
+      "id": 103,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 1",
+      "order": 90
+    },
+    {
+      "id": 104,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 4",
+      "order": 93
+    },
+    {
+      "id": 105,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle center section 10",
+      "order": 135
+    },
+    {
+      "id": 106,
+      "name": "Lower left figure's face and neck",
+      "order": 85
+    },
+    {
+      "id": 107,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle right section 3",
+      "order": 92
+    },
+    {
+      "id": 108,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 6",
+      "order": 131
+    },
+    {
+      "id": 109,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 7",
+      "order": 96
+    },
+    {
+      "id": 110,
+      "name": "Lower right figure's profile and beard, lower-middle right section 1",
+      "order": 122
+    },
+    {
+      "id": 111,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 7",
+      "order": 132
+    },
+    {
+      "id": 112,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 16",
+      "order": 141
+    },
+    {
+      "id": 113,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 8",
+      "order": 97
+    },
+    {
+      "id": 114,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 9",
+      "order": 134
+    },
+    {
+      "id": 115,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle center section 5",
+      "order": 178
+    },
+    {
+      "id": 116,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle left section 14",
+      "order": 139
+    },
+    {
+      "id": 117,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle left section 6",
+      "order": 179
+    },
+    {
+      "id": 118,
+      "name": "Lower right figure's two eye highlights, lower-middle right section 1",
+      "order": 124
+    },
+    {
+      "id": 119,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle left section 13",
+      "order": 138
+    },
+    {
+      "id": 120,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 12",
+      "order": 137
+    },
+    {
+      "id": 121,
+      "name": "Lower right figure's two eye highlights, lower-middle right section 2",
+      "order": 125
+    },
+    {
+      "id": 122,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 17",
+      "order": 142
+    },
+    {
+      "id": 123,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle center section 7",
+      "order": 180
+    },
+    {
+      "id": 124,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 15",
+      "order": 140
+    },
+    {
+      "id": 125,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 11",
+      "order": 100
+    },
+    {
+      "id": 126,
+      "name": "Lower left figure's left iris crescent",
+      "order": 86
+    },
+    {
+      "id": 127,
+      "name": "Lower left figure's right eye-white pane",
+      "order": 87
+    },
+    {
+      "id": 128,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 9",
+      "order": 98
+    },
+    {
+      "id": 129,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle center section 8",
+      "order": 181
+    },
+    {
+      "id": 130,
+      "name": "Hat beard and collar's enclosed details",
+      "order": 195
+    },
+    {
+      "id": 131,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 19",
+      "order": 144
+    },
+    {
+      "id": 132,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 21",
+      "order": 146
+    },
+    {
+      "id": 133,
+      "name": "Lower left figure's closed lip slit",
+      "order": 88
+    },
+    {
+      "id": 134,
+      "name": "Layered middle divider and background behind the lower figures, lower-middle center section 9",
+      "order": 182
+    },
+    {
+      "id": 135,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 10",
+      "order": 99
+    },
+    {
+      "id": 136,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 12",
+      "order": 101
+    },
+    {
+      "id": 137,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 14",
+      "order": 103
+    },
+    {
+      "id": 138,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 20",
+      "order": 145
+    },
+    {
+      "id": 139,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle right section 13",
+      "order": 102
+    },
+    {
+      "id": 140,
+      "name": "Lower left figure's curls and surrounding halo, lower-middle left section 15",
+      "order": 104
+    },
+    {
+      "id": 141,
+      "name": "Lower right figure's hat outer rim and fields, lower-middle right section 22",
+      "order": 147
+    },
+    {
+      "id": 142,
+      "name": "Lower right figure's hat outer rim and fields, bottom right section 26",
+      "order": 151
+    },
+    {
+      "id": 143,
+      "name": "Lower right figure's hat outer rim and fields, bottom right section 24",
+      "order": 149
+    },
+    {
+      "id": 144,
+      "name": "Lower left figure's enclosed ear crescent",
+      "order": 89
+    },
+    {
+      "id": 145,
+      "name": "Lower right figure's hat outer rim and fields, bottom right section 25",
+      "order": 150
+    },
+    {
+      "id": 146,
+      "name": "Lower right figure's hat outer rim and fields, bottom right section 23",
+      "order": 148
+    },
+    {
+      "id": 147,
+      "name": "Lower right figure's hat outer rim and fields, bottom right section 27",
+      "order": 152
+    },
+    {
+      "id": 148,
+      "name": "Layered middle divider and background behind the lower figures, bottom center section 11",
+      "order": 184
+    },
+    {
+      "id": 149,
+      "name": "Layered middle divider and background behind the lower figures, bottom left section 10",
+      "order": 183
+    },
+    {
+      "id": 150,
+      "name": "Lower left figure's curls and surrounding halo, bottom left section 17",
+      "order": 106
+    },
+    {
+      "id": 151,
+      "name": "Lower left figure's collar robe and folded arm, bottom left section 3",
+      "order": 109
+    },
+    {
+      "id": 152,
+      "name": "Lower right figure's praying hands",
+      "order": 153
+    },
+    {
+      "id": 153,
+      "name": "Lower left figure's collar robe and folded arm, bottom left section 2",
+      "order": 108
+    },
+    {
+      "id": 154,
+      "name": "Lower right figure's neck and collar, bottom right section 1",
+      "order": 154
+    },
+    {
+      "id": 155,
+      "name": "Lower left figure's curls and surrounding halo, bottom left section 16",
+      "order": 105
+    },
+    {
+      "id": 156,
+      "name": "Lower right figure's profile and beard, bottom right section 2",
+      "order": 123
+    },
+    {
+      "id": 157,
+      "name": "Layered middle divider and background behind the lower figures, bottom right section 18",
+      "order": 191
+    },
+    {
+      "id": 158,
+      "name": "Layered middle divider and background behind the lower figures, bottom left section 12",
+      "order": 185
+    },
+    {
+      "id": 159,
+      "name": "Layered middle divider and background behind the lower figures, bottom left section 16",
+      "order": 189
+    },
+    {
+      "id": 160,
+      "name": "Small closed gap in the diagonal ornament",
+      "order": 173
+    },
+    {
+      "id": 161,
+      "name": "Layered middle divider and background behind the lower figures, bottom center section 13",
+      "order": 186
+    },
+    {
+      "id": 162,
+      "name": "Lower left figure's collar robe and folded arm, bottom center section 5",
+      "order": 111
+    },
+    {
+      "id": 163,
+      "name": "Lower left figure's collar robe and folded arm, bottom left section 1",
+      "order": 107
+    },
+    {
+      "id": 164,
+      "name": "Lower right figure's neck and collar, bottom right section 2",
+      "order": 155
+    },
+    {
+      "id": 165,
+      "name": "Lower right figure's feather-like cape, bottom right section 1",
+      "order": 157
+    },
+    {
+      "id": 166,
+      "name": "Layered middle divider and background behind the lower figures, bottom left section 14",
+      "order": 187
+    },
+    {
+      "id": 167,
+      "name": "Layered middle divider and background behind the lower figures, bottom left section 15",
+      "order": 188
+    },
+    {
+      "id": 168,
+      "name": "Lower left figure's collar robe and folded arm, bottom center section 13",
+      "order": 119
+    },
+    {
+      "id": 169,
+      "name": "Lower left figure's small sleeve corner",
+      "order": 121
+    },
+    {
+      "id": 170,
+      "name": "Lower left figure's collar robe and folded arm, bottom left section 11",
+      "order": 117
+    },
+    {
+      "id": 171,
+      "name": "Lower left figure's collar robe and folded arm, bottom left section 4",
+      "order": 110
+    },
+    {
+      "id": 172,
+      "name": "Lower right figure's neck and collar, bottom right section 3",
+      "order": 156
+    },
+    {
+      "id": 173,
+      "name": "Lower left figure's collar robe and folded arm, bottom center section 10",
+      "order": 116
+    },
+    {
+      "id": 174,
+      "name": "Lower left garments and small border panes, bottom left section 1",
+      "order": 196
+    },
+    {
+      "id": 175,
+      "name": "Lower right figure's beaded cape strap, bottom right section 1",
+      "order": 159
+    },
+    {
+      "id": 176,
+      "name": "Lower right figure's feather-like cape, bottom right section 2",
+      "order": 158
+    },
+    {
+      "id": 177,
+      "name": "Layered middle divider and background behind the lower figures, bottom right section 17",
+      "order": 190
+    },
+    {
+      "id": 178,
+      "name": "Lower left figure's collar robe and folded arm, bottom left section 7",
+      "order": 113
+    },
+    {
+      "id": 179,
+      "name": "Lower left garments and small border panes, bottom left section 2",
+      "order": 197
+    },
+    {
+      "id": 180,
+      "name": "Lower right figure's beaded cape strap, bottom right section 2",
+      "order": 160
+    },
+    {
+      "id": 181,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 1",
+      "order": 210
+    },
+    {
+      "id": 182,
+      "name": "Lower right figure's beaded cape strap, bottom right section 3",
+      "order": 161
+    },
+    {
+      "id": 183,
+      "name": "Lower left figure's collar robe and folded arm, bottom right section 6",
+      "order": 112
+    },
+    {
+      "id": 184,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 2",
+      "order": 211
+    },
+    {
+      "id": 185,
+      "name": "Lower right figure's beaded cape strap, bottom right section 5",
+      "order": 163
+    },
+    {
+      "id": 186,
+      "name": "Lower right figure's beaded cape strap, bottom right section 4",
+      "order": 162
+    },
+    {
+      "id": 187,
+      "name": "Lower right figure's beaded cape strap, bottom right section 10",
+      "order": 168
+    },
+    {
+      "id": 188,
+      "name": "Lower left figure's collar robe and folded arm, bottom right section 8",
+      "order": 114
+    },
+    {
+      "id": 189,
+      "name": "Lower right figure's beaded cape strap, bottom right section 6",
+      "order": 164
+    },
+    {
+      "id": 190,
+      "name": "Lower right figure's beaded cape strap, bottom right section 7",
+      "order": 165
+    },
+    {
+      "id": 191,
+      "name": "Lower left figure's collar robe and folded arm, bottom right section 9",
+      "order": 115
+    },
+    {
+      "id": 192,
+      "name": "Lower right figure's beaded cape strap, bottom right section 9",
+      "order": 167
+    },
+    {
+      "id": 193,
+      "name": "Lower right figure's beaded cape strap, bottom left section 12",
+      "order": 170
+    },
+    {
+      "id": 194,
+      "name": "Lower left figure's collar robe and folded arm, bottom left section 12",
+      "order": 118
+    },
+    {
+      "id": 195,
+      "name": "Cape scales and enclosed hem interstices, bottom center section 5",
+      "order": 214
+    },
+    {
+      "id": 196,
+      "name": "Lower right figure's beaded cape strap, bottom right section 8",
+      "order": 166
+    },
+    {
+      "id": 197,
+      "name": "Lower left garments and small border panes, bottom left section 5",
+      "order": 200
+    },
+    {
+      "id": 198,
+      "name": "Lower left garments and small border panes, bottom center section 7",
+      "order": 202
+    },
+    {
+      "id": 199,
+      "name": "Lower left garments and small border panes, bottom left section 4",
+      "order": 199
+    },
+    {
+      "id": 200,
+      "name": "Lower left garments and small border panes, bottom left section 6",
+      "order": 201
+    },
+    {
+      "id": 201,
+      "name": "Lower right figure's beaded cape strap, bottom right section 11",
+      "order": 169
+    },
+    {
+      "id": 202,
+      "name": "Lower left garments and small border panes, bottom left section 3",
+      "order": 198
+    },
+    {
+      "id": 203,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 3",
+      "order": 212
+    },
+    {
+      "id": 204,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 4",
+      "order": 213
+    },
+    {
+      "id": 205,
+      "name": "Lower right figure's beaded cape strap, bottom right section 13",
+      "order": 171
+    },
+    {
+      "id": 206,
+      "name": "Lower right figure's beaded cape strap, bottom right section 14",
+      "order": 172
+    },
+    {
+      "id": 207,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 12",
+      "order": 221
+    },
+    {
+      "id": 208,
+      "name": "Cape scales and enclosed hem interstices, bottom center section 8",
+      "order": 217
+    },
+    {
+      "id": 209,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 6",
+      "order": 215
+    },
+    {
+      "id": 210,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 7",
+      "order": 216
+    },
+    {
+      "id": 211,
+      "name": "Lower left garments and small border panes, bottom left section 9",
+      "order": 204
+    },
+    {
+      "id": 212,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 9",
+      "order": 218
+    },
+    {
+      "id": 213,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 10",
+      "order": 219
+    },
+    {
+      "id": 214,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 14",
+      "order": 223
+    },
+    {
+      "id": 215,
+      "name": "Cape scales and enclosed hem interstices, bottom center section 11",
+      "order": 220
+    },
+    {
+      "id": 216,
+      "name": "Lower left figure's collar robe and folded arm, bottom left section 14",
+      "order": 120
+    },
+    {
+      "id": 217,
+      "name": "Lower left garments and small border panes, bottom left section 8",
+      "order": 203
+    },
+    {
+      "id": 218,
+      "name": "Lower left garments and small border panes, bottom left section 10",
+      "order": 205
+    },
+    {
+      "id": 219,
+      "name": "Lower left garments and small border panes, bottom left section 11",
+      "order": 206
+    },
+    {
+      "id": 220,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 16",
+      "order": 225
+    },
+    {
+      "id": 221,
+      "name": "Cape scales and enclosed hem interstices, bottom center section 13",
+      "order": 222
+    },
+    {
+      "id": 222,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 15",
+      "order": 224
+    },
+    {
+      "id": 223,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 17",
+      "order": 226
+    },
+    {
+      "id": 224,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 18",
+      "order": 227
+    },
+    {
+      "id": 225,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 20",
+      "order": 229
+    },
+    {
+      "id": 226,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 19",
+      "order": 228
+    },
+    {
+      "id": 227,
+      "name": "Lower left garments and small border panes, bottom left section 12",
+      "order": 207
+    },
+    {
+      "id": 228,
+      "name": "Lower left garments and small border panes, bottom left section 14",
+      "order": 209
+    },
+    {
+      "id": 229,
+      "name": "Lower left garments and small border panes, bottom left section 13",
+      "order": 208
+    },
+    {
+      "id": 230,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 22",
+      "order": 231
+    },
+    {
+      "id": 231,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 21",
+      "order": 230
+    },
+    {
+      "id": 232,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 23",
+      "order": 232
+    },
+    {
+      "id": 233,
+      "name": "Cape scales and enclosed hem interstices, bottom right section 24",
+      "order": 233
+    }
+  ],
+  "schemaVersion": 1
+}

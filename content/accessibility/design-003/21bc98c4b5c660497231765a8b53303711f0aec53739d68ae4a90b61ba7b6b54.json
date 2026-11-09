@@ -1,0 +1,387 @@
+{
+  "artworkId": "design-003",
+  "contentVersion": "21bc98c4b5c660497231765a8b53303711f0aec53739d68ae4a90b61ba7b6b54",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Rectangular frame, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Background around the upper-left shape, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Wide curved band left of the zigzag, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Narrow zigzag band across the top, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Triangle at the upper-right corner, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Background between the zigzag and dotted arch, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Large rounded shape at the upper left, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Curved band containing the fifteen dots, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Arch dot 4 from the upper right, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Arch dot 3 from the upper right, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Arch dot 5 from the upper right, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Arch dot 2 from the upper right, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Arch dot 6 from the upper right, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Arch dot 1 at the upper right, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Arch dot 7 from the upper right, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Arch dot 8 from the upper right, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Small top wave beneath the dotted arch, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Second wave beneath the dotted arch, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Arch dot 9 from the upper right, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Pointed pane at the lower left inside the arch, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Arch dot 10 from the upper right, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Middle wave inside the arch, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Arch dot 11 from the upper right, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Arch dot 12 from the upper right, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Lower wave inside the arch, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Arch dot 13 from the upper right, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Thin sloping band beneath the dotted arch, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Arch dot 14 from the upper right, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Wide wave above the two curling crests, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Small bottom-right wave inside the arch, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Arch dot 15 at the lower left, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Small left-edge pane above the curling wave, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Thin wave with two curling crests, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Wide wave below the two curling crests, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Fine outline fragment beside Wide wave below the two curling crests, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Fine outline fragment beside Wide wave below the two curling crests, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Narrow wave immediately above the fish, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Thick rim of the fish's open mouth, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Fish body and head, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Background to the right of the fish's mouth, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Broad wave above the fish's back, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Inner crescent of the fish's open mouth, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Fine outline fragment beside Thick rim of the fish's open mouth, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Thin wave to the upper left of the fish, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Outer ring of the fish's eye, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Center of the fish's eye, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Thin wave to the right of the fish's head, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Large background pane to the left of the fish, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Fine outline fragment beside Fish body and head, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Narrow wavy strip along the fish's back, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Large background pane to the right of the fish, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Fine outline fragment beside Upper small pane along the fish's back, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Upper small pane along the fish's back, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Fine outline fragment beside Large background pane to the right of the fish, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Fin on the fish's body, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Middle small pane along the fish's back, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Lower small pane along the fish's back, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Narrow rim along the fish's lower fin, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Fish's lower fin, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Broad diagonal band crossing the fish, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Thin wave beneath the fish's lower fin, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Wide wave below the fish on the right, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Fine outline fragment beside Fish's lower fin, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Fine outline fragment beside Broad diagonal band crossing the fish, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Long pointed pane at the lower left, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Small left-edge pane beside the long point, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Forked pane at the lower left, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Wide wave across the lower right, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Fine outline fragment beside Forked pane at the lower left, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Fine outline fragment beside Forked pane at the lower left, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Curved strip rising from the bottom left, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Narrow wave above the bottom bands, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Small pane at the bottom-left corner, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Thin curved band near the bottom right, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Pane at the bottom-right corner, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Small pane along the bottom edge left of center, retained section 76",
+      "order": 76
+    }
+  ],
+  "schemaVersion": 1
+}

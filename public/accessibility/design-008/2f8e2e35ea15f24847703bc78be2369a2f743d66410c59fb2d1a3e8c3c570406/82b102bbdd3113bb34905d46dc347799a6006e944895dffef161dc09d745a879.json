@@ -1,0 +1,252 @@
+{
+  "artworkId": "design-008",
+  "contentVersion": "2f8e2e35ea15f24847703bc78be2369a2f743d66410c59fb2d1a3e8c3c570406",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Outer frame and curved dividing bars",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Left background around the long curled shape",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Background around the upper figure",
+      "order": 8
+    },
+    {
+      "id": 4,
+      "name": "Upper-right background around the curled strip",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Curled strip at the upper right",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Pane inside the upper-right curled strip",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Long curled shape along the left edge",
+      "order": 3
+    },
+    {
+      "id": 8,
+      "name": "Upper figure's long hair",
+      "order": 9
+    },
+    {
+      "id": 9,
+      "name": "Upper figure's face and neck",
+      "order": 12
+    },
+    {
+      "id": 10,
+      "name": "Upper figure's raised arm, hand and straight finger",
+      "order": 14
+    },
+    {
+      "id": 11,
+      "name": "Upper bent finger beside the straight finger",
+      "order": 15
+    },
+    {
+      "id": 12,
+      "name": "Middle bent finger",
+      "order": 16
+    },
+    {
+      "id": 13,
+      "name": "Lower bent finger",
+      "order": 17
+    },
+    {
+      "id": 14,
+      "name": "Small lowest fingertip",
+      "order": 18
+    },
+    {
+      "id": 15,
+      "name": "Small pane behind the upper figure's neck",
+      "order": 13
+    },
+    {
+      "id": 16,
+      "name": "Long opening inside the upper figure's hair",
+      "order": 10
+    },
+    {
+      "id": 17,
+      "name": "Large right-side pane with open curved folds",
+      "order": 7
+    },
+    {
+      "id": 18,
+      "name": "Lower opening inside the upper figure's hair",
+      "order": 11
+    },
+    {
+      "id": 19,
+      "name": "Upper figure's side below the raised arm",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Background above the lower figure's head",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Left strip below the curved divider",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Narrow pane inside the left strip below the divider",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Upper figure's leg and foot on the left",
+      "order": 37
+    },
+    {
+      "id": 24,
+      "name": "Pointed pane below the divider beside the leg",
+      "order": 23
+    },
+    {
+      "id": 25,
+      "name": "Lower figure's head, beard and torso",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Long curled strip between the upper figure's legs",
+      "order": 38
+    },
+    {
+      "id": 27,
+      "name": "Small pane above the lower figure's hair",
+      "order": 24
+    },
+    {
+      "id": 28,
+      "name": "Upper figure's leg and foot on the right",
+      "order": 39
+    },
+    {
+      "id": 29,
+      "name": "Large background to the right of the legs",
+      "order": 49
+    },
+    {
+      "id": 30,
+      "name": "Inside the lower figure's ear",
+      "order": 26
+    },
+    {
+      "id": 31,
+      "name": "Lower figure's eye",
+      "order": 27
+    },
+    {
+      "id": 32,
+      "name": "Large curl behind the lower figure's head",
+      "order": 28
+    },
+    {
+      "id": 33,
+      "name": "Small curl beneath the lower figure's cheek",
+      "order": 29
+    },
+    {
+      "id": 34,
+      "name": "Tiny enclosed detail behind the lower figure's head",
+      "order": 30
+    },
+    {
+      "id": 35,
+      "name": "Small background pane behind the lower figure's shoulder",
+      "order": 31
+    },
+    {
+      "id": 36,
+      "name": "Pane inside the small cheek curl",
+      "order": 32
+    },
+    {
+      "id": 37,
+      "name": "Tiny triangle inside the cheek curl",
+      "order": 33
+    },
+    {
+      "id": 38,
+      "name": "Small enclosed detail along the back of the beard",
+      "order": 34
+    },
+    {
+      "id": 39,
+      "name": "Lower enclosed detail along the back of the beard",
+      "order": 35
+    },
+    {
+      "id": 40,
+      "name": "Upper pane between the upper figure's legs",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Supporting hand between the upper figure's legs",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Tiny enclosed detail at the lower figure's elbow",
+      "order": 36
+    },
+    {
+      "id": 43,
+      "name": "Background at the bottom-left edge",
+      "order": 46
+    },
+    {
+      "id": 44,
+      "name": "Curved pane around the upper figure's right foot",
+      "order": 42
+    },
+    {
+      "id": 45,
+      "name": "Lower pane between the upper figure's feet",
+      "order": 43
+    },
+    {
+      "id": 46,
+      "name": "Small pane beneath the lower figure's elbow",
+      "order": 44
+    },
+    {
+      "id": 47,
+      "name": "Small triangle beneath the lower figure's bent arm",
+      "order": 45
+    },
+    {
+      "id": 48,
+      "name": "Small pane at the bottom right of the feet",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Background along the bottom edge beneath the figures",
+      "order": 47
+    }
+  ],
+  "schemaVersion": 1
+}

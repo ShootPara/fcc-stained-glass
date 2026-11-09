@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "startedAtUtc": "2026-11-06T20:49:17.082Z",
+  "completedAtUtc": "2026-11-06T20:49:18.240Z",
+  "elapsedSeconds": 1.158,
+  "intentionalRefresh": {
+    "path": "src/main.ts",
+    "reason": "Final Skip to content handler preserves the current route while focusing and scrolling the main content.",
+    "oldSha256": "6ad38606e58a01b3b53b6a022645ff7da12fc314bf0fd5d05009c681ea6d67d5",
+    "newSha256": "d2592f206b6402fcf033bf253fcfc0652327f2c87f5a80a10a10831865ea0fe8",
+    "source": "/workspace/scratch/4516eeb76477/fcc-stained-glass/src/main.ts"
+  },
+  "command": {
+    "argv": [
+      "npm",
+      "run",
+      "typecheck"
+    ],
+    "exitCode": 0,
+    "log": "09-final-main-typecheck.log"
+  },
+  "beforeRefreshDiff": {
+    "added": [
+      "source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g"
+    ],
+    "removed": [],
+    "changed": []
+  },
+  "finalBaselineDiff": {
+    "added": [
+      "source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g"
+    ],
+    "removed": [],
+    "changed": [
+      "src/main.ts"
+    ]
+  },
+  "unexpectedDiffAfterAccountingForIntentionalRefresh": {
+    "added": [
+      "source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g"
+    ],
+    "removed": [],
+    "changed": []
+  },
+  "existingFilesApartFromIntendedRefreshUnchanged": true,
+  "extraFiles": [
+    "source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g"
+  ],
+  "status": "environment-artifact-remains"
+}

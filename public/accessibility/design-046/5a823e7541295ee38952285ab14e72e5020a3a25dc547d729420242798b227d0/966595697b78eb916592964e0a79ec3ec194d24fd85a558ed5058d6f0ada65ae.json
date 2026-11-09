@@ -1,0 +1,1487 @@
+{
+  "artworkId": "design-046",
+  "contentVersion": "5a823e7541295ee38952285ab14e72e5020a3a25dc547d729420242798b227d0",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Surrounding flame-shaped panels, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Surrounding flame-shaped panels, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Surrounding flame-shaped panels, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Surrounding flame-shaped panels, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Surrounding flame-shaped panels, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Main pointed arch bands, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Surrounding flame-shaped panels, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Surrounding flame-shaped panels, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Surrounding flame-shaped panels, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Surrounding flame-shaped panels, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Surrounding flame-shaped panels, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Surrounding flame-shaped panels, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Surrounding flame-shaped panels, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Upper architectural inserts, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Upper architectural inserts, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Upper architectural inserts, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Upper architectural inserts, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Upper architectural inserts, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Upper architectural inserts, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Upper architectural inserts, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Fine outline fragment beside Surrounding flame-shaped panels, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Upper architectural inserts, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Upper architectural inserts, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Upper architectural inserts, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Upper architectural inserts, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Upper architectural inserts, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Surrounding flame-shaped panels, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Upper architectural inserts, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Fine outline fragment beside Surrounding flame-shaped panels, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Surrounding flame-shaped panels, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Upper architectural inserts, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Surrounding flame-shaped panels, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Upper architectural inserts, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Upper architectural inserts, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Left foot and toes, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Right foot, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Fine outline fragment beside Surrounding flame-shaped panels, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Upper architectural inserts, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Upper architectural inserts, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Main pointed arch bands, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Main pointed arch bands, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Left foot and toes, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Main pointed arch bands, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Main pointed arch bands, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Surrounding flame-shaped panels, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Fine outline fragment beside Right foot, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Main pointed arch bands, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Main pointed arch bands, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Main pointed arch bands, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Main pointed arch bands, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Fine outline fragment beside Right foot, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Main pointed arch bands, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Main pointed arch bands, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Fine outline fragment beside Surrounding flame-shaped panels, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Fine outline fragment beside Surrounding flame-shaped panels, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Surrounding flame-shaped panels, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Main pointed arch bands, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Upper binding and small enclosed slits, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Main pointed arch bands, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Upper binding and small enclosed slits, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Surrounding flame-shaped panels, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Legs and leg-covering panels, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Legs and leg-covering panels, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Legs and leg-covering panels, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Legs and leg-covering panels, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Legs and leg-covering panels, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Upper binding and small enclosed slits, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Fine outline fragment beside Surrounding flame-shaped panels, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Surrounding flame-shaped panels, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Upper architectural inserts, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Upper binding and small enclosed slits, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Main pointed arch bands, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Upper architectural inserts, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Surrounding flame-shaped panels, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Surrounding flame-shaped panels, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Surrounding flame-shaped panels, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Upper architectural inserts, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Surrounding flame-shaped panels, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Surrounding flame-shaped panels, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Surrounding flame-shaped panels, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Upper architectural inserts, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Upper architectural inserts, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Surrounding flame-shaped panels, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Surrounding flame-shaped panels, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Surrounding flame-shaped panels, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Upper architectural inserts, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Upper architectural inserts, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Fine outline fragment beside Surrounding flame-shaped panels, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Fine outline fragment beside Surrounding flame-shaped panels, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Upper architectural inserts, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Surrounding flame-shaped panels, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Surrounding flame-shaped panels, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Upper architectural inserts, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Upper architectural inserts, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Legs and leg-covering panels, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Upper architectural inserts, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Legs and leg-covering panels, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Legs and leg-covering panels, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Legs and leg-covering panels, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Upper architectural inserts, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Fine outline fragment beside Legs and leg-covering panels, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Upper architectural inserts, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Upper architectural inserts, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Upper architectural inserts, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Upper binding and small enclosed slits, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Upper architectural inserts, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Upper binding and small enclosed slits, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Main pointed arch bands, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Surrounding flame-shaped panels, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Surrounding flame-shaped panels, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Surrounding flame-shaped panels, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Main pointed arch bands, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Main pointed arch bands, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Lower radiating panels and robe fold sections, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Lower radiating panels and robe fold sections, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Lower radiating panels and robe fold sections, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Main pointed arch bands, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Lower radiating panels and robe fold sections, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Figure's torso and outstretched arms, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Lower radiating panels and robe fold sections, retained section 120",
+      "order": 120
+    },
+    {
+      "id": 121,
+      "name": "Lower radiating panels and robe fold sections, retained section 121",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Lower radiating panels and robe fold sections, retained section 122",
+      "order": 122
+    },
+    {
+      "id": 123,
+      "name": "Lower radiating panels and robe fold sections, retained section 123",
+      "order": 123
+    },
+    {
+      "id": 124,
+      "name": "Lower radiating panels and robe fold sections, retained section 124",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Lower radiating panels and robe fold sections, retained section 125",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Lower radiating panels and robe fold sections, retained section 126",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Lower radiating panels and robe fold sections, retained section 127",
+      "order": 127
+    },
+    {
+      "id": 128,
+      "name": "Main pointed arch bands, retained section 128",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Main pointed arch bands, retained section 129",
+      "order": 129
+    },
+    {
+      "id": 130,
+      "name": "Surrounding flame-shaped panels, retained section 130",
+      "order": 130
+    },
+    {
+      "id": 131,
+      "name": "Surrounding flame-shaped panels, retained section 131",
+      "order": 131
+    },
+    {
+      "id": 132,
+      "name": "Surrounding flame-shaped panels, retained section 132",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Surrounding flame-shaped panels, retained section 133",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Lower radiating panels and robe fold sections, retained section 134",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 135",
+      "order": 135
+    },
+    {
+      "id": 136,
+      "name": "Lower radiating panels and robe fold sections, retained section 136",
+      "order": 136
+    },
+    {
+      "id": 137,
+      "name": "Lower radiating panels and robe fold sections, retained section 137",
+      "order": 137
+    },
+    {
+      "id": 138,
+      "name": "Surrounding flame-shaped panels, retained section 138",
+      "order": 138
+    },
+    {
+      "id": 139,
+      "name": "Surrounding flame-shaped panels, retained section 139",
+      "order": 139
+    },
+    {
+      "id": 140,
+      "name": "Lower radiating panels and robe fold sections, retained section 140",
+      "order": 140
+    },
+    {
+      "id": 141,
+      "name": "Lower radiating panels and robe fold sections, retained section 141",
+      "order": 141
+    },
+    {
+      "id": 142,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 142",
+      "order": 142
+    },
+    {
+      "id": 143,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 143",
+      "order": 143
+    },
+    {
+      "id": 144,
+      "name": "Lower radiating panels and robe fold sections, retained section 144",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Main pointed arch bands, retained section 145",
+      "order": 145
+    },
+    {
+      "id": 146,
+      "name": "Lower radiating panels and robe fold sections, retained section 146",
+      "order": 146
+    },
+    {
+      "id": 147,
+      "name": "Lower radiating panels and robe fold sections, retained section 147",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Lower radiating panels and robe fold sections, retained section 148",
+      "order": 148
+    },
+    {
+      "id": 149,
+      "name": "Lower radiating panels and robe fold sections, retained section 149",
+      "order": 149
+    },
+    {
+      "id": 150,
+      "name": "Lower radiating panels and robe fold sections, retained section 150",
+      "order": 150
+    },
+    {
+      "id": 151,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 151",
+      "order": 151
+    },
+    {
+      "id": 152,
+      "name": "Lower radiating panels and robe fold sections, retained section 152",
+      "order": 152
+    },
+    {
+      "id": 153,
+      "name": "Lower radiating panels and robe fold sections, retained section 153",
+      "order": 153
+    },
+    {
+      "id": 154,
+      "name": "Main pointed arch bands, retained section 154",
+      "order": 154
+    },
+    {
+      "id": 155,
+      "name": "Main pointed arch bands, retained section 155",
+      "order": 155
+    },
+    {
+      "id": 156,
+      "name": "Lower radiating panels and robe fold sections, retained section 156",
+      "order": 156
+    },
+    {
+      "id": 157,
+      "name": "Lower radiating panels and robe fold sections, retained section 157",
+      "order": 157
+    },
+    {
+      "id": 158,
+      "name": "Lower radiating panels and robe fold sections, retained section 158",
+      "order": 158
+    },
+    {
+      "id": 159,
+      "name": "Lower radiating panels and robe fold sections, retained section 159",
+      "order": 159
+    },
+    {
+      "id": 160,
+      "name": "Lower radiating panels and robe fold sections, retained section 160",
+      "order": 160
+    },
+    {
+      "id": 161,
+      "name": "Lower radiating panels and robe fold sections, retained section 161",
+      "order": 161
+    },
+    {
+      "id": 162,
+      "name": "Lower radiating panels and robe fold sections, retained section 162",
+      "order": 162
+    },
+    {
+      "id": 163,
+      "name": "Lower radiating panels and robe fold sections, retained section 163",
+      "order": 163
+    },
+    {
+      "id": 164,
+      "name": "Lower radiating panels and robe fold sections, retained section 164",
+      "order": 164
+    },
+    {
+      "id": 165,
+      "name": "Lower radiating panels and robe fold sections, retained section 165",
+      "order": 165
+    },
+    {
+      "id": 166,
+      "name": "Lower radiating panels and robe fold sections, retained section 166",
+      "order": 166
+    },
+    {
+      "id": 167,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 167",
+      "order": 167
+    },
+    {
+      "id": 168,
+      "name": "Lower radiating panels and robe fold sections, retained section 168",
+      "order": 168
+    },
+    {
+      "id": 169,
+      "name": "Lower radiating panels and robe fold sections, retained section 169",
+      "order": 169
+    },
+    {
+      "id": 170,
+      "name": "Lower radiating panels and robe fold sections, retained section 170",
+      "order": 170
+    },
+    {
+      "id": 171,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 171",
+      "order": 171
+    },
+    {
+      "id": 172,
+      "name": "Lower radiating panels and robe fold sections, retained section 172",
+      "order": 172
+    },
+    {
+      "id": 173,
+      "name": "Lower radiating panels and robe fold sections, retained section 173",
+      "order": 173
+    },
+    {
+      "id": 174,
+      "name": "Lower radiating panels and robe fold sections, retained section 174",
+      "order": 174
+    },
+    {
+      "id": 175,
+      "name": "Lower radiating panels and robe fold sections, retained section 175",
+      "order": 175
+    },
+    {
+      "id": 176,
+      "name": "Lower radiating panels and robe fold sections, retained section 176",
+      "order": 176
+    },
+    {
+      "id": 177,
+      "name": "Lower radiating panels and robe fold sections, retained section 177",
+      "order": 177
+    },
+    {
+      "id": 178,
+      "name": "Lower radiating panels and robe fold sections, retained section 178",
+      "order": 178
+    },
+    {
+      "id": 179,
+      "name": "Lower radiating panels and robe fold sections, retained section 179",
+      "order": 179
+    },
+    {
+      "id": 180,
+      "name": "Lower radiating panels and robe fold sections, retained section 180",
+      "order": 180
+    },
+    {
+      "id": 181,
+      "name": "Lower radiating panels and robe fold sections, retained section 181",
+      "order": 181
+    },
+    {
+      "id": 182,
+      "name": "Lower radiating panels and robe fold sections, retained section 182",
+      "order": 182
+    },
+    {
+      "id": 183,
+      "name": "Lower radiating panels and robe fold sections, retained section 183",
+      "order": 183
+    },
+    {
+      "id": 184,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 184",
+      "order": 184
+    },
+    {
+      "id": 185,
+      "name": "Main pointed arch bands, retained section 185",
+      "order": 185
+    },
+    {
+      "id": 186,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 186",
+      "order": 186
+    },
+    {
+      "id": 187,
+      "name": "Lower radiating panels and robe fold sections, retained section 187",
+      "order": 187
+    },
+    {
+      "id": 188,
+      "name": "Main pointed arch bands, retained section 188",
+      "order": 188
+    },
+    {
+      "id": 189,
+      "name": "Surrounding flame-shaped panels, retained section 189",
+      "order": 189
+    },
+    {
+      "id": 190,
+      "name": "Surrounding flame-shaped panels, retained section 190",
+      "order": 190
+    },
+    {
+      "id": 191,
+      "name": "Surrounding flame-shaped panels, retained section 191",
+      "order": 191
+    },
+    {
+      "id": 192,
+      "name": "Inverted figure's face and continuous beard, retained section 192",
+      "order": 192
+    },
+    {
+      "id": 193,
+      "name": "Forehead and side hair locks, retained section 193",
+      "order": 193
+    },
+    {
+      "id": 194,
+      "name": "Forehead and side hair locks, retained section 194",
+      "order": 194
+    },
+    {
+      "id": 195,
+      "name": "Forehead and side hair locks, retained section 195",
+      "order": 195
+    },
+    {
+      "id": 196,
+      "name": "Fine outline fragment beside Lower radiating panels and robe fold sections, retained section 196",
+      "order": 196
+    },
+    {
+      "id": 197,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 197",
+      "order": 197
+    },
+    {
+      "id": 198,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 198",
+      "order": 198
+    },
+    {
+      "id": 199,
+      "name": "Forehead and side hair locks, retained section 199",
+      "order": 199
+    },
+    {
+      "id": 200,
+      "name": "Forehead and side hair locks, retained section 200",
+      "order": 200
+    },
+    {
+      "id": 201,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 201",
+      "order": 201
+    },
+    {
+      "id": 202,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 202",
+      "order": 202
+    },
+    {
+      "id": 203,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 203",
+      "order": 203
+    },
+    {
+      "id": 204,
+      "name": "Forehead and side hair locks, retained section 204",
+      "order": 204
+    },
+    {
+      "id": 205,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 205",
+      "order": 205
+    },
+    {
+      "id": 206,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 206",
+      "order": 206
+    },
+    {
+      "id": 207,
+      "name": "Forehead and side hair locks, retained section 207",
+      "order": 207
+    },
+    {
+      "id": 208,
+      "name": "Forehead and side hair locks, retained section 208",
+      "order": 208
+    },
+    {
+      "id": 209,
+      "name": "Forehead and side hair locks, retained section 209",
+      "order": 209
+    },
+    {
+      "id": 210,
+      "name": "Forehead and side hair locks, retained section 210",
+      "order": 210
+    },
+    {
+      "id": 211,
+      "name": "Forehead and side hair locks, retained section 211",
+      "order": 211
+    },
+    {
+      "id": 212,
+      "name": "Forehead and side hair locks, retained section 212",
+      "order": 212
+    },
+    {
+      "id": 213,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 213",
+      "order": 213
+    },
+    {
+      "id": 214,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 214",
+      "order": 214
+    },
+    {
+      "id": 215,
+      "name": "Forehead and side hair locks, retained section 215",
+      "order": 215
+    },
+    {
+      "id": 216,
+      "name": "Surrounding flame-shaped panels, retained section 216",
+      "order": 216
+    },
+    {
+      "id": 217,
+      "name": "Surrounding flame-shaped panels, retained section 217",
+      "order": 217
+    },
+    {
+      "id": 218,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 218",
+      "order": 218
+    },
+    {
+      "id": 219,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 219",
+      "order": 219
+    },
+    {
+      "id": 220,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 220",
+      "order": 220
+    },
+    {
+      "id": 221,
+      "name": "Forehead and side hair locks, retained section 221",
+      "order": 221
+    },
+    {
+      "id": 222,
+      "name": "Forehead and side hair locks, retained section 222",
+      "order": 222
+    },
+    {
+      "id": 223,
+      "name": "Forehead and side hair locks, retained section 223",
+      "order": 223
+    },
+    {
+      "id": 224,
+      "name": "Forehead and side hair locks, retained section 224",
+      "order": 224
+    },
+    {
+      "id": 225,
+      "name": "Left ear, retained section 225",
+      "order": 225
+    },
+    {
+      "id": 226,
+      "name": "Forehead and side hair locks, retained section 226",
+      "order": 226
+    },
+    {
+      "id": 227,
+      "name": "Forehead and side hair locks, retained section 227",
+      "order": 227
+    },
+    {
+      "id": 228,
+      "name": "Forehead and side hair locks, retained section 228",
+      "order": 228
+    },
+    {
+      "id": 229,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 229",
+      "order": 229
+    },
+    {
+      "id": 230,
+      "name": "Left inscription field and letters, retained section 230",
+      "order": 230
+    },
+    {
+      "id": 231,
+      "name": "Right inscription field and letters, retained section 231",
+      "order": 231
+    },
+    {
+      "id": 232,
+      "name": "Left upper eye-white pane, retained section 232",
+      "order": 232
+    },
+    {
+      "id": 233,
+      "name": "Right upper eye-white pane, retained section 233",
+      "order": 233
+    },
+    {
+      "id": 234,
+      "name": "Right upper eye-white pane, retained section 234",
+      "order": 234
+    },
+    {
+      "id": 235,
+      "name": "Left inscription field and letters, retained section 235",
+      "order": 235
+    },
+    {
+      "id": 236,
+      "name": "Right upper eye-white pane, retained section 236",
+      "order": 236
+    },
+    {
+      "id": 237,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 237",
+      "order": 237
+    },
+    {
+      "id": 238,
+      "name": "Right upper eye-white pane, retained section 238",
+      "order": 238
+    },
+    {
+      "id": 239,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 239",
+      "order": 239
+    },
+    {
+      "id": 240,
+      "name": "Right inscription field and letters, retained section 240",
+      "order": 240
+    },
+    {
+      "id": 241,
+      "name": "Right upper eye-white pane, retained section 241",
+      "order": 241
+    },
+    {
+      "id": 242,
+      "name": "Forehead and side hair locks, retained section 242",
+      "order": 242
+    },
+    {
+      "id": 243,
+      "name": "Right upper eye-white pane, retained section 243",
+      "order": 243
+    },
+    {
+      "id": 244,
+      "name": "Right lower eye-white pane, retained section 244",
+      "order": 244
+    },
+    {
+      "id": 245,
+      "name": "Forehead and side hair locks, retained section 245",
+      "order": 245
+    },
+    {
+      "id": 246,
+      "name": "Forehead and side hair locks, retained section 246",
+      "order": 246
+    },
+    {
+      "id": 247,
+      "name": "Left inscription field and letters, retained section 247",
+      "order": 247
+    },
+    {
+      "id": 248,
+      "name": "Left inscription field and letters, retained section 248",
+      "order": 248
+    },
+    {
+      "id": 249,
+      "name": "Left inscription field and letters, retained section 249",
+      "order": 249
+    },
+    {
+      "id": 250,
+      "name": "Left inscription field and letters, retained section 250",
+      "order": 250
+    },
+    {
+      "id": 251,
+      "name": "Right inscription field and letters, retained section 251",
+      "order": 251
+    },
+    {
+      "id": 252,
+      "name": "Lower beard curls and interstices, retained section 252",
+      "order": 252
+    },
+    {
+      "id": 253,
+      "name": "Right inscription field and letters, retained section 253",
+      "order": 253
+    },
+    {
+      "id": 254,
+      "name": "Right inscription field and letters, retained section 254",
+      "order": 254
+    },
+    {
+      "id": 255,
+      "name": "Forehead and side hair locks, retained section 255",
+      "order": 255
+    },
+    {
+      "id": 256,
+      "name": "Forehead and side hair locks, retained section 256",
+      "order": 256
+    },
+    {
+      "id": 257,
+      "name": "Forehead and side hair locks, retained section 257",
+      "order": 257
+    },
+    {
+      "id": 258,
+      "name": "Forehead and side hair locks, retained section 258",
+      "order": 258
+    },
+    {
+      "id": 259,
+      "name": "Forehead and side hair locks, retained section 259",
+      "order": 259
+    },
+    {
+      "id": 260,
+      "name": "Left narrow eyelid crescent, retained section 260",
+      "order": 260
+    },
+    {
+      "id": 261,
+      "name": "Right narrow eyelid crescent, retained section 261",
+      "order": 261
+    },
+    {
+      "id": 262,
+      "name": "Forehead and side hair locks, retained section 262",
+      "order": 262
+    },
+    {
+      "id": 263,
+      "name": "Forehead and side hair locks, retained section 263",
+      "order": 263
+    },
+    {
+      "id": 264,
+      "name": "Left inscription field and letters, retained section 264",
+      "order": 264
+    },
+    {
+      "id": 265,
+      "name": "Left narrow eyelid crescent, retained section 265",
+      "order": 265
+    },
+    {
+      "id": 266,
+      "name": "Right inscription field and letters, retained section 266",
+      "order": 266
+    },
+    {
+      "id": 267,
+      "name": "Forehead and side hair locks, retained section 267",
+      "order": 267
+    },
+    {
+      "id": 268,
+      "name": "Fine outline fragment beside Right inscription field and letters, retained section 268",
+      "order": 268
+    },
+    {
+      "id": 269,
+      "name": "Fine outline fragment beside Right inscription field and letters, retained section 269",
+      "order": 269
+    },
+    {
+      "id": 270,
+      "name": "Left inscription field and letters, retained section 270",
+      "order": 270
+    },
+    {
+      "id": 271,
+      "name": "Forehead and side hair locks, retained section 271",
+      "order": 271
+    },
+    {
+      "id": 272,
+      "name": "Forehead and side hair locks, retained section 272",
+      "order": 272
+    },
+    {
+      "id": 273,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 273",
+      "order": 273
+    },
+    {
+      "id": 274,
+      "name": "Lower beard curls and interstices, retained section 274",
+      "order": 274
+    },
+    {
+      "id": 275,
+      "name": "Forehead and side hair locks, retained section 275",
+      "order": 275
+    },
+    {
+      "id": 276,
+      "name": "Lower beard curls and interstices, retained section 276",
+      "order": 276
+    },
+    {
+      "id": 277,
+      "name": "Lower beard curls and interstices, retained section 277",
+      "order": 277
+    },
+    {
+      "id": 278,
+      "name": "Lower beard curls and interstices, retained section 278",
+      "order": 278
+    },
+    {
+      "id": 279,
+      "name": "Lower beard curls and interstices, retained section 279",
+      "order": 279
+    },
+    {
+      "id": 280,
+      "name": "Lower beard curls and interstices, retained section 280",
+      "order": 280
+    },
+    {
+      "id": 281,
+      "name": "Lower beard curls and interstices, retained section 281",
+      "order": 281
+    },
+    {
+      "id": 282,
+      "name": "Lower beard curls and interstices, retained section 282",
+      "order": 282
+    },
+    {
+      "id": 283,
+      "name": "Lower beard curls and interstices, retained section 283",
+      "order": 283
+    },
+    {
+      "id": 284,
+      "name": "Fine outline fragment beside Lower beard curls and interstices, retained section 284",
+      "order": 284
+    },
+    {
+      "id": 285,
+      "name": "Lower beard curls and interstices, retained section 285",
+      "order": 285
+    },
+    {
+      "id": 286,
+      "name": "Lower beard curls and interstices, retained section 286",
+      "order": 286
+    },
+    {
+      "id": 287,
+      "name": "Fine outline fragment beside Lower beard curls and interstices, retained section 287",
+      "order": 287
+    },
+    {
+      "id": 288,
+      "name": "Fine outline fragment beside Lower beard curls and interstices, retained section 288",
+      "order": 288
+    },
+    {
+      "id": 289,
+      "name": "Lower beard curls and interstices, retained section 289",
+      "order": 289
+    },
+    {
+      "id": 290,
+      "name": "Forehead and side hair locks, retained section 290",
+      "order": 290
+    },
+    {
+      "id": 291,
+      "name": "Fine outline fragment beside Lower beard curls and interstices, retained section 291",
+      "order": 291
+    },
+    {
+      "id": 292,
+      "name": "Lower beard curls and interstices, retained section 292",
+      "order": 292
+    },
+    {
+      "id": 293,
+      "name": "Forehead and side hair locks, retained section 293",
+      "order": 293
+    },
+    {
+      "id": 294,
+      "name": "Forehead and side hair locks, retained section 294",
+      "order": 294
+    },
+    {
+      "id": 295,
+      "name": "Forehead and side hair locks, retained section 295",
+      "order": 295
+    },
+    {
+      "id": 296,
+      "name": "Fine outline fragment beside Forehead and side hair locks, retained section 296",
+      "order": 296
+    }
+  ],
+  "schemaVersion": 1
+}

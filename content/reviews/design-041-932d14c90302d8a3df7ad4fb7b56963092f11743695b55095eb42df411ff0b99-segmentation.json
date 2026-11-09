@@ -1,0 +1,11 @@
+{
+  "contentVersion": "932d14c90302d8a3df7ad4fb7b56963092f11743695b55095eb42df411ff0b99",
+  "keyboardMetadataDigest": "ae379b1075bb8f50b27d8e51b63e949b5f641b9dabb1edc12bc51d93d771d8d7",
+  "outcome": "complete",
+  "recordId": "design-041",
+  "reviewKind": "segmentation",
+  "reviewedAtUtc": "2026-11-09T19:26:43.526Z",
+  "reviewedDigest": "3013866d491d1b1f974d5338dc275949b6cbf4d4b59163f53e9ade6ac0c333ce",
+  "reviewer": "Codex retained-overlay and authored-feature comparison; restoration-only topology, known original fragments retained",
+  "schemaVersion": 1
+}

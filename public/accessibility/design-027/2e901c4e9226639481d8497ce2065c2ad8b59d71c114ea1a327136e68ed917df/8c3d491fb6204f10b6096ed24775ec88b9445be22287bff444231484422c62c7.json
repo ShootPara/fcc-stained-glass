@@ -1,0 +1,1437 @@
+{
+  "artworkId": "design-027",
+  "contentVersion": "2e901c4e9226639481d8497ce2065c2ad8b59d71c114ea1a327136e68ed917df",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper left architectural fields and scrolling trim, top left section 13",
+      "order": 18
+    },
+    {
+      "id": 2,
+      "name": "Upper left architectural fields and scrolling trim, top left section 25",
+      "order": 30
+    },
+    {
+      "id": 3,
+      "name": "Upper left architectural fields and scrolling trim, top center section 12",
+      "order": 17
+    },
+    {
+      "id": 4,
+      "name": "Upper left architectural fields and scrolling trim, top center section 29",
+      "order": 34
+    },
+    {
+      "id": 5,
+      "name": "Upper left architectural fields and scrolling trim, top center section 30",
+      "order": 35
+    },
+    {
+      "id": 6,
+      "name": "Upper left architectural fields and scrolling trim, top center section 17",
+      "order": 22
+    },
+    {
+      "id": 7,
+      "name": "Upper left architectural fields and scrolling trim, top right section 2",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Upper left architectural fields and scrolling trim, top right section 6",
+      "order": 11
+    },
+    {
+      "id": 9,
+      "name": "Upper left architectural fields and scrolling trim, top center section 26",
+      "order": 31
+    },
+    {
+      "id": 10,
+      "name": "Upper left architectural fields and scrolling trim, top right section 3",
+      "order": 8
+    },
+    {
+      "id": 11,
+      "name": "Upper left architectural fields and scrolling trim, top right section 11",
+      "order": 16
+    },
+    {
+      "id": 12,
+      "name": "Upper left architectural fields and scrolling trim, top center section 1",
+      "order": 6
+    },
+    {
+      "id": 13,
+      "name": "Top scroll's narrow outline",
+      "order": 36
+    },
+    {
+      "id": 14,
+      "name": "Upper left architectural fields and scrolling trim, top center section 4",
+      "order": 9
+    },
+    {
+      "id": 15,
+      "name": "Upper left architectural fields and scrolling trim, top center section 5",
+      "order": 10
+    },
+    {
+      "id": 16,
+      "name": "Upper left architectural fields and scrolling trim, top center section 20",
+      "order": 25
+    },
+    {
+      "id": 17,
+      "name": "Upper left architectural fields and scrolling trim, top right section 7",
+      "order": 12
+    },
+    {
+      "id": 18,
+      "name": "Upper left architectural fields and scrolling trim, top center section 8",
+      "order": 13
+    },
+    {
+      "id": 19,
+      "name": "Upper left architectural fields and scrolling trim, top left section 9",
+      "order": 14
+    },
+    {
+      "id": 20,
+      "name": "Upper left architectural fields and scrolling trim, top center section 10",
+      "order": 15
+    },
+    {
+      "id": 21,
+      "name": "Upper left architectural fields and scrolling trim, top left section 15",
+      "order": 20
+    },
+    {
+      "id": 22,
+      "name": "Upper left ornament's narrow enclosed bands, top center section 1",
+      "order": 37
+    },
+    {
+      "id": 23,
+      "name": "Upper left architectural fields and scrolling trim, top center section 14",
+      "order": 19
+    },
+    {
+      "id": 24,
+      "name": "Upper left architectural fields and scrolling trim, top center section 16",
+      "order": 21
+    },
+    {
+      "id": 25,
+      "name": "Upper left architectural fields and scrolling trim, top center section 21",
+      "order": 26
+    },
+    {
+      "id": 26,
+      "name": "Upper left ornament's narrow enclosed bands, top center section 2",
+      "order": 38
+    },
+    {
+      "id": 27,
+      "name": "Upper left ornament's narrow enclosed bands, top left section 6",
+      "order": 42
+    },
+    {
+      "id": 28,
+      "name": "Upper left ornament's narrow enclosed bands, top center section 5",
+      "order": 41
+    },
+    {
+      "id": 29,
+      "name": "Upper left ornament's narrow enclosed bands, top center section 3",
+      "order": 39
+    },
+    {
+      "id": 30,
+      "name": "Upper left architectural fields and scrolling trim, top left section 23",
+      "order": 28
+    },
+    {
+      "id": 31,
+      "name": "Upper left ornament's narrow enclosed bands, top right section 4",
+      "order": 40
+    },
+    {
+      "id": 32,
+      "name": "Upper left architectural fields and scrolling trim, top center section 28",
+      "order": 33
+    },
+    {
+      "id": 33,
+      "name": "Upper left architectural fields and scrolling trim, top right section 18",
+      "order": 23
+    },
+    {
+      "id": 34,
+      "name": "Upper left architectural fields and scrolling trim, top left section 19",
+      "order": 24
+    },
+    {
+      "id": 35,
+      "name": "Round hair ornaments and enclosed gaps, top right section 1",
+      "order": 46
+    },
+    {
+      "id": 36,
+      "name": "Upper left architectural fields and scrolling trim, top left section 22",
+      "order": 27
+    },
+    {
+      "id": 37,
+      "name": "Round hair ornaments and enclosed gaps, top right section 3",
+      "order": 48
+    },
+    {
+      "id": 38,
+      "name": "Round hair ornaments and enclosed gaps, top right section 29",
+      "order": 74
+    },
+    {
+      "id": 39,
+      "name": "Round hair ornaments and enclosed gaps, top right section 2",
+      "order": 47
+    },
+    {
+      "id": 40,
+      "name": "Round hair ornaments and enclosed gaps, top right section 4",
+      "order": 49
+    },
+    {
+      "id": 41,
+      "name": "Upper left ornament's narrow enclosed bands, top center section 7",
+      "order": 43
+    },
+    {
+      "id": 42,
+      "name": "Upper left architectural fields and scrolling trim, top center section 27",
+      "order": 32
+    },
+    {
+      "id": 43,
+      "name": "Upper left architectural fields and scrolling trim, top right section 24",
+      "order": 29
+    },
+    {
+      "id": 44,
+      "name": "Upper right figure's face and neck, top right section 1",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Round hair ornaments and enclosed gaps, top right section 7",
+      "order": 52
+    },
+    {
+      "id": 46,
+      "name": "Round hair ornaments and enclosed gaps, top left section 5",
+      "order": 50
+    },
+    {
+      "id": 47,
+      "name": "Round hair ornaments and enclosed gaps, top right section 8",
+      "order": 53
+    },
+    {
+      "id": 48,
+      "name": "Round hair ornaments and enclosed gaps, top right section 6",
+      "order": 51
+    },
+    {
+      "id": 49,
+      "name": "Round hair ornaments and enclosed gaps, top right section 9",
+      "order": 54
+    },
+    {
+      "id": 50,
+      "name": "Round hair ornaments and enclosed gaps, top right section 10",
+      "order": 55
+    },
+    {
+      "id": 51,
+      "name": "Cord and star pendant's enclosed details, top center section 1",
+      "order": 267
+    },
+    {
+      "id": 52,
+      "name": "Round hair ornaments and enclosed gaps, top right section 11",
+      "order": 56
+    },
+    {
+      "id": 53,
+      "name": "Cord and star pendant's enclosed details, top center section 2",
+      "order": 268
+    },
+    {
+      "id": 54,
+      "name": "Round hair ornaments and enclosed gaps, top right section 15",
+      "order": 60
+    },
+    {
+      "id": 55,
+      "name": "Round hair ornaments and enclosed gaps, top right section 12",
+      "order": 57
+    },
+    {
+      "id": 56,
+      "name": "Round hair ornaments and enclosed gaps, top right section 13",
+      "order": 58
+    },
+    {
+      "id": 57,
+      "name": "Cord ornament's round loop and highlight, top center section 1",
+      "order": 3
+    },
+    {
+      "id": 58,
+      "name": "Left figure's head covering and enclosed ornament, top left section 7",
+      "order": 111
+    },
+    {
+      "id": 59,
+      "name": "Left figure's head covering and enclosed ornament, top left section 3",
+      "order": 107
+    },
+    {
+      "id": 60,
+      "name": "Round hair ornaments and enclosed gaps, top right section 14",
+      "order": 59
+    },
+    {
+      "id": 61,
+      "name": "Round hair ornaments and enclosed gaps, top right section 21",
+      "order": 66
+    },
+    {
+      "id": 62,
+      "name": "Round hair ornaments and enclosed gaps, top right section 16",
+      "order": 61
+    },
+    {
+      "id": 63,
+      "name": "Left figure's head covering and enclosed ornament, top left section 1",
+      "order": 105
+    },
+    {
+      "id": 64,
+      "name": "Cord and star pendant's enclosed details, top center section 3",
+      "order": 269
+    },
+    {
+      "id": 65,
+      "name": "Upper right figure's tiny eye highlight",
+      "order": 2
+    },
+    {
+      "id": 66,
+      "name": "Round hair ornaments and enclosed gaps, top left section 17",
+      "order": 62
+    },
+    {
+      "id": 67,
+      "name": "Cord ornament's round loop and highlight, top center section 2",
+      "order": 4
+    },
+    {
+      "id": 68,
+      "name": "Cord ornament's round loop and highlight, top center section 3",
+      "order": 5
+    },
+    {
+      "id": 69,
+      "name": "Round hair ornaments and enclosed gaps, top center section 22",
+      "order": 67
+    },
+    {
+      "id": 70,
+      "name": "Round hair ornaments and enclosed gaps, top right section 18",
+      "order": 63
+    },
+    {
+      "id": 71,
+      "name": "Round hair ornaments and enclosed gaps, top right section 19",
+      "order": 64
+    },
+    {
+      "id": 72,
+      "name": "Round hair ornaments and enclosed gaps, top right section 20",
+      "order": 65
+    },
+    {
+      "id": 73,
+      "name": "Left figure's head covering and enclosed ornament, top right section 2",
+      "order": 106
+    },
+    {
+      "id": 74,
+      "name": "Cord and star pendant's enclosed details, top center section 5",
+      "order": 271
+    },
+    {
+      "id": 75,
+      "name": "Left figure's head covering and enclosed ornament, top right section 16",
+      "order": 120
+    },
+    {
+      "id": 76,
+      "name": "Left figure's head covering and enclosed ornament, top right section 4",
+      "order": 108
+    },
+    {
+      "id": 77,
+      "name": "Cord and star pendant's enclosed details, top center section 4",
+      "order": 270
+    },
+    {
+      "id": 78,
+      "name": "Round hair ornaments and enclosed gaps, top right section 23",
+      "order": 68
+    },
+    {
+      "id": 79,
+      "name": "Round hair ornaments and enclosed gaps, top left section 25",
+      "order": 70
+    },
+    {
+      "id": 80,
+      "name": "Round hair ornaments and enclosed gaps, top right section 27",
+      "order": 72
+    },
+    {
+      "id": 81,
+      "name": "Round hair ornaments and enclosed gaps, top right section 28",
+      "order": 73
+    },
+    {
+      "id": 82,
+      "name": "Round hair ornaments and enclosed gaps, top right section 24",
+      "order": 69
+    },
+    {
+      "id": 83,
+      "name": "Left figure's head covering and enclosed ornament, top left section 5",
+      "order": 109
+    },
+    {
+      "id": 84,
+      "name": "Left figure's head covering and enclosed ornament, top left section 6",
+      "order": 110
+    },
+    {
+      "id": 85,
+      "name": "Round hair ornaments and enclosed gaps, top right section 26",
+      "order": 71
+    },
+    {
+      "id": 86,
+      "name": "Round hair ornaments and enclosed gaps, top right section 30",
+      "order": 75
+    },
+    {
+      "id": 87,
+      "name": "Round hair ornaments and enclosed gaps, top right section 31",
+      "order": 76
+    },
+    {
+      "id": 88,
+      "name": "Long diagonal narrow ornamental stripe",
+      "order": 1
+    },
+    {
+      "id": 89,
+      "name": "Background beside the upper figures and diagonal band, upper-middle center section 4",
+      "order": 137
+    },
+    {
+      "id": 90,
+      "name": "Round hair ornaments and enclosed gaps, top right section 35",
+      "order": 80
+    },
+    {
+      "id": 91,
+      "name": "Round hair ornaments and enclosed gaps, top right section 32",
+      "order": 77
+    },
+    {
+      "id": 92,
+      "name": "Round hair ornaments and enclosed gaps, top right section 33",
+      "order": 78
+    },
+    {
+      "id": 93,
+      "name": "Round hair ornaments and enclosed gaps, top right section 34",
+      "order": 79
+    },
+    {
+      "id": 94,
+      "name": "Left figure's head covering and enclosed ornament, top left section 8",
+      "order": 112
+    },
+    {
+      "id": 95,
+      "name": "Upper right figure's face and neck, upper-middle right section 2",
+      "order": 45
+    },
+    {
+      "id": 96,
+      "name": "Left figure's head covering and enclosed ornament, top left section 9",
+      "order": 113
+    },
+    {
+      "id": 97,
+      "name": "Left figure's face beard and ear, upper-middle left section 8",
+      "order": 129
+    },
+    {
+      "id": 98,
+      "name": "Left figure's head covering and enclosed ornament, top left section 10",
+      "order": 114
+    },
+    {
+      "id": 99,
+      "name": "Left figure's head covering and enclosed ornament, top left section 11",
+      "order": 115
+    },
+    {
+      "id": 100,
+      "name": "Left figure's head covering and enclosed ornament, top right section 13",
+      "order": 117
+    },
+    {
+      "id": 101,
+      "name": "Left figure's head covering and enclosed ornament, top left section 12",
+      "order": 116
+    },
+    {
+      "id": 102,
+      "name": "Left figure's head covering and enclosed ornament, top left section 17",
+      "order": 121
+    },
+    {
+      "id": 103,
+      "name": "Round hair ornaments and enclosed gaps, top right section 36",
+      "order": 81
+    },
+    {
+      "id": 104,
+      "name": "Left figure's head covering and enclosed ornament, top left section 14",
+      "order": 118
+    },
+    {
+      "id": 105,
+      "name": "Left figure's head covering and enclosed ornament, top left section 15",
+      "order": 119
+    },
+    {
+      "id": 106,
+      "name": "Round hair ornaments and enclosed gaps, top right section 37",
+      "order": 82
+    },
+    {
+      "id": 107,
+      "name": "Cord and star pendant's enclosed details, upper-middle center section 8",
+      "order": 274
+    },
+    {
+      "id": 108,
+      "name": "Left figure's face beard and ear, upper-middle left section 7",
+      "order": 128
+    },
+    {
+      "id": 109,
+      "name": "Left figure's face beard and ear, upper-middle left section 2",
+      "order": 123
+    },
+    {
+      "id": 110,
+      "name": "Left figure's face beard and ear, upper-middle left section 1",
+      "order": 122
+    },
+    {
+      "id": 111,
+      "name": "Cord and star pendant's enclosed details, upper-middle center section 6",
+      "order": 272
+    },
+    {
+      "id": 112,
+      "name": "Cropped left-edge ornament and enclosed openings, upper-middle left section 1",
+      "order": 279
+    },
+    {
+      "id": 113,
+      "name": "Left figure's face beard and ear, upper-middle left section 3",
+      "order": 124
+    },
+    {
+      "id": 114,
+      "name": "Left figure's face beard and ear, upper-middle left section 4",
+      "order": 125
+    },
+    {
+      "id": 115,
+      "name": "Cord and star pendant's enclosed details, upper-middle center section 7",
+      "order": 273
+    },
+    {
+      "id": 116,
+      "name": "Cropped left-edge ornament and enclosed openings, upper-middle left section 3",
+      "order": 281
+    },
+    {
+      "id": 117,
+      "name": "Left figure's face beard and ear, upper-middle left section 5",
+      "order": 126
+    },
+    {
+      "id": 118,
+      "name": "Upper right figure's garment and collar, upper-middle right section 1",
+      "order": 83
+    },
+    {
+      "id": 119,
+      "name": "Left figure's face beard and ear, upper-middle left section 6",
+      "order": 127
+    },
+    {
+      "id": 120,
+      "name": "Cord and star pendant's enclosed details, upper-middle center section 9",
+      "order": 275
+    },
+    {
+      "id": 121,
+      "name": "Cord and star pendant's enclosed details, upper-middle center section 10",
+      "order": 276
+    },
+    {
+      "id": 122,
+      "name": "Left figure's face beard and ear, lower-middle center section 12",
+      "order": 133
+    },
+    {
+      "id": 123,
+      "name": "Left figure's face beard and ear, upper-middle left section 9",
+      "order": 130
+    },
+    {
+      "id": 124,
+      "name": "Upper right figure's garment and collar, upper-middle right section 4",
+      "order": 86
+    },
+    {
+      "id": 125,
+      "name": "Background beside the upper figures and diagonal band, upper-middle left section 1",
+      "order": 134
+    },
+    {
+      "id": 126,
+      "name": "Cord and star pendant's enclosed details, upper-middle center section 11",
+      "order": 277
+    },
+    {
+      "id": 127,
+      "name": "Upper right figure's garment and collar, upper-middle center section 5",
+      "order": 87
+    },
+    {
+      "id": 128,
+      "name": "Cord and star pendant's enclosed details, upper-middle center section 12",
+      "order": 278
+    },
+    {
+      "id": 129,
+      "name": "Cropped left-edge ornament and enclosed openings, upper-middle left section 2",
+      "order": 280
+    },
+    {
+      "id": 130,
+      "name": "Cropped left-edge ornament and enclosed openings, upper-middle left section 5",
+      "order": 283
+    },
+    {
+      "id": 131,
+      "name": "Cropped left-edge ornament and enclosed openings, upper-middle left section 7",
+      "order": 285
+    },
+    {
+      "id": 132,
+      "name": "Left figure's face beard and ear, upper-middle right section 11",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Upper right figure's garment and collar, upper-middle left section 2",
+      "order": 84
+    },
+    {
+      "id": 134,
+      "name": "Left figure's face beard and ear, upper-middle left section 10",
+      "order": 131
+    },
+    {
+      "id": 135,
+      "name": "Upper right figure's garment and collar, upper-middle right section 3",
+      "order": 85
+    },
+    {
+      "id": 136,
+      "name": "Cropped left-edge ornament and enclosed openings, upper-middle left section 4",
+      "order": 282
+    },
+    {
+      "id": 137,
+      "name": "Cropped left-edge ornament and enclosed openings, upper-middle left section 6",
+      "order": 284
+    },
+    {
+      "id": 138,
+      "name": "Cropped left-edge ornament and enclosed openings, upper-middle left section 8",
+      "order": 286
+    },
+    {
+      "id": 139,
+      "name": "Background beside the upper figures and diagonal band, upper-middle center section 2",
+      "order": 135
+    },
+    {
+      "id": 140,
+      "name": "Left figure's shoulder and garment, upper-middle left section 1",
+      "order": 139
+    },
+    {
+      "id": 141,
+      "name": "Upper right figure's garment and collar, upper-middle left section 6",
+      "order": 88
+    },
+    {
+      "id": 142,
+      "name": "Background beside the upper figures and diagonal band, upper-middle center section 3",
+      "order": 136
+    },
+    {
+      "id": 143,
+      "name": "Background beside the upper figures and diagonal band, upper-middle center section 5",
+      "order": 138
+    },
+    {
+      "id": 144,
+      "name": "Left figure's shoulder and garment, upper-middle left section 3",
+      "order": 141
+    },
+    {
+      "id": 145,
+      "name": "Left figure's shoulder and garment, upper-middle left section 2",
+      "order": 140
+    },
+    {
+      "id": 146,
+      "name": "Left figure's shoulder and garment, upper-middle left section 4",
+      "order": 142
+    },
+    {
+      "id": 147,
+      "name": "Upper right figure's garment and collar, upper-middle right section 15",
+      "order": 97
+    },
+    {
+      "id": 148,
+      "name": "Upper right figure's garment and collar, lower-middle left section 22",
+      "order": 104
+    },
+    {
+      "id": 149,
+      "name": "Upper right figure's garment and collar, upper-middle right section 7",
+      "order": 89
+    },
+    {
+      "id": 150,
+      "name": "Left figure's shoulder and garment, upper-middle left section 5",
+      "order": 143
+    },
+    {
+      "id": 151,
+      "name": "Upper right figure's garment and collar, upper-middle right section 9",
+      "order": 91
+    },
+    {
+      "id": 152,
+      "name": "Upper right figure's garment and collar, upper-middle right section 8",
+      "order": 90
+    },
+    {
+      "id": 153,
+      "name": "Upper right figure's garment and collar, upper-middle right section 13",
+      "order": 95
+    },
+    {
+      "id": 154,
+      "name": "Upper right figure's garment and collar, upper-middle right section 10",
+      "order": 92
+    },
+    {
+      "id": 155,
+      "name": "Upper right figure's garment and collar, upper-middle left section 14",
+      "order": 96
+    },
+    {
+      "id": 156,
+      "name": "Upper right figure's garment and collar, upper-middle left section 17",
+      "order": 99
+    },
+    {
+      "id": 157,
+      "name": "Upper right figure's garment and collar, upper-middle right section 11",
+      "order": 93
+    },
+    {
+      "id": 158,
+      "name": "Upper right figure's garment and collar, upper-middle right section 18",
+      "order": 100
+    },
+    {
+      "id": 159,
+      "name": "Upper right figure's garment and collar, upper-middle right section 12",
+      "order": 94
+    },
+    {
+      "id": 160,
+      "name": "Left figure's shoulder and garment, lower-middle left section 6",
+      "order": 144
+    },
+    {
+      "id": 161,
+      "name": "Upper right figure's garment and collar, upper-middle right section 16",
+      "order": 98
+    },
+    {
+      "id": 162,
+      "name": "Upper right figure's garment and collar, upper-middle center section 19",
+      "order": 101
+    },
+    {
+      "id": 163,
+      "name": "Upper right figure's garment and collar, upper-middle right section 20",
+      "order": 102
+    },
+    {
+      "id": 164,
+      "name": "Upper right figure's garment and collar, upper-middle right section 21",
+      "order": 103
+    },
+    {
+      "id": 165,
+      "name": "Decorated round object's toothed rim and center flower, upper-middle left section 1",
+      "order": 145
+    },
+    {
+      "id": 166,
+      "name": "Lower right figure's hand and sleeve, lower-middle center section 6",
+      "order": 174
+    },
+    {
+      "id": 167,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle center section 18",
+      "order": 162
+    },
+    {
+      "id": 168,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 3",
+      "order": 171
+    },
+    {
+      "id": 169,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 1",
+      "order": 169
+    },
+    {
+      "id": 170,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 4",
+      "order": 172
+    },
+    {
+      "id": 171,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 8",
+      "order": 176
+    },
+    {
+      "id": 172,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 2",
+      "order": 170
+    },
+    {
+      "id": 173,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 5",
+      "order": 173
+    },
+    {
+      "id": 174,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 2",
+      "order": 146
+    },
+    {
+      "id": 175,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 11",
+      "order": 155
+    },
+    {
+      "id": 176,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 5",
+      "order": 149
+    },
+    {
+      "id": 177,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 3",
+      "order": 147
+    },
+    {
+      "id": 178,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 7",
+      "order": 175
+    },
+    {
+      "id": 179,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 4",
+      "order": 148
+    },
+    {
+      "id": 180,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 17",
+      "order": 185
+    },
+    {
+      "id": 181,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 7",
+      "order": 151
+    },
+    {
+      "id": 182,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 6",
+      "order": 150
+    },
+    {
+      "id": 183,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle right section 9",
+      "order": 153
+    },
+    {
+      "id": 184,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 12",
+      "order": 156
+    },
+    {
+      "id": 185,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 8",
+      "order": 152
+    },
+    {
+      "id": 186,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 10",
+      "order": 154
+    },
+    {
+      "id": 187,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 13",
+      "order": 157
+    },
+    {
+      "id": 188,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 14",
+      "order": 158
+    },
+    {
+      "id": 189,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 15",
+      "order": 159
+    },
+    {
+      "id": 190,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 10",
+      "order": 178
+    },
+    {
+      "id": 191,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 9",
+      "order": 177
+    },
+    {
+      "id": 192,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 17",
+      "order": 161
+    },
+    {
+      "id": 193,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 31",
+      "order": 199
+    },
+    {
+      "id": 194,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 16",
+      "order": 160
+    },
+    {
+      "id": 195,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 11",
+      "order": 179
+    },
+    {
+      "id": 196,
+      "name": "Background around the lower head and figures, lower-middle center section 2",
+      "order": 219
+    },
+    {
+      "id": 197,
+      "name": "Background around the lower head and figures, lower-middle left section 1",
+      "order": 218
+    },
+    {
+      "id": 198,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 18",
+      "order": 186
+    },
+    {
+      "id": 199,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 19",
+      "order": 163
+    },
+    {
+      "id": 200,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 20",
+      "order": 164
+    },
+    {
+      "id": 201,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 14",
+      "order": 182
+    },
+    {
+      "id": 202,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 12",
+      "order": 180
+    },
+    {
+      "id": 203,
+      "name": "Background around the lower head and figures, lower-middle left section 4",
+      "order": 221
+    },
+    {
+      "id": 204,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 13",
+      "order": 181
+    },
+    {
+      "id": 205,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 21",
+      "order": 189
+    },
+    {
+      "id": 206,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 19",
+      "order": 187
+    },
+    {
+      "id": 207,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 21",
+      "order": 165
+    },
+    {
+      "id": 208,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 15",
+      "order": 183
+    },
+    {
+      "id": 209,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 16",
+      "order": 184
+    },
+    {
+      "id": 210,
+      "name": "Lower right figure's hand and sleeve, lower-middle center section 27",
+      "order": 195
+    },
+    {
+      "id": 211,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 22",
+      "order": 166
+    },
+    {
+      "id": 212,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 23",
+      "order": 167
+    },
+    {
+      "id": 213,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 25",
+      "order": 193
+    },
+    {
+      "id": 214,
+      "name": "Decorated round object's toothed rim and center flower, lower-middle left section 24",
+      "order": 168
+    },
+    {
+      "id": 215,
+      "name": "Background around the lower head and figures, lower-middle left section 5",
+      "order": 222
+    },
+    {
+      "id": 216,
+      "name": "Background around the lower head and figures, lower-middle left section 3",
+      "order": 220
+    },
+    {
+      "id": 217,
+      "name": "Background around the lower head and figures, lower-middle center section 7",
+      "order": 224
+    },
+    {
+      "id": 218,
+      "name": "Background around the lower head and figures, lower-middle center section 6",
+      "order": 223
+    },
+    {
+      "id": 219,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 20",
+      "order": 188
+    },
+    {
+      "id": 220,
+      "name": "Lower bearded figure's flowing hair and beard, lower-middle left section 1",
+      "order": 247
+    },
+    {
+      "id": 221,
+      "name": "Background around the lower head and figures, bottom right section 13",
+      "order": 230
+    },
+    {
+      "id": 222,
+      "name": "Lower right figure's hand and sleeve, lower-middle left section 24",
+      "order": 192
+    },
+    {
+      "id": 223,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 23",
+      "order": 191
+    },
+    {
+      "id": 224,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 22",
+      "order": 190
+    },
+    {
+      "id": 225,
+      "name": "Lower right figure's hand and sleeve, bottom right section 32",
+      "order": 200
+    },
+    {
+      "id": 226,
+      "name": "Lower right figure's hand and sleeve, lower-middle left section 26",
+      "order": 194
+    },
+    {
+      "id": 227,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 28",
+      "order": 196
+    },
+    {
+      "id": 228,
+      "name": "Lower right figure's hand and sleeve, lower-middle right section 30",
+      "order": 198
+    },
+    {
+      "id": 229,
+      "name": "Background around the lower head and figures, lower-middle center section 8",
+      "order": 225
+    },
+    {
+      "id": 230,
+      "name": "Lower bearded figure's flowing hair and beard, bottom center section 2",
+      "order": 248
+    },
+    {
+      "id": 231,
+      "name": "Background around the lower head and figures, lower-middle left section 9",
+      "order": 226
+    },
+    {
+      "id": 232,
+      "name": "Lower right figure's hand and sleeve, bottom center section 37",
+      "order": 205
+    },
+    {
+      "id": 233,
+      "name": "Lower right figure's hand and sleeve, lower-middle left section 29",
+      "order": 197
+    },
+    {
+      "id": 234,
+      "name": "Lower right figure's hand and sleeve, bottom right section 48",
+      "order": 216
+    },
+    {
+      "id": 235,
+      "name": "Background around the lower head and figures, bottom left section 10",
+      "order": 227
+    },
+    {
+      "id": 236,
+      "name": "Background around the lower head and figures, bottom left section 11",
+      "order": 228
+    },
+    {
+      "id": 237,
+      "name": "Lower right figure's hand and sleeve, bottom right section 33",
+      "order": 201
+    },
+    {
+      "id": 238,
+      "name": "Lower right figure's hand and sleeve, bottom right section 34",
+      "order": 202
+    },
+    {
+      "id": 239,
+      "name": "Lower right figure's hand and sleeve, bottom left section 35",
+      "order": 203
+    },
+    {
+      "id": 240,
+      "name": "Lower right figure's hand and sleeve, bottom right section 41",
+      "order": 209
+    },
+    {
+      "id": 241,
+      "name": "Lower bearded figure's flowing hair and beard, bottom left section 12",
+      "order": 258
+    },
+    {
+      "id": 242,
+      "name": "Background around the lower head and figures, bottom left section 12",
+      "order": 229
+    },
+    {
+      "id": 243,
+      "name": "Lower right figure's hand and sleeve, bottom right section 49",
+      "order": 217
+    },
+    {
+      "id": 244,
+      "name": "Lower right figure's hand and sleeve, bottom right section 36",
+      "order": 204
+    },
+    {
+      "id": 245,
+      "name": "Lower bearded figure's flowing hair and beard, bottom left section 5",
+      "order": 251
+    },
+    {
+      "id": 246,
+      "name": "Background around the lower head and figures, bottom left section 14",
+      "order": 231
+    },
+    {
+      "id": 247,
+      "name": "Lower bearded figure's flowing hair and beard, bottom center section 3",
+      "order": 249
+    },
+    {
+      "id": 248,
+      "name": "Lower right figure's hand and sleeve, bottom right section 43",
+      "order": 211
+    },
+    {
+      "id": 249,
+      "name": "Background around the lower head and figures, bottom left section 17",
+      "order": 234
+    },
+    {
+      "id": 250,
+      "name": "Lower right figure's hand and sleeve, bottom right section 38",
+      "order": 206
+    },
+    {
+      "id": 251,
+      "name": "Background around the lower head and figures, bottom left section 15",
+      "order": 232
+    },
+    {
+      "id": 252,
+      "name": "Lower right figure's hand and sleeve, bottom right section 39",
+      "order": 207
+    },
+    {
+      "id": 253,
+      "name": "Lower right figure's hand and sleeve, bottom left section 40",
+      "order": 208
+    },
+    {
+      "id": 254,
+      "name": "Lower bearded figure's flowing hair and beard, bottom left section 4",
+      "order": 250
+    },
+    {
+      "id": 255,
+      "name": "Background around the lower head and figures, bottom left section 16",
+      "order": 233
+    },
+    {
+      "id": 256,
+      "name": "Lower bearded figure's flowing hair and beard, bottom left section 8",
+      "order": 254
+    },
+    {
+      "id": 257,
+      "name": "Lower bearded figure's flowing hair and beard, bottom left section 7",
+      "order": 253
+    },
+    {
+      "id": 258,
+      "name": "Lower bearded figure's face",
+      "order": 263
+    },
+    {
+      "id": 259,
+      "name": "Lower right figure's hand and sleeve, bottom center section 45",
+      "order": 213
+    },
+    {
+      "id": 260,
+      "name": "Background around the lower head and figures, bottom left section 18",
+      "order": 235
+    },
+    {
+      "id": 261,
+      "name": "Lower right figure's hand and sleeve, bottom center section 42",
+      "order": 210
+    },
+    {
+      "id": 262,
+      "name": "Lower bearded figure's flowing hair and beard, bottom center section 6",
+      "order": 252
+    },
+    {
+      "id": 263,
+      "name": "Lower bearded figure's flowing hair and beard, bottom center section 9",
+      "order": 255
+    },
+    {
+      "id": 264,
+      "name": "Background around the lower head and figures, bottom center section 20",
+      "order": 237
+    },
+    {
+      "id": 265,
+      "name": "Lower right figure's hand and sleeve, bottom left section 44",
+      "order": 212
+    },
+    {
+      "id": 266,
+      "name": "Background around the lower head and figures, bottom center section 19",
+      "order": 236
+    },
+    {
+      "id": 267,
+      "name": "Lower right figure's hand and sleeve, bottom center section 46",
+      "order": 214
+    },
+    {
+      "id": 268,
+      "name": "Lower right figure's hand and sleeve, bottom center section 47",
+      "order": 215
+    },
+    {
+      "id": 269,
+      "name": "Lower bearded figure's flowing hair and beard, bottom center section 10",
+      "order": 256
+    },
+    {
+      "id": 270,
+      "name": "Background around the lower head and figures, bottom left section 25",
+      "order": 242
+    },
+    {
+      "id": 271,
+      "name": "Background around the lower head and figures, bottom right section 23",
+      "order": 240
+    },
+    {
+      "id": 272,
+      "name": "Lower bearded figure's flowing hair and beard, bottom center section 11",
+      "order": 257
+    },
+    {
+      "id": 273,
+      "name": "Lower bearded figure's flowing hair and beard, bottom left section 13",
+      "order": 259
+    },
+    {
+      "id": 274,
+      "name": "Lower bearded figure's flowing hair and beard, bottom left section 14",
+      "order": 260
+    },
+    {
+      "id": 275,
+      "name": "Background around the lower head and figures, bottom left section 22",
+      "order": 239
+    },
+    {
+      "id": 276,
+      "name": "Background around the lower head and figures, bottom left section 21",
+      "order": 238
+    },
+    {
+      "id": 277,
+      "name": "Lower bearded figure's flowing hair and beard, bottom center section 15",
+      "order": 261
+    },
+    {
+      "id": 278,
+      "name": "Lower bearded figure's flowing hair and beard, bottom center section 16",
+      "order": 262
+    },
+    {
+      "id": 279,
+      "name": "Background around the lower head and figures, bottom left section 24",
+      "order": 241
+    },
+    {
+      "id": 280,
+      "name": "Lower central leaf ornament, bottom center section 2",
+      "order": 265
+    },
+    {
+      "id": 281,
+      "name": "Lower central leaf ornament, bottom center section 1",
+      "order": 264
+    },
+    {
+      "id": 282,
+      "name": "Background around the lower head and figures, bottom right section 27",
+      "order": 244
+    },
+    {
+      "id": 283,
+      "name": "Background around the lower head and figures, bottom left section 26",
+      "order": 243
+    },
+    {
+      "id": 284,
+      "name": "Lower central leaf ornament, bottom center section 3",
+      "order": 266
+    },
+    {
+      "id": 285,
+      "name": "Background around the lower head and figures, bottom left section 28",
+      "order": 245
+    },
+    {
+      "id": 286,
+      "name": "Background around the lower head and figures, bottom left section 29",
+      "order": 246
+    }
+  ],
+  "schemaVersion": 1
+}

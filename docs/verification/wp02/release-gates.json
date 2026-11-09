@@ -1,0 +1,30 @@
+[
+  {
+    "name": "full-assets-pending",
+    "command": "npm run validate -- --stage assets",
+    "expectedExitCode": 4,
+    "actualExitCode": 4,
+    "passed": true
+  },
+  {
+    "name": "release-validation-pending",
+    "command": "npm run validate",
+    "expectedExitCode": 4,
+    "actualExitCode": 4,
+    "passed": true
+  },
+  {
+    "name": "release-catalog-pending",
+    "command": "npm run catalog -- --mode release",
+    "expectedExitCode": 4,
+    "actualExitCode": 4,
+    "passed": true
+  },
+  {
+    "name": "release-build-pending",
+    "command": "npm run build",
+    "expectedExitCode": 4,
+    "actualExitCode": 4,
+    "passed": true
+  }
+]

@@ -1,0 +1,977 @@
+{
+  "artworkId": "design-034",
+  "contentVersion": "8466c9c92b2d89ec2b0dae25fae81c8f71cf0c9f28d9b8c75288a4d81c59f08b",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper bird shape and surrounding background bands, top left section 1",
+      "order": 6
+    },
+    {
+      "id": 2,
+      "name": "Upper bird shape and surrounding background bands, top left section 5",
+      "order": 10
+    },
+    {
+      "id": 3,
+      "name": "Upper bird shape and surrounding background bands, top center section 10",
+      "order": 15
+    },
+    {
+      "id": 4,
+      "name": "Upper profile's halo and hair, top right section 7",
+      "order": 33
+    },
+    {
+      "id": 5,
+      "name": "Upper bird shape and surrounding background bands, top right section 2",
+      "order": 7
+    },
+    {
+      "id": 6,
+      "name": "Upper bird shape and surrounding background bands, top left section 3",
+      "order": 8
+    },
+    {
+      "id": 7,
+      "name": "Upper profile's halo and hair, top center section 8",
+      "order": 34
+    },
+    {
+      "id": 8,
+      "name": "Upper profile's halo and hair, top right section 4",
+      "order": 30
+    },
+    {
+      "id": 9,
+      "name": "Upper profile's halo and hair, top right section 1",
+      "order": 27
+    },
+    {
+      "id": 10,
+      "name": "Upper profile's halo and hair, top right section 2",
+      "order": 28
+    },
+    {
+      "id": 11,
+      "name": "Upper profile's halo and hair, top center section 3",
+      "order": 29
+    },
+    {
+      "id": 12,
+      "name": "Upper profile's halo and hair, top right section 9",
+      "order": 35
+    },
+    {
+      "id": 13,
+      "name": "Upper profile's halo and hair, top right section 5",
+      "order": 31
+    },
+    {
+      "id": 14,
+      "name": "Upper profile's halo and hair, top center section 6",
+      "order": 32
+    },
+    {
+      "id": 15,
+      "name": "Upper bird shape and surrounding background bands, top left section 4",
+      "order": 9
+    },
+    {
+      "id": 16,
+      "name": "Upper profile's face and small closed detail, top right section 2",
+      "order": 2
+    },
+    {
+      "id": 17,
+      "name": "Upper bird shape and surrounding background bands, top right section 6",
+      "order": 11
+    },
+    {
+      "id": 18,
+      "name": "Upper bird shape and surrounding background bands, top left section 7",
+      "order": 12
+    },
+    {
+      "id": 19,
+      "name": "Upper profile's halo and hair, top right section 10",
+      "order": 36
+    },
+    {
+      "id": 20,
+      "name": "Upper profile's face and small closed detail, top center section 1",
+      "order": 1
+    },
+    {
+      "id": 21,
+      "name": "Upper bird shape and surrounding background bands, top left section 12",
+      "order": 17
+    },
+    {
+      "id": 22,
+      "name": "Upper profile's halo and hair, top center section 11",
+      "order": 37
+    },
+    {
+      "id": 23,
+      "name": "Upper profile's halo and hair, top right section 12",
+      "order": 38
+    },
+    {
+      "id": 24,
+      "name": "Upper profile's face and small closed detail, top center section 3",
+      "order": 3
+    },
+    {
+      "id": 25,
+      "name": "Upper profile's halo and hair, top right section 13",
+      "order": 39
+    },
+    {
+      "id": 26,
+      "name": "Upper neck and collar, top right section 1",
+      "order": 41
+    },
+    {
+      "id": 27,
+      "name": "Upper profile's separate beard",
+      "order": 40
+    },
+    {
+      "id": 28,
+      "name": "Upper profile's face and small closed detail, top center section 4",
+      "order": 4
+    },
+    {
+      "id": 29,
+      "name": "Upper bird shape and surrounding background bands, top center section 8",
+      "order": 13
+    },
+    {
+      "id": 30,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 8",
+      "order": 50
+    },
+    {
+      "id": 31,
+      "name": "Upper neck and collar, top right section 2",
+      "order": 42
+    },
+    {
+      "id": 32,
+      "name": "Upper bird shape and surrounding background bands, top center section 9",
+      "order": 14
+    },
+    {
+      "id": 33,
+      "name": "Upper bird shape and surrounding background bands, top left section 11",
+      "order": 16
+    },
+    {
+      "id": 34,
+      "name": "Upper garment's layered feather-like panels, top right section 1",
+      "order": 43
+    },
+    {
+      "id": 35,
+      "name": "Upper bird shape and surrounding background bands, top center section 13",
+      "order": 18
+    },
+    {
+      "id": 36,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 12",
+      "order": 54
+    },
+    {
+      "id": 37,
+      "name": "Upper garment's layered feather-like panels, top right section 2",
+      "order": 44
+    },
+    {
+      "id": 38,
+      "name": "Upper bird shape and surrounding background bands, top left section 14",
+      "order": 19
+    },
+    {
+      "id": 39,
+      "name": "Upper bird shape and surrounding background bands, top left section 15",
+      "order": 20
+    },
+    {
+      "id": 40,
+      "name": "Upper bird shape and surrounding background bands, top left section 16",
+      "order": 21
+    },
+    {
+      "id": 41,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 5",
+      "order": 47
+    },
+    {
+      "id": 42,
+      "name": "Upper bird shape and surrounding background bands, upper-middle left section 20",
+      "order": 25
+    },
+    {
+      "id": 43,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 4",
+      "order": 46
+    },
+    {
+      "id": 44,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 6",
+      "order": 48
+    },
+    {
+      "id": 45,
+      "name": "Upper bird shape and surrounding background bands, top left section 17",
+      "order": 22
+    },
+    {
+      "id": 46,
+      "name": "Upper bird shape and surrounding background bands, top left section 18",
+      "order": 23
+    },
+    {
+      "id": 47,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 7",
+      "order": 49
+    },
+    {
+      "id": 48,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 13",
+      "order": 55
+    },
+    {
+      "id": 49,
+      "name": "Upper garment's layered feather-like panels, top right section 3",
+      "order": 45
+    },
+    {
+      "id": 50,
+      "name": "Upper bird shape and surrounding background bands, top left section 19",
+      "order": 24
+    },
+    {
+      "id": 51,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 9",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 10",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 11",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Upper garment's layered feather-like panels, upper-middle left section 19",
+      "order": 61
+    },
+    {
+      "id": 55,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 14",
+      "order": 56
+    },
+    {
+      "id": 56,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 18",
+      "order": 60
+    },
+    {
+      "id": 57,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 15",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 26",
+      "order": 68
+    },
+    {
+      "id": 59,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 24",
+      "order": 66
+    },
+    {
+      "id": 60,
+      "name": "Thin outline beside the upper garment",
+      "order": 90
+    },
+    {
+      "id": 61,
+      "name": "Upper bird shape and surrounding background bands, upper-middle left section 21",
+      "order": 26
+    },
+    {
+      "id": 62,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 17",
+      "order": 59
+    },
+    {
+      "id": 63,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 16",
+      "order": 58
+    },
+    {
+      "id": 64,
+      "name": "Extended arm and hand",
+      "order": 91
+    },
+    {
+      "id": 65,
+      "name": "Small closed spaces between the extended fingers, upper-middle left section 2",
+      "order": 93
+    },
+    {
+      "id": 66,
+      "name": "Small closed spaces between the extended fingers, upper-middle left section 1",
+      "order": 92
+    },
+    {
+      "id": 67,
+      "name": "Halo's narrow outer outline",
+      "order": 121
+    },
+    {
+      "id": 68,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 23",
+      "order": 65
+    },
+    {
+      "id": 69,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 21",
+      "order": 63
+    },
+    {
+      "id": 70,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 20",
+      "order": 62
+    },
+    {
+      "id": 71,
+      "name": "Small closed spaces between the extended fingers, upper-middle left section 3",
+      "order": 94
+    },
+    {
+      "id": 72,
+      "name": "Small closed spaces between the extended fingers, upper-middle left section 5",
+      "order": 96
+    },
+    {
+      "id": 73,
+      "name": "Small closed spaces between the extended fingers, upper-middle left section 4",
+      "order": 95
+    },
+    {
+      "id": 74,
+      "name": "Upper garment's layered feather-like panels, upper-middle left section 22",
+      "order": 64
+    },
+    {
+      "id": 75,
+      "name": "Flowing bands below the extended hand, upper-middle left section 1",
+      "order": 98
+    },
+    {
+      "id": 76,
+      "name": "Small closed spaces between the extended fingers, upper-middle left section 6",
+      "order": 97
+    },
+    {
+      "id": 77,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 29",
+      "order": 71
+    },
+    {
+      "id": 78,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 25",
+      "order": 67
+    },
+    {
+      "id": 79,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 27",
+      "order": 69
+    },
+    {
+      "id": 80,
+      "name": "Flowing bands below the extended hand, lower-middle left section 7",
+      "order": 104
+    },
+    {
+      "id": 81,
+      "name": "Flowing bands below the extended hand, upper-middle left section 4",
+      "order": 101
+    },
+    {
+      "id": 82,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 30",
+      "order": 72
+    },
+    {
+      "id": 83,
+      "name": "Lower figure's halo and adjacent enclosed panes, upper-middle left section 1",
+      "order": 111
+    },
+    {
+      "id": 84,
+      "name": "Upper garment's layered feather-like panels, upper-middle left section 28",
+      "order": 70
+    },
+    {
+      "id": 85,
+      "name": "Lower figure's halo and adjacent enclosed panes, upper-middle center section 2",
+      "order": 112
+    },
+    {
+      "id": 86,
+      "name": "Lower figure's halo and adjacent enclosed panes, upper-middle left section 3",
+      "order": 113
+    },
+    {
+      "id": 87,
+      "name": "Upper garment's layered feather-like panels, upper-middle center section 31",
+      "order": 73
+    },
+    {
+      "id": 88,
+      "name": "Flowing bands below the extended hand, upper-middle left section 5",
+      "order": 102
+    },
+    {
+      "id": 89,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 34",
+      "order": 76
+    },
+    {
+      "id": 90,
+      "name": "Flowing bands below the extended hand, upper-middle center section 3",
+      "order": 100
+    },
+    {
+      "id": 91,
+      "name": "Upper garment's layered feather-like panels, upper-middle right section 32",
+      "order": 74
+    },
+    {
+      "id": 92,
+      "name": "Flowing bands below the extended hand, upper-middle left section 2",
+      "order": 99
+    },
+    {
+      "id": 93,
+      "name": "Flowing bands below the extended hand, lower-middle left section 6",
+      "order": 103
+    },
+    {
+      "id": 94,
+      "name": "Layered panels between the figures, upper-middle center section 1",
+      "order": 122
+    },
+    {
+      "id": 95,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 33",
+      "order": 75
+    },
+    {
+      "id": 96,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 35",
+      "order": 77
+    },
+    {
+      "id": 97,
+      "name": "Flowing bands below the extended hand, lower-middle left section 8",
+      "order": 105
+    },
+    {
+      "id": 98,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 37",
+      "order": 79
+    },
+    {
+      "id": 99,
+      "name": "Lower figure's face",
+      "order": 5
+    },
+    {
+      "id": 100,
+      "name": "Layered panels between the figures, lower-middle right section 2",
+      "order": 123
+    },
+    {
+      "id": 101,
+      "name": "Lower figure's halo and adjacent enclosed panes, lower-middle center section 4",
+      "order": 114
+    },
+    {
+      "id": 102,
+      "name": "Layered panels between the figures, lower-middle center section 3",
+      "order": 124
+    },
+    {
+      "id": 103,
+      "name": "Upper garment's layered feather-like panels, lower-middle center section 36",
+      "order": 78
+    },
+    {
+      "id": 104,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 39",
+      "order": 81
+    },
+    {
+      "id": 105,
+      "name": "Upper garment's layered feather-like panels, lower-middle center section 38",
+      "order": 80
+    },
+    {
+      "id": 106,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 40",
+      "order": 82
+    },
+    {
+      "id": 107,
+      "name": "Lower figure's halo and adjacent enclosed panes, lower-middle left section 6",
+      "order": 116
+    },
+    {
+      "id": 108,
+      "name": "Layered panels between the figures, lower-middle center section 5",
+      "order": 126
+    },
+    {
+      "id": 109,
+      "name": "Layered panels between the figures, lower-middle right section 6",
+      "order": 127
+    },
+    {
+      "id": 110,
+      "name": "Lower figure's halo and adjacent enclosed panes, lower-middle center section 5",
+      "order": 115
+    },
+    {
+      "id": 111,
+      "name": "Layered panels between the figures, lower-middle center section 4",
+      "order": 125
+    },
+    {
+      "id": 112,
+      "name": "Layered panels between the figures, lower-middle center section 8",
+      "order": 129
+    },
+    {
+      "id": 113,
+      "name": "Lower figure's closed eye corner and small nose opening, lower-middle left section 2",
+      "order": 107
+    },
+    {
+      "id": 114,
+      "name": "Lower figure's closed eye corner and small nose opening, lower-middle left section 1",
+      "order": 106
+    },
+    {
+      "id": 115,
+      "name": "Layered panels between the figures, lower-middle center section 7",
+      "order": 128
+    },
+    {
+      "id": 116,
+      "name": "Lower figure's halo and adjacent enclosed panes, lower-middle center section 8",
+      "order": 118
+    },
+    {
+      "id": 117,
+      "name": "Layered panels between the figures, lower-middle right section 12",
+      "order": 133
+    },
+    {
+      "id": 118,
+      "name": "Lower figure's halo and adjacent enclosed panes, lower-middle left section 7",
+      "order": 117
+    },
+    {
+      "id": 119,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 42",
+      "order": 84
+    },
+    {
+      "id": 120,
+      "name": "Lower figure's closed eye corner and small nose opening, lower-middle left section 3",
+      "order": 108
+    },
+    {
+      "id": 121,
+      "name": "Layered panels between the figures, lower-middle center section 10",
+      "order": 131
+    },
+    {
+      "id": 122,
+      "name": "Lower figure's halo and adjacent enclosed panes, lower-middle center section 10",
+      "order": 120
+    },
+    {
+      "id": 123,
+      "name": "Layered panels between the figures, lower-middle right section 11",
+      "order": 132
+    },
+    {
+      "id": 124,
+      "name": "Layered panels between the figures, lower-middle center section 9",
+      "order": 130
+    },
+    {
+      "id": 125,
+      "name": "Layered panels between the figures, lower-middle right section 16",
+      "order": 137
+    },
+    {
+      "id": 126,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 41",
+      "order": 83
+    },
+    {
+      "id": 127,
+      "name": "Lower figure's closed mouth slit",
+      "order": 109
+    },
+    {
+      "id": 128,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 43",
+      "order": 85
+    },
+    {
+      "id": 129,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 44",
+      "order": 86
+    },
+    {
+      "id": 130,
+      "name": "Layered panels between the figures, lower-middle left section 13",
+      "order": 134
+    },
+    {
+      "id": 131,
+      "name": "Layered panels between the figures, lower-middle center section 14",
+      "order": 135
+    },
+    {
+      "id": 132,
+      "name": "Lower figure's beard inner panes",
+      "order": 110
+    },
+    {
+      "id": 133,
+      "name": "Lower figure's collar and enclosed crease, lower-middle left section 2",
+      "order": 142
+    },
+    {
+      "id": 134,
+      "name": "Layered panels between the figures, lower-middle right section 15",
+      "order": 136
+    },
+    {
+      "id": 135,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 45",
+      "order": 87
+    },
+    {
+      "id": 136,
+      "name": "Layered panels between the figures, lower-middle right section 19",
+      "order": 140
+    },
+    {
+      "id": 137,
+      "name": "Layered panels between the figures, lower-middle right section 17",
+      "order": 138
+    },
+    {
+      "id": 138,
+      "name": "Lower figure's halo and adjacent enclosed panes, lower-middle left section 9",
+      "order": 119
+    },
+    {
+      "id": 139,
+      "name": "Layered panels between the figures, lower-middle right section 18",
+      "order": 139
+    },
+    {
+      "id": 140,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 46",
+      "order": 88
+    },
+    {
+      "id": 141,
+      "name": "Pane between the lower neck and hands",
+      "order": 194
+    },
+    {
+      "id": 142,
+      "name": "Lower figure's raised arm and hands, bottom left section 7",
+      "order": 151
+    },
+    {
+      "id": 143,
+      "name": "Lower figure's raised arm and hands, lower-middle center section 1",
+      "order": 145
+    },
+    {
+      "id": 144,
+      "name": "Upper garment's layered feather-like panels, lower-middle right section 47",
+      "order": 89
+    },
+    {
+      "id": 145,
+      "name": "Background surrounding the foot, lower-middle right section 2",
+      "order": 156
+    },
+    {
+      "id": 146,
+      "name": "Upper figure's lower leg and foot, lower-middle right section 1",
+      "order": 153
+    },
+    {
+      "id": 147,
+      "name": "Lower figure's raised arm and hands, lower-middle center section 3",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Lower figure's collar and enclosed crease, lower-middle left section 1",
+      "order": 141
+    },
+    {
+      "id": 149,
+      "name": "Lower figure's raised arm and hands, lower-middle center section 2",
+      "order": 146
+    },
+    {
+      "id": 150,
+      "name": "Lower figure's garment and enclosed stripe, lower-middle center section 1",
+      "order": 161
+    },
+    {
+      "id": 151,
+      "name": "Lower figure's garment and enclosed stripe, lower-middle center section 2",
+      "order": 162
+    },
+    {
+      "id": 152,
+      "name": "Background surrounding the foot, lower-middle right section 1",
+      "order": 155
+    },
+    {
+      "id": 153,
+      "name": "Lower figure's raised arm and hands, lower-middle center section 4",
+      "order": 148
+    },
+    {
+      "id": 154,
+      "name": "Lower figure's raised arm and hands, lower-middle center section 5",
+      "order": 149
+    },
+    {
+      "id": 155,
+      "name": "Lower figure's raised arm and hands, lower-middle center section 6",
+      "order": 150
+    },
+    {
+      "id": 156,
+      "name": "Background surrounding the foot, lower-middle right section 3",
+      "order": 157
+    },
+    {
+      "id": 157,
+      "name": "Lower figure's garment and enclosed stripe, bottom center section 4",
+      "order": 164
+    },
+    {
+      "id": 158,
+      "name": "Lower figure's collar and enclosed crease, lower-middle left section 3",
+      "order": 143
+    },
+    {
+      "id": 159,
+      "name": "Background surrounding the foot, bottom right section 4",
+      "order": 158
+    },
+    {
+      "id": 160,
+      "name": "Lower figure's raised arm and hands, bottom center section 8",
+      "order": 152
+    },
+    {
+      "id": 161,
+      "name": "Lower figure's garment and enclosed stripe, bottom center section 3",
+      "order": 163
+    },
+    {
+      "id": 162,
+      "name": "Lower figure's collar and enclosed crease, bottom left section 4",
+      "order": 144
+    },
+    {
+      "id": 163,
+      "name": "Lower figure's garment and enclosed stripe, bottom center section 5",
+      "order": 165
+    },
+    {
+      "id": 164,
+      "name": "Lower figure's garment and enclosed stripe, bottom center section 6",
+      "order": 166
+    },
+    {
+      "id": 165,
+      "name": "Lower figure's garment and enclosed stripe, bottom center section 7",
+      "order": 167
+    },
+    {
+      "id": 166,
+      "name": "Lower figure's garment and enclosed stripe, bottom right section 9",
+      "order": 169
+    },
+    {
+      "id": 167,
+      "name": "Lower figure's garment and enclosed stripe, bottom left section 8",
+      "order": 168
+    },
+    {
+      "id": 168,
+      "name": "Upper figure's lower leg and foot, bottom right section 2",
+      "order": 154
+    },
+    {
+      "id": 169,
+      "name": "Background surrounding the foot, bottom right section 6",
+      "order": 160
+    },
+    {
+      "id": 170,
+      "name": "Background surrounding the foot, bottom center section 5",
+      "order": 159
+    },
+    {
+      "id": 171,
+      "name": "Bottom layered plume-like bands, bottom right section 8",
+      "order": 177
+    },
+    {
+      "id": 172,
+      "name": "Bottom layered plume-like bands, bottom center section 1",
+      "order": 170
+    },
+    {
+      "id": 173,
+      "name": "Bottom layered plume-like bands, bottom center section 3",
+      "order": 172
+    },
+    {
+      "id": 174,
+      "name": "Bottom layered plume-like bands, bottom left section 5",
+      "order": 174
+    },
+    {
+      "id": 175,
+      "name": "Bottom layered plume-like bands, bottom center section 2",
+      "order": 171
+    },
+    {
+      "id": 176,
+      "name": "Bottom layered plume-like bands, bottom right section 6",
+      "order": 175
+    },
+    {
+      "id": 177,
+      "name": "Bottom layered plume-like bands, bottom right section 11",
+      "order": 180
+    },
+    {
+      "id": 178,
+      "name": "Bottom flowing wave bands, bottom left section 1",
+      "order": 189
+    },
+    {
+      "id": 179,
+      "name": "Bottom layered plume-like bands, bottom center section 7",
+      "order": 176
+    },
+    {
+      "id": 180,
+      "name": "Bottom layered plume-like bands, bottom center section 4",
+      "order": 173
+    },
+    {
+      "id": 181,
+      "name": "Bottom layered plume-like bands, bottom center section 10",
+      "order": 179
+    },
+    {
+      "id": 182,
+      "name": "Bottom flowing wave bands, bottom left section 2",
+      "order": 190
+    },
+    {
+      "id": 183,
+      "name": "Bottom layered plume-like bands, bottom center section 12",
+      "order": 181
+    },
+    {
+      "id": 184,
+      "name": "Bottom layered plume-like bands, bottom center section 9",
+      "order": 178
+    },
+    {
+      "id": 185,
+      "name": "Bottom layered plume-like bands, bottom center section 13",
+      "order": 182
+    },
+    {
+      "id": 186,
+      "name": "Bottom layered plume-like bands, bottom right section 15",
+      "order": 184
+    },
+    {
+      "id": 187,
+      "name": "Bottom layered plume-like bands, bottom right section 16",
+      "order": 185
+    },
+    {
+      "id": 188,
+      "name": "Bottom flowing wave bands, bottom left section 3",
+      "order": 191
+    },
+    {
+      "id": 189,
+      "name": "Bottom layered plume-like bands, bottom right section 18",
+      "order": 187
+    },
+    {
+      "id": 190,
+      "name": "Bottom layered plume-like bands, bottom right section 17",
+      "order": 186
+    },
+    {
+      "id": 191,
+      "name": "Bottom layered plume-like bands, bottom center section 14",
+      "order": 183
+    },
+    {
+      "id": 192,
+      "name": "Bottom layered plume-like bands, bottom center section 19",
+      "order": 188
+    },
+    {
+      "id": 193,
+      "name": "Bottom flowing wave bands, bottom left section 4",
+      "order": 192
+    },
+    {
+      "id": 194,
+      "name": "Bottom flowing wave bands, bottom center section 5",
+      "order": 193
+    }
+  ],
+  "schemaVersion": 1
+}

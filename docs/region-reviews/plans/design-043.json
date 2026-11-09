@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-043",
+  "sourceVersion": "a679b23a0a54bcc4ba182d82e36d98d34c3443ee77f2f158cdcd76518d63c1fc",
+  "observations": "Inspected the full numbered drawing and both paired small-component sheets. Thirteen isolated one-pixel acute outline tips are not independent panes; exclude only those explicit IDs. The four closed eye whites, ornament curls, small book-letter counters and halo wedges remain individually selectable. The face, beard and neck are visibly continuous. Hair ribbons, raised fingers, book border and separate letter panels receive feature and position names. Source pixels and retained packages remain unchanged.",
+  "evidence": [
+    ".work/review/design-043/a679b23a0a54bcc4ba182d82e36d98d34c3443ee77f2f158cdcd76518d63c1fc/regions-numbered-2x.png",
+    ".work/region-crops/design-043/small-01.png",
+    ".work/region-crops/design-043/small-02.png"
+  ],
+  "tips": "16,23,24,32,35,36,37,53,68,72,76,77,109",
+  "joins": [],
+  "groups": [
+    {
+      "name": "Face beard and neck",
+      "ids": "29"
+    },
+    {
+      "name": "Eye-white panes",
+      "ids": "55-58"
+    },
+    {
+      "name": "Hair ribbons",
+      "ids": "28,30,31,33,51,61,62,67,69,71"
+    },
+    {
+      "name": "Upper halo ornament",
+      "ids": "10,13-15,17,18,20-22,25"
+    },
+    {
+      "name": "Left halo ornament",
+      "ids": "34,39,41,43,45,47,50,54"
+    },
+    {
+      "name": "Right halo ornament",
+      "ids": "38,40,42,44,46,48,49,52"
+    },
+    {
+      "name": "Halo arch and radiating panels",
+      "ids": "1-9,11,12,19,26,27,59,60,63-66,70,73-75"
+    },
+    {
+      "name": "Robe and shoulder panels",
+      "ids": "78-89,91,92,100,110,111"
+    },
+    {
+      "name": "Raised hand and fingers",
+      "ids": "90,97,101,104"
+    },
+    {
+      "name": "Book border",
+      "ids": "93,94,112"
+    },
+    {
+      "name": "Left book page",
+      "ids": "95"
+    },
+    {
+      "name": "Right book page",
+      "ids": "96"
+    },
+    {
+      "name": "Left page monogram and counters",
+      "ids": "98,103,105-108"
+    },
+    {
+      "name": "Right page monogram and counters",
+      "ids": "99,102"
+    }
+  ]
+}

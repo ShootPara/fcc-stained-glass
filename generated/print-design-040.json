@@ -1,0 +1,14 @@
+{
+  "artworkId": "design-040",
+  "effectiveDpi": 180.67499999999998,
+  "file": {
+    "bytes": 1031195,
+    "path": "print/design-040.pdf",
+    "sha256": "da27671ec80fca77b75194b7960c75105334484fff38109db661562f090c4bdf"
+  },
+  "height": 792,
+  "inputDigest": "d6faa5f057458e7764b68e552b819c49da85e2e19d7e2088fce240aca54bead1",
+  "pages": 1,
+  "schemaVersion": 1,
+  "width": 612
+}

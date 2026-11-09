@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-034",
+  "sourceVersion": "87ccb031f1b7d750807ff3d170163fffa252c1f103b7c327bd636dff826997fc",
+  "observations": "Inspected full numbered source and all six small-component sheets. Retain real closed face/eye details, small leaf gaps and narrow drawn outlines; remove only explicit acute endpoint fragments. Reconnect the fragmented halo outlines, closed mouth slit, narrow neck crease, closed feather corner and lower narrow plume seam, while retaining each neighboring leaf/feather independently. Upper profile and separate beard, long extended arm with flowing water-like bands, lower profile and clasped hands, exposed foot, layered clothing and bottom waves all retain source boundaries. Names describe visible features and position without assigning historical identity. No source/canonical ink changes; prior packages remain.",
+  "evidence": [
+    ".work/review/design-034/87ccb031f1b7d750807ff3d170163fffa252c1f103b7c327bd636dff826997fc/regions-numbered-2x.png",
+    ".work/region-crops/design-034/small-01.png",
+    ".work/region-crops/design-034/small-02.png",
+    ".work/region-crops/design-034/small-03.png",
+    ".work/region-crops/design-034/small-04.png",
+    ".work/region-crops/design-034/small-05.png",
+    ".work/region-crops/design-034/small-06.png"
+  ],
+  "tips": "13,24,80,82,88,96,97,101,105,107,112,113,152,155,161,166,175,177,194,197,203,209,213,216,220,231,236,239",
+  "joins": [
+    "62,65",
+    "70,71,74-76",
+    "143-145",
+    "146,147",
+    "172,174",
+    "185-187,189",
+    "191-193,195",
+    "224,225,227,230"
+  ],
+  "groups": [
+    {
+      "name": "Upper profile's face and small closed detail",
+      "ids": "17,21,26,30"
+    },
+    {
+      "name": "Lower figure's face",
+      "ids": "116"
+    },
+    {
+      "name": "Upper bird shape and surrounding background bands",
+      "ids": "1,2,3,5,6,16,18,19,22,31,34,35,37,40,41,42,44,47,48,52,63"
+    },
+    {
+      "name": "Upper profile's halo and hair",
+      "ids": "4,7,8,9,10,11,12,14,15,20,23,25,27"
+    },
+    {
+      "name": "Upper profile's separate beard",
+      "ids": "29"
+    },
+    {
+      "name": "Upper neck and collar",
+      "ids": "28,33"
+    },
+    {
+      "name": "Upper garment's layered feather-like panels",
+      "ids": "32,36,38,39,43,45,46,49,50,51,53,54,55,56,57,58,59,60,61,64,66,72,73,77,83,86,87,89,92,94,99,102,104,110,111,115,120,121,122,136,143,144,145,149,157,163,168,123,148"
+    },
+    {
+      "name": "Thin outline beside the upper garment",
+      "ids": "62,65"
+    },
+    {
+      "name": "Extended arm and hand",
+      "ids": "67"
+    },
+    {
+      "name": "Small closed spaces between the extended fingers",
+      "ids": "68,69,78,79,81,85"
+    },
+    {
+      "name": "Flowing bands below the extended hand",
+      "ids": "84,90,91,100,103,106,108,114"
+    },
+    {
+      "name": "Lower figure's closed eye corner and small nose opening",
+      "ids": "130,131,137"
+    },
+    {
+      "name": "Lower figure's closed mouth slit",
+      "ids": "146,147"
+    },
+    {
+      "name": "Lower figure's beard inner panes",
+      "ids": "153"
+    },
+    {
+      "name": "Lower figure's halo and adjacent enclosed panes",
+      "ids": "93,98,118,127,133,135,139,160,95,124"
+    },
+    {
+      "name": "Halo's narrow outer outline",
+      "ids": "70,71,74,75,76"
+    },
+    {
+      "name": "Layered panels between the figures",
+      "ids": "109,117,119,125,126,138,140,141,142,150,151,156,158,159,162,128,129,132,134"
+    },
+    {
+      "name": "Lower figure's collar and enclosed crease",
+      "ids": "172,174,185,186,187,189,196,154"
+    },
+    {
+      "name": "Lower figure's raised arm and hands",
+      "ids": "165,167,171,173,180,181,182,190"
+    },
+    {
+      "name": "Upper figure's lower leg and foot",
+      "ids": "170,204"
+    },
+    {
+      "name": "Background surrounding the foot",
+      "ids": "169,179,183,188,205,206"
+    },
+    {
+      "name": "Lower figure's garment and enclosed stripe",
+      "ids": "176,178,184,191,192,193,195,198,199,200,201,202"
+    },
+    {
+      "name": "Bottom layered plume-like bands",
+      "ids": "207,208,210,211,212,214,215,218,219,221,223,224,225,226,227,228,229,230,233,234,235,237"
+    },
+    {
+      "name": "Bottom flowing wave bands",
+      "ids": "217,222,232,238,240"
+    },
+    {
+      "name": "Pane between the lower neck and hands",
+      "ids": "164"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "artworkId": "design-048",
+  "effectiveDpi": 172.79999999999998,
+  "file": {
+    "bytes": 1055021,
+    "path": "print/design-048.pdf",
+    "sha256": "d0fc9a00e30ae152696e1270d0792a92dea8db944f86e3b8a8d3a07c22818b0e"
+  },
+  "height": 792,
+  "inputDigest": "6dce6c996f05c646c4040b46fa6c0c8e0b9e547f62cf8bf22395315579e79955",
+  "pages": 1,
+  "schemaVersion": 1,
+  "width": 612
+}

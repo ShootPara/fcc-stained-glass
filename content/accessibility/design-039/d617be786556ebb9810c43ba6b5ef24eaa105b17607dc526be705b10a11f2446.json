@@ -1,0 +1,727 @@
+{
+  "artworkId": "design-039",
+  "contentVersion": "d617be786556ebb9810c43ba6b5ef24eaa105b17607dc526be705b10a11f2446",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Background flowing bands at left, top left section 2",
+      "order": 56
+    },
+    {
+      "id": 2,
+      "name": "Background flowing bands at left, top left section 5",
+      "order": 59
+    },
+    {
+      "id": 3,
+      "name": "Background flowing bands at left, top left section 7",
+      "order": 61
+    },
+    {
+      "id": 4,
+      "name": "Background flowing bands at left, top center section 1",
+      "order": 55
+    },
+    {
+      "id": 5,
+      "name": "Right masonry blocks, top center section 3",
+      "order": 67
+    },
+    {
+      "id": 6,
+      "name": "Right masonry blocks, top right section 1",
+      "order": 65
+    },
+    {
+      "id": 7,
+      "name": "Right masonry blocks, top right section 2",
+      "order": 66
+    },
+    {
+      "id": 8,
+      "name": "Halo outline and fields, top center section 1",
+      "order": 15
+    },
+    {
+      "id": 9,
+      "name": "Halo outline and fields, top center section 2",
+      "order": 16
+    },
+    {
+      "id": 10,
+      "name": "Right arch and tall window fields, top right section 1",
+      "order": 93
+    },
+    {
+      "id": 11,
+      "name": "Right arch and tall window fields, top right section 2",
+      "order": 94
+    },
+    {
+      "id": 12,
+      "name": "Halo outline and fields, top left section 3",
+      "order": 17
+    },
+    {
+      "id": 13,
+      "name": "Right arch and tall window fields, upper-middle right section 6",
+      "order": 98
+    },
+    {
+      "id": 14,
+      "name": "Right arch and tall window fields, top right section 4",
+      "order": 96
+    },
+    {
+      "id": 15,
+      "name": "Right arch and tall window fields, top right section 3",
+      "order": 95
+    },
+    {
+      "id": 16,
+      "name": "Right masonry blocks, top center section 4",
+      "order": 68
+    },
+    {
+      "id": 17,
+      "name": "Halo outline and fields, top center section 4",
+      "order": 18
+    },
+    {
+      "id": 18,
+      "name": "Right masonry blocks, top center section 5",
+      "order": 69
+    },
+    {
+      "id": 19,
+      "name": "Figure's hair strands and fine fold corners, top center section 1",
+      "order": 7
+    },
+    {
+      "id": 20,
+      "name": "Figure's hair strands and fine fold corners, top center section 4",
+      "order": 10
+    },
+    {
+      "id": 21,
+      "name": "Figure's hair strands and fine fold corners, top center section 2",
+      "order": 8
+    },
+    {
+      "id": 22,
+      "name": "Halo outline and fields, top center section 5",
+      "order": 19
+    },
+    {
+      "id": 23,
+      "name": "Background flowing bands at left, top left section 4",
+      "order": 58
+    },
+    {
+      "id": 24,
+      "name": "Figure's face and beard",
+      "order": 1
+    },
+    {
+      "id": 25,
+      "name": "Right arch and tall window fields, upper-middle right section 7",
+      "order": 99
+    },
+    {
+      "id": 26,
+      "name": "Right arch and tall window fields, top right section 5",
+      "order": 97
+    },
+    {
+      "id": 27,
+      "name": "Figure's hair strands and fine fold corners, top center section 3",
+      "order": 9
+    },
+    {
+      "id": 28,
+      "name": "Halo outline and fields, top left section 6",
+      "order": 20
+    },
+    {
+      "id": 29,
+      "name": "Figure's hair strands and fine fold corners, top center section 5",
+      "order": 11
+    },
+    {
+      "id": 30,
+      "name": "Background behind the figure's head",
+      "order": 144
+    },
+    {
+      "id": 31,
+      "name": "Right masonry blocks, top center section 6",
+      "order": 70
+    },
+    {
+      "id": 32,
+      "name": "Figure's hair strands and fine fold corners, top center section 6",
+      "order": 12
+    },
+    {
+      "id": 33,
+      "name": "Background flowing bands at left, top right section 6",
+      "order": 60
+    },
+    {
+      "id": 34,
+      "name": "Background flowing bands at left, top center section 3",
+      "order": 57
+    },
+    {
+      "id": 35,
+      "name": "Long curved staff, upper-middle left section 1",
+      "order": 24
+    },
+    {
+      "id": 36,
+      "name": "Halo outline and fields, top center section 7",
+      "order": 21
+    },
+    {
+      "id": 37,
+      "name": "Figure's hair strands and fine fold corners, top center section 7",
+      "order": 13
+    },
+    {
+      "id": 38,
+      "name": "Figure's hair strands and fine fold corners, top center section 8",
+      "order": 14
+    },
+    {
+      "id": 39,
+      "name": "Figure's ear and closed ear detail, top center section 2",
+      "order": 5
+    },
+    {
+      "id": 40,
+      "name": "Figure's tiny eye glints, top center section 1",
+      "order": 2
+    },
+    {
+      "id": 41,
+      "name": "Figure's tiny eye glints, top center section 2",
+      "order": 3
+    },
+    {
+      "id": 42,
+      "name": "Background flowing bands at left, top left section 8",
+      "order": 62
+    },
+    {
+      "id": 43,
+      "name": "Figure's ear and closed ear detail, top center section 1",
+      "order": 4
+    },
+    {
+      "id": 44,
+      "name": "Figure's ear and closed ear detail, top center section 3",
+      "order": 6
+    },
+    {
+      "id": 45,
+      "name": "Round object in the raised palm and inner panes, top right section 1",
+      "order": 29
+    },
+    {
+      "id": 46,
+      "name": "Neck and collar, top center section 1",
+      "order": 22
+    },
+    {
+      "id": 47,
+      "name": "Round object in the raised palm and inner panes, top right section 6",
+      "order": 34
+    },
+    {
+      "id": 48,
+      "name": "Round object in the raised palm and inner panes, top center section 2",
+      "order": 30
+    },
+    {
+      "id": 49,
+      "name": "Round object in the raised palm and inner panes, top right section 3",
+      "order": 31
+    },
+    {
+      "id": 50,
+      "name": "Right masonry blocks, top center section 7",
+      "order": 71
+    },
+    {
+      "id": 51,
+      "name": "Right masonry blocks, top right section 9",
+      "order": 73
+    },
+    {
+      "id": 52,
+      "name": "Right masonry blocks, top center section 8",
+      "order": 72
+    },
+    {
+      "id": 53,
+      "name": "Round object in the raised palm and inner panes, top right section 5",
+      "order": 33
+    },
+    {
+      "id": 54,
+      "name": "Round object in the raised palm and inner panes, top right section 4",
+      "order": 32
+    },
+    {
+      "id": 55,
+      "name": "Neck and collar, top center section 2",
+      "order": 23
+    },
+    {
+      "id": 56,
+      "name": "Robe chest sleeves and sash, upper-middle center section 1",
+      "order": 35
+    },
+    {
+      "id": 57,
+      "name": "Robe chest sleeves and sash, upper-middle center section 2",
+      "order": 36
+    },
+    {
+      "id": 58,
+      "name": "Robe chest sleeves and sash, upper-middle left section 4",
+      "order": 38
+    },
+    {
+      "id": 59,
+      "name": "Robe chest sleeves and sash, upper-middle center section 6",
+      "order": 40
+    },
+    {
+      "id": 60,
+      "name": "Raised forearm hand and small closed corner, top right section 1",
+      "order": 27
+    },
+    {
+      "id": 61,
+      "name": "Raised forearm hand and small closed corner, upper-middle right section 2",
+      "order": 28
+    },
+    {
+      "id": 62,
+      "name": "Right masonry blocks, upper-middle center section 11",
+      "order": 75
+    },
+    {
+      "id": 63,
+      "name": "Right masonry blocks, upper-middle right section 10",
+      "order": 74
+    },
+    {
+      "id": 64,
+      "name": "Right arch and tall window fields, upper-middle right section 8",
+      "order": 100
+    },
+    {
+      "id": 65,
+      "name": "Robe chest sleeves and sash, upper-middle center section 3",
+      "order": 37
+    },
+    {
+      "id": 66,
+      "name": "Right arch and tall window fields, upper-middle right section 9",
+      "order": 101
+    },
+    {
+      "id": 67,
+      "name": "Background flowing bands at left, upper-middle left section 9",
+      "order": 63
+    },
+    {
+      "id": 68,
+      "name": "Robe chest sleeves and sash, upper-middle left section 5",
+      "order": 39
+    },
+    {
+      "id": 69,
+      "name": "Right masonry blocks, upper-middle right section 12",
+      "order": 76
+    },
+    {
+      "id": 70,
+      "name": "Long lower garment folds, lower-middle center section 1",
+      "order": 44
+    },
+    {
+      "id": 71,
+      "name": "Hand gripping the staff",
+      "order": 26
+    },
+    {
+      "id": 72,
+      "name": "Right masonry blocks, upper-middle center section 13",
+      "order": 77
+    },
+    {
+      "id": 73,
+      "name": "Right masonry blocks, upper-middle center section 14",
+      "order": 78
+    },
+    {
+      "id": 74,
+      "name": "Long curved staff, lower-middle center section 2",
+      "order": 25
+    },
+    {
+      "id": 75,
+      "name": "Robe chest sleeves and sash, lower-middle left section 8",
+      "order": 42
+    },
+    {
+      "id": 76,
+      "name": "Right masonry blocks, lower-middle center section 15",
+      "order": 79
+    },
+    {
+      "id": 77,
+      "name": "Right masonry blocks, lower-middle right section 16",
+      "order": 80
+    },
+    {
+      "id": 78,
+      "name": "Right arch and tall window fields, lower-middle right section 10",
+      "order": 102
+    },
+    {
+      "id": 79,
+      "name": "Right arch and tall window fields, lower-middle right section 11",
+      "order": 103
+    },
+    {
+      "id": 80,
+      "name": "Right arch and tall window fields, lower-middle right section 12",
+      "order": 104
+    },
+    {
+      "id": 81,
+      "name": "Robe chest sleeves and sash, lower-middle left section 7",
+      "order": 41
+    },
+    {
+      "id": 82,
+      "name": "Right arch and tall window fields, lower-middle right section 13",
+      "order": 105
+    },
+    {
+      "id": 83,
+      "name": "Background flowing bands at left, lower-middle left section 10",
+      "order": 64
+    },
+    {
+      "id": 84,
+      "name": "Robe chest sleeves and sash, lower-middle left section 9",
+      "order": 43
+    },
+    {
+      "id": 85,
+      "name": "Right masonry blocks, lower-middle center section 17",
+      "order": 81
+    },
+    {
+      "id": 86,
+      "name": "Right masonry blocks, lower-middle center section 19",
+      "order": 83
+    },
+    {
+      "id": 87,
+      "name": "Right masonry blocks, lower-middle right section 18",
+      "order": 82
+    },
+    {
+      "id": 88,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 1",
+      "order": 110
+    },
+    {
+      "id": 89,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 2",
+      "order": 111
+    },
+    {
+      "id": 90,
+      "name": "Right masonry blocks, lower-middle center section 20",
+      "order": 84
+    },
+    {
+      "id": 91,
+      "name": "Right masonry blocks, lower-middle right section 21",
+      "order": 85
+    },
+    {
+      "id": 92,
+      "name": "Long lower garment folds, bottom center section 3",
+      "order": 46
+    },
+    {
+      "id": 93,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 3",
+      "order": 112
+    },
+    {
+      "id": 94,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 4",
+      "order": 113
+    },
+    {
+      "id": 95,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 5",
+      "order": 114
+    },
+    {
+      "id": 96,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 6",
+      "order": 115
+    },
+    {
+      "id": 97,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 7",
+      "order": 116
+    },
+    {
+      "id": 98,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 8",
+      "order": 117
+    },
+    {
+      "id": 99,
+      "name": "Right masonry blocks, lower-middle center section 22",
+      "order": 86
+    },
+    {
+      "id": 100,
+      "name": "Right masonry blocks, lower-middle right section 23",
+      "order": 87
+    },
+    {
+      "id": 101,
+      "name": "Right masonry blocks, lower-middle center section 24",
+      "order": 88
+    },
+    {
+      "id": 102,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 9",
+      "order": 118
+    },
+    {
+      "id": 103,
+      "name": "Long lower garment folds, bottom center section 2",
+      "order": 45
+    },
+    {
+      "id": 104,
+      "name": "Lower left leaves and scalloped ornament, lower-middle left section 10",
+      "order": 119
+    },
+    {
+      "id": 105,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 11",
+      "order": 120
+    },
+    {
+      "id": 106,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 13",
+      "order": 122
+    },
+    {
+      "id": 107,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 12",
+      "order": 121
+    },
+    {
+      "id": 108,
+      "name": "Right masonry blocks, bottom center section 25",
+      "order": 89
+    },
+    {
+      "id": 109,
+      "name": "Right masonry blocks, bottom right section 26",
+      "order": 90
+    },
+    {
+      "id": 110,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 15",
+      "order": 124
+    },
+    {
+      "id": 111,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 14",
+      "order": 123
+    },
+    {
+      "id": 112,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 16",
+      "order": 125
+    },
+    {
+      "id": 113,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 17",
+      "order": 126
+    },
+    {
+      "id": 114,
+      "name": "Right masonry blocks, bottom center section 27",
+      "order": 91
+    },
+    {
+      "id": 115,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 18",
+      "order": 127
+    },
+    {
+      "id": 116,
+      "name": "Lower right window sill and base bands, bottom right section 1",
+      "order": 106
+    },
+    {
+      "id": 117,
+      "name": "Right masonry blocks, bottom center section 28",
+      "order": 92
+    },
+    {
+      "id": 118,
+      "name": "Lower right window sill and base bands, bottom right section 2",
+      "order": 107
+    },
+    {
+      "id": 119,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 19",
+      "order": 128
+    },
+    {
+      "id": 120,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 20",
+      "order": 129
+    },
+    {
+      "id": 121,
+      "name": "Lower right window sill and base bands, bottom right section 3",
+      "order": 108
+    },
+    {
+      "id": 122,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 21",
+      "order": 130
+    },
+    {
+      "id": 123,
+      "name": "Lower right window sill and base bands, bottom right section 4",
+      "order": 109
+    },
+    {
+      "id": 124,
+      "name": "Long lower garment folds, bottom left section 4",
+      "order": 47
+    },
+    {
+      "id": 125,
+      "name": "Long lower garment folds, bottom left section 5",
+      "order": 48
+    },
+    {
+      "id": 126,
+      "name": "Exposed foot and nearby closed gaps, bottom center section 1",
+      "order": 49
+    },
+    {
+      "id": 127,
+      "name": "Exposed foot and nearby closed gaps, bottom center section 2",
+      "order": 50
+    },
+    {
+      "id": 128,
+      "name": "Lower left leaves and scalloped ornament, bottom left section 22",
+      "order": 131
+    },
+    {
+      "id": 129,
+      "name": "Exposed foot and nearby closed gaps, bottom center section 3",
+      "order": 51
+    },
+    {
+      "id": 130,
+      "name": "Exposed foot and nearby closed gaps, bottom left section 4",
+      "order": 52
+    },
+    {
+      "id": 131,
+      "name": "Exposed foot and nearby closed gaps, bottom left section 5",
+      "order": 53
+    },
+    {
+      "id": 132,
+      "name": "Rounded ground forms below the robe and window, bottom center section 3",
+      "order": 134
+    },
+    {
+      "id": 133,
+      "name": "Rounded ground forms below the robe and window, bottom center section 2",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Rounded ground forms below the robe and window, bottom center section 4",
+      "order": 135
+    },
+    {
+      "id": 135,
+      "name": "Rounded ground forms below the robe and window, bottom center section 1",
+      "order": 132
+    },
+    {
+      "id": 136,
+      "name": "Rounded ground forms below the robe and window, bottom left section 6",
+      "order": 137
+    },
+    {
+      "id": 137,
+      "name": "Rounded ground forms below the robe and window, bottom left section 5",
+      "order": 136
+    },
+    {
+      "id": 138,
+      "name": "Exposed foot and nearby closed gaps, bottom center section 6",
+      "order": 54
+    },
+    {
+      "id": 139,
+      "name": "Rounded ground forms below the robe and window, bottom center section 7",
+      "order": 138
+    },
+    {
+      "id": 140,
+      "name": "Rounded ground forms below the robe and window, bottom center section 8",
+      "order": 139
+    },
+    {
+      "id": 141,
+      "name": "Rounded ground forms below the robe and window, bottom right section 9",
+      "order": 140
+    },
+    {
+      "id": 142,
+      "name": "Rounded ground forms below the robe and window, bottom left section 10",
+      "order": 141
+    },
+    {
+      "id": 143,
+      "name": "Rounded ground forms below the robe and window, bottom right section 11",
+      "order": 142
+    },
+    {
+      "id": 144,
+      "name": "Rounded ground forms below the robe and window, bottom left section 12",
+      "order": 143
+    }
+  ],
+  "schemaVersion": 1
+}

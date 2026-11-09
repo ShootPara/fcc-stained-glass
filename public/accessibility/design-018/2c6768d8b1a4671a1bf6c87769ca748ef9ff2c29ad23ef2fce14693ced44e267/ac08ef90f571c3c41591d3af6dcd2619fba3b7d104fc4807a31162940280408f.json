@@ -1,0 +1,982 @@
+{
+  "artworkId": "design-018",
+  "contentVersion": "2c6768d8b1a4671a1bf6c87769ca748ef9ff2c29ad23ef2fce14693ced44e267",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Continuous outer frame, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Broad background around figure and chariot, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Broad background around figure and chariot, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Feather plume and base curls, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Broad background around figure and chariot, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Large fan frame, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Broad background around figure and chariot, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Large fan frame, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Fine outline fragment beside Feather plume and base curls, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Large fan frame, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Large fan frame, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Large fan frame, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Staff and its curved top, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Large fan frame, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Fine outline fragment beside Feather plume and base curls, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Large fan frame, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Fine outline fragment beside Staff and its curved top, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Staff and its curved top, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Feather plume and base curls, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Fine outline fragment beside Feather plume and base curls, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Feather plume and base curls, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Fine outline fragment beside Large fan frame, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Fine outline fragment beside Large fan frame, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Fine outline fragment beside Large fan frame, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Large fan frame, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Large fan frame, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Large fan frame, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Large fan frame, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Large fan frame, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Large fan frame, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Large fan frame, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Helmet, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Large fan frame, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Large fan frame, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Fine outline fragment beside Feather plume and base curls, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Fine outline fragment beside Feather plume and base curls, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Large fan frame, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Large fan frame, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Long veil strips behind the helmet, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Fine outline fragment beside Feather plume and base curls, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Feather plume and base curls, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Long veil strips behind the helmet, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Helmet, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Large fan frame, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Helmet, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Helmet, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Helmet, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Fine outline fragment beside Feather plume and base curls, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Long veil strips behind the helmet, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Fine outline fragment beside Feather plume and base curls, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Large fan frame, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Feather plume and base curls, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Helmet, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Long veil strips behind the helmet, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Large fan frame, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Figure's face, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Fine outline fragment beside Large fan frame, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Large fan frame, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Figure's eye white, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Figure's eye highlight, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Long slanting shafts beside the fan, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Small enclosed ear slit, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Long veil strips behind the helmet, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Large fan frame, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Large fan frame, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Fine outline fragment beside Large fan frame, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Large fan frame, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Large fan frame, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Fine outline fragment beside Large fan frame, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Large fan frame, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Large fan frame, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Large fan frame, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Large fan frame, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Garment, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Large fan frame, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Fine outline fragment beside Long veil strips behind the helmet, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Fine outline fragment beside Long veil strips behind the helmet, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Hand gripping the staff and forearm, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Fine outline fragment beside Broad background around figure and chariot, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Large fan frame, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Upper arm, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Long slanting shafts beside the fan, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Garment, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Broad background around figure and chariot, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Garment, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Garment, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Broad background around figure and chariot, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Garment, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Staff and its curved top, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Garment, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Garment, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Garment, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Garment, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Garment, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Garment, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Garment, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Garment, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Fine outline fragment beside Garment, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Garment, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Broad background around figure and chariot, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Chariot upper curved trim, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Tall curved chariot rim, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Broad background around figure and chariot, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Fine outline fragment beside Continuous outer frame, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Horse-like ornament and curved bands, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Garment, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Chariot scroll hull, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Chariot scroll hull, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Chariot scroll hull, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Chariot scroll hull, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Fine outline fragment beside Horse-like ornament and curved bands, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Fine outline fragment beside Horse-like ornament and curved bands, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Chariot scroll hull, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Chariot scroll hull, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 120",
+      "order": 120
+    },
+    {
+      "id": 121,
+      "name": "Chariot scroll hull, retained section 121",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 122",
+      "order": 122
+    },
+    {
+      "id": 123,
+      "name": "Chariot scroll hull, retained section 123",
+      "order": 123
+    },
+    {
+      "id": 124,
+      "name": "Chariot scroll hull, retained section 124",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 125",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Chariot scroll hull, retained section 126",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Chariot scroll hull, retained section 127",
+      "order": 127
+    },
+    {
+      "id": 128,
+      "name": "Chariot scroll hull, retained section 128",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Chariot scroll hull, retained section 129",
+      "order": 129
+    },
+    {
+      "id": 130,
+      "name": "Chariot scroll hull, retained section 130",
+      "order": 130
+    },
+    {
+      "id": 131,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 131",
+      "order": 131
+    },
+    {
+      "id": 132,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 132",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 133",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Chariot scroll hull, retained section 134",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Chariot scroll hull, retained section 135",
+      "order": 135
+    },
+    {
+      "id": 136,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 136",
+      "order": 136
+    },
+    {
+      "id": 137,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 137",
+      "order": 137
+    },
+    {
+      "id": 138,
+      "name": "Chariot scroll hull, retained section 138",
+      "order": 138
+    },
+    {
+      "id": 139,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 139",
+      "order": 139
+    },
+    {
+      "id": 140,
+      "name": "Chariot scroll hull, retained section 140",
+      "order": 140
+    },
+    {
+      "id": 141,
+      "name": "Chariot scroll hull, retained section 141",
+      "order": 141
+    },
+    {
+      "id": 142,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 142",
+      "order": 142
+    },
+    {
+      "id": 143,
+      "name": "Chariot scroll hull, retained section 143",
+      "order": 143
+    },
+    {
+      "id": 144,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 144",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Fine outline fragment beside Diagonal decorated harness strip and square fittings, retained section 145",
+      "order": 145
+    },
+    {
+      "id": 146,
+      "name": "Chariot scroll hull, retained section 146",
+      "order": 146
+    },
+    {
+      "id": 147,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 147",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Horse-like ornament and curved bands, retained section 148",
+      "order": 148
+    },
+    {
+      "id": 149,
+      "name": "Fine outline fragment beside Chariot scroll hull, retained section 149",
+      "order": 149
+    },
+    {
+      "id": 150,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 150",
+      "order": 150
+    },
+    {
+      "id": 151,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 151",
+      "order": 151
+    },
+    {
+      "id": 152,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 152",
+      "order": 152
+    },
+    {
+      "id": 153,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 153",
+      "order": 153
+    },
+    {
+      "id": 154,
+      "name": "Broad background around figure and chariot, retained section 154",
+      "order": 154
+    },
+    {
+      "id": 155,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 155",
+      "order": 155
+    },
+    {
+      "id": 156,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 156",
+      "order": 156
+    },
+    {
+      "id": 157,
+      "name": "Wheel rim and inner border, retained section 157",
+      "order": 157
+    },
+    {
+      "id": 158,
+      "name": "Wheel rim and inner border, retained section 158",
+      "order": 158
+    },
+    {
+      "id": 159,
+      "name": "Fine outline fragment beside Diagonal decorated harness strip and square fittings, retained section 159",
+      "order": 159
+    },
+    {
+      "id": 160,
+      "name": "Fine outline fragment beside Diagonal decorated harness strip and square fittings, retained section 160",
+      "order": 160
+    },
+    {
+      "id": 161,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 161",
+      "order": 161
+    },
+    {
+      "id": 162,
+      "name": "Background inside the wheel, retained section 162",
+      "order": 162
+    },
+    {
+      "id": 163,
+      "name": "Wheel petals and surrounding wedge panes, retained section 163",
+      "order": 163
+    },
+    {
+      "id": 164,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 164",
+      "order": 164
+    },
+    {
+      "id": 165,
+      "name": "Wheel petals and surrounding wedge panes, retained section 165",
+      "order": 165
+    },
+    {
+      "id": 166,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 166",
+      "order": 166
+    },
+    {
+      "id": 167,
+      "name": "Wheel petals and surrounding wedge panes, retained section 167",
+      "order": 167
+    },
+    {
+      "id": 168,
+      "name": "Broad background around figure and chariot, retained section 168",
+      "order": 168
+    },
+    {
+      "id": 169,
+      "name": "Diagonal decorated harness strip and square fittings, retained section 169",
+      "order": 169
+    },
+    {
+      "id": 170,
+      "name": "Fine outline fragment beside Wheel petals and surrounding wedge panes, retained section 170",
+      "order": 170
+    },
+    {
+      "id": 171,
+      "name": "Wheel petals and surrounding wedge panes, retained section 171",
+      "order": 171
+    },
+    {
+      "id": 172,
+      "name": "Fine outline fragment beside Wheel petals and surrounding wedge panes, retained section 172",
+      "order": 172
+    },
+    {
+      "id": 173,
+      "name": "Wheel petals and surrounding wedge panes, retained section 173",
+      "order": 173
+    },
+    {
+      "id": 174,
+      "name": "Wheel petals and surrounding wedge panes, retained section 174",
+      "order": 174
+    },
+    {
+      "id": 175,
+      "name": "Wheel center ring and disc, retained section 175",
+      "order": 175
+    },
+    {
+      "id": 176,
+      "name": "Wheel center ring and disc, retained section 176",
+      "order": 176
+    },
+    {
+      "id": 177,
+      "name": "Wheel petals and surrounding wedge panes, retained section 177",
+      "order": 177
+    },
+    {
+      "id": 178,
+      "name": "Wheel petals and surrounding wedge panes, retained section 178",
+      "order": 178
+    },
+    {
+      "id": 179,
+      "name": "Wheel petals and surrounding wedge panes, retained section 179",
+      "order": 179
+    },
+    {
+      "id": 180,
+      "name": "Wheel petals and surrounding wedge panes, retained section 180",
+      "order": 180
+    },
+    {
+      "id": 181,
+      "name": "Small enclosed hoof curls and gap, retained section 181",
+      "order": 181
+    },
+    {
+      "id": 182,
+      "name": "Wheel petals and surrounding wedge panes, retained section 182",
+      "order": 182
+    },
+    {
+      "id": 183,
+      "name": "Wheel petals and surrounding wedge panes, retained section 183",
+      "order": 183
+    },
+    {
+      "id": 184,
+      "name": "Small enclosed hoof curls and gap, retained section 184",
+      "order": 184
+    },
+    {
+      "id": 185,
+      "name": "Broad background around figure and chariot, retained section 185",
+      "order": 185
+    },
+    {
+      "id": 186,
+      "name": "Wheel petals and surrounding wedge panes, retained section 186",
+      "order": 186
+    },
+    {
+      "id": 187,
+      "name": "Fine outline fragment beside Wheel petals and surrounding wedge panes, retained section 187",
+      "order": 187
+    },
+    {
+      "id": 188,
+      "name": "Fine outline fragment beside Wheel petals and surrounding wedge panes, retained section 188",
+      "order": 188
+    },
+    {
+      "id": 189,
+      "name": "Small enclosed hoof curls and gap, retained section 189",
+      "order": 189
+    },
+    {
+      "id": 190,
+      "name": "Broad background around figure and chariot, retained section 190",
+      "order": 190
+    },
+    {
+      "id": 191,
+      "name": "Fine outline fragment beside Wheel petals and surrounding wedge panes, retained section 191",
+      "order": 191
+    },
+    {
+      "id": 192,
+      "name": "Fine outline fragment beside Wheel petals and surrounding wedge panes, retained section 192",
+      "order": 192
+    },
+    {
+      "id": 193,
+      "name": "Broad background around figure and chariot, retained section 193",
+      "order": 193
+    },
+    {
+      "id": 194,
+      "name": "Broad background around figure and chariot, retained section 194",
+      "order": 194
+    },
+    {
+      "id": 195,
+      "name": "Fine outline fragment beside Wheel petals and surrounding wedge panes, retained section 195",
+      "order": 195
+    }
+  ],
+  "schemaVersion": 1
+}

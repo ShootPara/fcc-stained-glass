@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected the complete numbered lamb, banner, halo and lower ornament drawing plus all three sheets of 34 tiny source/fill pairs. Retain the intentional one-pixel closed counter in the lower cross-shaped ornament, eye highlight, floral medallion centers and hoof corner panes. Reconnect inspected narrow halo rim fragments, the outer orange ring and the closed chest corner only. Exclude explicit acute border, chest and ornament outline tips rather than all small regions. Head/chest and body remain separately selectable as drawn, with legs, banner panes and nested ornaments named by feature and position. Original source and canonical ink remain unchanged. Explicit inspected tip IDs: 18,21,23,26,32,50,64,67,74,75,82,98,106,124,137,143,145,149,159,169,172. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

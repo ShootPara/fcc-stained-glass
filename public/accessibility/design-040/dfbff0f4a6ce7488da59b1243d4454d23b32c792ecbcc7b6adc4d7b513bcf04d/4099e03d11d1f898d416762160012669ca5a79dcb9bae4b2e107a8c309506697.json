@@ -1,0 +1,827 @@
+{
+  "artworkId": "design-040",
+  "contentVersion": "dfbff0f4a6ce7488da59b1243d4454d23b32c792ecbcc7b6adc4d7b513bcf04d",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Background panes around the central halo and arms, top left section 1",
+      "order": 110
+    },
+    {
+      "id": 2,
+      "name": "Background panes around the central halo and arms, top left section 3",
+      "order": 112
+    },
+    {
+      "id": 3,
+      "name": "Cross vertical fields, top center section 4",
+      "order": 105
+    },
+    {
+      "id": 4,
+      "name": "Cross vertical fields, top center section 2",
+      "order": 103
+    },
+    {
+      "id": 5,
+      "name": "Cross vertical fields, top center section 1",
+      "order": 102
+    },
+    {
+      "id": 6,
+      "name": "Cross vertical fields, top center section 3",
+      "order": 104
+    },
+    {
+      "id": 7,
+      "name": "Background panes around the central halo and arms, top right section 5",
+      "order": 114
+    },
+    {
+      "id": 8,
+      "name": "Background panes around the central halo and arms, top right section 4",
+      "order": 113
+    },
+    {
+      "id": 9,
+      "name": "Background panes around the central halo and arms, top right section 2",
+      "order": 111
+    },
+    {
+      "id": 10,
+      "name": "Background panes around the central halo and arms, top left section 6",
+      "order": 115
+    },
+    {
+      "id": 11,
+      "name": "INRI placard field and letter counter, top center section 2",
+      "order": 99
+    },
+    {
+      "id": 12,
+      "name": "INRI placard field and letter counter, top center section 1",
+      "order": 98
+    },
+    {
+      "id": 13,
+      "name": "Cross vertical fields, top center section 6",
+      "order": 107
+    },
+    {
+      "id": 14,
+      "name": "Cross vertical fields, top center section 5",
+      "order": 106
+    },
+    {
+      "id": 15,
+      "name": "Cross vertical fields, top center section 8",
+      "order": 109
+    },
+    {
+      "id": 16,
+      "name": "Small closed spaces below the placard, top center section 2",
+      "order": 101
+    },
+    {
+      "id": 17,
+      "name": "Small closed spaces below the placard, top center section 1",
+      "order": 100
+    },
+    {
+      "id": 18,
+      "name": "Cross vertical fields, top center section 7",
+      "order": 108
+    },
+    {
+      "id": 19,
+      "name": "Background panes around the central halo and arms, top center section 8",
+      "order": 117
+    },
+    {
+      "id": 20,
+      "name": "Background panes around the central halo and arms, top center section 7",
+      "order": 116
+    },
+    {
+      "id": 21,
+      "name": "Background panes around the central halo and arms, top center section 12",
+      "order": 121
+    },
+    {
+      "id": 22,
+      "name": "Background panes around the central halo and arms, top center section 9",
+      "order": 118
+    },
+    {
+      "id": 23,
+      "name": "Background panes around the central halo and arms, top left section 11",
+      "order": 120
+    },
+    {
+      "id": 24,
+      "name": "Background panes around the central halo and arms, top right section 10",
+      "order": 119
+    },
+    {
+      "id": 25,
+      "name": "Central figure's hair and crown of thorns, top center section 1",
+      "order": 12
+    },
+    {
+      "id": 26,
+      "name": "Central figure's torso and outstretched arms",
+      "order": 30
+    },
+    {
+      "id": 27,
+      "name": "Background panes around the central halo and arms, top right section 13",
+      "order": 122
+    },
+    {
+      "id": 28,
+      "name": "Central figure's hair and crown of thorns, top left section 5",
+      "order": 16
+    },
+    {
+      "id": 29,
+      "name": "Central figure's hair and crown of thorns, top center section 4",
+      "order": 15
+    },
+    {
+      "id": 30,
+      "name": "Central figure's hair and crown of thorns, top center section 2",
+      "order": 13
+    },
+    {
+      "id": 31,
+      "name": "Central figure's hair and crown of thorns, top center section 3",
+      "order": 14
+    },
+    {
+      "id": 32,
+      "name": "Central figure's hair and crown of thorns, top center section 6",
+      "order": 17
+    },
+    {
+      "id": 33,
+      "name": "Central figure's hair and crown of thorns, top center section 7",
+      "order": 18
+    },
+    {
+      "id": 34,
+      "name": "Background panes around the central halo and arms, top center section 14",
+      "order": 123
+    },
+    {
+      "id": 35,
+      "name": "Central figure's hair and crown of thorns, top center section 9",
+      "order": 20
+    },
+    {
+      "id": 36,
+      "name": "Central figure's hair and crown of thorns, top center section 8",
+      "order": 19
+    },
+    {
+      "id": 37,
+      "name": "Background panes around the central halo and arms, top left section 15",
+      "order": 124
+    },
+    {
+      "id": 38,
+      "name": "Central figure's hair and crown of thorns, top center section 10",
+      "order": 21
+    },
+    {
+      "id": 39,
+      "name": "Background panes around the central halo and arms, top right section 16",
+      "order": 125
+    },
+    {
+      "id": 40,
+      "name": "Background panes around the central halo and arms, top right section 17",
+      "order": 126
+    },
+    {
+      "id": 41,
+      "name": "Central figure's face",
+      "order": 9
+    },
+    {
+      "id": 42,
+      "name": "Right hand's nail center",
+      "order": 31
+    },
+    {
+      "id": 43,
+      "name": "Left hand's nail center",
+      "order": 32
+    },
+    {
+      "id": 44,
+      "name": "Background panes around the central halo and arms, top center section 18",
+      "order": 127
+    },
+    {
+      "id": 45,
+      "name": "Central figure's eye-white and hair-side detail, top center section 1",
+      "order": 10
+    },
+    {
+      "id": 46,
+      "name": "Central figure's hair and crown of thorns, top left section 11",
+      "order": 22
+    },
+    {
+      "id": 47,
+      "name": "Central figure's eye-white and hair-side detail, top center section 2",
+      "order": 11
+    },
+    {
+      "id": 48,
+      "name": "Background panes around the central halo and arms, top right section 19",
+      "order": 128
+    },
+    {
+      "id": 49,
+      "name": "Central figure's hair and crown of thorns, top center section 12",
+      "order": 23
+    },
+    {
+      "id": 50,
+      "name": "Central figure's separate beard and small lip details, top center section 1",
+      "order": 27
+    },
+    {
+      "id": 51,
+      "name": "Central figure's hair and crown of thorns, upper-middle center section 14",
+      "order": 25
+    },
+    {
+      "id": 52,
+      "name": "Central figure's separate beard and small lip details, upper-middle center section 3",
+      "order": 29
+    },
+    {
+      "id": 53,
+      "name": "Central figure's separate beard and small lip details, top center section 2",
+      "order": 28
+    },
+    {
+      "id": 54,
+      "name": "Central figure's hair and crown of thorns, upper-middle center section 13",
+      "order": 24
+    },
+    {
+      "id": 55,
+      "name": "Background panes around the central halo and arms, upper-middle right section 20",
+      "order": 129
+    },
+    {
+      "id": 56,
+      "name": "Background panes around the central halo and arms, upper-middle left section 21",
+      "order": 130
+    },
+    {
+      "id": 57,
+      "name": "Right figure's halo neck and collar, upper-middle right section 1",
+      "order": 94
+    },
+    {
+      "id": 58,
+      "name": "Left figure's halo veil and neck-side panes, upper-middle left section 1",
+      "order": 62
+    },
+    {
+      "id": 59,
+      "name": "Central figure's hair and crown of thorns, upper-middle center section 15",
+      "order": 26
+    },
+    {
+      "id": 60,
+      "name": "Background panes between figures and under the feet, upper-middle center section 4",
+      "order": 134
+    },
+    {
+      "id": 61,
+      "name": "Left figure's halo veil and neck-side panes, upper-middle left section 2",
+      "order": 63
+    },
+    {
+      "id": 62,
+      "name": "Background panes between figures and under the feet, upper-middle center section 3",
+      "order": 133
+    },
+    {
+      "id": 63,
+      "name": "Right figure's hair curls",
+      "order": 89
+    },
+    {
+      "id": 64,
+      "name": "Background panes between figures and under the feet, upper-middle center section 2",
+      "order": 132
+    },
+    {
+      "id": 65,
+      "name": "Background panes between figures and under the feet, upper-middle right section 5",
+      "order": 135
+    },
+    {
+      "id": 66,
+      "name": "Background panes between figures and under the feet, upper-middle center section 1",
+      "order": 131
+    },
+    {
+      "id": 67,
+      "name": "Background panes between figures and under the feet, upper-middle left section 6",
+      "order": 136
+    },
+    {
+      "id": 68,
+      "name": "Background panes between figures and under the feet, upper-middle left section 7",
+      "order": 137
+    },
+    {
+      "id": 69,
+      "name": "Right figure's face",
+      "order": 88
+    },
+    {
+      "id": 70,
+      "name": "Left figure's halo veil and neck-side panes, upper-middle left section 3",
+      "order": 64
+    },
+    {
+      "id": 71,
+      "name": "Right figure's upper eye-white pane",
+      "order": 90
+    },
+    {
+      "id": 72,
+      "name": "Left figure's face and eye details, upper-middle left section 3",
+      "order": 61
+    },
+    {
+      "id": 73,
+      "name": "Right figure's hand against the cheek",
+      "order": 92
+    },
+    {
+      "id": 74,
+      "name": "Left figure's face and eye details, upper-middle left section 1",
+      "order": 59
+    },
+    {
+      "id": 75,
+      "name": "Background panes between figures and under the feet, upper-middle center section 8",
+      "order": 138
+    },
+    {
+      "id": 76,
+      "name": "Right figure's lower eye-white pane",
+      "order": 8
+    },
+    {
+      "id": 77,
+      "name": "Left figure's face and eye details, upper-middle left section 2",
+      "order": 60
+    },
+    {
+      "id": 78,
+      "name": "Right figure's tiny lower iris crescent",
+      "order": 91
+    },
+    {
+      "id": 79,
+      "name": "Background panes between figures and under the feet, upper-middle left section 9",
+      "order": 139
+    },
+    {
+      "id": 80,
+      "name": "Background panes between figures and under the feet, upper-middle center section 12",
+      "order": 142
+    },
+    {
+      "id": 81,
+      "name": "Background panes between figures and under the feet, upper-middle center section 11",
+      "order": 141
+    },
+    {
+      "id": 82,
+      "name": "Right figure's halo neck and collar, upper-middle right section 3",
+      "order": 96
+    },
+    {
+      "id": 83,
+      "name": "Left figure's halo veil and neck-side panes, upper-middle left section 5",
+      "order": 66
+    },
+    {
+      "id": 84,
+      "name": "Right figure's halo neck and collar, upper-middle right section 2",
+      "order": 95
+    },
+    {
+      "id": 85,
+      "name": "Right figure's robe sleeves and enclosed gaps, upper-middle right section 2",
+      "order": 2
+    },
+    {
+      "id": 86,
+      "name": "Left figure's halo veil and neck-side panes, upper-middle left section 4",
+      "order": 65
+    },
+    {
+      "id": 87,
+      "name": "Right figure's robe sleeves and enclosed gaps, upper-middle right section 1",
+      "order": 1
+    },
+    {
+      "id": 88,
+      "name": "Background panes between figures and under the feet, upper-middle left section 10",
+      "order": 140
+    },
+    {
+      "id": 89,
+      "name": "Left figure's upper hand",
+      "order": 67
+    },
+    {
+      "id": 90,
+      "name": "Right figure's halo neck and collar, upper-middle right section 4",
+      "order": 97
+    },
+    {
+      "id": 91,
+      "name": "Small wound on the central abdomen",
+      "order": 33
+    },
+    {
+      "id": 92,
+      "name": "Central figure's wrap and waist folds, upper-middle center section 1",
+      "order": 34
+    },
+    {
+      "id": 93,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, lower-middle left section 8",
+      "order": 76
+    },
+    {
+      "id": 94,
+      "name": "Central figure's wrap and waist folds, upper-middle center section 6",
+      "order": 39
+    },
+    {
+      "id": 95,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, upper-middle left section 2",
+      "order": 70
+    },
+    {
+      "id": 96,
+      "name": "Central figure's wrap and waist folds, upper-middle center section 2",
+      "order": 35
+    },
+    {
+      "id": 97,
+      "name": "Central figure's wrap and waist folds, upper-middle center section 4",
+      "order": 37
+    },
+    {
+      "id": 98,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, upper-middle left section 4",
+      "order": 72
+    },
+    {
+      "id": 99,
+      "name": "Central figure's wrap and waist folds, upper-middle left section 3",
+      "order": 36
+    },
+    {
+      "id": 100,
+      "name": "Central figure's wrap and waist folds, upper-middle center section 5",
+      "order": 38
+    },
+    {
+      "id": 101,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 9",
+      "order": 42
+    },
+    {
+      "id": 102,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, upper-middle left section 1",
+      "order": 69
+    },
+    {
+      "id": 103,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, upper-middle left section 3",
+      "order": 71
+    },
+    {
+      "id": 104,
+      "name": "Left figure's lower hand",
+      "order": 68
+    },
+    {
+      "id": 105,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, upper-middle center section 5",
+      "order": 73
+    },
+    {
+      "id": 106,
+      "name": "Right figure's hand on the chest",
+      "order": 93
+    },
+    {
+      "id": 107,
+      "name": "Background panes between figures and under the feet, lower-middle center section 14",
+      "order": 144
+    },
+    {
+      "id": 108,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 7",
+      "order": 40
+    },
+    {
+      "id": 109,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, lower-middle left section 10",
+      "order": 78
+    },
+    {
+      "id": 110,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, lower-middle left section 6",
+      "order": 74
+    },
+    {
+      "id": 111,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 10",
+      "order": 43
+    },
+    {
+      "id": 112,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, lower-middle left section 11",
+      "order": 79
+    },
+    {
+      "id": 113,
+      "name": "Background panes between figures and under the feet, lower-middle left section 13",
+      "order": 143
+    },
+    {
+      "id": 114,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 8",
+      "order": 41
+    },
+    {
+      "id": 115,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, lower-middle left section 7",
+      "order": 75
+    },
+    {
+      "id": 116,
+      "name": "Right figure's robe sleeves and enclosed gaps, bottom right section 7",
+      "order": 7
+    },
+    {
+      "id": 117,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, lower-middle left section 9",
+      "order": 77
+    },
+    {
+      "id": 118,
+      "name": "Right figure's robe sleeves and enclosed gaps, lower-middle right section 4",
+      "order": 4
+    },
+    {
+      "id": 119,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 11",
+      "order": 44
+    },
+    {
+      "id": 120,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, lower-middle left section 12",
+      "order": 80
+    },
+    {
+      "id": 121,
+      "name": "Background panes between figures and under the feet, lower-middle center section 15",
+      "order": 145
+    },
+    {
+      "id": 122,
+      "name": "Background panes between figures and under the feet, lower-middle center section 16",
+      "order": 146
+    },
+    {
+      "id": 123,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 12",
+      "order": 45
+    },
+    {
+      "id": 124,
+      "name": "Right figure's robe sleeves and enclosed gaps, lower-middle right section 3",
+      "order": 3
+    },
+    {
+      "id": 125,
+      "name": "Background panes between figures and under the feet, bottom right section 20",
+      "order": 150
+    },
+    {
+      "id": 126,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 13",
+      "order": 46
+    },
+    {
+      "id": 127,
+      "name": "Central figure's legs and feet, lower-middle center section 5",
+      "order": 54
+    },
+    {
+      "id": 128,
+      "name": "Right figure's robe sleeves and enclosed gaps, lower-middle right section 6",
+      "order": 6
+    },
+    {
+      "id": 129,
+      "name": "Right figure's robe sleeves and enclosed gaps, lower-middle right section 5",
+      "order": 5
+    },
+    {
+      "id": 130,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 14",
+      "order": 47
+    },
+    {
+      "id": 131,
+      "name": "Central figure's wrap and waist folds, lower-middle left section 16",
+      "order": 49
+    },
+    {
+      "id": 132,
+      "name": "Central figure's legs and feet, lower-middle center section 6",
+      "order": 55
+    },
+    {
+      "id": 133,
+      "name": "Central figure's wrap and waist folds, lower-middle center section 15",
+      "order": 48
+    },
+    {
+      "id": 134,
+      "name": "Central figure's legs and feet, lower-middle center section 1",
+      "order": 50
+    },
+    {
+      "id": 135,
+      "name": "Central figure's legs and feet, lower-middle center section 2",
+      "order": 51
+    },
+    {
+      "id": 136,
+      "name": "Background panes between figures and under the feet, lower-middle center section 18",
+      "order": 148
+    },
+    {
+      "id": 137,
+      "name": "Central figure's legs and feet, lower-middle center section 3",
+      "order": 52
+    },
+    {
+      "id": 138,
+      "name": "Central figure's legs and feet, lower-middle center section 4",
+      "order": 53
+    },
+    {
+      "id": 139,
+      "name": "Background panes between figures and under the feet, lower-middle center section 17",
+      "order": 147
+    },
+    {
+      "id": 140,
+      "name": "Background panes between figures and under the feet, lower-middle center section 19",
+      "order": 149
+    },
+    {
+      "id": 141,
+      "name": "Background panes between figures and under the feet, bottom center section 21",
+      "order": 151
+    },
+    {
+      "id": 142,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, lower-middle left section 13",
+      "order": 81
+    },
+    {
+      "id": 143,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, bottom left section 17",
+      "order": 85
+    },
+    {
+      "id": 144,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, bottom left section 15",
+      "order": 83
+    },
+    {
+      "id": 145,
+      "name": "Central figure's legs and feet, bottom center section 7",
+      "order": 56
+    },
+    {
+      "id": 146,
+      "name": "Background panes between figures and under the feet, bottom center section 22",
+      "order": 152
+    },
+    {
+      "id": 147,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, bottom left section 16",
+      "order": 84
+    },
+    {
+      "id": 148,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, bottom left section 14",
+      "order": 82
+    },
+    {
+      "id": 149,
+      "name": "Background panes between figures and under the feet, bottom center section 23",
+      "order": 153
+    },
+    {
+      "id": 150,
+      "name": "Central figure's legs and feet, bottom center section 9",
+      "order": 58
+    },
+    {
+      "id": 151,
+      "name": "Central figure's legs and feet, bottom center section 8",
+      "order": 57
+    },
+    {
+      "id": 152,
+      "name": "Background panes between figures and under the feet, bottom center section 24",
+      "order": 154
+    },
+    {
+      "id": 153,
+      "name": "Background panes between figures and under the feet, bottom center section 25",
+      "order": 155
+    },
+    {
+      "id": 154,
+      "name": "Background panes between figures and under the feet, bottom center section 26",
+      "order": 156
+    },
+    {
+      "id": 155,
+      "name": "Background panes between figures and under the feet, bottom center section 27",
+      "order": 157
+    },
+    {
+      "id": 156,
+      "name": "Background panes between figures and under the feet, bottom center section 28",
+      "order": 158
+    },
+    {
+      "id": 157,
+      "name": "Background panes between figures and under the feet, bottom center section 30",
+      "order": 160
+    },
+    {
+      "id": 158,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, bottom left section 18",
+      "order": 86
+    },
+    {
+      "id": 159,
+      "name": "Left figure's robe collar sleeve and enclosed gaps, bottom left section 19",
+      "order": 87
+    },
+    {
+      "id": 160,
+      "name": "Background panes between figures and under the feet, bottom left section 33",
+      "order": 163
+    },
+    {
+      "id": 161,
+      "name": "Background panes between figures and under the feet, bottom right section 29",
+      "order": 159
+    },
+    {
+      "id": 162,
+      "name": "Background panes between figures and under the feet, bottom left section 32",
+      "order": 162
+    },
+    {
+      "id": 163,
+      "name": "Background panes between figures and under the feet, bottom right section 34",
+      "order": 164
+    },
+    {
+      "id": 164,
+      "name": "Background panes between figures and under the feet, bottom right section 31",
+      "order": 161
+    }
+  ],
+  "schemaVersion": 1
+}

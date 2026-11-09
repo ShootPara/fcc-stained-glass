@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-042",
+  "sourceVersion": "6ecee7ef6120c155dac8954853859f2cd22bb03128a147a2ab1679897ed285d5",
+  "observations": "Inspected full numbered source, all three small-component sheets and a ten-times source eye crop. The left upper eye's narrow white stripe is distinct from its broad upper pane; the lower white area opens into the face, so do not force a separate iris band there. Retain the tiny pupil glint, small lower eye-outline corners and closed lip slit. Reconnect only the narrow stripe, other eye crescent, fine wing rib and closed wing interstice. Exclude explicit acute tips only. Two winged figures, cropped upper garments/feet, cloud bands and lower radiating panes remain separate. Visible-feature names and positions are authored without changing canonical ink, source art or prior saved packages.",
+  "evidence": [
+    ".work/review/design-042/6ecee7ef6120c155dac8954853859f2cd22bb03128a147a2ab1679897ed285d5/regions-numbered-2x.png",
+    ".work/region-crops/design-042/small-01.png",
+    ".work/region-crops/design-042/small-02.png",
+    ".work/region-crops/design-042/small-03.png",
+    ".work/region-crops/design-042/eye-detail.png"
+  ],
+  "tips": "26,43,49,78,83,93,102,106",
+  "joins": [
+    "28-32,34",
+    "35,36",
+    "40,41",
+    "58,59,61,62",
+    "68,69"
+  ],
+  "groups": [
+    {
+      "name": "Left winged figure's face and neck",
+      "ids": "19"
+    },
+    {
+      "name": "Left figure's broad upper eye-white pane",
+      "ids": "27"
+    },
+    {
+      "name": "Left figure's narrow eye-white stripe",
+      "ids": "28,29,30,31,32,34"
+    },
+    {
+      "name": "Left figure's tiny eye glint",
+      "ids": "33"
+    },
+    {
+      "name": "Left figure's small lower eye-outline corner",
+      "ids": "35,36"
+    },
+    {
+      "name": "Left figure's other iris crescent",
+      "ids": "40,41"
+    },
+    {
+      "name": "Left figure's closed lip slit",
+      "ids": "48"
+    },
+    {
+      "name": "Left figure's hair curls and closed ear-side panes",
+      "ids": "12,16,21,25,39,44,52"
+    },
+    {
+      "name": "Right winged figure's face",
+      "ids": "24"
+    },
+    {
+      "name": "Right figure's closed eye-side pane",
+      "ids": "42"
+    },
+    {
+      "name": "Right figure's hair and collar",
+      "ids": "15,18,22,38,46,47,54,56,64,65"
+    },
+    {
+      "name": "Wing feathers and their enclosed panels",
+      "ids": "13,14,17,20,23,37,45,50,51,53,55,57,58,59,61,62,63,66,68,69"
+    },
+    {
+      "name": "Left lower cloud curl",
+      "ids": "60"
+    },
+    {
+      "name": "Right lower cloud curl",
+      "ids": "67"
+    },
+    {
+      "name": "Cropped upper robe panels",
+      "ids": "4,5,6"
+    },
+    {
+      "name": "Cropped figure's lower legs feet and closed ankle panes",
+      "ids": "70,71,72,73,75,76,85,86"
+    },
+    {
+      "name": "Background around the upper figures",
+      "ids": "1,2,3,7,8,9,10,11,77,79,80,81,82,84,87,88,89,90,91,92,94,95,97,99,103,107"
+    },
+    {
+      "name": "Middle cloud bands",
+      "ids": "74,96,98,100,101,104,105,108,109"
+    },
+    {
+      "name": "Lower radiating arch and pointed panes",
+      "ids": "110,111,112,115,116,117,118,119,120,121,122,123,124,126,127,129,130,131"
+    },
+    {
+      "name": "Lower rounded cloud forms",
+      "ids": "113,114,125,128,132,133,134,135,136,137,138"
+    }
+  ]
+}

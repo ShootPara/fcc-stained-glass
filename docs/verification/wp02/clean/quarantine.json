@@ -1,0 +1,11 @@
+{
+  "movedAtUtc": "2026-11-06T20:50:32.546Z",
+  "source": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/fcc-stained-glass/source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g",
+  "destination": "/workspace/scratch/4516eeb76477/work/FCC WP02 Clean Check/quarantine/photo-051-transfer-partial-2998272.bin",
+  "method": "Atomic rename on the same filesystem; no source photograph changed.",
+  "bytes": 2998272,
+  "sha256": "ee1dd7c82795b6d4b0f148507db799f5e6bce6dfc8f366db59ea34c157b4ce4e",
+  "exactOriginalPrefix": true,
+  "originalBytes": 3012002,
+  "originalSha256": "7ddd531ea4cfab20ad8c0c13d38096771e54d5ae7d47546848e10b121b57b798"
+}

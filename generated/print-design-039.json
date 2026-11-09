@@ -1,0 +1,14 @@
+{
+  "artworkId": "design-039",
+  "effectiveDpi": 172.125,
+  "file": {
+    "bytes": 960625,
+    "path": "print/design-039.pdf",
+    "sha256": "94030e491b0dac1d0d9187e89eeda1736561bc011aec9206de0ec2b9393fead0"
+  },
+  "height": 792,
+  "inputDigest": "9aff1b2d4171edf6c287e07b24599e814eba264057562c8a8d97c07cfc5334ed",
+  "pages": 1,
+  "schemaVersion": 1,
+  "width": 612
+}

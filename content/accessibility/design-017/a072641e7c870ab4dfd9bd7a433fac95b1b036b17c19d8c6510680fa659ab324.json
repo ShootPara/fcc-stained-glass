@@ -1,0 +1,762 @@
+{
+  "artworkId": "design-017",
+  "contentVersion": "a072641e7c870ab4dfd9bd7a433fac95b1b036b17c19d8c6510680fa659ab324",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Continuous outer frame",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Upper bands around the left foot, top left section 3",
+      "order": 4
+    },
+    {
+      "id": 3,
+      "name": "Upper bands around the left foot, top left section 1",
+      "order": 2
+    },
+    {
+      "id": 4,
+      "name": "Upper bands around the left foot, top left section 4",
+      "order": 5
+    },
+    {
+      "id": 5,
+      "name": "Upper bands around the left foot, top center section 5",
+      "order": 6
+    },
+    {
+      "id": 6,
+      "name": "Upper garments and ankle folds, top center section 2",
+      "order": 22
+    },
+    {
+      "id": 7,
+      "name": "Long hanging bands on the upper right, top center section 2",
+      "order": 41
+    },
+    {
+      "id": 8,
+      "name": "Long hanging bands on the upper right, top center section 1",
+      "order": 40
+    },
+    {
+      "id": 9,
+      "name": "Long hanging bands on the upper right, top right section 7",
+      "order": 46
+    },
+    {
+      "id": 10,
+      "name": "Long hanging bands on the upper right, top right section 6",
+      "order": 45
+    },
+    {
+      "id": 11,
+      "name": "Long hanging bands on the upper right, top right section 9",
+      "order": 48
+    },
+    {
+      "id": 12,
+      "name": "Upper bands around the left foot, top left section 2",
+      "order": 3
+    },
+    {
+      "id": 13,
+      "name": "Long hanging bands on the upper right, top right section 3",
+      "order": 42
+    },
+    {
+      "id": 14,
+      "name": "Long hanging bands on the upper right, top right section 5",
+      "order": 44
+    },
+    {
+      "id": 15,
+      "name": "Long hanging bands on the upper right, top right section 4",
+      "order": 43
+    },
+    {
+      "id": 16,
+      "name": "Upper garments and ankle folds, top center section 1",
+      "order": 21
+    },
+    {
+      "id": 17,
+      "name": "Upper bands around the left foot, top left section 6",
+      "order": 7
+    },
+    {
+      "id": 18,
+      "name": "Bare foot at the upper left",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Upper bands around the left foot, top left section 7",
+      "order": 8
+    },
+    {
+      "id": 20,
+      "name": "Upper bands around the left foot, top center section 8",
+      "order": 9
+    },
+    {
+      "id": 21,
+      "name": "Upper bands around the left foot, top left section 11",
+      "order": 12
+    },
+    {
+      "id": 22,
+      "name": "Upper bands around the left foot, top left section 9",
+      "order": 10
+    },
+    {
+      "id": 23,
+      "name": "Upper bands around the left foot, top center section 10",
+      "order": 11
+    },
+    {
+      "id": 24,
+      "name": "Upper bands around the left foot, top left section 14",
+      "order": 15
+    },
+    {
+      "id": 25,
+      "name": "Upper bands around the left foot, top left section 12",
+      "order": 13
+    },
+    {
+      "id": 26,
+      "name": "Long hanging bands on the upper right, top center section 8",
+      "order": 47
+    },
+    {
+      "id": 27,
+      "name": "Upper bands around the left foot, top left section 13",
+      "order": 14
+    },
+    {
+      "id": 28,
+      "name": "Upper bands around the left foot, top left section 16",
+      "order": 17
+    },
+    {
+      "id": 29,
+      "name": "Diagonal stair panes and background strips, top left section 2",
+      "order": 50
+    },
+    {
+      "id": 30,
+      "name": "Upper bands around the left foot, top left section 15",
+      "order": 16
+    },
+    {
+      "id": 31,
+      "name": "Diagonal stair panes and background strips, top left section 1",
+      "order": 49
+    },
+    {
+      "id": 32,
+      "name": "Upper garments and ankle folds, upper-middle center section 4",
+      "order": 24
+    },
+    {
+      "id": 33,
+      "name": "Diagonal stair panes and background strips, upper-middle left section 3",
+      "order": 51
+    },
+    {
+      "id": 34,
+      "name": "Diagonal stair panes and background strips, upper-middle left section 4",
+      "order": 52
+    },
+    {
+      "id": 35,
+      "name": "Small enclosed gap beneath the upper toes",
+      "order": 19
+    },
+    {
+      "id": 36,
+      "name": "Tiny separate gap beneath the leftmost toe",
+      "order": 20
+    },
+    {
+      "id": 37,
+      "name": "Upper garments and ankle folds, upper-middle center section 3",
+      "order": 23
+    },
+    {
+      "id": 38,
+      "name": "Upper garments and ankle folds, upper-middle center section 5",
+      "order": 25
+    },
+    {
+      "id": 39,
+      "name": "Upper garments and ankle folds, upper-middle center section 6",
+      "order": 26
+    },
+    {
+      "id": 40,
+      "name": "Upper garments and ankle folds, upper-middle center section 7",
+      "order": 27
+    },
+    {
+      "id": 41,
+      "name": "Upper garments and ankle folds, upper-middle center section 8",
+      "order": 28
+    },
+    {
+      "id": 42,
+      "name": "Diagonal rail around its round details",
+      "order": 81
+    },
+    {
+      "id": 43,
+      "name": "Upper garments and ankle folds, upper-middle center section 14",
+      "order": 34
+    },
+    {
+      "id": 44,
+      "name": "Upper garments and ankle folds, upper-middle center section 10",
+      "order": 30
+    },
+    {
+      "id": 45,
+      "name": "Diagonal stair panes and background strips, upper-middle left section 5",
+      "order": 53
+    },
+    {
+      "id": 46,
+      "name": "Upper garments and ankle folds, upper-middle center section 9",
+      "order": 29
+    },
+    {
+      "id": 47,
+      "name": "Upper garments and ankle folds, upper-middle right section 16",
+      "order": 36
+    },
+    {
+      "id": 48,
+      "name": "Upper garments and ankle folds, upper-middle left section 19",
+      "order": 39
+    },
+    {
+      "id": 49,
+      "name": "Upper garments and ankle folds, upper-middle center section 11",
+      "order": 31
+    },
+    {
+      "id": 50,
+      "name": "Upper garments and ankle folds, upper-middle center section 12",
+      "order": 32
+    },
+    {
+      "id": 51,
+      "name": "Upper garments and ankle folds, upper-middle center section 13",
+      "order": 33
+    },
+    {
+      "id": 52,
+      "name": "Upper garments and ankle folds, upper-middle center section 15",
+      "order": 35
+    },
+    {
+      "id": 53,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 8",
+      "order": 56
+    },
+    {
+      "id": 54,
+      "name": "Upper garments and ankle folds, upper-middle left section 18",
+      "order": 38
+    },
+    {
+      "id": 55,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 6",
+      "order": 54
+    },
+    {
+      "id": 56,
+      "name": "Diagonal stair panes and background strips, upper-middle left section 14",
+      "order": 62
+    },
+    {
+      "id": 57,
+      "name": "Upper garments and ankle folds, upper-middle left section 17",
+      "order": 37
+    },
+    {
+      "id": 58,
+      "name": "Round details in the diagonal rail, upper-middle left section 1",
+      "order": 82
+    },
+    {
+      "id": 59,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 12",
+      "order": 60
+    },
+    {
+      "id": 60,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 9",
+      "order": 57
+    },
+    {
+      "id": 61,
+      "name": "Diagonal stair panes and background strips, lower-middle left section 22",
+      "order": 70
+    },
+    {
+      "id": 62,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 15",
+      "order": 63
+    },
+    {
+      "id": 63,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 10",
+      "order": 58
+    },
+    {
+      "id": 64,
+      "name": "Diagonal stair panes and background strips, upper-middle right section 17",
+      "order": 65
+    },
+    {
+      "id": 65,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 7",
+      "order": 55
+    },
+    {
+      "id": 66,
+      "name": "Lower bare foot on the steps",
+      "order": 87
+    },
+    {
+      "id": 67,
+      "name": "Diagonal stair panes and background strips, upper-middle left section 13",
+      "order": 61
+    },
+    {
+      "id": 68,
+      "name": "Diagonal stair panes and background strips, upper-middle right section 11",
+      "order": 59
+    },
+    {
+      "id": 69,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 18",
+      "order": 66
+    },
+    {
+      "id": 70,
+      "name": "Figure's curled hair and separate strands, upper-middle right section 2",
+      "order": 89
+    },
+    {
+      "id": 71,
+      "name": "Figure's face, neck, chest and upper arm",
+      "order": 95
+    },
+    {
+      "id": 72,
+      "name": "Diagonal stair panes and background strips, upper-middle center section 21",
+      "order": 69
+    },
+    {
+      "id": 73,
+      "name": "Diagonal stair panes and background strips, upper-middle left section 19",
+      "order": 67
+    },
+    {
+      "id": 74,
+      "name": "Round details in the diagonal rail, upper-middle left section 2",
+      "order": 83
+    },
+    {
+      "id": 75,
+      "name": "Diagonal stair panes and background strips, lower-middle right section 32",
+      "order": 80
+    },
+    {
+      "id": 76,
+      "name": "Diagonal stair panes and background strips, lower-middle left section 27",
+      "order": 75
+    },
+    {
+      "id": 77,
+      "name": "Diagonal stair panes and background strips, lower-middle center section 23",
+      "order": 71
+    },
+    {
+      "id": 78,
+      "name": "Diagonal stair panes and background strips, upper-middle left section 16",
+      "order": 64
+    },
+    {
+      "id": 79,
+      "name": "Figure's curled hair and separate strands, upper-middle right section 1",
+      "order": 88
+    },
+    {
+      "id": 80,
+      "name": "Small closed eye crescent",
+      "order": 96
+    },
+    {
+      "id": 81,
+      "name": "Diagonal stair panes and background strips, upper-middle right section 20",
+      "order": 68
+    },
+    {
+      "id": 82,
+      "name": "Diagonal stair panes and background strips, lower-middle left section 25",
+      "order": 73
+    },
+    {
+      "id": 83,
+      "name": "Figure's curled hair and separate strands, lower-middle right section 3",
+      "order": 90
+    },
+    {
+      "id": 84,
+      "name": "Round details in the diagonal rail, upper-middle left section 3",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Diagonal stair panes and background strips, lower-middle center section 24",
+      "order": 72
+    },
+    {
+      "id": 86,
+      "name": "Narrow enclosed hair-curl slit",
+      "order": 97
+    },
+    {
+      "id": 87,
+      "name": "Tiny inner ear curl",
+      "order": 98
+    },
+    {
+      "id": 88,
+      "name": "Diagonal stair panes and background strips, lower-middle center section 26",
+      "order": 74
+    },
+    {
+      "id": 89,
+      "name": "Figure's curled hair and separate strands, lower-middle right section 5",
+      "order": 92
+    },
+    {
+      "id": 90,
+      "name": "Figure's curled hair and separate strands, lower-middle right section 4",
+      "order": 91
+    },
+    {
+      "id": 91,
+      "name": "Figure's curled hair and separate strands, lower-middle right section 6",
+      "order": 93
+    },
+    {
+      "id": 92,
+      "name": "Round details in the diagonal rail, lower-middle left section 4",
+      "order": 85
+    },
+    {
+      "id": 93,
+      "name": "Figure's curled hair and separate strands, lower-middle right section 7",
+      "order": 94
+    },
+    {
+      "id": 94,
+      "name": "Diagonal stair panes and background strips, lower-middle right section 28",
+      "order": 76
+    },
+    {
+      "id": 95,
+      "name": "Garment folds and body-side strips, lower-middle right section 9",
+      "order": 108
+    },
+    {
+      "id": 96,
+      "name": "Diagonal stair panes and background strips, lower-middle center section 30",
+      "order": 78
+    },
+    {
+      "id": 97,
+      "name": "Diagonal stair panes and background strips, lower-middle right section 29",
+      "order": 77
+    },
+    {
+      "id": 98,
+      "name": "Diagonal stair panes and background strips, lower-middle right section 31",
+      "order": 79
+    },
+    {
+      "id": 99,
+      "name": "Hand resting on the chest",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Round details in the diagonal rail, lower-middle center section 5",
+      "order": 86
+    },
+    {
+      "id": 101,
+      "name": "Garment folds and body-side strips, lower-middle center section 6",
+      "order": 105
+    },
+    {
+      "id": 102,
+      "name": "Garment folds and body-side strips, lower-middle right section 1",
+      "order": 100
+    },
+    {
+      "id": 103,
+      "name": "Garment folds and body-side strips, lower-middle center section 3",
+      "order": 102
+    },
+    {
+      "id": 104,
+      "name": "Garment folds and body-side strips, lower-middle right section 2",
+      "order": 101
+    },
+    {
+      "id": 105,
+      "name": "Curved background bands to the figure's right, lower-middle left section 2",
+      "order": 112
+    },
+    {
+      "id": 106,
+      "name": "Garment folds and body-side strips, lower-middle center section 7",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Curved background bands to the figure's right, lower-middle right section 1",
+      "order": 111
+    },
+    {
+      "id": 108,
+      "name": "Garment folds and body-side strips, lower-middle center section 4",
+      "order": 103
+    },
+    {
+      "id": 109,
+      "name": "Garment folds and body-side strips, lower-middle left section 10",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Garment folds and body-side strips, bottom center section 11",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Curved background bands to the figure's right, lower-middle right section 3",
+      "order": 113
+    },
+    {
+      "id": 112,
+      "name": "Garment folds and body-side strips, lower-middle center section 5",
+      "order": 104
+    },
+    {
+      "id": 113,
+      "name": "Garment folds and body-side strips, lower-middle right section 8",
+      "order": 107
+    },
+    {
+      "id": 114,
+      "name": "Curled lower-left ornament and background, bottom left section 2",
+      "order": 121
+    },
+    {
+      "id": 115,
+      "name": "Curved background bands to the figure's right, lower-middle right section 4",
+      "order": 114
+    },
+    {
+      "id": 116,
+      "name": "Curled lower-left ornament and background, bottom left section 3",
+      "order": 122
+    },
+    {
+      "id": 117,
+      "name": "Curved background bands to the figure's right, lower-middle right section 5",
+      "order": 115
+    },
+    {
+      "id": 118,
+      "name": "Curled lower-left ornament and background, lower-middle left section 1",
+      "order": 120
+    },
+    {
+      "id": 119,
+      "name": "Curved background bands to the figure's right, bottom right section 6",
+      "order": 116
+    },
+    {
+      "id": 120,
+      "name": "Curved background bands to the figure's right, bottom right section 7",
+      "order": 117
+    },
+    {
+      "id": 121,
+      "name": "Curved background bands to the figure's right, bottom right section 8",
+      "order": 118
+    },
+    {
+      "id": 122,
+      "name": "Curled lower-left ornament and background, bottom left section 4",
+      "order": 123
+    },
+    {
+      "id": 123,
+      "name": "Curled lower-left ornament and background, bottom left section 5",
+      "order": 124
+    },
+    {
+      "id": 124,
+      "name": "Curved background bands to the figure's right, bottom right section 9",
+      "order": 119
+    },
+    {
+      "id": 125,
+      "name": "Curled lower-left ornament and background, bottom left section 6",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Lower wrist band",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Pot rim and opening, bottom right section 2",
+      "order": 129
+    },
+    {
+      "id": 128,
+      "name": "Pot rim and opening, bottom right section 1",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Lower hand and fingers",
+      "order": 127
+    },
+    {
+      "id": 130,
+      "name": "Background spaces around the pot and lower hand, bottom right section 1",
+      "order": 145
+    },
+    {
+      "id": 131,
+      "name": "Background spaces around the pot and lower hand, bottom right section 2",
+      "order": 146
+    },
+    {
+      "id": 132,
+      "name": "Pot body and geometric decorations, bottom right section 1",
+      "order": 130
+    },
+    {
+      "id": 133,
+      "name": "Background spaces around the pot and lower hand, bottom right section 5",
+      "order": 149
+    },
+    {
+      "id": 134,
+      "name": "Background spaces around the pot and lower hand, bottom center section 4",
+      "order": 148
+    },
+    {
+      "id": 135,
+      "name": "Background spaces around the pot and lower hand, bottom right section 3",
+      "order": 147
+    },
+    {
+      "id": 136,
+      "name": "Pot body and geometric decorations, bottom right section 2",
+      "order": 131
+    },
+    {
+      "id": 137,
+      "name": "Pot body and geometric decorations, bottom right section 3",
+      "order": 132
+    },
+    {
+      "id": 138,
+      "name": "Pot body and geometric decorations, bottom right section 4",
+      "order": 133
+    },
+    {
+      "id": 139,
+      "name": "Pot body and geometric decorations, bottom right section 7",
+      "order": 136
+    },
+    {
+      "id": 140,
+      "name": "Pot body and geometric decorations, bottom right section 6",
+      "order": 135
+    },
+    {
+      "id": 141,
+      "name": "Pot body and geometric decorations, bottom right section 15",
+      "order": 144
+    },
+    {
+      "id": 142,
+      "name": "Pot body and geometric decorations, bottom right section 5",
+      "order": 134
+    },
+    {
+      "id": 143,
+      "name": "Pot body and geometric decorations, bottom right section 8",
+      "order": 137
+    },
+    {
+      "id": 144,
+      "name": "Background spaces around the pot and lower hand, bottom center section 6",
+      "order": 150
+    },
+    {
+      "id": 145,
+      "name": "Pot body and geometric decorations, bottom right section 9",
+      "order": 138
+    },
+    {
+      "id": 146,
+      "name": "Pot body and geometric decorations, bottom right section 10",
+      "order": 139
+    },
+    {
+      "id": 147,
+      "name": "Pot body and geometric decorations, bottom right section 11",
+      "order": 140
+    },
+    {
+      "id": 148,
+      "name": "Pot body and geometric decorations, bottom right section 12",
+      "order": 141
+    },
+    {
+      "id": 149,
+      "name": "Pot body and geometric decorations, bottom right section 13",
+      "order": 142
+    },
+    {
+      "id": 150,
+      "name": "Pot body and geometric decorations, bottom right section 14",
+      "order": 143
+    },
+    {
+      "id": 151,
+      "name": "Background spaces around the pot and lower hand, bottom center section 7",
+      "order": 151
+    }
+  ],
+  "schemaVersion": 1
+}

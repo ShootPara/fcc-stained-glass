@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-033",
+  "sourceVersion": "91ea82fda3c351e9891334e5caa7980c76d720f2e78d8578720fa9ae7df46837",
+  "observations": "Inspected full numbered source and all three small-component sheets. Exclude border specks and explicit acute tips only. Preserve genuine small eye corners, lip slit, closed garment triangles and tiny enclosed lower-frame gap. Reconnect the child's two fragmented iris crescents and the corner of its upper eye-white band, while keeping outer eye whites distinct. Large figure's face neck and chest are continuous through open contours; child's face torso and arms are continuous, with a separate lower supporting hand and feet. Halo tiles, veil, collar beads and flowing garment bands retain their outlines. Names describe visible people/features without inferring identity from a number. Source/canonical ink and earlier packages remain unchanged.",
+  "evidence": [
+    ".work/review/design-033/91ea82fda3c351e9891334e5caa7980c76d720f2e78d8578720fa9ae7df46837/regions-numbered-2x.png",
+    ".work/region-crops/design-033/small-01.png",
+    ".work/region-crops/design-033/small-02.png",
+    ".work/region-crops/design-033/small-03.png"
+  ],
+  "tips": "1-4,42,56,65,77,98,99,103,106,121,122,124,142,147,149,157,158",
+  "joins": [
+    "80,82",
+    "84-87",
+    "88,89"
+  ],
+  "groups": [
+    {
+      "name": "Large figure's face neck and upper chest",
+      "ids": "31"
+    },
+    {
+      "name": "Large figure's left eye panes and tiny corner",
+      "ids": "48,49,52"
+    },
+    {
+      "name": "Large figure's right eye panes",
+      "ids": "43,45"
+    },
+    {
+      "name": "Large figure's closed lip slit",
+      "ids": "64"
+    },
+    {
+      "name": "Child's face torso and arms",
+      "ids": "73"
+    },
+    {
+      "name": "Child's hair curls",
+      "ids": "67"
+    },
+    {
+      "name": "Child's upper right eyelid pane",
+      "ids": "79"
+    },
+    {
+      "name": "Child's upper right eye-white band",
+      "ids": "80,82"
+    },
+    {
+      "name": "Child's right outer eye-white corners",
+      "ids": "81,83"
+    },
+    {
+      "name": "Child's right iris crescent",
+      "ids": "84-87"
+    },
+    {
+      "name": "Child's left iris crescent",
+      "ids": "88,89"
+    },
+    {
+      "name": "Child's closed lip slit",
+      "ids": "95"
+    },
+    {
+      "name": "Child's halo outline and tiles",
+      "ids": "55,58-62,66,68,72,74-76,78,90,91,94,97"
+    },
+    {
+      "name": "Child's ear-side enclosed hair curl",
+      "ids": "93"
+    },
+    {
+      "name": "Large halo rings and tiles",
+      "ids": "9,11-22,24,25,29,30,32-35,37-41,46,47,53,54"
+    },
+    {
+      "name": "Veil and head-side panes",
+      "ids": "23,26,28,44,50,63,69,70"
+    },
+    {
+      "name": "Upper background flowing bands",
+      "ids": "5-8,10,27,36,51,57,71"
+    },
+    {
+      "name": "Large figure's collar borders and beads",
+      "ids": "100,107,108,110-113,115,118"
+    },
+    {
+      "name": "Supporting forearm hand and small finger gap",
+      "ids": "116,117"
+    },
+    {
+      "name": "Garment panes around the child",
+      "ids": "96,102,104,109,119,120,123,125,126,128,130-132"
+    },
+    {
+      "name": "Child's broad lower robe",
+      "ids": "129"
+    },
+    {
+      "name": "Child's feet and small enclosing panes",
+      "ids": "135,138,140"
+    },
+    {
+      "name": "Large figure's robe and flowing edge bands",
+      "ids": "92,101,105,114,127,133,134,136,137,139,141,143-146,148,150-156"
+    }
+  ]
+}

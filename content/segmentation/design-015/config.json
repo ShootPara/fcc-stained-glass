@@ -1,0 +1,13 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Complete source/numbered overlay and all six small-component crops inspected. Five isolated acute raster tips excluded; the real enclosed three-pixel staircase/rail gap remains. Architectural railing bars, stair panes, round row decorations, pointed windows and their frame rings remain separate. Upper cloud bands and right-hand broad background curls remain bounded. Zigzag molding contains several real triangular spaces, all retained. Doorway has individually bounded vertical and wavy strips; the side slit windows retain inner and outer panes. Large wall face is continuous, without introducing divisions at open details. Visible B, A, B, Y and L letter shapes retain their interior spaces. No historical location is inferred. Names follow the building from sky to upper railings, windows, molding, entry and foreground. Source and prior geometry remain unchanged. Explicit inspected tip IDs: 14,73,75,92,120. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

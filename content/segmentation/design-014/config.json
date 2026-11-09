@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Full source and numbered overlay, all twenty small-component crops and 4x native face crop inspected. Eleven isolated acute tips excluded. Three parts of the small eye crescent and two parts of an enclosed beard slit reconnect independently; keep eye white, face, nostril and other beard details distinct. Retain the two-pixel nostril, ten-pixel beard slit, four-pixel altar gap and 22-pixel closed leaf detail. Face, neck and open beard contours are intentionally continuous. Raised hand/forearm and upper arm are separate skin panes. Large robe folds, altar blocks and narrow mortar gaps, flame scrolls and plant leaves remain distinct. Open finger, garment and leaf-vein strokes stay inside their containing panes. Names follow arches, figure, flames/altar and right-side plant. Source pixels and earlier geometry remain unchanged. Explicit inspected tip IDs: 16,31,33,49,50,51,61,74,107,113,117. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

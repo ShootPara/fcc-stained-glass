@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered source and three sheets covering all 27 small components. Retain the ear-edge loop, small closed chest detail, frame triangle, eyelid highlight and true gaps between clustered curls. Remove only explicit acute endpoint fragments. Reconnect the donkey's small upper eye-white corner and the tiny fragments at the top of the long enclosed central leaf vein. Raised fingers, face and divided moustache, side profile, donkey head/bridle, diamond background, foliage clusters and bottom leaf remain distinct. Names follow visible features and positional sections without assuming historical identity. Source pixels and canonical ink stay unchanged, with earlier packages retained. Explicit inspected tip IDs: 26,34,40,57,61,68,70,78,89,91,104,106,114,119,129,162. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

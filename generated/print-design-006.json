@@ -1,0 +1,14 @@
+{
+  "artworkId": "design-006",
+  "effectiveDpi": 172.79999999999998,
+  "file": {
+    "bytes": 1045455,
+    "path": "print/design-006.pdf",
+    "sha256": "8a8205bf17925be298c06a1750f5ed39b80cad74569907831b207e70f9da2111"
+  },
+  "height": 792,
+  "inputDigest": "fddc380f8b4e1279311cac76056cbd502a061061451c00fa91771a2a36f4269d",
+  "pages": 1,
+  "schemaVersion": 1,
+  "width": 612
+}

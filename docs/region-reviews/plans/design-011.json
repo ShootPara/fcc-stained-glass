@@ -1,0 +1,28 @@
+{
+ "schemaVersion":1,"artworkId":"design-011","sourceVersion":"6f831e8b0f9204469cc4f0313e10c72cd00ae7a5df4239acb00bb45ddd436d51",
+ "observations":"Full source and numbered overlay inspected with all eleven small-component crops. Seven acute disconnected tips excluded. The right eye's lower white crescent was split into components 31 and 32 by raster thresholding; reconnect only that crescent, leaving the left eye, surrounding face and pupil separate. The left eye highlight and real enclosed triangle at the lower beam/wave junction (24 pixels) remain. Flying bird head, body and wings intentionally form one continuous pane with open feather strokes. Figure's face/neck, hair/beard and small mouth detail are distinct. Frame surrounds the whole page; the cabin's rectangular strips retain boundaries. The many lower wave bands and scalloped wave crests remain distinct, including thin strips. Names follow the frame, sky rays, bird, cabin, figure, then water.",
+ "evidence":[".work/review/design-011/6f831e8b0f9204469cc4f0313e10c72cd00ae7a5df4239acb00bb45ddd436d51/regions-numbered-2x.png",".work/region-crops/design-011/small-01.png"],
+ "tips":"27,38,45,67,71,74,77","joins":["31,32"],
+ "groups":[
+ {"name":"Continuous outer frame","ids":"1"},
+ {"name":"Curled sky above the bird","ids":"2-4"},
+ {"name":"Diagonal rays above the cabin","ids":"5,7-11"},
+ {"name":"Background around the flying bird","ids":"6"},
+ {"name":"Flying bird with outstretched wings","ids":"15"},
+ {"name":"Cabin frame and rectangular panes","ids":"12-14,16-24,40,42-44"},
+ {"name":"Hair and beard strips around the face","ids":"25,34,35"},
+ {"name":"Face and neck","ids":"26"},
+ {"name":"Pane above the left eye","ids":"28"},
+ {"name":"Pane around the left eye","ids":"29"},
+ {"name":"Left eye highlight","ids":"30"},
+ {"name":"Right eye crescent","ids":"31,32"},
+ {"name":"Small mouth opening","ids":"36"},
+ {"name":"Small triangle below the hair","ids":"39"},
+ {"name":"Rounded detail beside the cabin window","ids":"41,47"},
+ {"name":"Upper wave crests left of the cabin","ids":"33,37,46,49"},
+ {"name":"Broad horizontal beam below the cabin","ids":"48"},
+ {"name":"Sky between the cabin and water","ids":"50"},
+ {"name":"Small enclosed triangle at the beam and wave junction","ids":"53"},
+ {"name":"Flowing wave bands and crests","ids":"51,52,54-66,68-70,72,73,75,76,78,79"}
+ ]
+}

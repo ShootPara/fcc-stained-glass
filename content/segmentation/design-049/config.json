@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected the complete two-scene numbered drawing and all five sheets of 60 small source/fill components. Closed nostril, ear whites, curl centers, one-pixel wool interstices and the architectural corner remain selectable. Reconnect only the inspected finger/key counters, closed curl interstice, narrow wool bands, leg border and bottom leaf slits. Explicit acute ray, scroll, wool and leaf tips are excluded rather than every small component. The large upper creature shape is continuous as drawn; the lower lamb's face, wool curls, legs, cross window and geometric ledge have visible-feature and position names. No historical identity is inferred from filenames. Source/canonical pixels and older saved packages remain intact. Explicit inspected tip IDs: 12,14,16,17,22,25,35,37,49,58,60,62,63,70,93,112,114,117,133,156,159,161,162,163,166,186,188,190,224,237,244. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

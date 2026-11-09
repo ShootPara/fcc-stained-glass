@@ -1,0 +1,687 @@
+{
+  "artworkId": "design-004",
+  "contentVersion": "2883438d6f3368f14ff2dbaf8b17aae5b99635929a4d3a7d84d2c4572b1054bc",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Top-left frame corner, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Top-left pointed background pane, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Curved strip at the upper left, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Large upper-left leaf, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Broad leaf along the top edge, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Stem sloping down from the top center, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Small leaf just right of the top stem, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Pointed leaf at the top right of center, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Upper-right background above the diagonal branch, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Small leaf at the upper-right edge, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Top-right frame corner, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Small pointed pane inside the upper-left leaf, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Fine outline fragment beside Narrow tip inside the top-right pointed leaf, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Fine outline fragment beside Narrow tip inside the top-right pointed leaf, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Narrow tip inside the top-right pointed leaf, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Small triangle inside the broad top leaf, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Left half of the hanging leaf beside the top stem, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Upper curved rib crossing the foliage, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Right half of the hanging leaf beside the top stem, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Upper section of the left frame, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Long section of the right frame, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Background above the bird's raised wing, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Upper small triangle between the curved ribs, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Broad leaf between the two curved ribs, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Fine outline fragment beside Upper small triangle between the curved ribs, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Lower small triangle between the curved ribs, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Fine outline fragment beside Narrow tip inside the top-right pointed leaf, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Narrow curved rib above the animal's head, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Small left-pointing leaf beneath the broad top leaf, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Pane above and left of the animal's head, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Long pointed pane beside the upper-left leaf, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Fine outline fragment beside Stem sloping down from the top center, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Narrow pointed pane at the upper-left edge, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "First small closed triangle above the animal's head, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Lower curved rib above the animal's head, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Fine outline fragment beside Broad leaf between the two curved ribs, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Fine outline fragment beside Broad leaf between the two curved ribs, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Outer leading feather of the bird's wing, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Small downward leaf above the animal's forehead, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Background around the animal's head and left side, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Second small closed triangle above the animal's head, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Fine outline fragment beside Long pointed pane beside the upper-left leaf, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Fine outline fragment beside Lower curved rib above the animal's head, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Long downward leaf above the animal's back, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Pane below the large upper-left leaf, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Fine outline fragment beside Long pointed pane beside the upper-left leaf, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Third small closed triangle above the animal's head, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Top long feather inside the raised wing, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Animal's head, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Inside of the animal's ear, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Animal's eye, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Long middle section of the left frame, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Second long feather inside the raised wing, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Upper curling leaf beside the animal's head, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Background behind the bird's raised wing, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Third outer feather of the raised wing, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Upper inner feather of the raised wing, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Second inner feather of the raised wing, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Scalloped strip at the base of the bird's wing, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Narrow pane along the animal's back, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Third inner feather of the raised wing, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Background inside the bird's curved body, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Fourth inner feather of the raised wing, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Lowest small feather of the raised wing, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Bird's head and long curved body, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Bird's long pointed beak, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Second curling leaf down the left side, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Bird's eye, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Small pane at the bird's shoulder, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Curved strip below the bird's shoulder, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Bird back panel 1 nearest the shoulder, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Bird back panel 2 from the shoulder, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Bird back panel 3 from the shoulder, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Bird back panel 4 from the shoulder, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Bird back panel 5 from the shoulder, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Bird back panel 6 from the shoulder, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Fine outline fragment beside Narrow pane along the animal's back, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Bird back panel 7 from the shoulder, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Bird back panel 8 from the shoulder, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Bird back panel 9 from the shoulder, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Bird back panel 10 from the shoulder, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Curved rim of the third left-side leaf, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Third curling leaf down the left side, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Bird back panel 11 nearest the tail, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Fine outline fragment beside Curved rim of the third left-side leaf, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Fine outline fragment beside Bird back panel 11 nearest the tail, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Diagonal branch beneath the animal's front paws, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Background between the bird and the animal's tail, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Animal's lower body, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Upper tip of the bird's tail, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Animal's small lower front paw, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Small pane between the front paws, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Middle tip of the bird's tail, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Fine outline fragment beside Background inside the bird's curved body, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Background below and right of the front paws, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Lower tip of the bird's tail, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Fine outline fragment beside Middle tip of the bird's tail, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Narrow pane at the left edge above the branch, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Background below and left of the front paws, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Curved leaf tip immediately above the branch, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Background left of the animal's lower body, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Small pane inside the leaf tip above the branch, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Fine outline fragment beside Curved leaf tip immediately above the branch, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Left frame where the diagonal branch crosses, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Narrow stem below the diagonal branch, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Large lower-left leaf with short markings, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Small pointed pane below the branch at the left, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Lower long section of the left frame, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Inner curl of the animal's tail, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Curved leaf tip at the lower left, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Outer curl inside the animal's tail, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Fine outline fragment beside Inner curl of the animal's tail, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Forked leaf along the lower-right edge, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Left side of the long bottom-left leaf, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Right side of the long bottom-left leaf, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Small background pane beneath the animal's feet, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Pointed leaf at the bottom left beside the long leaf, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Fine outline fragment beside Pointed leaf at the bottom left beside the long leaf, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Small background pane at the bottom-right edge, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Fine outline fragment beside Right side of the long bottom-left leaf, retained section 120",
+      "order": 120
+    },
+    {
+      "id": 121,
+      "name": "Upper pointed leaf in the lower-center cluster, retained section 121",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Curved stem across the bottom-center leaves, retained section 122",
+      "order": 122
+    },
+    {
+      "id": 123,
+      "name": "Curved leaf along the bottom left of center, retained section 123",
+      "order": 123
+    },
+    {
+      "id": 124,
+      "name": "Right-pointing leaf in the lower-center cluster, retained section 124",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Broad rounded pane at the bottom center, retained section 125",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Fine outline fragment beside Forked leaf along the lower-right edge, retained section 126",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Fine outline fragment beside Forked leaf along the lower-right edge, retained section 127",
+      "order": 127
+    },
+    {
+      "id": 128,
+      "name": "Fine outline fragment beside Curved stem across the bottom-center leaves, retained section 128",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Small pointed pane left of the bottom-center stem, retained section 129",
+      "order": 129
+    },
+    {
+      "id": 130,
+      "name": "Bottom-left frame corner, retained section 130",
+      "order": 130
+    },
+    {
+      "id": 131,
+      "name": "Bottom-right frame corner, retained section 131",
+      "order": 131
+    },
+    {
+      "id": 132,
+      "name": "Fine outline fragment beside Curved stem across the bottom-center leaves, retained section 132",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Small triangle beneath the forked lower-right leaf, retained section 133",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Narrow pane right of the bottom-center stem, retained section 134",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Fine outline fragment beside Small triangle at the bottom right, retained section 135",
+      "order": 135
+    },
+    {
+      "id": 136,
+      "name": "Small triangle at the bottom right, retained section 136",
+      "order": 136
+    }
+  ],
+  "schemaVersion": 1
+}

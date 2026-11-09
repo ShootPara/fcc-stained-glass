@@ -1,0 +1,312 @@
+{
+  "coloringPages": 48,
+  "cover": {
+    "bytes": 939930,
+    "path": "print/cover-line-art.png",
+    "sha256": "b0b0b4d6e0d4a0e328d29a116a159ab894219701cb2e342a36fa0fd7972f70d0"
+  },
+  "coverPage": 1,
+  "file": {
+    "bytes": 49886701,
+    "path": "downloads/fcc-coloring-book.pdf",
+    "sha256": "dd5a7680f42e45348e90940eb24475214d5f41c5dd8baaa0716b8b6add37b419"
+  },
+  "height": 792,
+  "inputDigest": "50734fb9891250d992ccfa03eb5a55bd370d1bc1b561d31ccc0a0687e24a5e81",
+  "introPage": 2,
+  "layoutVersion": "letter-book-v1",
+  "schemaVersion": 1,
+  "sheets": [
+    {
+      "artworkId": "design-002",
+      "bookNumber": 1,
+      "individualSha256": "288b6f2d16ffd538d57a387c4c5dd96ceaec3ba1f792acba8deb86dfbf02349d",
+      "pdfPageNumber": 3
+    },
+    {
+      "artworkId": "design-003",
+      "bookNumber": 2,
+      "individualSha256": "cebbf85bced059f8b5d3c8fbde76e590aaeeaeb74688b2ad3db9d5550517a2cb",
+      "pdfPageNumber": 4
+    },
+    {
+      "artworkId": "design-004",
+      "bookNumber": 3,
+      "individualSha256": "22039c31ab94ee4831edca00735d37cc2860ee6fe4f670224a21109fd1c6200e",
+      "pdfPageNumber": 5
+    },
+    {
+      "artworkId": "design-005",
+      "bookNumber": 4,
+      "individualSha256": "0b3961a0286bf6b5c5f65a1455a886f6f8a6153ed4237843a32703036e7bb707",
+      "pdfPageNumber": 6
+    },
+    {
+      "artworkId": "design-006",
+      "bookNumber": 5,
+      "individualSha256": "8a8205bf17925be298c06a1750f5ed39b80cad74569907831b207e70f9da2111",
+      "pdfPageNumber": 7
+    },
+    {
+      "artworkId": "design-007",
+      "bookNumber": 6,
+      "individualSha256": "3af1d9c471f03b2287482bd901a7a73876e57662bb60946c2e5274fa3955dbbc",
+      "pdfPageNumber": 8
+    },
+    {
+      "artworkId": "design-008",
+      "bookNumber": 7,
+      "individualSha256": "3dbde75cacbf0a7b4fb3fa6836d4825a1c0020357e85ad0beea53127f874a53b",
+      "pdfPageNumber": 9
+    },
+    {
+      "artworkId": "design-009",
+      "bookNumber": 8,
+      "individualSha256": "9edf6271166fb694ca8e3b741ddb88d0ea6bf7f3d0f01c5794216599510528cf",
+      "pdfPageNumber": 10
+    },
+    {
+      "artworkId": "design-010",
+      "bookNumber": 9,
+      "individualSha256": "449ac6b088d12c98788b52e1e06823ebb438265885ce4f3bc88b7e57e4ba2e50",
+      "pdfPageNumber": 11
+    },
+    {
+      "artworkId": "design-011",
+      "bookNumber": 10,
+      "individualSha256": "e1a91d8f1395189714353e78314cd5759a44ebc6a92c2087a619923572bf5052",
+      "pdfPageNumber": 12
+    },
+    {
+      "artworkId": "design-012",
+      "bookNumber": 11,
+      "individualSha256": "4389e354fef2df31b774fb3ad4bae700005dda1358ad1744a56f243c6929ec8e",
+      "pdfPageNumber": 13
+    },
+    {
+      "artworkId": "design-013",
+      "bookNumber": 12,
+      "individualSha256": "8737d4b31c26786600d58c1a0b7212474a01dabd11ff9ce807c3ac3d9012e99b",
+      "pdfPageNumber": 14
+    },
+    {
+      "artworkId": "design-014",
+      "bookNumber": 13,
+      "individualSha256": "b9710c5cc619e00434247aba69f1892f3239e04ea444c16e799855c92b7e004d",
+      "pdfPageNumber": 15
+    },
+    {
+      "artworkId": "design-015",
+      "bookNumber": 14,
+      "individualSha256": "9ff01027db679ab6f8d0dce09e2ee7da92d087eae07246b5ffce5a723247bf84",
+      "pdfPageNumber": 16
+    },
+    {
+      "artworkId": "design-016",
+      "bookNumber": 15,
+      "individualSha256": "d53ef60b4b4d655be398a7bdfcb290ae8c1714dfbf107410782666aaca2e2672",
+      "pdfPageNumber": 17
+    },
+    {
+      "artworkId": "design-017",
+      "bookNumber": 16,
+      "individualSha256": "56cf830b412869a4ccb17db64686a78e715e1a46acd3656f347324b5ac9a98c8",
+      "pdfPageNumber": 18
+    },
+    {
+      "artworkId": "design-018",
+      "bookNumber": 17,
+      "individualSha256": "85c9742549726fc19718f66a1bc0400564f5fe0214168de317a609cd935bda16",
+      "pdfPageNumber": 19
+    },
+    {
+      "artworkId": "design-019",
+      "bookNumber": 18,
+      "individualSha256": "07a1f2e7d37d75eb7e8f474a401b80e67ecd779be346cc478ab38a3ecfadfb0e",
+      "pdfPageNumber": 20
+    },
+    {
+      "artworkId": "design-020",
+      "bookNumber": 19,
+      "individualSha256": "82f8f7fbccdce0aca68752b8b5e3573b065435d34b4792f253be05c704f2291b",
+      "pdfPageNumber": 21
+    },
+    {
+      "artworkId": "design-021",
+      "bookNumber": 20,
+      "individualSha256": "2084155b15e0dadfbb9a8dc371509f318b6effc9d25c5493af0dd3cc0a678b07",
+      "pdfPageNumber": 22
+    },
+    {
+      "artworkId": "design-022",
+      "bookNumber": 21,
+      "individualSha256": "e1d3189a327a37b6b06ba526fd807d84d9a0bf44da0eda640868a31cbd78bf29",
+      "pdfPageNumber": 23
+    },
+    {
+      "artworkId": "design-023",
+      "bookNumber": 22,
+      "individualSha256": "495f6df83f4814dd3f81865b2ab52136688da4e1df0ff353975e733d5d47e157",
+      "pdfPageNumber": 24
+    },
+    {
+      "artworkId": "design-024",
+      "bookNumber": 23,
+      "individualSha256": "867db9f8223e6c15e6a0bb21cddce3a9b519c2bf7ce6cc69e723b44c9f4946a0",
+      "pdfPageNumber": 25
+    },
+    {
+      "artworkId": "design-025",
+      "bookNumber": 24,
+      "individualSha256": "2243c51c1f048a8b92b6c13b386da90b6678f9ef56a4054cbc3d56e55adbdb6c",
+      "pdfPageNumber": 26
+    },
+    {
+      "artworkId": "design-026",
+      "bookNumber": 25,
+      "individualSha256": "68801dedd23ea42f3f8feea78b08e74fe30a48b86f815ff9ea6d9c87cc7b116b",
+      "pdfPageNumber": 27
+    },
+    {
+      "artworkId": "design-027",
+      "bookNumber": 26,
+      "individualSha256": "586ee3feeff386951c94c59d55b96bb47912946a8587946006062975469a66ae",
+      "pdfPageNumber": 28
+    },
+    {
+      "artworkId": "design-028",
+      "bookNumber": 27,
+      "individualSha256": "9a803549385f12230c7cc8392cc552746e55ec7fc7b08df6a2fad7b7c9385da2",
+      "pdfPageNumber": 29
+    },
+    {
+      "artworkId": "design-029",
+      "bookNumber": 28,
+      "individualSha256": "de387176fcb82f637d47f4f62150c0dd2692219f90c3656e68268c9e0f48bde5",
+      "pdfPageNumber": 30
+    },
+    {
+      "artworkId": "design-030",
+      "bookNumber": 29,
+      "individualSha256": "017e5b7b7250a61d483aefdbd5c76821f481cf7b50ea7f3069de6aa85b805c8a",
+      "pdfPageNumber": 31
+    },
+    {
+      "artworkId": "design-031",
+      "bookNumber": 30,
+      "individualSha256": "1a57685189345d96c13108de556f3c4922d5c50c81074cda72fb16801ae4fa5f",
+      "pdfPageNumber": 32
+    },
+    {
+      "artworkId": "design-032",
+      "bookNumber": 31,
+      "individualSha256": "e7986ff21becea7042ce7946d60ba043e118fbb86853672137aababb28cc4725",
+      "pdfPageNumber": 33
+    },
+    {
+      "artworkId": "design-033",
+      "bookNumber": 32,
+      "individualSha256": "16b42c46e9999b2fc1e3b4fa6827c48678c9fdf2129a549fa47e0b8551df5294",
+      "pdfPageNumber": 34
+    },
+    {
+      "artworkId": "design-034",
+      "bookNumber": 33,
+      "individualSha256": "a750f74001c7a2da3caf9c0b9dac7565f80b9339a9d41721d629837d7b9ba340",
+      "pdfPageNumber": 35
+    },
+    {
+      "artworkId": "design-035",
+      "bookNumber": 34,
+      "individualSha256": "8171da992ded8629be49bf91f8c5cc74c123efbc53f226e0647b649a77315746",
+      "pdfPageNumber": 36
+    },
+    {
+      "artworkId": "design-036",
+      "bookNumber": 35,
+      "individualSha256": "cb58be52656438b8f301c49e0ea3135a1f8f3d2f0fa17d0d26fa1d9e72d9ed37",
+      "pdfPageNumber": 37
+    },
+    {
+      "artworkId": "design-037",
+      "bookNumber": 36,
+      "individualSha256": "8b11a133f7d612f85a0bd6d781fb999081c92392d1d04ae1619a30cd9773f37d",
+      "pdfPageNumber": 38
+    },
+    {
+      "artworkId": "design-038",
+      "bookNumber": 37,
+      "individualSha256": "56e0765060c617c89510d6b3971d52d732720aa5a834ef2d1467402cff2d812b",
+      "pdfPageNumber": 39
+    },
+    {
+      "artworkId": "design-039",
+      "bookNumber": 38,
+      "individualSha256": "94030e491b0dac1d0d9187e89eeda1736561bc011aec9206de0ec2b9393fead0",
+      "pdfPageNumber": 40
+    },
+    {
+      "artworkId": "design-040",
+      "bookNumber": 39,
+      "individualSha256": "da27671ec80fca77b75194b7960c75105334484fff38109db661562f090c4bdf",
+      "pdfPageNumber": 41
+    },
+    {
+      "artworkId": "design-041",
+      "bookNumber": 40,
+      "individualSha256": "45b96052593b3d40a7bba05bf07114771d611f24fa2c9b5a5d457ff10734de91",
+      "pdfPageNumber": 42
+    },
+    {
+      "artworkId": "design-042",
+      "bookNumber": 41,
+      "individualSha256": "695130fe00fe364ec38e6cfbd6baae95319e66ae21812e64a2af3d4f39ef1780",
+      "pdfPageNumber": 43
+    },
+    {
+      "artworkId": "design-043",
+      "bookNumber": 42,
+      "individualSha256": "eb9dd936a8104c2b5cb440142eec2bde9ad247cbb491158dcbcd32ffe52f19ca",
+      "pdfPageNumber": 44
+    },
+    {
+      "artworkId": "design-044",
+      "bookNumber": 43,
+      "individualSha256": "9e3fa3ebd37d80469062489d0654f6f6693c7587e0246036e1059888e3d8c3eb",
+      "pdfPageNumber": 45
+    },
+    {
+      "artworkId": "design-045",
+      "bookNumber": 44,
+      "individualSha256": "61e6f0edd573a83029c5873c76ff6cdcb452f7392e4b0dc14b3527bb8f196620",
+      "pdfPageNumber": 46
+    },
+    {
+      "artworkId": "design-046",
+      "bookNumber": 45,
+      "individualSha256": "7488298c00bd2a536b3c90205803bdcd9b0e939ee9a8cd7c277626db78b13300",
+      "pdfPageNumber": 47
+    },
+    {
+      "artworkId": "design-047",
+      "bookNumber": 46,
+      "individualSha256": "9414a81658e8f8910488855987fdd7587d59ef1b46e13a80f3c1373453fbf329",
+      "pdfPageNumber": 48
+    },
+    {
+      "artworkId": "design-048",
+      "bookNumber": 47,
+      "individualSha256": "d0fc9a00e30ae152696e1270d0792a92dea8db944f86e3b8a8d3a07c22818b0e",
+      "pdfPageNumber": 49
+    },
+    {
+      "artworkId": "design-049",
+      "bookNumber": 48,
+      "individualSha256": "c8444aabc643c4517663fae4a79fb74fef1486f7754db170103057ad46e20fc8",
+      "pdfPageNumber": 50
+    }
+  ],
+  "sourcesPage": 51,
+  "totalPages": 51,
+  "width": 612
+}

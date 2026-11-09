@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Source and overlay inspected at 6x and all five small-component sheets reviewed. Explicit IDs in scripts/repair-serpent-detail.ts. Thirty-three isolated acute tips masked, six enclosed tree dot centers retained. Upper lip and eye crescent independently connected by brightest interior-only paths; foreign-pane adjacency prohibited and all unrelated panes verified one-to-one. Four teeth, pupil, tongue and mouth remain distinct. Original/canonical drawing unchanged; earlier package retained. Bridge pixels: [[632,931],[633,931],[634,931],[624,932],[625,932],[626,932],[627,932],[628,932],[629,932],[630,932],[631,932],[632,932],[620,933],[621,933],[622,933],[623,933],[624,933],[616,934],[617,934],[618,934],[619,934],[620,934],[612,935],[615,935],[616,935],[608,936],[609,936],[612,936],[606,937],[607,937],[608,937],[604,938],[605,938],[606,938],[600,939],[601,939],[602,939],[603,939],[604,939],[598,940],[599,940],[600,940],[595,941],[597,941],[598,941],[475,942],[473,943],[475,943],[590,943],[593,943],[472,945],[471,946],[574,953],[574,954],[574,955],[575,955],[573,956],[571,957],[570,959],[568,960],[534,972],[534,973],[534,974],[534,975]]",
+  "schemaVersion": 1
+}

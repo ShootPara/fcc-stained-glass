@@ -1,0 +1,13 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Complete source/numbered overlay and all 26 small-component crops inspected. Twenty-three isolated acute tips excluded; retain the real small triangle beside the adult's hair, closed gap at the baby's hairline and thin closed space below the baby's chin. Adult face and neck are continuous with open eye/nose/neck contours. Hair outline, headband, earring and small closed mouth detail are distinct. Pyramid faces, gap between them, palm-tree enclosed detail and river bands remain bounded without treating historical identification as established. Large hand above the basket remains one pane with open finger contours, while its enclosed finger gap is separate. Baby's face, hair bands, raised hands/arm and small gap between the hands remain distinct. Every woven basket strip and blanket fold is retained, including tiny triangular spaces. Source/canonical pixels and previous geometry remain unchanged. Explicit inspected tip IDs: 7,8,9,16,18,22,25,28,31,36,42,47,51,54,55,59,65,76,85,113,114,122,136. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

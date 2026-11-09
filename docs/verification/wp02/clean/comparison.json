@@ -1,0 +1,18 @@
+{
+  "baselineToFinal": {
+    "added": [
+      "source/photos/.051 FCC Window Igp4495 6 7 Tonemapped.jpg.9Gea2g"
+    ],
+    "removed": [],
+    "changed": []
+  },
+  "beforePrepareToAfterPrepare": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  },
+  "trackedFileCountBefore": 264,
+  "trackedFileCountAfter": 265,
+  "trackedBytesBefore": 267283983,
+  "trackedBytesAfter": 270282255
+}

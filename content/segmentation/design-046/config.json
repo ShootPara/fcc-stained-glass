@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected the full inverted figure, all eight sheets of 95 tiny source/fill components and an enlarged numbered head. Retain the closed toe slit, binding triangle, narrow garment slits, tiny ears and real eye panes. Reconnect only inspected same-band arch/beam fragments, hair interstices, upper eye white and narrow eyelid/beard crescents. The left lower eye opens into the face and must not be separated artificially. Exclude explicit acute tips only. The lettered ST PETER inscription is visible, but naming remains based on visible features and position. Source/canonical pixels, print drawing and older packages remain unchanged. Explicit inspected tip IDs: 21,29,37,46,51,54,55,68,88,89,101,135,142,143,151,167,171,184,186,196,197,198,201,202,203,205,206,213,214,218,219,220,229,237,239,268,269,273,284,287,288,291,296. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

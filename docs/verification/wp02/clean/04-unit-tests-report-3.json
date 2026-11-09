@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "operation": "prepare-assets",
+  "scope": "project",
+  "startedAtUtc": "2026-11-06T20:47:16.476Z",
+  "status": "failed",
+  "exitCode": 2,
+  "inputs": [],
+  "outputs": [],
+  "digests": {},
+  "warnings": [],
+  "errors": [
+    {
+      "code": "E_ARGUMENTS",
+      "message": "Choose one valid --id or --all. --include-archives requires --all.\nPrepare artwork: npm run prepare -- --id design-002  OR  npm run prepare -- --all"
+    }
+  ],
+  "completedAtUtc": "2026-11-06T20:47:16.479Z"
+}

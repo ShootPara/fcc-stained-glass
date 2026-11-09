@@ -1,0 +1,8 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected the complete numbered dove, radiating beams and flame-medallion drawing and all ten small-component source/fill pairs. Retain the 22-pixel closed semicircle and every round dotted-border center, including the one-pixel center at 124: those are intentional enclosed shapes. Exclude only five acute outline tips at beam/flame/ornament junctions. Flame tongues, scalloped and dotted borders, tiny ornaments and background wedges remain individually selectable with visible-feature and position names. No connections, source pixels or original ink are changed. Explicit inspected tip IDs: 33,72,103,144,145. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

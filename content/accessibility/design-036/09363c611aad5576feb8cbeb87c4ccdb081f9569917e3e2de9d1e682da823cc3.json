@@ -1,0 +1,647 @@
+{
+  "artworkId": "design-036",
+  "contentVersion": "09363c611aad5576feb8cbeb87c4ccdb081f9569917e3e2de9d1e682da823cc3",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Outer frame panels, top center section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Outer frame panels, upper-middle right section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Outer frame panels, upper-middle left section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Halo field and enclosed ornaments, top center section 4",
+      "order": 21
+    },
+    {
+      "id": 5,
+      "name": "Upper flowing background bands, top right section 1",
+      "order": 7
+    },
+    {
+      "id": 6,
+      "name": "Upper flowing background bands, top left section 2",
+      "order": 8
+    },
+    {
+      "id": 7,
+      "name": "Upper flowing background bands, top left section 3",
+      "order": 9
+    },
+    {
+      "id": 8,
+      "name": "Upper flowing background bands, top left section 4",
+      "order": 10
+    },
+    {
+      "id": 9,
+      "name": "Upper flowing background bands, top center section 7",
+      "order": 13
+    },
+    {
+      "id": 10,
+      "name": "Upper flowing background bands, top right section 6",
+      "order": 12
+    },
+    {
+      "id": 11,
+      "name": "Halo field and enclosed ornaments, top center section 1",
+      "order": 18
+    },
+    {
+      "id": 12,
+      "name": "Upper flowing background bands, top right section 5",
+      "order": 11
+    },
+    {
+      "id": 13,
+      "name": "Halo field and enclosed ornaments, top right section 2",
+      "order": 19
+    },
+    {
+      "id": 14,
+      "name": "Halo field and enclosed ornaments, top center section 3",
+      "order": 20
+    },
+    {
+      "id": 15,
+      "name": "Hair bands and enclosed curl spaces, top center section 3",
+      "order": 27
+    },
+    {
+      "id": 16,
+      "name": "Hair bands and enclosed curl spaces, top center section 1",
+      "order": 25
+    },
+    {
+      "id": 17,
+      "name": "Hair bands and enclosed curl spaces, top center section 2",
+      "order": 26
+    },
+    {
+      "id": 18,
+      "name": "Upper flowing background bands, upper-middle left section 11",
+      "order": 17
+    },
+    {
+      "id": 19,
+      "name": "Figure's face and beard",
+      "order": 24
+    },
+    {
+      "id": 20,
+      "name": "Halo field and enclosed ornaments, top right section 5",
+      "order": 22
+    },
+    {
+      "id": 21,
+      "name": "Halo field and enclosed ornaments, top center section 6",
+      "order": 23
+    },
+    {
+      "id": 22,
+      "name": "Upper flowing background bands, upper-middle left section 10",
+      "order": 16
+    },
+    {
+      "id": 23,
+      "name": "Upper flowing background bands, upper-middle left section 8",
+      "order": 14
+    },
+    {
+      "id": 24,
+      "name": "Raised hand and fingers, top left section 1",
+      "order": 44
+    },
+    {
+      "id": 25,
+      "name": "Eye-side closed panes",
+      "order": 42
+    },
+    {
+      "id": 26,
+      "name": "Hair bands and enclosed curl spaces, top center section 4",
+      "order": 28
+    },
+    {
+      "id": 27,
+      "name": "Hair bands and enclosed curl spaces, top center section 6",
+      "order": 30
+    },
+    {
+      "id": 28,
+      "name": "Upper flowing background bands, upper-middle right section 9",
+      "order": 15
+    },
+    {
+      "id": 29,
+      "name": "Raised hand and fingers, upper-middle left section 5",
+      "order": 48
+    },
+    {
+      "id": 30,
+      "name": "Hair bands and enclosed curl spaces, top right section 7",
+      "order": 31
+    },
+    {
+      "id": 31,
+      "name": "Hair bands and enclosed curl spaces, top center section 5",
+      "order": 29
+    },
+    {
+      "id": 32,
+      "name": "Raised hand and fingers, top left section 2",
+      "order": 45
+    },
+    {
+      "id": 33,
+      "name": "Small closed mouth opening",
+      "order": 43
+    },
+    {
+      "id": 34,
+      "name": "Raised hand and fingers, top left section 3",
+      "order": 46
+    },
+    {
+      "id": 35,
+      "name": "Hair bands and enclosed curl spaces, top center section 9",
+      "order": 33
+    },
+    {
+      "id": 36,
+      "name": "Hair bands and enclosed curl spaces, top center section 11",
+      "order": 35
+    },
+    {
+      "id": 37,
+      "name": "Hair bands and enclosed curl spaces, top right section 10",
+      "order": 34
+    },
+    {
+      "id": 38,
+      "name": "Hair bands and enclosed curl spaces, top right section 8",
+      "order": 32
+    },
+    {
+      "id": 39,
+      "name": "Raised hand and fingers, top left section 4",
+      "order": 47
+    },
+    {
+      "id": 40,
+      "name": "Neck and collar, upper-middle center section 1",
+      "order": 49
+    },
+    {
+      "id": 41,
+      "name": "Large cloak and closed fold details, upper-middle center section 3",
+      "order": 53
+    },
+    {
+      "id": 42,
+      "name": "Neck and collar, upper-middle center section 2",
+      "order": 50
+    },
+    {
+      "id": 43,
+      "name": "Hair bands and enclosed curl spaces, upper-middle center section 13",
+      "order": 37
+    },
+    {
+      "id": 44,
+      "name": "Hair bands and enclosed curl spaces, upper-middle center section 12",
+      "order": 36
+    },
+    {
+      "id": 45,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle center section 1",
+      "order": 55
+    },
+    {
+      "id": 46,
+      "name": "Hair bands and enclosed curl spaces, upper-middle left section 17",
+      "order": 41
+    },
+    {
+      "id": 47,
+      "name": "Hair bands and enclosed curl spaces, upper-middle center section 14",
+      "order": 38
+    },
+    {
+      "id": 48,
+      "name": "Hair bands and enclosed curl spaces, upper-middle center section 15",
+      "order": 39
+    },
+    {
+      "id": 49,
+      "name": "Hair bands and enclosed curl spaces, upper-middle center section 16",
+      "order": 40
+    },
+    {
+      "id": 50,
+      "name": "Large cloak and closed fold details, upper-middle right section 1",
+      "order": 51
+    },
+    {
+      "id": 51,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle left section 3",
+      "order": 57
+    },
+    {
+      "id": 52,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle left section 2",
+      "order": 56
+    },
+    {
+      "id": 53,
+      "name": "Large cloak and closed fold details, upper-middle center section 2",
+      "order": 52
+    },
+    {
+      "id": 54,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle center section 9",
+      "order": 63
+    },
+    {
+      "id": 55,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle left section 5",
+      "order": 59
+    },
+    {
+      "id": 56,
+      "name": "Large cloak and closed fold details, upper-middle center section 4",
+      "order": 54
+    },
+    {
+      "id": 57,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle left section 4",
+      "order": 58
+    },
+    {
+      "id": 58,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle left section 8",
+      "order": 62
+    },
+    {
+      "id": 59,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle right section 10",
+      "order": 64
+    },
+    {
+      "id": 60,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle center section 7",
+      "order": 61
+    },
+    {
+      "id": 61,
+      "name": "Lower garment and closed knee details, lower-middle right section 2",
+      "order": 70
+    },
+    {
+      "id": 62,
+      "name": "Raised sleeve cuff and forearm garment, upper-middle left section 6",
+      "order": 60
+    },
+    {
+      "id": 63,
+      "name": "Lower garment and closed knee details, lower-middle right section 3",
+      "order": 71
+    },
+    {
+      "id": 64,
+      "name": "Background bands behind the lap, lower-middle left section 1",
+      "order": 81
+    },
+    {
+      "id": 65,
+      "name": "Lower garment and closed knee details, lower-middle right section 1",
+      "order": 69
+    },
+    {
+      "id": 66,
+      "name": "Right lower sleeve cuff, lower-middle right section 1",
+      "order": 65
+    },
+    {
+      "id": 67,
+      "name": "Background bands behind the lap, lower-middle left section 2",
+      "order": 82
+    },
+    {
+      "id": 68,
+      "name": "Lower garment and closed knee details, lower-middle right section 9",
+      "order": 77
+    },
+    {
+      "id": 69,
+      "name": "Lower garment and closed knee details, lower-middle center section 5",
+      "order": 73
+    },
+    {
+      "id": 70,
+      "name": "Right lower sleeve cuff, lower-middle center section 2",
+      "order": 66
+    },
+    {
+      "id": 71,
+      "name": "Resting hand on the lap",
+      "order": 68
+    },
+    {
+      "id": 72,
+      "name": "Outer frame panels, bottom right section 5",
+      "order": 5
+    },
+    {
+      "id": 73,
+      "name": "Outer frame panels, bottom left section 4",
+      "order": 4
+    },
+    {
+      "id": 74,
+      "name": "Background bands behind the lap, lower-middle left section 3",
+      "order": 83
+    },
+    {
+      "id": 75,
+      "name": "Right lower sleeve cuff, lower-middle center section 3",
+      "order": 67
+    },
+    {
+      "id": 76,
+      "name": "Lower garment and closed knee details, lower-middle right section 11",
+      "order": 79
+    },
+    {
+      "id": 77,
+      "name": "Lower garment and closed knee details, lower-middle center section 8",
+      "order": 76
+    },
+    {
+      "id": 78,
+      "name": "Background bands behind the lap, lower-middle left section 4",
+      "order": 84
+    },
+    {
+      "id": 79,
+      "name": "Lower garment and closed knee details, lower-middle center section 6",
+      "order": 74
+    },
+    {
+      "id": 80,
+      "name": "Lower garment and closed knee details, lower-middle center section 4",
+      "order": 72
+    },
+    {
+      "id": 81,
+      "name": "Background bands behind the lap, lower-middle left section 5",
+      "order": 85
+    },
+    {
+      "id": 82,
+      "name": "Lower garment and closed knee details, lower-middle center section 7",
+      "order": 75
+    },
+    {
+      "id": 83,
+      "name": "Lower garment and closed knee details, lower-middle center section 10",
+      "order": 78
+    },
+    {
+      "id": 84,
+      "name": "Background bands behind the lap, lower-middle left section 6",
+      "order": 86
+    },
+    {
+      "id": 85,
+      "name": "Lower garment and closed knee details, lower-middle right section 12",
+      "order": 80
+    },
+    {
+      "id": 86,
+      "name": "Large scroll's outer curl and surrounding outlines, lower-middle center section 2",
+      "order": 89
+    },
+    {
+      "id": 87,
+      "name": "Background bands behind the lap, lower-middle left section 7",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Scroll's inner field and enclosed decorative slits, lower-middle left section 2",
+      "order": 96
+    },
+    {
+      "id": 89,
+      "name": "Large scroll's outer curl and surrounding outlines, lower-middle right section 1",
+      "order": 88
+    },
+    {
+      "id": 90,
+      "name": "Scroll's inner field and enclosed decorative slits, lower-middle center section 1",
+      "order": 95
+    },
+    {
+      "id": 91,
+      "name": "Scroll's inner field and enclosed decorative slits, lower-middle center section 5",
+      "order": 99
+    },
+    {
+      "id": 92,
+      "name": "Scroll's inner field and enclosed decorative slits, lower-middle center section 4",
+      "order": 98
+    },
+    {
+      "id": 93,
+      "name": "Scroll's inner field and enclosed decorative slits, lower-middle center section 3",
+      "order": 97
+    },
+    {
+      "id": 94,
+      "name": "Large scroll's outer curl and surrounding outlines, lower-middle center section 3",
+      "order": 90
+    },
+    {
+      "id": 95,
+      "name": "Scroll's inner field and enclosed decorative slits, lower-middle center section 6",
+      "order": 100
+    },
+    {
+      "id": 96,
+      "name": "Scroll's inner field and enclosed decorative slits, lower-middle left section 7",
+      "order": 101
+    },
+    {
+      "id": 97,
+      "name": "Large scroll's outer curl and surrounding outlines, bottom right section 5",
+      "order": 92
+    },
+    {
+      "id": 98,
+      "name": "Large scroll's outer curl and surrounding outlines, bottom right section 4",
+      "order": 91
+    },
+    {
+      "id": 99,
+      "name": "Scroll's inner field and enclosed decorative slits, bottom left section 10",
+      "order": 104
+    },
+    {
+      "id": 100,
+      "name": "Scroll's inner field and enclosed decorative slits, bottom center section 9",
+      "order": 103
+    },
+    {
+      "id": 101,
+      "name": "Large scroll's outer curl and surrounding outlines, bottom center section 6",
+      "order": 93
+    },
+    {
+      "id": 102,
+      "name": "Large scroll's outer curl and surrounding outlines, bottom right section 7",
+      "order": 94
+    },
+    {
+      "id": 103,
+      "name": "Scroll's inner field and enclosed decorative slits, bottom left section 8",
+      "order": 102
+    },
+    {
+      "id": 104,
+      "name": "Lower framed bands and divided panels, bottom center section 6",
+      "order": 110
+    },
+    {
+      "id": 105,
+      "name": "Lower framed bands and divided panels, bottom center section 3",
+      "order": 107
+    },
+    {
+      "id": 106,
+      "name": "Lower framed bands and divided panels, bottom left section 1",
+      "order": 105
+    },
+    {
+      "id": 107,
+      "name": "Lower framed bands and divided panels, bottom center section 7",
+      "order": 111
+    },
+    {
+      "id": 108,
+      "name": "Lower framed bands and divided panels, bottom left section 2",
+      "order": 106
+    },
+    {
+      "id": 109,
+      "name": "Lower framed bands and divided panels, bottom left section 4",
+      "order": 108
+    },
+    {
+      "id": 110,
+      "name": "Lower framed bands and divided panels, bottom center section 10",
+      "order": 114
+    },
+    {
+      "id": 111,
+      "name": "Lower framed bands and divided panels, bottom left section 5",
+      "order": 109
+    },
+    {
+      "id": 112,
+      "name": "Lower framed bands and divided panels, bottom left section 9",
+      "order": 113
+    },
+    {
+      "id": 113,
+      "name": "Lower framed bands and divided panels, bottom center section 8",
+      "order": 112
+    },
+    {
+      "id": 114,
+      "name": "Lower framed bands and divided panels, bottom left section 13",
+      "order": 117
+    },
+    {
+      "id": 115,
+      "name": "Lower framed bands and divided panels, bottom center section 11",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Lower framed bands and divided panels, bottom left section 12",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Bottom flowing waves and closed end panes, bottom center section 1",
+      "order": 121
+    },
+    {
+      "id": 118,
+      "name": "Lower framed bands and divided panels, bottom center section 14",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Lower framed bands and divided panels, bottom left section 16",
+      "order": 120
+    },
+    {
+      "id": 120,
+      "name": "Lower framed bands and divided panels, bottom center section 15",
+      "order": 119
+    },
+    {
+      "id": 121,
+      "name": "Bottom flowing waves and closed end panes, bottom center section 2",
+      "order": 122
+    },
+    {
+      "id": 122,
+      "name": "Bottom flowing waves and closed end panes, bottom center section 3",
+      "order": 123
+    },
+    {
+      "id": 123,
+      "name": "Bottom flowing waves and closed end panes, bottom center section 4",
+      "order": 124
+    },
+    {
+      "id": 124,
+      "name": "Bottom flowing waves and closed end panes, bottom left section 5",
+      "order": 125
+    },
+    {
+      "id": 125,
+      "name": "Bottom flowing waves and closed end panes, bottom right section 6",
+      "order": 126
+    },
+    {
+      "id": 126,
+      "name": "Bottom flowing waves and closed end panes, bottom center section 7",
+      "order": 127
+    },
+    {
+      "id": 127,
+      "name": "Bottom flowing waves and closed end panes, bottom left section 8",
+      "order": 128
+    },
+    {
+      "id": 128,
+      "name": "Outer frame panels, bottom center section 6",
+      "order": 6
+    }
+  ],
+  "schemaVersion": 1
+}

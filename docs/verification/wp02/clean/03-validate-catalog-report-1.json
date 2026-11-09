@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "operation": "validate-content",
+  "scope": "project",
+  "startedAtUtc": "2026-11-06T20:47:07.418Z",
+  "status": "passed",
+  "exitCode": 0,
+  "inputs": [
+    "project.json",
+    "source/manifest.json",
+    "content/photos.json",
+    "content/artworks.json",
+    "content/historical-subjects.json",
+    "content/sources.json",
+    "content/book.json",
+    "content/media.json",
+    "content/reviews"
+  ],
+  "outputs": [],
+  "digests": {},
+  "warnings": [
+    "Historical subjects are not yet cataloged; initial unidentified assessments remain valid. Complete the evidence review in WP05.",
+    "The printable cover is pending WP05; the selected cover source is included."
+  ],
+  "errors": [],
+  "summary": {
+    "stage": "catalog",
+    "id": null,
+    "photoCount": 55,
+    "artworkCount": 48,
+    "sourceCount": 110,
+    "sourceBytes": 258074562,
+    "verifiedSourceCount": 110
+  },
+  "completedAtUtc": "2026-11-06T20:47:08.347Z"
+}

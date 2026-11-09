@@ -1,0 +1,637 @@
+{
+  "artworkId": "design-047",
+  "contentVersion": "c169a8576512f39271ed89dd0bbf7f04e15f83bd34ff17f5c032cd6d761d0674",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Background beside figures, upper-middle center section 9",
+      "order": 120
+    },
+    {
+      "id": 2,
+      "name": "Background beside figures, top left section 4",
+      "order": 115
+    },
+    {
+      "id": 3,
+      "name": "Cross and surrounding halo, top left section 3",
+      "order": 23
+    },
+    {
+      "id": 4,
+      "name": "Cross and surrounding halo, top center section 2",
+      "order": 22
+    },
+    {
+      "id": 5,
+      "name": "Background beside figures, top center section 1",
+      "order": 112
+    },
+    {
+      "id": 6,
+      "name": "Background beside figures, top right section 2",
+      "order": 113
+    },
+    {
+      "id": 7,
+      "name": "Staff foliage and upper band, top right section 6",
+      "order": 51
+    },
+    {
+      "id": 8,
+      "name": "Staff foliage and upper band, top right section 1",
+      "order": 46
+    },
+    {
+      "id": 9,
+      "name": "Staff foliage and upper band, top right section 2",
+      "order": 47
+    },
+    {
+      "id": 10,
+      "name": "Staff foliage and upper band, top right section 4",
+      "order": 49
+    },
+    {
+      "id": 11,
+      "name": "Staff foliage and upper band, top right section 3",
+      "order": 48
+    },
+    {
+      "id": 12,
+      "name": "Staff foliage and upper band, top right section 5",
+      "order": 50
+    },
+    {
+      "id": 13,
+      "name": "Child's face and upper hair",
+      "order": 1
+    },
+    {
+      "id": 14,
+      "name": "Cross and surrounding halo, top left section 1",
+      "order": 21
+    },
+    {
+      "id": 15,
+      "name": "Child's separate hair curls, top center section 1",
+      "order": 2
+    },
+    {
+      "id": 16,
+      "name": "Child's separate hair curls, top center section 2",
+      "order": 3
+    },
+    {
+      "id": 17,
+      "name": "Child's separate hair curls, top center section 3",
+      "order": 4
+    },
+    {
+      "id": 18,
+      "name": "Staff foliage and upper band, top right section 7",
+      "order": 52
+    },
+    {
+      "id": 19,
+      "name": "Child's left iris crescent",
+      "order": 5
+    },
+    {
+      "id": 20,
+      "name": "Child's ears, top center section 1",
+      "order": 7
+    },
+    {
+      "id": 21,
+      "name": "Child's right iris crescent",
+      "order": 6
+    },
+    {
+      "id": 22,
+      "name": "Child's ears, top center section 2",
+      "order": 8
+    },
+    {
+      "id": 23,
+      "name": "Child's raised arm and fingers, top left section 3",
+      "order": 11
+    },
+    {
+      "id": 24,
+      "name": "Hair curls and small enclosed beard interstices, top right section 4",
+      "order": 32
+    },
+    {
+      "id": 25,
+      "name": "Child's torso and neck",
+      "order": 12
+    },
+    {
+      "id": 26,
+      "name": "Background beside figures, top right section 3",
+      "order": 114
+    },
+    {
+      "id": 27,
+      "name": "Child's raised arm and fingers, top left section 1",
+      "order": 9
+    },
+    {
+      "id": 28,
+      "name": "Child's robe and diagonal sash, top center section 1",
+      "order": 15
+    },
+    {
+      "id": 29,
+      "name": "Child's raised arm and fingers, top left section 2",
+      "order": 10
+    },
+    {
+      "id": 30,
+      "name": "Child's robe and diagonal sash, top center section 2",
+      "order": 16
+    },
+    {
+      "id": 31,
+      "name": "Hair curls and small enclosed beard interstices, top right section 1",
+      "order": 29
+    },
+    {
+      "id": 32,
+      "name": "Bearded figure's face hair and beard",
+      "order": 24
+    },
+    {
+      "id": 33,
+      "name": "Hair curls and small enclosed beard interstices, top center section 2",
+      "order": 30
+    },
+    {
+      "id": 34,
+      "name": "Hair curls and small enclosed beard interstices, top center section 3",
+      "order": 31
+    },
+    {
+      "id": 35,
+      "name": "Hair curls and small enclosed beard interstices, top center section 5",
+      "order": 33
+    },
+    {
+      "id": 36,
+      "name": "Child's robe and diagonal sash, upper-middle center section 5",
+      "order": 19
+    },
+    {
+      "id": 37,
+      "name": "Upper eye-white and corner panes, top center section 1",
+      "order": 25
+    },
+    {
+      "id": 38,
+      "name": "Child's legs and feet, top left section 1",
+      "order": 13
+    },
+    {
+      "id": 39,
+      "name": "Upper eye-white and corner panes, top center section 2",
+      "order": 26
+    },
+    {
+      "id": 40,
+      "name": "Upper eye-white and corner panes, top center section 3",
+      "order": 27
+    },
+    {
+      "id": 41,
+      "name": "Child's robe and diagonal sash, top center section 3",
+      "order": 17
+    },
+    {
+      "id": 42,
+      "name": "Child's robe and diagonal sash, top center section 4",
+      "order": 18
+    },
+    {
+      "id": 43,
+      "name": "Background beside figures, upper-middle right section 7",
+      "order": 118
+    },
+    {
+      "id": 44,
+      "name": "Other eye-white pane",
+      "order": 28
+    },
+    {
+      "id": 45,
+      "name": "Staff foliage and upper band, top right section 8",
+      "order": 53
+    },
+    {
+      "id": 46,
+      "name": "Background beside figures, upper-middle right section 5",
+      "order": 116
+    },
+    {
+      "id": 47,
+      "name": "Holding arm and hand",
+      "order": 42
+    },
+    {
+      "id": 48,
+      "name": "Child's robe and diagonal sash, upper-middle center section 6",
+      "order": 20
+    },
+    {
+      "id": 49,
+      "name": "Hair curls and small enclosed beard interstices, upper-middle right section 6",
+      "order": 34
+    },
+    {
+      "id": 50,
+      "name": "Hair curls and small enclosed beard interstices, upper-middle right section 7",
+      "order": 35
+    },
+    {
+      "id": 51,
+      "name": "Hair curls and small enclosed beard interstices, upper-middle center section 8",
+      "order": 36
+    },
+    {
+      "id": 52,
+      "name": "Neck and robe collar, upper-middle center section 3",
+      "order": 41
+    },
+    {
+      "id": 53,
+      "name": "Child's legs and feet, upper-middle center section 2",
+      "order": 14
+    },
+    {
+      "id": 54,
+      "name": "Background beside figures, upper-middle right section 6",
+      "order": 117
+    },
+    {
+      "id": 55,
+      "name": "Background beside figures, upper-middle right section 8",
+      "order": 119
+    },
+    {
+      "id": 56,
+      "name": "Hair curls and small enclosed beard interstices, upper-middle center section 9",
+      "order": 37
+    },
+    {
+      "id": 57,
+      "name": "Neck and robe collar, upper-middle center section 1",
+      "order": 39
+    },
+    {
+      "id": 58,
+      "name": "Robe sleeves shoulder and torso, upper-middle center section 5",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Neck and robe collar, upper-middle center section 2",
+      "order": 40
+    },
+    {
+      "id": 60,
+      "name": "Staff shaft and woodgrain slits, upper-middle right section 1",
+      "order": 43
+    },
+    {
+      "id": 61,
+      "name": "Robe sleeves shoulder and torso, upper-middle left section 2",
+      "order": 55
+    },
+    {
+      "id": 62,
+      "name": "Hair curls and small enclosed beard interstices, upper-middle center section 10",
+      "order": 38
+    },
+    {
+      "id": 63,
+      "name": "Robe sleeves shoulder and torso, upper-middle center section 3",
+      "order": 56
+    },
+    {
+      "id": 64,
+      "name": "Robe sleeves shoulder and torso, upper-middle right section 1",
+      "order": 54
+    },
+    {
+      "id": 65,
+      "name": "Background beside figures, lower-middle left section 11",
+      "order": 122
+    },
+    {
+      "id": 66,
+      "name": "Background beside figures, lower-middle left section 13",
+      "order": 124
+    },
+    {
+      "id": 67,
+      "name": "Robe sleeves shoulder and torso, upper-middle right section 4",
+      "order": 57
+    },
+    {
+      "id": 68,
+      "name": "Background beside figures, lower-middle right section 14",
+      "order": 125
+    },
+    {
+      "id": 69,
+      "name": "Robe sleeves shoulder and torso, upper-middle right section 6",
+      "order": 59
+    },
+    {
+      "id": 70,
+      "name": "Background beside figures, lower-middle right section 10",
+      "order": 121
+    },
+    {
+      "id": 71,
+      "name": "Robe sleeves shoulder and torso, lower-middle center section 7",
+      "order": 60
+    },
+    {
+      "id": 72,
+      "name": "Robe sleeves shoulder and torso, lower-middle center section 8",
+      "order": 61
+    },
+    {
+      "id": 73,
+      "name": "Staff shaft and woodgrain slits, lower-middle left section 3",
+      "order": 45
+    },
+    {
+      "id": 74,
+      "name": "Staff shaft and woodgrain slits, upper-middle right section 2",
+      "order": 44
+    },
+    {
+      "id": 75,
+      "name": "Background beside figures, lower-middle left section 12",
+      "order": 123
+    },
+    {
+      "id": 76,
+      "name": "Robe sleeves shoulder and torso, lower-middle left section 10",
+      "order": 63
+    },
+    {
+      "id": 77,
+      "name": "Robe sleeves shoulder and torso, lower-middle left section 9",
+      "order": 62
+    },
+    {
+      "id": 78,
+      "name": "Flowing outer robe border, lower-middle left section 1",
+      "order": 65
+    },
+    {
+      "id": 79,
+      "name": "Robe sleeves shoulder and torso, lower-middle center section 11",
+      "order": 64
+    },
+    {
+      "id": 80,
+      "name": "Flowing outer robe border, lower-middle center section 2",
+      "order": 66
+    },
+    {
+      "id": 81,
+      "name": "Flowing lower robe panels, lower-middle left section 1",
+      "order": 72
+    },
+    {
+      "id": 82,
+      "name": "Flowing lower robe panels, lower-middle left section 4",
+      "order": 75
+    },
+    {
+      "id": 83,
+      "name": "Lower extended leg and foot, lower-middle center section 1",
+      "order": 70
+    },
+    {
+      "id": 84,
+      "name": "Flowing outer robe border, lower-middle center section 3",
+      "order": 67
+    },
+    {
+      "id": 85,
+      "name": "Flowing lower robe panels, lower-middle right section 2",
+      "order": 73
+    },
+    {
+      "id": 86,
+      "name": "Flowing lower robe panels, lower-middle right section 5",
+      "order": 76
+    },
+    {
+      "id": 87,
+      "name": "Flowing outer robe border, bottom right section 4",
+      "order": 68
+    },
+    {
+      "id": 88,
+      "name": "Tall background tree and branches, lower-middle right section 1",
+      "order": 79
+    },
+    {
+      "id": 89,
+      "name": "Flowing lower robe panels, lower-middle left section 3",
+      "order": 74
+    },
+    {
+      "id": 90,
+      "name": "Background beside figures, lower-middle right section 15",
+      "order": 126
+    },
+    {
+      "id": 91,
+      "name": "Lower grass and ground cutouts, bottom center section 2",
+      "order": 90
+    },
+    {
+      "id": 92,
+      "name": "Tall background tree and branches, lower-middle right section 2",
+      "order": 80
+    },
+    {
+      "id": 93,
+      "name": "Tall background tree and branches, lower-middle right section 3",
+      "order": 81
+    },
+    {
+      "id": 94,
+      "name": "Tall background tree and branches, lower-middle right section 4",
+      "order": 82
+    },
+    {
+      "id": 95,
+      "name": "Flowing lower robe panels, lower-middle left section 6",
+      "order": 77
+    },
+    {
+      "id": 96,
+      "name": "Tall background tree and branches, lower-middle right section 5",
+      "order": 83
+    },
+    {
+      "id": 97,
+      "name": "Lower grass and ground cutouts, bottom right section 1",
+      "order": 89
+    },
+    {
+      "id": 98,
+      "name": "Lower extended leg and foot, bottom center section 2",
+      "order": 71
+    },
+    {
+      "id": 99,
+      "name": "Tall background tree and branches, bottom right section 6",
+      "order": 84
+    },
+    {
+      "id": 100,
+      "name": "Flowing lower robe panels, bottom left section 7",
+      "order": 78
+    },
+    {
+      "id": 101,
+      "name": "Tall background tree and branches, bottom left section 7",
+      "order": 85
+    },
+    {
+      "id": 102,
+      "name": "Flowing outer robe border, bottom center section 5",
+      "order": 69
+    },
+    {
+      "id": 103,
+      "name": "Lower grass and ground cutouts, bottom left section 3",
+      "order": 91
+    },
+    {
+      "id": 104,
+      "name": "Tall background tree and branches, bottom right section 8",
+      "order": 86
+    },
+    {
+      "id": 105,
+      "name": "Tall background tree and branches, bottom right section 9",
+      "order": 87
+    },
+    {
+      "id": 106,
+      "name": "Lower grass and ground cutouts, bottom left section 4",
+      "order": 92
+    },
+    {
+      "id": 107,
+      "name": "Tall background tree and branches, bottom right section 10",
+      "order": 88
+    },
+    {
+      "id": 108,
+      "name": "Lower grass and ground cutouts, bottom right section 6",
+      "order": 94
+    },
+    {
+      "id": 109,
+      "name": "Lower grass and ground cutouts, bottom left section 15",
+      "order": 103
+    },
+    {
+      "id": 110,
+      "name": "Lower grass and ground cutouts, bottom center section 13",
+      "order": 101
+    },
+    {
+      "id": 111,
+      "name": "Lower grass and ground cutouts, bottom right section 5",
+      "order": 93
+    },
+    {
+      "id": 112,
+      "name": "Lower grass and ground cutouts, bottom right section 10",
+      "order": 98
+    },
+    {
+      "id": 113,
+      "name": "Lower grass and ground cutouts, bottom right section 7",
+      "order": 95
+    },
+    {
+      "id": 114,
+      "name": "Lower grass and ground cutouts, bottom center section 14",
+      "order": 102
+    },
+    {
+      "id": 115,
+      "name": "Lower grass and ground cutouts, bottom right section 8",
+      "order": 96
+    },
+    {
+      "id": 116,
+      "name": "Lower grass and ground cutouts, bottom center section 16",
+      "order": 104
+    },
+    {
+      "id": 117,
+      "name": "Lower grass and ground cutouts, bottom right section 9",
+      "order": 97
+    },
+    {
+      "id": 118,
+      "name": "Lower grass and ground cutouts, bottom right section 11",
+      "order": 99
+    },
+    {
+      "id": 119,
+      "name": "Lower grass and ground cutouts, bottom right section 12",
+      "order": 100
+    },
+    {
+      "id": 120,
+      "name": "Foreground waves and narrow wave slits, bottom center section 1",
+      "order": 106
+    },
+    {
+      "id": 121,
+      "name": "Foreground waves and narrow wave slits, bottom right section 2",
+      "order": 107
+    },
+    {
+      "id": 122,
+      "name": "Foreground waves and narrow wave slits, bottom center section 4",
+      "order": 109
+    },
+    {
+      "id": 123,
+      "name": "Lower grass and ground cutouts, bottom right section 17",
+      "order": 105
+    },
+    {
+      "id": 124,
+      "name": "Foreground waves and narrow wave slits, bottom left section 3",
+      "order": 108
+    },
+    {
+      "id": 125,
+      "name": "Foreground waves and narrow wave slits, bottom left section 5",
+      "order": 110
+    },
+    {
+      "id": 126,
+      "name": "Foreground waves and narrow wave slits, bottom right section 6",
+      "order": 111
+    }
+  ],
+  "schemaVersion": 1
+}

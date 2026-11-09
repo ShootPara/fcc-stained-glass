@@ -1,0 +1,479 @@
+{
+  "completed": 47,
+  "createdDate": "2026-11-09",
+  "items": [
+    {
+      "artworkId": "design-003",
+      "contentVersion": "9add389f5a0e4acd87032d43220f473d1977adf81c813bd013e76aa076bad60d",
+      "height": 1536,
+      "regionCount": 66,
+      "reviewDirectory": ".work/review/design-003/9add389f5a0e4acd87032d43220f473d1977adf81c813bd013e76aa076bad60d",
+      "status": "complete",
+      "tinyComponentCount": 0,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-004",
+      "contentVersion": "82987f707ebfb19b2767254fe9baecdfcdbc8a9e1c27c7237cd51191c01b217d",
+      "height": 1536,
+      "regionCount": 112,
+      "reviewDirectory": ".work/review/design-004/82987f707ebfb19b2767254fe9baecdfcdbc8a9e1c27c7237cd51191c01b217d",
+      "status": "complete",
+      "tinyComponentCount": 2,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-005",
+      "contentVersion": "91dea701f9ce2de7b27ff4e0cefc398d87654257addcd8a339c429ecd85561b4",
+      "height": 1536,
+      "regionCount": 112,
+      "reviewDirectory": ".work/review/design-005/91dea701f9ce2de7b27ff4e0cefc398d87654257addcd8a339c429ecd85561b4",
+      "status": "complete",
+      "tinyComponentCount": 5,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-006",
+      "contentVersion": "0dd7b2da31064d5e9223c1bef23849bef8ac77220972d2e1316f439bb74f1066",
+      "height": 1536,
+      "regionCount": 74,
+      "reviewDirectory": ".work/review/design-006/0dd7b2da31064d5e9223c1bef23849bef8ac77220972d2e1316f439bb74f1066",
+      "status": "complete",
+      "tinyComponentCount": 5,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-007",
+      "contentVersion": "f4310586f5c8664d31c5ad6499525b40d87d3249e3c949bea25924cd60e783ea",
+      "height": 1536,
+      "regionCount": 76,
+      "reviewDirectory": ".work/review/design-007/f4310586f5c8664d31c5ad6499525b40d87d3249e3c949bea25924cd60e783ea",
+      "status": "complete",
+      "tinyComponentCount": 5,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-008",
+      "contentVersion": "2f8e2e35ea15f24847703bc78be2369a2f743d66410c59fb2d1a3e8c3c570406",
+      "height": 1536,
+      "regionCount": 49,
+      "reviewDirectory": ".work/review/design-008/2f8e2e35ea15f24847703bc78be2369a2f743d66410c59fb2d1a3e8c3c570406",
+      "status": "complete",
+      "tinyComponentCount": 5,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-009",
+      "contentVersion": "63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0",
+      "height": 1536,
+      "regionCount": 117,
+      "reviewDirectory": ".work/review/design-009/63aaa9a7ad3660cbacea35f6330f3a5e199c791ddd2e0bd30c2d534f2391cea0",
+      "status": "complete",
+      "tinyComponentCount": 6,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-010",
+      "contentVersion": "4590d31c2810a9fdb8e9e06dd57bf73c391119ae743baab808ae5ee8a633cfcc",
+      "height": 1536,
+      "regionCount": 166,
+      "reviewDirectory": ".work/review/design-010/4590d31c2810a9fdb8e9e06dd57bf73c391119ae743baab808ae5ee8a633cfcc",
+      "status": "complete",
+      "tinyComponentCount": 5,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-011",
+      "contentVersion": "127653217a730ad122e909609cf6170ba71746cc8c856103d904bedd0278d3ab",
+      "height": 1536,
+      "regionCount": 71,
+      "reviewDirectory": ".work/review/design-011/127653217a730ad122e909609cf6170ba71746cc8c856103d904bedd0278d3ab",
+      "status": "complete",
+      "tinyComponentCount": 3,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-012",
+      "contentVersion": "225c945ac4644a037d56a4f14873741f9163c2db9ed0c2eb060f778db86b1a1a",
+      "height": 1536,
+      "regionCount": 77,
+      "reviewDirectory": ".work/review/design-012/225c945ac4644a037d56a4f14873741f9163c2db9ed0c2eb060f778db86b1a1a",
+      "status": "complete",
+      "tinyComponentCount": 0,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-013",
+      "contentVersion": "9308983c4fd385a9b914a889bbdb1c6784d6b374d993f4b8ffbf90b4346654ec",
+      "height": 1536,
+      "regionCount": 163,
+      "reviewDirectory": ".work/review/design-013/9308983c4fd385a9b914a889bbdb1c6784d6b374d993f4b8ffbf90b4346654ec",
+      "status": "complete",
+      "tinyComponentCount": 9,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-014",
+      "contentVersion": "a0a13bf57f314e55b981d25628f510ba113fe2f4f124579f04e30f8bb99543d8",
+      "height": 1535,
+      "regionCount": 111,
+      "reviewDirectory": ".work/review/design-014/a0a13bf57f314e55b981d25628f510ba113fe2f4f124579f04e30f8bb99543d8",
+      "status": "complete",
+      "tinyComponentCount": 5,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-015",
+      "contentVersion": "216833ff220515d0345218d7974763c7641cbe3ceb022f5843d04d7a65dc4447",
+      "height": 1536,
+      "regionCount": 160,
+      "reviewDirectory": ".work/review/design-015/216833ff220515d0345218d7974763c7641cbe3ceb022f5843d04d7a65dc4447",
+      "status": "complete",
+      "tinyComponentCount": 1,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-016",
+      "contentVersion": "c0e7e324ec807b806d00257a31a973d409dc26d9ef47d8c3e7c9595536b8aa4c",
+      "height": 1536,
+      "regionCount": 158,
+      "reviewDirectory": ".work/review/design-016/c0e7e324ec807b806d00257a31a973d409dc26d9ef47d8c3e7c9595536b8aa4c",
+      "status": "complete",
+      "tinyComponentCount": 16,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-017",
+      "contentVersion": "a072641e7c870ab4dfd9bd7a433fac95b1b036b17c19d8c6510680fa659ab324",
+      "height": 1536,
+      "regionCount": 151,
+      "reviewDirectory": ".work/review/design-017/a072641e7c870ab4dfd9bd7a433fac95b1b036b17c19d8c6510680fa659ab324",
+      "status": "complete",
+      "tinyComponentCount": 6,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-018",
+      "contentVersion": "76578fd27c0168397c8082e37955d9974c7baab859310457a4a742fb9854a8aa",
+      "height": 1536,
+      "regionCount": 153,
+      "reviewDirectory": ".work/review/design-018/76578fd27c0168397c8082e37955d9974c7baab859310457a4a742fb9854a8aa",
+      "status": "complete",
+      "tinyComponentCount": 11,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-019",
+      "contentVersion": "7483a547083d23884115e38ba2eaf100a328a248d2e8e93c2d8677ac96f0062c",
+      "height": 1536,
+      "regionCount": 113,
+      "reviewDirectory": ".work/review/design-019/7483a547083d23884115e38ba2eaf100a328a248d2e8e93c2d8677ac96f0062c",
+      "status": "complete",
+      "tinyComponentCount": 3,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-020",
+      "contentVersion": "0be4feca3984d99e3c424d69e32066f54c1386a259b866a6080ff2add2837e83",
+      "height": 1536,
+      "regionCount": 64,
+      "reviewDirectory": ".work/review/design-020/0be4feca3984d99e3c424d69e32066f54c1386a259b866a6080ff2add2837e83",
+      "status": "complete",
+      "tinyComponentCount": 0,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-021",
+      "contentVersion": "d017a1fe8d2207f80f3c039bc77815aa1e3221db3569545f0fa96cf9c0acaae1",
+      "height": 1536,
+      "regionCount": 105,
+      "reviewDirectory": ".work/review/design-021/d017a1fe8d2207f80f3c039bc77815aa1e3221db3569545f0fa96cf9c0acaae1",
+      "status": "complete",
+      "tinyComponentCount": 8,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-022",
+      "contentVersion": "b049ec7dcc642e51512d793daaac53ee83bf2b06121d3490c186f4a390510964",
+      "height": 1536,
+      "regionCount": 154,
+      "reviewDirectory": ".work/review/design-022/b049ec7dcc642e51512d793daaac53ee83bf2b06121d3490c186f4a390510964",
+      "status": "complete",
+      "tinyComponentCount": 29,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-023",
+      "contentVersion": "af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658",
+      "height": 1536,
+      "regionCount": 95,
+      "reviewDirectory": ".work/review/design-023/af332ef74b0e509918337b3169df01c9800de2eea0a5857bc830f253f6f38658",
+      "status": "complete",
+      "tinyComponentCount": 5,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-024",
+      "contentVersion": "56d9775d4b68d9c379f20b6e63a01d84359962c982d9de1de1ae7df0bfc3f6e8",
+      "height": 1536,
+      "regionCount": 149,
+      "reviewDirectory": ".work/review/design-024/56d9775d4b68d9c379f20b6e63a01d84359962c982d9de1de1ae7df0bfc3f6e8",
+      "status": "complete",
+      "tinyComponentCount": 20,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-025",
+      "contentVersion": "1658381312bbb2561ab63d989b14f194138db186f85bf648d42e941b8fbcba7b",
+      "height": 1536,
+      "regionCount": 102,
+      "reviewDirectory": ".work/review/design-025/1658381312bbb2561ab63d989b14f194138db186f85bf648d42e941b8fbcba7b",
+      "status": "complete",
+      "tinyComponentCount": 2,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-026",
+      "contentVersion": "3226fc274671c37bf2f5e84b2c75821d493b25774b802ae0c256576fed82d46c",
+      "height": 1536,
+      "regionCount": 100,
+      "reviewDirectory": ".work/review/design-026/3226fc274671c37bf2f5e84b2c75821d493b25774b802ae0c256576fed82d46c",
+      "status": "complete",
+      "tinyComponentCount": 7,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-027",
+      "contentVersion": "2e901c4e9226639481d8497ce2065c2ad8b59d71c114ea1a327136e68ed917df",
+      "height": 1511,
+      "regionCount": 286,
+      "reviewDirectory": ".work/review/design-027/2e901c4e9226639481d8497ce2065c2ad8b59d71c114ea1a327136e68ed917df",
+      "status": "complete",
+      "tinyComponentCount": 42,
+      "width": 1041
+    },
+    {
+      "artworkId": "design-028",
+      "contentVersion": "b739f2ad803f0a206ab6b0a30a337df6b226cc23ec58b81e3fe27af1fffb25e8",
+      "height": 1597,
+      "regionCount": 217,
+      "reviewDirectory": ".work/review/design-028/b739f2ad803f0a206ab6b0a30a337df6b226cc23ec58b81e3fe27af1fffb25e8",
+      "status": "complete",
+      "tinyComponentCount": 9,
+      "width": 985
+    },
+    {
+      "artworkId": "design-029",
+      "contentVersion": "3acd4fb6bf0d2dc27c6413407619930c5153155df00d154a6d02d0a831291bc4",
+      "height": 1597,
+      "regionCount": 173,
+      "reviewDirectory": ".work/review/design-029/3acd4fb6bf0d2dc27c6413407619930c5153155df00d154a6d02d0a831291bc4",
+      "status": "complete",
+      "tinyComponentCount": 13,
+      "width": 985
+    },
+    {
+      "artworkId": "design-030",
+      "contentVersion": "95568c53f3e7fc7697077bbe58d1dee8c06e1679290eab34c04260ba757c6475",
+      "height": 1536,
+      "regionCount": 154,
+      "reviewDirectory": ".work/review/design-030/95568c53f3e7fc7697077bbe58d1dee8c06e1679290eab34c04260ba757c6475",
+      "status": "complete",
+      "tinyComponentCount": 20,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-031",
+      "contentVersion": "6573912c2e15f5b25b12b513a79ae4daca14446515c20f33ed21a19405630320",
+      "height": 1528,
+      "regionCount": 192,
+      "reviewDirectory": ".work/review/design-031/6573912c2e15f5b25b12b513a79ae4daca14446515c20f33ed21a19405630320",
+      "status": "complete",
+      "tinyComponentCount": 9,
+      "width": 1029
+    },
+    {
+      "artworkId": "design-032",
+      "contentVersion": "439706e460852ddf2101aebe73a3e0755777c962640238555f4da9d8f4f9287d",
+      "height": 1536,
+      "regionCount": 581,
+      "reviewDirectory": ".work/review/design-032/439706e460852ddf2101aebe73a3e0755777c962640238555f4da9d8f4f9287d",
+      "status": "complete",
+      "tinyComponentCount": 101,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-033",
+      "contentVersion": "a3b6c849bb11bf7f81eee7c9ed562545fa3300886b2d44153dc6460701640a3b",
+      "height": 1589,
+      "regionCount": 133,
+      "reviewDirectory": ".work/review/design-033/a3b6c849bb11bf7f81eee7c9ed562545fa3300886b2d44153dc6460701640a3b",
+      "status": "complete",
+      "tinyComponentCount": 10,
+      "width": 990
+    },
+    {
+      "artworkId": "design-034",
+      "contentVersion": "8466c9c92b2d89ec2b0dae25fae81c8f71cf0c9f28d9b8c75288a4d81c59f08b",
+      "height": 1550,
+      "regionCount": 194,
+      "reviewDirectory": ".work/review/design-034/8466c9c92b2d89ec2b0dae25fae81c8f71cf0c9f28d9b8c75288a4d81c59f08b",
+      "status": "complete",
+      "tinyComponentCount": 15,
+      "width": 1014
+    },
+    {
+      "artworkId": "design-035",
+      "contentVersion": "a06050cc3772492f8b8f9fd2b852947bd98eaea0f9a3964d79b73803ebe7d525",
+      "height": 1538,
+      "regionCount": 142,
+      "reviewDirectory": ".work/review/design-035/a06050cc3772492f8b8f9fd2b852947bd98eaea0f9a3964d79b73803ebe7d525",
+      "status": "complete",
+      "tinyComponentCount": 7,
+      "width": 1023
+    },
+    {
+      "artworkId": "design-036",
+      "contentVersion": "09363c611aad5576feb8cbeb87c4ccdb081f9569917e3e2de9d1e682da823cc3",
+      "height": 1536,
+      "regionCount": 128,
+      "reviewDirectory": ".work/review/design-036/09363c611aad5576feb8cbeb87c4ccdb081f9569917e3e2de9d1e682da823cc3",
+      "status": "complete",
+      "tinyComponentCount": 4,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-037",
+      "contentVersion": "ad083871378a1a1b1fa7e981b93aa31de26138872f102ebbe2fe840086abe290",
+      "height": 1584,
+      "regionCount": 164,
+      "reviewDirectory": ".work/review/design-037/ad083871378a1a1b1fa7e981b93aa31de26138872f102ebbe2fe840086abe290",
+      "status": "complete",
+      "tinyComponentCount": 13,
+      "width": 993
+    },
+    {
+      "artworkId": "design-038",
+      "contentVersion": "7ab078eb2d147f3ffb4e5a5d6c405193359d939154d6b79336a0328a7de06d17",
+      "height": 1539,
+      "regionCount": 138,
+      "reviewDirectory": ".work/review/design-038/7ab078eb2d147f3ffb4e5a5d6c405193359d939154d6b79336a0328a7de06d17",
+      "status": "complete",
+      "tinyComponentCount": 17,
+      "width": 1022
+    },
+    {
+      "artworkId": "design-039",
+      "contentVersion": "d617be786556ebb9810c43ba6b5ef24eaa105b17607dc526be705b10a11f2446",
+      "height": 1530,
+      "regionCount": 144,
+      "reviewDirectory": ".work/review/design-039/d617be786556ebb9810c43ba6b5ef24eaa105b17607dc526be705b10a11f2446",
+      "status": "complete",
+      "tinyComponentCount": 6,
+      "width": 1028
+    },
+    {
+      "artworkId": "design-040",
+      "contentVersion": "dfbff0f4a6ce7488da59b1243d4454d23b32c792ecbcc7b6adc4d7b513bcf04d",
+      "height": 1606,
+      "regionCount": 164,
+      "reviewDirectory": ".work/review/design-040/dfbff0f4a6ce7488da59b1243d4454d23b32c792ecbcc7b6adc4d7b513bcf04d",
+      "status": "complete",
+      "tinyComponentCount": 12,
+      "width": 979
+    },
+    {
+      "artworkId": "design-041",
+      "contentVersion": "f8a5eff2b1bb79423b1a4acdf848cf0c5182930a0eace824f080367dd8c13cb0",
+      "height": 1537,
+      "regionCount": 233,
+      "reviewDirectory": ".work/review/design-041/f8a5eff2b1bb79423b1a4acdf848cf0c5182930a0eace824f080367dd8c13cb0",
+      "status": "complete",
+      "tinyComponentCount": 30,
+      "width": 1023
+    },
+    {
+      "artworkId": "design-042",
+      "contentVersion": "b18009cd4f5e55c77368e6aa71f54fb4002aeea65ec754b8f075404528366bda",
+      "height": 1550,
+      "regionCount": 119,
+      "reviewDirectory": ".work/review/design-042/b18009cd4f5e55c77368e6aa71f54fb4002aeea65ec754b8f075404528366bda",
+      "status": "complete",
+      "tinyComponentCount": 6,
+      "width": 1015
+    },
+    {
+      "artworkId": "design-043",
+      "contentVersion": "f168b3d6bfc8413fffbb71f9583b5f6858bf7b47dec3e06deb55e1792ee7ed04",
+      "height": 1538,
+      "regionCount": 99,
+      "reviewDirectory": ".work/review/design-043/f168b3d6bfc8413fffbb71f9583b5f6858bf7b47dec3e06deb55e1792ee7ed04",
+      "status": "complete",
+      "tinyComponentCount": 0,
+      "width": 1022
+    },
+    {
+      "artworkId": "design-044",
+      "contentVersion": "04ed38e2231bf99e3a01b91190bba50e098f3daee9daf46fbfd8a6448e275647",
+      "height": 1610,
+      "regionCount": 148,
+      "reviewDirectory": ".work/review/design-044/04ed38e2231bf99e3a01b91190bba50e098f3daee9daf46fbfd8a6448e275647",
+      "status": "complete",
+      "tinyComponentCount": 5,
+      "width": 977
+    },
+    {
+      "artworkId": "design-045",
+      "contentVersion": "3be7044c6f6f8fe89025f38393e690614ee85939359543e18c880d3cc0d7b7a6",
+      "height": 1595,
+      "regionCount": 134,
+      "reviewDirectory": ".work/review/design-045/3be7044c6f6f8fe89025f38393e690614ee85939359543e18c880d3cc0d7b7a6",
+      "status": "complete",
+      "tinyComponentCount": 2,
+      "width": 986
+    },
+    {
+      "artworkId": "design-046",
+      "contentVersion": "692aace4cf31a9b7edfbbd6e2965fb66fb3511b7f675ee086948afb12034317c",
+      "height": 1536,
+      "regionCount": 208,
+      "reviewDirectory": ".work/review/design-046/692aace4cf31a9b7edfbbd6e2965fb66fb3511b7f675ee086948afb12034317c",
+      "status": "complete",
+      "tinyComponentCount": 9,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-047",
+      "contentVersion": "c169a8576512f39271ed89dd0bbf7f04e15f83bd34ff17f5c032cd6d761d0674",
+      "height": 1605,
+      "regionCount": 126,
+      "reviewDirectory": ".work/review/design-047/c169a8576512f39271ed89dd0bbf7f04e15f83bd34ff17f5c032cd6d761d0674",
+      "status": "complete",
+      "tinyComponentCount": 13,
+      "width": 980
+    },
+    {
+      "artworkId": "design-048",
+      "contentVersion": "e27d54b275e66a6220016f044c53913e99d8ef0b4c98ee6e30e29948b86d00dc",
+      "height": 1536,
+      "regionCount": 140,
+      "reviewDirectory": ".work/review/design-048/e27d54b275e66a6220016f044c53913e99d8ef0b4c98ee6e30e29948b86d00dc",
+      "status": "complete",
+      "tinyComponentCount": 2,
+      "width": 1024
+    },
+    {
+      "artworkId": "design-049",
+      "contentVersion": "a6da037811c20a285fdebf5c6089ad5f84499d1ce15e93e76ae3c2e5c025f977",
+      "height": 1536,
+      "regionCount": 201,
+      "reviewDirectory": ".work/review/design-049/a6da037811c20a285fdebf5c6089ad5f84499d1ce15e93e76ae3c2e5c025f977",
+      "status": "complete",
+      "tinyComponentCount": 17,
+      "width": 1024
+    }
+  ],
+  "notes": "Completion is derived from exact active geometry, authored keyboard metadata and matching review receipts. Corrections preserve earlier packages and source pixels. See docs/region-reviews for authored observations and explicit plans. Preparation alone never completes a review.",
+  "schemaVersion": 1,
+  "total": 47
+}

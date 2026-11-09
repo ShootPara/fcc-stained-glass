@@ -1,0 +1,747 @@
+{
+  "artworkId": "design-044",
+  "contentVersion": "04ed38e2231bf99e3a01b91190bba50e098f3daee9daf46fbfd8a6448e275647",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper background and border, top left section 4",
+      "order": 22
+    },
+    {
+      "id": 2,
+      "name": "Upper background and border, top right section 3",
+      "order": 21
+    },
+    {
+      "id": 3,
+      "name": "Upper background and border, top center section 1",
+      "order": 19
+    },
+    {
+      "id": 4,
+      "name": "Upper background and border, top center section 2",
+      "order": 20
+    },
+    {
+      "id": 5,
+      "name": "Dove's body",
+      "order": 1
+    },
+    {
+      "id": 6,
+      "name": "Upper background and border, top left section 5",
+      "order": 23
+    },
+    {
+      "id": 7,
+      "name": "Upper background and border, top right section 6",
+      "order": 24
+    },
+    {
+      "id": 8,
+      "name": "Dove's wings and enclosed wing ovals, top left section 9",
+      "order": 10
+    },
+    {
+      "id": 9,
+      "name": "Upper background and border, top right section 7",
+      "order": 25
+    },
+    {
+      "id": 10,
+      "name": "Dove's wings and enclosed wing ovals, top center section 3",
+      "order": 4
+    },
+    {
+      "id": 11,
+      "name": "Dove's wings and enclosed wing ovals, top center section 4",
+      "order": 5
+    },
+    {
+      "id": 12,
+      "name": "Dove's wings and enclosed wing ovals, top left section 2",
+      "order": 3
+    },
+    {
+      "id": 13,
+      "name": "Dove's wings and enclosed wing ovals, top left section 8",
+      "order": 9
+    },
+    {
+      "id": 14,
+      "name": "Dove's wings and enclosed wing ovals, top right section 7",
+      "order": 8
+    },
+    {
+      "id": 15,
+      "name": "Dove's wings and enclosed wing ovals, top right section 1",
+      "order": 2
+    },
+    {
+      "id": 16,
+      "name": "Upper background and border, top left section 9",
+      "order": 27
+    },
+    {
+      "id": 17,
+      "name": "Upper background and border, top right section 8",
+      "order": 26
+    },
+    {
+      "id": 18,
+      "name": "Dove's wings and enclosed wing ovals, top center section 5",
+      "order": 6
+    },
+    {
+      "id": 19,
+      "name": "Dove's wings and enclosed wing ovals, top center section 6",
+      "order": 7
+    },
+    {
+      "id": 20,
+      "name": "Upper background and border, upper-middle left section 10",
+      "order": 28
+    },
+    {
+      "id": 21,
+      "name": "Dove's wings and enclosed wing ovals, top left section 10",
+      "order": 11
+    },
+    {
+      "id": 22,
+      "name": "Dove's wings and enclosed wing ovals, top right section 11",
+      "order": 12
+    },
+    {
+      "id": 23,
+      "name": "Upper background and border, upper-middle right section 11",
+      "order": 29
+    },
+    {
+      "id": 24,
+      "name": "Dove's wings and enclosed wing ovals, top left section 12",
+      "order": 13
+    },
+    {
+      "id": 25,
+      "name": "Dove's wings and enclosed wing ovals, top right section 13",
+      "order": 14
+    },
+    {
+      "id": 26,
+      "name": "Dove's lower wing bands, upper-middle center section 1",
+      "order": 17
+    },
+    {
+      "id": 27,
+      "name": "Dove's lower wing bands, upper-middle center section 2",
+      "order": 18
+    },
+    {
+      "id": 28,
+      "name": "Dove's wings and enclosed wing ovals, top center section 14",
+      "order": 15
+    },
+    {
+      "id": 29,
+      "name": "Dove's wings and enclosed wing ovals, top center section 15",
+      "order": 16
+    },
+    {
+      "id": 30,
+      "name": "Radiating beams and central flame, upper-middle left section 13",
+      "order": 42
+    },
+    {
+      "id": 31,
+      "name": "Radiating beams and central flame, upper-middle right section 9",
+      "order": 38
+    },
+    {
+      "id": 32,
+      "name": "Upper right flame and scalloped arch, upper-middle right section 1",
+      "order": 66
+    },
+    {
+      "id": 33,
+      "name": "Radiating beams and central flame, upper-middle left section 10",
+      "order": 39
+    },
+    {
+      "id": 34,
+      "name": "Radiating beams and central flame, upper-middle center section 2",
+      "order": 31
+    },
+    {
+      "id": 35,
+      "name": "Radiating beams and central flame, upper-middle center section 4",
+      "order": 33
+    },
+    {
+      "id": 36,
+      "name": "Radiating beams and central flame, upper-middle center section 5",
+      "order": 34
+    },
+    {
+      "id": 37,
+      "name": "Radiating beams and central flame, upper-middle center section 7",
+      "order": 36
+    },
+    {
+      "id": 38,
+      "name": "Radiating beams and central flame, upper-middle center section 8",
+      "order": 37
+    },
+    {
+      "id": 39,
+      "name": "Radiating beams and central flame, upper-middle center section 1",
+      "order": 30
+    },
+    {
+      "id": 40,
+      "name": "Radiating beams and central flame, upper-middle right section 3",
+      "order": 32
+    },
+    {
+      "id": 41,
+      "name": "Radiating beams and central flame, upper-middle left section 6",
+      "order": 35
+    },
+    {
+      "id": 42,
+      "name": "Radiating beams and central flame, upper-middle center section 12",
+      "order": 41
+    },
+    {
+      "id": 43,
+      "name": "Radiating beams and central flame, upper-middle center section 11",
+      "order": 40
+    },
+    {
+      "id": 44,
+      "name": "Radiating beams and central flame, upper-middle center section 14",
+      "order": 43
+    },
+    {
+      "id": 45,
+      "name": "Upper left flame and arch, upper-middle left section 9",
+      "order": 53
+    },
+    {
+      "id": 46,
+      "name": "Radiating beams and central flame, upper-middle center section 15",
+      "order": 44
+    },
+    {
+      "id": 47,
+      "name": "Upper right flame and scalloped arch, upper-middle right section 2",
+      "order": 67
+    },
+    {
+      "id": 48,
+      "name": "Upper left flame and arch, upper-middle left section 1",
+      "order": 45
+    },
+    {
+      "id": 49,
+      "name": "Upper left flame and arch, upper-middle left section 2",
+      "order": 46
+    },
+    {
+      "id": 50,
+      "name": "Upper right flame and scalloped arch, upper-middle right section 3",
+      "order": 68
+    },
+    {
+      "id": 51,
+      "name": "Upper left flame and arch, upper-middle center section 3",
+      "order": 47
+    },
+    {
+      "id": 52,
+      "name": "Upper left flame and arch, upper-middle left section 4",
+      "order": 48
+    },
+    {
+      "id": 53,
+      "name": "Upper left flame and arch, upper-middle center section 5",
+      "order": 49
+    },
+    {
+      "id": 54,
+      "name": "Upper left flame and arch, upper-middle left section 14",
+      "order": 58
+    },
+    {
+      "id": 55,
+      "name": "Upper left flame and arch, upper-middle left section 6",
+      "order": 50
+    },
+    {
+      "id": 56,
+      "name": "Upper right flame and scalloped arch, upper-middle right section 4",
+      "order": 69
+    },
+    {
+      "id": 57,
+      "name": "Upper left flame and arch, upper-middle center section 7",
+      "order": 51
+    },
+    {
+      "id": 58,
+      "name": "Upper left flame and arch, upper-middle left section 8",
+      "order": 52
+    },
+    {
+      "id": 59,
+      "name": "Upper left flame and arch, upper-middle center section 10",
+      "order": 54
+    },
+    {
+      "id": 60,
+      "name": "Upper left flame and arch, lower-middle left section 20",
+      "order": 64
+    },
+    {
+      "id": 61,
+      "name": "Upper left flame and arch, upper-middle left section 11",
+      "order": 55
+    },
+    {
+      "id": 62,
+      "name": "Upper right flame and scalloped arch, lower-middle right section 5",
+      "order": 70
+    },
+    {
+      "id": 63,
+      "name": "Upper left flame and arch, upper-middle center section 12",
+      "order": 56
+    },
+    {
+      "id": 64,
+      "name": "Upper left flame and arch, upper-middle left section 13",
+      "order": 57
+    },
+    {
+      "id": 65,
+      "name": "Upper left flame and arch, lower-middle center section 17",
+      "order": 61
+    },
+    {
+      "id": 66,
+      "name": "Upper left flame and arch, upper-middle center section 15",
+      "order": 59
+    },
+    {
+      "id": 67,
+      "name": "Upper left flame and arch, upper-middle left section 16",
+      "order": 60
+    },
+    {
+      "id": 68,
+      "name": "Upper right flame and scalloped arch, lower-middle right section 6",
+      "order": 71
+    },
+    {
+      "id": 69,
+      "name": "Upper left flame and arch, lower-middle center section 18",
+      "order": 62
+    },
+    {
+      "id": 70,
+      "name": "Upper left flame and arch, lower-middle left section 19",
+      "order": 63
+    },
+    {
+      "id": 71,
+      "name": "Upper left flame and arch, lower-middle left section 21",
+      "order": 65
+    },
+    {
+      "id": 72,
+      "name": "Middle center flame and pointed arch, lower-middle center section 1",
+      "order": 77
+    },
+    {
+      "id": 73,
+      "name": "Upper right flame and scalloped arch, lower-middle right section 7",
+      "order": 72
+    },
+    {
+      "id": 74,
+      "name": "Middle center flame and pointed arch, lower-middle center section 2",
+      "order": 78
+    },
+    {
+      "id": 75,
+      "name": "Middle left flame and scalloped arch, lower-middle left section 1",
+      "order": 73
+    },
+    {
+      "id": 76,
+      "name": "Middle right flame and scalloped arch, lower-middle right section 1",
+      "order": 82
+    },
+    {
+      "id": 77,
+      "name": "Middle left flame and scalloped arch, lower-middle left section 2",
+      "order": 74
+    },
+    {
+      "id": 78,
+      "name": "Middle right flame and scalloped arch, lower-middle right section 2",
+      "order": 83
+    },
+    {
+      "id": 79,
+      "name": "Middle center flame and pointed arch, lower-middle center section 3",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Middle left flame and scalloped arch, lower-middle left section 3",
+      "order": 75
+    },
+    {
+      "id": 81,
+      "name": "Middle center flame and pointed arch, lower-middle center section 4",
+      "order": 80
+    },
+    {
+      "id": 82,
+      "name": "Middle right flame and scalloped arch, lower-middle right section 3",
+      "order": 84
+    },
+    {
+      "id": 83,
+      "name": "Middle left flame and scalloped arch, lower-middle left section 4",
+      "order": 76
+    },
+    {
+      "id": 84,
+      "name": "Middle center flame and pointed arch, lower-middle center section 5",
+      "order": 81
+    },
+    {
+      "id": 85,
+      "name": "Middle right flame and scalloped arch, lower-middle right section 4",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Lower right decorated arch and flame, lower-middle center section 4",
+      "order": 101
+    },
+    {
+      "id": 87,
+      "name": "Lower left dotted arch and flame, lower-middle left section 5",
+      "order": 90
+    },
+    {
+      "id": 88,
+      "name": "Cropped left flame and arch, lower-middle left section 3",
+      "order": 111
+    },
+    {
+      "id": 89,
+      "name": "Cropped right flame and arch, lower-middle right section 1",
+      "order": 118
+    },
+    {
+      "id": 90,
+      "name": "Lower right decorated arch and flame, lower-middle center section 1",
+      "order": 98
+    },
+    {
+      "id": 91,
+      "name": "Lower right decorated arch and flame, lower-middle right section 2",
+      "order": 99
+    },
+    {
+      "id": 92,
+      "name": "Lower left dotted arch and flame, lower-middle left section 1",
+      "order": 86
+    },
+    {
+      "id": 93,
+      "name": "Cropped left flame and arch, lower-middle left section 1",
+      "order": 109
+    },
+    {
+      "id": 94,
+      "name": "Lower left dotted arch and flame, lower-middle center section 2",
+      "order": 87
+    },
+    {
+      "id": 95,
+      "name": "Lower right decorated arch and flame, lower-middle center section 3",
+      "order": 100
+    },
+    {
+      "id": 96,
+      "name": "Lower left dotted arch and flame, lower-middle left section 3",
+      "order": 88
+    },
+    {
+      "id": 97,
+      "name": "Cropped right flame and arch, lower-middle right section 2",
+      "order": 119
+    },
+    {
+      "id": 98,
+      "name": "Lower right decorated arch and flame, lower-middle right section 7",
+      "order": 104
+    },
+    {
+      "id": 99,
+      "name": "Lower left dotted arch and flame, lower-middle left section 7",
+      "order": 92
+    },
+    {
+      "id": 100,
+      "name": "Cropped left flame and arch, lower-middle left section 5",
+      "order": 113
+    },
+    {
+      "id": 101,
+      "name": "Cropped left flame and arch, lower-middle left section 2",
+      "order": 110
+    },
+    {
+      "id": 102,
+      "name": "Lower right decorated arch and flame, lower-middle right section 5",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Lower left dotted arch and flame, lower-middle left section 4",
+      "order": 89
+    },
+    {
+      "id": 104,
+      "name": "Lower right decorated arch and flame, bottom center section 10",
+      "order": 107
+    },
+    {
+      "id": 105,
+      "name": "Lower right decorated arch and flame, lower-middle center section 6",
+      "order": 103
+    },
+    {
+      "id": 106,
+      "name": "Cropped left flame and arch, lower-middle left section 4",
+      "order": 112
+    },
+    {
+      "id": 107,
+      "name": "Lower left dotted arch and flame, bottom left section 11",
+      "order": 96
+    },
+    {
+      "id": 108,
+      "name": "Lower left dotted arch and flame, lower-middle left section 6",
+      "order": 91
+    },
+    {
+      "id": 109,
+      "name": "Lower left dotted arch and flame, lower-middle center section 8",
+      "order": 93
+    },
+    {
+      "id": 110,
+      "name": "Cropped right flame and arch, bottom right section 4",
+      "order": 121
+    },
+    {
+      "id": 111,
+      "name": "Lower right decorated arch and flame, bottom center section 11",
+      "order": 108
+    },
+    {
+      "id": 112,
+      "name": "Lower right decorated arch and flame, bottom right section 8",
+      "order": 105
+    },
+    {
+      "id": 113,
+      "name": "Lower left dotted arch and flame, bottom left section 9",
+      "order": 94
+    },
+    {
+      "id": 114,
+      "name": "Cropped left flame and arch, bottom left section 7",
+      "order": 115
+    },
+    {
+      "id": 115,
+      "name": "Cropped left flame and arch, bottom left section 6",
+      "order": 114
+    },
+    {
+      "id": 116,
+      "name": "Lower left dotted arch and flame, bottom center section 12",
+      "order": 97
+    },
+    {
+      "id": 117,
+      "name": "Cropped right flame and arch, bottom right section 3",
+      "order": 120
+    },
+    {
+      "id": 118,
+      "name": "Lower right decorated arch and flame, bottom center section 9",
+      "order": 106
+    },
+    {
+      "id": 119,
+      "name": "Cropped left flame and arch, bottom left section 9",
+      "order": 117
+    },
+    {
+      "id": 120,
+      "name": "Cropped left flame and arch, bottom left section 8",
+      "order": 116
+    },
+    {
+      "id": 121,
+      "name": "Lower left dotted arch and flame, bottom center section 10",
+      "order": 95
+    },
+    {
+      "id": 122,
+      "name": "Bottom left flame medallion and ornaments, bottom right section 5",
+      "order": 126
+    },
+    {
+      "id": 123,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 4",
+      "order": 133
+    },
+    {
+      "id": 124,
+      "name": "Bottom left flame medallion and ornaments, bottom left section 3",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Bottom right flame medallion and ornaments, bottom right section 1",
+      "order": 141
+    },
+    {
+      "id": 126,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 1",
+      "order": 130
+    },
+    {
+      "id": 127,
+      "name": "Bottom left flame medallion and ornaments, bottom left section 1",
+      "order": 122
+    },
+    {
+      "id": 128,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 2",
+      "order": 131
+    },
+    {
+      "id": 129,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 3",
+      "order": 132
+    },
+    {
+      "id": 130,
+      "name": "Bottom center flame medallion and ornaments, bottom right section 8",
+      "order": 137
+    },
+    {
+      "id": 131,
+      "name": "Bottom left flame medallion and ornaments, bottom left section 8",
+      "order": 129
+    },
+    {
+      "id": 132,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 7",
+      "order": 136
+    },
+    {
+      "id": 133,
+      "name": "Bottom left flame medallion and ornaments, bottom left section 2",
+      "order": 123
+    },
+    {
+      "id": 134,
+      "name": "Bottom left flame medallion and ornaments, bottom left section 4",
+      "order": 125
+    },
+    {
+      "id": 135,
+      "name": "Bottom right flame medallion and ornaments, bottom right section 2",
+      "order": 142
+    },
+    {
+      "id": 136,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 5",
+      "order": 134
+    },
+    {
+      "id": 137,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 9",
+      "order": 138
+    },
+    {
+      "id": 138,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 6",
+      "order": 135
+    },
+    {
+      "id": 139,
+      "name": "Bottom right flame medallion and ornaments, bottom right section 3",
+      "order": 143
+    },
+    {
+      "id": 140,
+      "name": "Bottom left flame medallion and ornaments, bottom left section 6",
+      "order": 127
+    },
+    {
+      "id": 141,
+      "name": "Bottom left flame medallion and ornaments, bottom left section 7",
+      "order": 128
+    },
+    {
+      "id": 142,
+      "name": "Bottom background wedges, bottom left section 1",
+      "order": 146
+    },
+    {
+      "id": 143,
+      "name": "Bottom right flame medallion and ornaments, bottom center section 5",
+      "order": 145
+    },
+    {
+      "id": 144,
+      "name": "Bottom right flame medallion and ornaments, bottom right section 4",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 10",
+      "order": 139
+    },
+    {
+      "id": 146,
+      "name": "Bottom center flame medallion and ornaments, bottom center section 11",
+      "order": 140
+    },
+    {
+      "id": 147,
+      "name": "Bottom background wedges, bottom right section 2",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Bottom background wedges, bottom left section 3",
+      "order": 148
+    }
+  ],
+  "schemaVersion": 1
+}

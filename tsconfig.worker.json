@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "lib": ["ES2022", "WebWorker"],
+    "types": [],
+    "strict": true,
+    "skipLibCheck": true,
+    "composite": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "rootDir": ".",
+    "outDir": ".work/typecheck/worker",
+    "tsBuildInfoFile": ".work/typecheck/worker.tsbuildinfo"
+  },
+  "include": ["src/shared/**/*.ts", "src/editor/compositor.ts", "src/editor/export.ts", "src/editor/package-loader.ts", "src/editor/worker.ts"]
+}

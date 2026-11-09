@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered source and all three small-component sheets. Exclude border specks and explicit acute tips only. Preserve genuine small eye corners, lip slit, closed garment triangles and tiny enclosed lower-frame gap. Reconnect the child's two fragmented iris crescents and the corner of its upper eye-white band, while keeping outer eye whites distinct. Large figure's face neck and chest are continuous through open contours; child's face torso and arms are continuous, with a separate lower supporting hand and feet. Halo tiles, veil, collar beads and flowing garment bands retain their outlines. Names describe visible people/features without inferring identity from a number. Source/canonical ink and earlier packages remain unchanged. Explicit inspected tip IDs: 1,2,3,4,42,56,65,77,98,99,103,106,121,122,124,142,147,149,157,158. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

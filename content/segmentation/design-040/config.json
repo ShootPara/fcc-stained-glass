@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered composition and all three small-component sheets, plus an enlarged source crop of the right figure's two eyes. Retain the INRI letter counter and spaces below its panel, the small closed lip triangle, eye whites/glints, wound centers, enclosed knee and sleeve gaps. Reconnect only the fragmented small lip triangle and lower eye crescent. Exclude explicitly identified acute contour tips. Central face, hair, separate beard, torso/arms and nail centers, divided wrap/legs/feet, flanking figures with separate hands/garments, cross and surrounding panes all retain source boundaries. Names describe visible features; no source/canonical ink or earlier version is changed. Explicit inspected tip IDs: 28,61,64,76,89,92,99,103,109,112,121,122,162,163,172,182. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "artworkId": "design-039",
+  "sourceVersion": "081814a244ef2bfc3e24021176f04417ee9a22594d3aaa67bcefcd0484376b06",
+  "observations": "Inspected full numbered source and all three small-component sheets. Bottom-row components 156–167 are antialias residue outside the thick frame, not drawing panes; exclude them explicitly along with inspected acute tips. Preserve the two tiny eye glints, small ear detail, fine hair-fold corners and the closed gap inside the raised forearm. No meaningful panes require merging. Names distinguish head/hair/halo, cropped eye details, staff and gripping hand, raised palm with round object, robe panels, masonry/window panes, lower leaves, foot and rounded ground forms. Source/canonical ink and earlier prepared versions remain unchanged.",
+  "evidence": [
+    ".work/review/design-039/081814a244ef2bfc3e24021176f04417ee9a22594d3aaa67bcefcd0484376b06/regions-numbered-2x.png",
+    ".work/region-crops/design-039/small-01.png",
+    ".work/region-crops/design-039/small-02.png",
+    ".work/region-crops/design-039/small-03.png"
+  ],
+  "tips": "26,27,29,40,42,72,90,92,113,144,148,156-167",
+  "groups": [
+    {
+      "name": "Figure's face and beard",
+      "ids": "24"
+    },
+    {
+      "name": "Figure's tiny eye glints",
+      "ids": "45,46"
+    },
+    {
+      "name": "Figure's ear and closed ear detail",
+      "ids": "44,48,49"
+    },
+    {
+      "name": "Figure's hair strands and fine fold corners",
+      "ids": "19,20,21,30,32,35,41,43"
+    },
+    {
+      "name": "Halo outline and fields",
+      "ids": "8,9,12,17,22,31,39"
+    },
+    {
+      "name": "Neck and collar",
+      "ids": "51,60"
+    },
+    {
+      "name": "Long curved staff",
+      "ids": "38,80"
+    },
+    {
+      "name": "Hand gripping the staff",
+      "ids": "77"
+    },
+    {
+      "name": "Raised forearm hand and small closed corner",
+      "ids": "65,66"
+    },
+    {
+      "name": "Round object in the raised palm and inner panes",
+      "ids": "50,52,53,58,59,54"
+    },
+    {
+      "name": "Robe chest sleeves and sash",
+      "ids": "61,62,63,64,70,74,81,87,91"
+    },
+    {
+      "name": "Long lower garment folds",
+      "ids": "76,100,111,133,134"
+    },
+    {
+      "name": "Exposed foot and nearby closed gaps",
+      "ids": "135,136,138,139,140,149"
+    },
+    {
+      "name": "Background flowing bands at left",
+      "ids": "1,2,3,4,23,36,37,47,73,89"
+    },
+    {
+      "name": "Right masonry blocks",
+      "ids": "5,6,7,16,18,34,55,56,67,68,75,78,79,82,83,93,94,95,98,99,107,108,109,117,118,123,126,57"
+    },
+    {
+      "name": "Right arch and tall window fields",
+      "ids": "10,11,13,14,15,28,69,71,84,85,86,88,25"
+    },
+    {
+      "name": "Lower right window sill and base bands",
+      "ids": "125,127,130,132"
+    },
+    {
+      "name": "Lower left leaves and scalloped ornament",
+      "ids": "96,97,101,102,103,104,105,106,110,112,114,115,116,119,120,121,122,124,128,129,131,137"
+    },
+    {
+      "name": "Rounded ground forms below the robe and window",
+      "ids": "141,142,143,145,146,147,150,151,152,153,154,155"
+    },
+    {
+      "name": "Background behind the figure's head",
+      "ids": "33"
+    }
+  ]
+}

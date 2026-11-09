@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected complete numbered source and all five small-component sheets. The numerous tiny eye components are real iris crescents and eye-white corners; retain and reconnect each inspected crescent independently, leaving adjacent eye-white panes distinct. Keep small nose, mouth, temple and robe triangles. Exclude only listed acute endpoint artifacts and one border speck. Closed beard detail and leaf-stem fragments reconnect separately. Three heads, helmet/halo, extended pointing arm, wrapped garments, central ornamental column, leaves and large angled foreground panel keep visible source boundaries. Names describe visible forms without assigning identities from filenames. Canonical ink/source art and older packages are preserved. Explicit inspected tip IDs: 20,89,100,105,129,152,158,162,165,168,171,175,177. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "operation": "prepare-assets",
+  "scope": "design-002",
+  "startedAtUtc": "2026-11-06T20:47:25.969Z",
+  "status": "passed",
+  "exitCode": 0,
+  "inputs": [
+    "source/coloring/002.png",
+    "content/segmentation/design-002/config.json",
+    "content/segmentation/design-002/barrier-add.png",
+    "source/photos/002 FCC Window Igp4048 Tu2.jpg"
+  ],
+  "outputs": [
+    ".work/review/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e"
+  ],
+  "digests": {
+    "design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e"
+  },
+  "warnings": [],
+  "errors": [],
+  "summary": {
+    "artworks": [
+      {
+        "id": "design-002",
+        "contentVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+        "width": 1024,
+        "height": 1536,
+        "regionCount": 45,
+        "reviewDirectory": ".work/review/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+        "reusedPackage": true,
+        "archive": false
+      }
+    ],
+    "photos": [
+      "photo-002"
+    ],
+    "skippedUnreviewedPhotoCandidates": [],
+    "changedFiles": [],
+    "unchangedFileCount": 5,
+    "recoveredTransaction": false,
+    "registryChanged": false,
+    "reviewReceiptsWritten": 0
+  },
+  "completedAtUtc": "2026-11-06T20:47:36.710Z"
+}

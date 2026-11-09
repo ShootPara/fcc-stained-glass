@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "operation": "prepare-assets",
+  "scope": "design-002",
+  "startedAtUtc": "2026-11-06T20:40:01.392Z",
+  "status": "passed",
+  "exitCode": 0,
+  "inputs": [
+    "source/coloring/002.png",
+    "content/segmentation/design-002/config.json",
+    "content/segmentation/design-002/barrier-add.png",
+    "source/photos/002 FCC Window Igp4048 Tu2.jpg"
+  ],
+  "outputs": [
+    "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/canonical.bin",
+    "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/domain.bin",
+    "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/add.bin",
+    "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/remove.bin",
+    "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/recipe.json",
+    "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/canonical.png",
+    "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/regions.json",
+    "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/hit.bin",
+    "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/paint.bin",
+    "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/ink.bin",
+    "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/package.json",
+    "public/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/web.webp",
+    "public/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/thumbnail.webp",
+    "generated/assets.json",
+    ".work/review/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e"
+  ],
+  "digests": {
+    "design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e"
+  },
+  "warnings": [],
+  "errors": [],
+  "summary": {
+    "artworks": [
+      {
+        "id": "design-002",
+        "contentVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+        "width": 1024,
+        "height": 1536,
+        "regionCount": 45,
+        "reviewDirectory": ".work/review/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+        "reusedPackage": false,
+        "archive": false
+      }
+    ],
+    "photos": [
+      "photo-002"
+    ],
+    "skippedUnreviewedPhotoCandidates": [],
+    "changedFiles": [
+      "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/canonical.bin",
+      "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/domain.bin",
+      "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/add.bin",
+      "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/remove.bin",
+      "generated/recipes/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/recipe.json",
+      "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/canonical.png",
+      "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/regions.json",
+      "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/hit.bin",
+      "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/paint.bin",
+      "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/ink.bin",
+      "public/art/design-002/45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e/package.json",
+      "public/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/web.webp",
+      "public/photos/photo-002/ca87858e02d9a046daef6a8f5ebddc77cac7a8c65f90638d97af33c912f852fc/thumbnail.webp",
+      "generated/assets.json"
+    ],
+    "unchangedFileCount": 0,
+    "recoveredTransaction": false,
+    "registryChanged": true,
+    "reviewReceiptsWritten": 0
+  },
+  "completedAtUtc": "2026-11-06T20:40:20.382Z"
+}

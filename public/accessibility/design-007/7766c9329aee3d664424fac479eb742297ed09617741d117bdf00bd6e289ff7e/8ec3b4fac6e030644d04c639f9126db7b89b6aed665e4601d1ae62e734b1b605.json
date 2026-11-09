@@ -1,0 +1,572 @@
+{
+  "artworkId": "design-007",
+  "contentVersion": "7766c9329aee3d664424fac479eb742297ed09617741d117bdf00bd6e289ff7e",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Rectangular outer frame, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Upper-left pane around the curled strip, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Curled strip at the upper left, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Narrow upper-left band, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Wide upper-left band, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Middle wavy upper-left band, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Inner wavy upper-left band, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Long diagonal band dividing the upper left, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Upper-right pane around the branching shape, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Branching shape at the upper right, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Left wavy strip at the upper right, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Right wavy strip at the upper right, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Large pane at the upper-right edge, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Inside the upper-left curled strip, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Fine outline fragment beside Upper-left pane around the curled strip, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Fine outline fragment beside Upper-left pane around the curled strip, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Fine outline fragment beside Upper-left pane around the curled strip, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Upper crosswise band above the writing hand, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Lower crosswise band above the writing hand, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Background above the writing hand, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Pane around the pointed cuff, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Fine outline fragment beside Pane around the pointed cuff, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Fine outline fragment beside Pane around the pointed cuff, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Fine outline fragment beside Pane around the pointed cuff, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Fine outline fragment beside Pane around the pointed cuff, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Fine outline fragment beside Pane around the pointed cuff, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Fine outline fragment beside Pane around the pointed cuff, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Pointed cuff above the writing hand, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Fine outline fragment beside Pane around the pointed cuff, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Fine outline fragment beside Pane around the pointed cuff, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Fine outline fragment beside Small loop beside the pointed cuff, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Upper-left pane beside the pointed cuff, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Long thin diagonal strip, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Long thin diagonal strip, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Small loop beside the pointed cuff, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Long thin diagonal strip, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Long thin diagonal strip, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Long thin diagonal strip, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Long thin diagonal strip, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Long thin diagonal strip, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Thin curved strip beneath the cuff, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Long curved pane inside the cuff, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Large writing hand and extended finger, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Upper rounded pane beneath the writing hand, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Second rounded pane beneath the writing hand, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Wide curled pane beneath the cuff, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Rim above the man's forehead, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Third rounded pane beneath the writing hand, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Man's face and long hair, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Lower-left diagonal strip, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Fine outline fragment beside Third rounded pane beneath the writing hand, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Fine outline fragment beside Rim above the man's forehead, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Narrow pane between the writing fingers, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Left-edge pane around the lower branching shapes, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Fine outline fragment beside Small pane beside the man's eyebrow, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Lowest rounded pane beneath the writing hand, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Small pane beside the man's eyebrow, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Background beneath the writing hand, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Small pane in front of the man's nose, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Curled shape at the lower left, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Man's beard and upper shoulder, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Fine outline fragment beside Long thin diagonal strip, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Rounded branching shape at the lower left, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Small pane at the right edge behind the man's hair, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Fine outline fragment beside Long thin diagonal strip, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Lower writing fingertip, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Tiny curl beside the man's hair, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Man's extended arm and hand, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Fine outline fragment beside Rounded branching shape at the lower left, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Long curved pane inside the lower-left branching shape, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Fine outline fragment beside Lower writing fingertip, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Pane between the extended arm and writing fingertip, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Small pointed pane beside the man's upper arm, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Man's upper arm below the shaft, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Center of the small shoulder dot, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Man's bent arm and hand, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Fine outline fragment beside Pane between the extended arm and writing fingertip, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Fine outline fragment beside Upper-left pane beside the pointed cuff, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Fine outline fragment beside Pane between the extended arm and writing fingertip, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Small pane beside the man's shoulder, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Small pane beside the man's shoulder, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Small pane beside the man's shoulder, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Small pane beside the man's shoulder, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Small pane beside the man's shoulder, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Small pane beside the man's shoulder, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Fine outline fragment beside Thin closed fold beneath the diagonal shaft, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Thin closed fold beneath the diagonal shaft, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Fine outline fragment beside Pane between the extended arm and writing fingertip, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Fine outline fragment beside Pane between the extended arm and writing fingertip, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Narrow pane beneath the man's bent knee, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Tiny pane at the right edge below the shaft, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Upper small band behind the bent elbow, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Long pane to the left of the man's legs, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Second small band behind the bent elbow, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Small pane below the bent elbow, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Third small band behind the bent elbow, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Fourth small band behind the bent elbow, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Man's legs and foot, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Wide upper band beneath the man's legs, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Background beneath the man's bent leg, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Fine outline fragment beside Small pane below the bent elbow, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Narrow band inside the wide upper band, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Rounded band beneath the man's legs, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Band right of the rounded lower band, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Long pointed band at the lower center, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Narrow lower-left band, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Middle band along the bottom, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Small pointed pane inside the lower-center band, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Broad pane along the bottom left of center, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Pane beneath the man's heel, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Tiny pane at the left edge beside the toes, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Small pane beneath the man's toes, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Tiny enclosed detail between the toes, retained section 113",
+      "order": 113
+    }
+  ],
+  "schemaVersion": 1
+}

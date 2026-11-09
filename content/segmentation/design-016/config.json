@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Full numbered source overlay, all 100 small-component crops and enlarged native faces inspected. Explicit acute tip fragments excluded, while closed eye highlights, ear/nose/mouth details, the 18-pixel architectural triangle and 18-pixel lower hand gap are retained. The pinched upper curved ray reconnects its two main portions and four raster fragments. Central eye crescents and outer eye-white fragments connect only within their own bands; pupils, eye whites and faces stay distinct. Central nostril and short moustache slit, right figure's philtrum and left mouth slit, and a small clasped-finger strip reconnect independently. Other closed facial details remain separate. Castle façades, door arches, columns, flame curls, robe/hood folds and hands retain their pane boundaries. Names distinguish upper ornament/architecture and the left, middle and right figures. No historical identity is inferred. Original ink and prior saved versions remain unchanged. Explicit inspected tip IDs: 10,26,27,33,42,51,52,53,55,56,59,60,62,64,66,72,85,109,114,116,121,123,125,131,132,148,150,152,153,156,158,159,160,161,162,164,173,174,175,176,179,182,184,190,199,200,207,212,214,218,219,225,227,229,231,233,234,236,238,241. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

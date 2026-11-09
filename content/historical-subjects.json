@@ -1,0 +1,1311 @@
+{
+  "schemaVersion": 1,
+  "subjects": [
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0054]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 1",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-01-subject-01",
+      "section": "The Windows, window 1",
+      "sourceId": "H28",
+      "sourceLabel": "1. Sun, Moon, Stars, Earth and Water.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 1,
+      "title": "Sun, Moon, Stars, Earth and Water",
+      "windowNumber": 1
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0055]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 1",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-01-subject-02",
+      "section": "The Windows, window 1",
+      "sourceId": "H28",
+      "sourceLabel": "2. Creation of the Fishes.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 2,
+      "title": "Creation of the Fishes",
+      "windowNumber": 1
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0056]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 1",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-01-subject-03",
+      "section": "The Windows, window 1",
+      "sourceId": "H28",
+      "sourceLabel": "3. Creation of the Animals on Land No. 1.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 3,
+      "title": "Creation of the Animals on Land No. 1",
+      "windowNumber": 1
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0057]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 1",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-01-subject-04",
+      "section": "The Windows, window 1",
+      "sourceId": "H28",
+      "sourceLabel": "4. Creation of the Animals on Land No. 2.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 4,
+      "title": "Creation of the Animals on Land No. 2",
+      "windowNumber": 1
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0059]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 2",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-02-subject-05",
+      "section": "The Windows, window 2",
+      "sourceId": "H28",
+      "sourceLabel": "5. Creation of Adam.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 5,
+      "title": "Creation of Adam",
+      "windowNumber": 2
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0060]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 2",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-02-subject-06",
+      "section": "The Windows, window 2",
+      "sourceId": "H28",
+      "sourceLabel": "6. Creation of Eve.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 6,
+      "title": "Creation of Eve",
+      "windowNumber": 2
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0061]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 2",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-02-subject-07",
+      "section": "The Windows, window 2",
+      "sourceId": "H28",
+      "sourceLabel": "7. Eve giving the apple to Adam.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 7,
+      "title": "Eve giving the apple to Adam",
+      "windowNumber": 2
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0062]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 2",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-02-subject-08",
+      "section": "The Windows, window 2",
+      "sourceId": "H28",
+      "sourceLabel": "8. Thorns, Thistles and Serpent of Sin.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 8,
+      "title": "Thorns, Thistles and Serpent of Sin",
+      "windowNumber": 2
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0064]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 3",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-03-subject-09",
+      "section": "The Windows, window 3",
+      "sourceId": "H28",
+      "sourceLabel": "9. Adam and Eve. Their eviction from Paradise.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 9,
+      "title": "Adam and Eve. Their eviction from Paradise",
+      "windowNumber": 3
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0065]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 3",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-03-subject-10",
+      "section": "The Windows, window 3",
+      "sourceId": "H28",
+      "sourceLabel": "10. The offering of Cain and Abel.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 10,
+      "title": "The offering of Cain and Abel",
+      "windowNumber": 3
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0066]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 3",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-03-subject-11",
+      "section": "The Windows, window 3",
+      "sourceId": "H28",
+      "sourceLabel": "11. The Flood.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 11,
+      "title": "The Flood",
+      "windowNumber": 3
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0067]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 3",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-03-subject-12",
+      "section": "The Windows, window 3",
+      "sourceId": "H28",
+      "sourceLabel": "12. Noah sends out the Dove.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 12,
+      "title": "Noah sends out the Dove",
+      "windowNumber": 3
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0069]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 4",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-04-subject-13",
+      "section": "The Windows, window 4",
+      "sourceId": "H28",
+      "sourceLabel": "13. Noah's Offering.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 13,
+      "title": "Noah's Offering",
+      "windowNumber": 4
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0070]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 4",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-04-subject-14",
+      "section": "The Windows, window 4",
+      "sourceId": "H28",
+      "sourceLabel": "14. Tower of Babel.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 14,
+      "title": "Tower of Babel",
+      "windowNumber": 4
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0071]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 4",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-04-subject-15",
+      "section": "The Windows, window 4",
+      "sourceId": "H28",
+      "sourceLabel": "15. Destruction of Sodom.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 15,
+      "title": "Destruction of Sodom",
+      "windowNumber": 4
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0072]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 4",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-04-subject-16",
+      "section": "The Windows, window 4",
+      "sourceId": "H28",
+      "sourceLabel": "16. Jacob's Dream.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 16,
+      "title": "Jacob's Dream",
+      "windowNumber": 4
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0074]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 5",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-05-subject-17",
+      "section": "The Windows, window 5",
+      "sourceId": "H28",
+      "sourceLabel": "17. Esau swears off his birthright.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 17,
+      "title": "Esau swears off his birthright",
+      "windowNumber": 5
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0075]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 5",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-05-subject-18",
+      "section": "The Windows, window 5",
+      "sourceId": "H28",
+      "sourceLabel": "18. Selling of Joseph.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 18,
+      "title": "Selling of Joseph",
+      "windowNumber": 5
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0076]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 5",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-05-subject-19",
+      "section": "The Windows, window 5",
+      "sourceId": "H28",
+      "sourceLabel": "19. Joseph honored.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 19,
+      "title": "Joseph honored",
+      "windowNumber": 5
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0077]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 5",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-05-subject-20",
+      "section": "The Windows, window 5",
+      "sourceId": "H28",
+      "sourceLabel": "20. Finding of Moses.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 20,
+      "title": "Finding of Moses",
+      "windowNumber": 5
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0080]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 6",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-06-subject-21",
+      "section": "The Windows, window 6",
+      "sourceId": "H28",
+      "sourceLabel": "21. Through the Red Sea.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 21,
+      "title": "Through the Red Sea",
+      "windowNumber": 6
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0081]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 6",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-06-subject-22",
+      "section": "The Windows, window 6",
+      "sourceId": "H28",
+      "sourceLabel": "22. Moses and the Burning Bush.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 22,
+      "title": "Moses and the Burning Bush",
+      "windowNumber": 6
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0082]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 6",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-06-subject-23",
+      "section": "The Windows, window 6",
+      "sourceId": "H28",
+      "sourceLabel": "23. Moses striking the rock.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 23,
+      "title": "Moses striking the rock",
+      "windowNumber": 6
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0083]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 6",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-06-subject-24",
+      "section": "The Windows, window 6",
+      "sourceId": "H28",
+      "sourceLabel": "24. Moses and the Law.",
+      "sourceLocation": "1928 guide: right side when facing the chancel; window order begins at the front.",
+      "subjectNumber": 24,
+      "title": "Moses and the Law",
+      "windowNumber": 6
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0086]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 7",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-07-subject-25",
+      "section": "The Windows, window 7",
+      "sourceId": "H28",
+      "sourceLabel": "25. Samson slaying the Lion.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 25,
+      "title": "Samson slaying the Lion",
+      "windowNumber": 7
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0087]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 7",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-07-subject-26",
+      "section": "The Windows, window 7",
+      "sourceId": "H28",
+      "sourceLabel": "26. David and Goliath.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 26,
+      "title": "David and Goliath",
+      "windowNumber": 7
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0088]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 7",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-07-subject-27",
+      "section": "The Windows, window 7",
+      "sourceId": "H28",
+      "sourceLabel": "27. Death of Absalom.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 27,
+      "title": "Death of Absalom",
+      "windowNumber": 7
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0089]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 7",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-07-subject-28",
+      "section": "The Windows, window 7",
+      "sourceId": "H28",
+      "sourceLabel": "28. Flight into Egypt.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 28,
+      "title": "Flight into Egypt",
+      "windowNumber": 7
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0091]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 8",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-08-subject-29",
+      "section": "The Windows, window 8",
+      "sourceId": "H28",
+      "sourceLabel": "29. Annunciation.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 29,
+      "title": "Annunciation",
+      "windowNumber": 8
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0092]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 8",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-08-subject-30",
+      "section": "The Windows, window 8",
+      "sourceId": "H28",
+      "sourceLabel": "30. Three Wise Men.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 30,
+      "title": "Three Wise Men",
+      "windowNumber": 8
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0093]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 8",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-08-subject-31",
+      "section": "The Windows, window 8",
+      "sourceId": "H28",
+      "sourceLabel": "31. Three Young Men in the Fiery Furnace.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 31,
+      "title": "Three Young Men in the Fiery Furnace",
+      "windowNumber": 8
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0094]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 8",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-08-subject-32",
+      "section": "The Windows, window 8",
+      "sourceId": "H28",
+      "sourceLabel": "32. Madonna.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 32,
+      "title": "Madonna",
+      "windowNumber": 8
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0096]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 9",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-09-subject-33",
+      "section": "The Windows, window 9",
+      "sourceId": "H28",
+      "sourceLabel": "33. Baptism.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 33,
+      "title": "Baptism",
+      "windowNumber": 9
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0097]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 9",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-09-subject-34",
+      "section": "The Windows, window 9",
+      "sourceId": "H28",
+      "sourceLabel": "34. Jesus enters into Jerusalem.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 34,
+      "title": "Jesus enters into Jerusalem",
+      "windowNumber": 9
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0098]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 9",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-09-subject-35",
+      "section": "The Windows, window 9",
+      "sourceId": "H28",
+      "sourceLabel": "35. Christ preaching from the boat.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 35,
+      "title": "Christ preaching from the boat",
+      "windowNumber": 9
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0099]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 9",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-09-subject-36",
+      "section": "The Windows, window 9",
+      "sourceId": "H28",
+      "sourceLabel": "36. Return of the Prodigal.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 36,
+      "title": "Return of the Prodigal",
+      "windowNumber": 9
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0101]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 10",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-10-subject-37",
+      "section": "The Windows, window 10",
+      "sourceId": "H28",
+      "sourceLabel": "37. Awakening of Lazarus.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 37,
+      "title": "Awakening of Lazarus",
+      "windowNumber": 10
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0102]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 10",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-10-subject-38",
+      "section": "The Windows, window 10",
+      "sourceId": "H28",
+      "sourceLabel": "38. Christ visiting, or Christ at the Door.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 38,
+      "title": "Christ visiting, or Christ at the Door",
+      "windowNumber": 10
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0103]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 10",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-10-subject-39",
+      "section": "The Windows, window 10",
+      "sourceId": "H28",
+      "sourceLabel": "39. Crucifixion.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 39,
+      "title": "Crucifixion",
+      "windowNumber": 10
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0104]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 10",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-10-subject-40",
+      "section": "The Windows, window 10",
+      "sourceId": "H28",
+      "sourceLabel": "40. Resurrection.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 40,
+      "title": "Resurrection",
+      "windowNumber": 10
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0106]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 11",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-11-subject-41",
+      "section": "The Windows, window 11",
+      "sourceId": "H28",
+      "sourceLabel": "41. Ascension.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 41,
+      "title": "Ascension",
+      "windowNumber": 11
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0107]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 11",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-11-subject-42",
+      "section": "The Windows, window 11",
+      "sourceId": "H28",
+      "sourceLabel": "42. Christ and the Christian Law.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 42,
+      "title": "Christ and the Christian Law",
+      "windowNumber": 11
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0108]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 11",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-11-subject-43",
+      "section": "The Windows, window 11",
+      "sourceId": "H28",
+      "sourceLabel": "43. Descent of the Holy Ghost.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 43,
+      "title": "Descent of the Holy Ghost",
+      "windowNumber": 11
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0109]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 11",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-11-subject-44",
+      "section": "The Windows, window 11",
+      "sourceId": "H28",
+      "sourceLabel": "44. Christ in Heaven.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 44,
+      "title": "Christ in Heaven",
+      "windowNumber": 11
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0111]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 12",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-12-subject-45",
+      "section": "The Windows, window 12",
+      "sourceId": "H28",
+      "sourceLabel": "45. Christ as the Lamb.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 45,
+      "title": "Christ as the Lamb",
+      "windowNumber": 12
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0112]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 12",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-12-subject-46",
+      "section": "The Windows, window 12",
+      "sourceId": "H28",
+      "sourceLabel": "46. Sin and Salvation. Sin symbolized by a scarlet Satan with three-tined fork and flames.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 46,
+      "title": "Sin and Salvation. Sin symbolized by a scarlet Satan with three-tined fork and flames",
+      "windowNumber": 12
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0113]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 12",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-12-subject-47",
+      "section": "The Windows, window 12",
+      "sourceId": "H28",
+      "sourceLabel": "47. Martyrdom of St. Peter.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 47,
+      "title": "Martyrdom of St. Peter",
+      "windowNumber": 12
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0114]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 12",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-12-subject-48",
+      "section": "The Windows, window 12",
+      "sourceId": "H28",
+      "sourceLabel": "48. St. Christopher ferrying the Christ Child across the river.",
+      "sourceLocation": "1928 guide: left side; window 7 begins at the entrance end, with the sequence continuing toward the front.",
+      "subjectNumber": 48,
+      "title": "St. Christopher ferrying the Christ Child across the river",
+      "windowNumber": 12
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0117]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-49",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "49. Daniel in the Lion's Den.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 49,
+      "title": "Daniel in the Lion's Den",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0118]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-50",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "50. King David.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 50,
+      "title": "King David",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0119]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-51",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "51. The Angel Gabriel.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 51,
+      "title": "The Angel Gabriel",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0120]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-52",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "52. The Carriers of the Grapes of Eschol.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 52,
+      "title": "The Carriers of the Grapes of Eschol",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0121]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-53",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "53. Christ, the ancient sign and symbol of His Crucifixion.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 53,
+      "title": "Christ, the ancient sign and symbol of His Crucifixion",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0122]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-54",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "54. Jonah and the Whale.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 54,
+      "title": "Jonah and the Whale",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0123]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-55",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "55. The Name of Christ. Sign as Divine and His Cross.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 55,
+      "title": "The Name of Christ. Sign as Divine and His Cross",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0124]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-56",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "56. The name of Christ representing Him as Divine.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 56,
+      "title": "The name of Christ representing Him as Divine",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0125]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-57",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "57. St. Luke.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 57,
+      "title": "St. Luke",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0126]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-58",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "58. St. Matthew.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 58,
+      "title": "St. Matthew",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0127]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-59",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "59. St. John.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 59,
+      "title": "St. John",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0128]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 13",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-13-subject-60",
+      "section": "The Windows, window 13",
+      "sourceId": "H28",
+      "sourceLabel": "60. St. Mark.",
+      "sourceLocation": "1928 guide: the south window.",
+      "subjectNumber": 60,
+      "title": "St. Mark",
+      "windowNumber": 13
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0131]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 14",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-14-subject-61",
+      "section": "The Windows, window 14",
+      "sourceId": "H28",
+      "sourceLabel": "61. P. X. (Christ.) Lamb with halo about head. Banner—Church triumphant.",
+      "sourceLocation": "1928 guide: in the chancel above the organ.",
+      "subjectNumber": 61,
+      "title": "P. X. (Christ.) Lamb with halo about head. Banner—Church triumphant",
+      "windowNumber": 14
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0132]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 14",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-14-subject-62",
+      "section": "The Windows, window 14",
+      "sourceId": "H28",
+      "sourceLabel": "62. Doctrine of Christ. Book—the New Testament. Three balls symbol of the Trinity.",
+      "sourceLocation": "1928 guide: in the chancel above the organ.",
+      "subjectNumber": 62,
+      "title": "Doctrine of Christ. Book—the New Testament. Three balls symbol of the Trinity",
+      "windowNumber": 14
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0134]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 15",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-15-subject-63",
+      "section": "The Windows, window 15",
+      "sourceId": "H28",
+      "sourceLabel": "63. The name I. X. (Jesus Christ.)",
+      "subjectNumber": 63,
+      "title": "The name I. X. (Jesus Christ.)",
+      "windowNumber": 15
+    },
+    {
+      "evidence": [
+        {
+          "locator": "h28.txt [P0135]; transcription paragraph, not a printed page number.",
+          "section": "The Windows, window 15",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-window-15-subject-64",
+      "section": "The Windows, window 15",
+      "sourceId": "H28",
+      "sourceLabel": "64. Rose as symbol of the Resurrection.",
+      "subjectNumber": 64,
+      "title": "Rose as symbol of the Resurrection",
+      "windowNumber": 15
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0044]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-christ",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Christ as the Peace Maker",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Christ as the Peace Maker"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0045]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-mary",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Mary in prayer",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Mary in prayer"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0045]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-john-baptist",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "John the Baptist",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "John the Baptist"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0046]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-paul",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Saint Paul with book and sword",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Saint Paul with book and sword"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0047]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-peter",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Saint Peter with scroll and keys",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Saint Peter with scroll and keys"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-nativity",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Nativity and adoration by the Magi",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Nativity and adoration by the Magi"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-baptism",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Baptism of Christ",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Baptism of Christ"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-crucifixion",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Crucifixion",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Crucifixion"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-resurrection",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Resurrection",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Resurrection"
+    },
+    {
+      "designer": "Alfred E. Floegel",
+      "evidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraph.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h28.txt [P0040] (designer), [P0048] (memorial inscription).",
+          "section": "The Memorial Window and architect description",
+          "sourceId": "H28"
+        }
+      ],
+      "id": "h28-memorial-ascension",
+      "memorial": "Rachel Babcock Upjohn",
+      "section": "The Memorial Window",
+      "sourceId": "H28",
+      "sourceLabel": "Ascension",
+      "sourceLocation": "1928 guide: memorial window above the Communion table at the front of the nave.",
+      "title": "Ascension"
+    }
+  ]
+}

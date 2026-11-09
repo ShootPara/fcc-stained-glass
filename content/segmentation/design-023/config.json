@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Full numbered source overlay and all 27 small-component crops inspected. Sixteen isolated acute tips excluded explicitly. Retain the 23-pixel eye highlight, the two small mouth spaces above the middle divider and the five-pixel enclosed triangle beside them. Reconnect six fragments of the thin right hair curl, keeping the adjacent broader hair strand separate. Reconnect the two fragments of a small closed leaf-stem detail near the lower center. Face and upper hair are continuous with open facial contours; separate eye whites/highlights, brow panes and forehead curls remain. Horizontal middle divider splits the upper head and lower beard panel; beard curls and their closed inner spaces remain distinct. Flame-like upper forms and broad leaf/stem shapes retain enclosed vein panes and open vein strokes. Names follow upper symbols, head/beard and surrounding leaves. No canonical pixels or earlier saved versions changed. Explicit inspected tip IDs: 13,14,18,28,36,46,48,65,89,90,95,98,101,102,111,113. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

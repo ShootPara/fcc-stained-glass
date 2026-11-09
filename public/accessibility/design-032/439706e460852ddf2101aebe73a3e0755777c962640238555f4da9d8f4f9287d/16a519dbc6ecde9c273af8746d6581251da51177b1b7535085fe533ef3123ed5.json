@@ -1,0 +1,2912 @@
+{
+  "artworkId": "design-032",
+  "contentVersion": "439706e460852ddf2101aebe73a3e0755777c962640238555f4da9d8f4f9287d",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Top background and flowing bands, top left section 2",
+      "order": 2
+    },
+    {
+      "id": 2,
+      "name": "Top background and flowing bands, top center section 1",
+      "order": 1
+    },
+    {
+      "id": 3,
+      "name": "Upper left beaded band and its outlines, top center section 4",
+      "order": 10
+    },
+    {
+      "id": 4,
+      "name": "Upper left beaded band and its outlines, top center section 5",
+      "order": 11
+    },
+    {
+      "id": 5,
+      "name": "Top background and flowing bands, top center section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Top background and flowing bands, upper-middle center section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Small upper crown and dome ornament, top right section 11",
+      "order": 38
+    },
+    {
+      "id": 8,
+      "name": "Small upper crown and dome ornament, top right section 1",
+      "order": 28
+    },
+    {
+      "id": 9,
+      "name": "Small upper crown and dome ornament, top right section 5",
+      "order": 32
+    },
+    {
+      "id": 10,
+      "name": "Top background and flowing bands, top right section 3",
+      "order": 3
+    },
+    {
+      "id": 11,
+      "name": "Top background and flowing bands, top right section 4",
+      "order": 4
+    },
+    {
+      "id": 12,
+      "name": "Upper left beaded band and its outlines, top center section 1",
+      "order": 7
+    },
+    {
+      "id": 13,
+      "name": "Small upper crown and dome ornament, top right section 2",
+      "order": 29
+    },
+    {
+      "id": 14,
+      "name": "Small upper crown and dome ornament, top right section 3",
+      "order": 30
+    },
+    {
+      "id": 15,
+      "name": "Small upper crown and dome ornament, top right section 4",
+      "order": 31
+    },
+    {
+      "id": 16,
+      "name": "Upper left beaded band and its outlines, top center section 2",
+      "order": 8
+    },
+    {
+      "id": 17,
+      "name": "Small upper crown and dome ornament, top right section 6",
+      "order": 33
+    },
+    {
+      "id": 18,
+      "name": "Upper left beaded band and its outlines, top center section 3",
+      "order": 9
+    },
+    {
+      "id": 19,
+      "name": "Small upper crown and dome ornament, top left section 15",
+      "order": 42
+    },
+    {
+      "id": 20,
+      "name": "Small upper crown and dome ornament, top right section 7",
+      "order": 34
+    },
+    {
+      "id": 21,
+      "name": "Small upper crown and dome ornament, top right section 8",
+      "order": 35
+    },
+    {
+      "id": 22,
+      "name": "Small upper crown and dome ornament, top right section 9",
+      "order": 36
+    },
+    {
+      "id": 23,
+      "name": "Small upper crown and dome ornament, top center section 12",
+      "order": 39
+    },
+    {
+      "id": 24,
+      "name": "Small upper crown and dome ornament, top right section 10",
+      "order": 37
+    },
+    {
+      "id": 25,
+      "name": "Upper left beaded band and its outlines, top center section 6",
+      "order": 12
+    },
+    {
+      "id": 26,
+      "name": "Upper left hand and adjacent small pane, top left section 1",
+      "order": 24
+    },
+    {
+      "id": 27,
+      "name": "Small upper crown and dome ornament, top center section 13",
+      "order": 40
+    },
+    {
+      "id": 28,
+      "name": "Small upper crown and dome ornament, top right section 18",
+      "order": 45
+    },
+    {
+      "id": 29,
+      "name": "Small upper crown and dome ornament, top right section 14",
+      "order": 41
+    },
+    {
+      "id": 30,
+      "name": "Small upper crown and dome ornament, top right section 41",
+      "order": 68
+    },
+    {
+      "id": 31,
+      "name": "Small upper crown and dome ornament, top center section 19",
+      "order": 46
+    },
+    {
+      "id": 32,
+      "name": "Small upper crown and dome ornament, top right section 16",
+      "order": 43
+    },
+    {
+      "id": 33,
+      "name": "Small upper crown and dome ornament, top right section 17",
+      "order": 44
+    },
+    {
+      "id": 34,
+      "name": "Small upper crown and dome ornament, top center section 22",
+      "order": 49
+    },
+    {
+      "id": 35,
+      "name": "Small upper crown and dome ornament, top right section 21",
+      "order": 48
+    },
+    {
+      "id": 36,
+      "name": "Small upper crown and dome ornament, top center section 20",
+      "order": 47
+    },
+    {
+      "id": 37,
+      "name": "Small upper crown and dome ornament, top right section 23",
+      "order": 50
+    },
+    {
+      "id": 38,
+      "name": "Small upper crown and dome ornament, top center section 24",
+      "order": 51
+    },
+    {
+      "id": 39,
+      "name": "Small upper crown and dome ornament, top left section 35",
+      "order": 62
+    },
+    {
+      "id": 40,
+      "name": "Small upper crown and dome ornament, top right section 25",
+      "order": 52
+    },
+    {
+      "id": 41,
+      "name": "Small upper crown and dome ornament, top center section 26",
+      "order": 53
+    },
+    {
+      "id": 42,
+      "name": "Small upper crown and dome ornament, top right section 28",
+      "order": 55
+    },
+    {
+      "id": 43,
+      "name": "Small upper crown and dome ornament, top right section 29",
+      "order": 56
+    },
+    {
+      "id": 44,
+      "name": "Small upper crown and dome ornament, top right section 27",
+      "order": 54
+    },
+    {
+      "id": 45,
+      "name": "Small upper crown and dome ornament, top right section 34",
+      "order": 61
+    },
+    {
+      "id": 46,
+      "name": "Small upper crown and dome ornament, top center section 33",
+      "order": 60
+    },
+    {
+      "id": 47,
+      "name": "Small upper crown and dome ornament, top center section 30",
+      "order": 57
+    },
+    {
+      "id": 48,
+      "name": "Small upper crown and dome ornament, top right section 31",
+      "order": 58
+    },
+    {
+      "id": 49,
+      "name": "Small upper crown and dome ornament, top right section 37",
+      "order": 64
+    },
+    {
+      "id": 50,
+      "name": "Upper left beaded band and its outlines, top center section 16",
+      "order": 22
+    },
+    {
+      "id": 51,
+      "name": "Small upper crown and dome ornament, top left section 32",
+      "order": 59
+    },
+    {
+      "id": 52,
+      "name": "Small upper crown and dome ornament, top right section 36",
+      "order": 63
+    },
+    {
+      "id": 53,
+      "name": "Upper left beaded band and its outlines, top left section 7",
+      "order": 13
+    },
+    {
+      "id": 54,
+      "name": "Upper left hand and adjacent small pane, top left section 2",
+      "order": 25
+    },
+    {
+      "id": 55,
+      "name": "Upper left beaded band and its outlines, top left section 9",
+      "order": 15
+    },
+    {
+      "id": 56,
+      "name": "Upper left beaded band and its outlines, top left section 8",
+      "order": 14
+    },
+    {
+      "id": 57,
+      "name": "Upper left beaded band and its outlines, top left section 10",
+      "order": 16
+    },
+    {
+      "id": 58,
+      "name": "Upper left beaded band and its outlines, top left section 11",
+      "order": 17
+    },
+    {
+      "id": 59,
+      "name": "Upper left beaded band and its outlines, top left section 12",
+      "order": 18
+    },
+    {
+      "id": 60,
+      "name": "Upper left beaded band and its outlines, top left section 15",
+      "order": 21
+    },
+    {
+      "id": 61,
+      "name": "Upper left beaded band and its outlines, top left section 13",
+      "order": 19
+    },
+    {
+      "id": 62,
+      "name": "Upper left beaded band and its outlines, top left section 14",
+      "order": 20
+    },
+    {
+      "id": 63,
+      "name": "Upper left beaded band and its outlines, top left section 17",
+      "order": 23
+    },
+    {
+      "id": 64,
+      "name": "Small upper crown and dome ornament, top right section 38",
+      "order": 65
+    },
+    {
+      "id": 65,
+      "name": "Small upper crown and dome ornament, top center section 39",
+      "order": 66
+    },
+    {
+      "id": 66,
+      "name": "Upper left broad garment",
+      "order": 27
+    },
+    {
+      "id": 67,
+      "name": "Small upper crown and dome ornament, top right section 40",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Upper left hand and adjacent small pane, top center section 3",
+      "order": 26
+    },
+    {
+      "id": 69,
+      "name": "Small upper crown and dome ornament, top center section 42",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Small upper crown and dome ornament, top right section 43",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Small upper crown and dome ornament, top right section 44",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Small upper crown and dome ornament, top center section 45",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Small upper crown and dome ornament, top right section 46",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Small upper crown and dome ornament, top center section 48",
+      "order": 75
+    },
+    {
+      "id": 75,
+      "name": "Small upper crown and dome ornament, top right section 47",
+      "order": 74
+    },
+    {
+      "id": 76,
+      "name": "Small upper crown and dome ornament, top right section 49",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Small upper crown and dome ornament, top right section 50",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Background around the left upper heads, upper-middle center section 2",
+      "order": 79
+    },
+    {
+      "id": 79,
+      "name": "Background around the left upper heads, upper-middle center section 5",
+      "order": 82
+    },
+    {
+      "id": 80,
+      "name": "Lower surrounding curved bands, upper-middle right section 2",
+      "order": 273
+    },
+    {
+      "id": 81,
+      "name": "Background around the left upper heads, upper-middle left section 1",
+      "order": 78
+    },
+    {
+      "id": 82,
+      "name": "Lower surrounding curved bands, upper-middle right section 3",
+      "order": 274
+    },
+    {
+      "id": 83,
+      "name": "Lower surrounding curved bands, upper-middle right section 1",
+      "order": 272
+    },
+    {
+      "id": 84,
+      "name": "Background around the left upper heads, upper-middle left section 3",
+      "order": 80
+    },
+    {
+      "id": 85,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 8",
+      "order": 91
+    },
+    {
+      "id": 86,
+      "name": "Adjacent profile's hair and face, upper-middle center section 1",
+      "order": 100
+    },
+    {
+      "id": 87,
+      "name": "Window's interior background and ornamental panes, upper-middle right section 1",
+      "order": 280
+    },
+    {
+      "id": 88,
+      "name": "Window's interior background and ornamental panes, upper-middle right section 2",
+      "order": 281
+    },
+    {
+      "id": 89,
+      "name": "Window's interior background and ornamental panes, upper-middle center section 3",
+      "order": 282
+    },
+    {
+      "id": 90,
+      "name": "Window's block frame and lower border, upper-middle center section 1",
+      "order": 296
+    },
+    {
+      "id": 91,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 1",
+      "order": 84
+    },
+    {
+      "id": 92,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 2",
+      "order": 85
+    },
+    {
+      "id": 93,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle right section 11",
+      "order": 94
+    },
+    {
+      "id": 94,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 3",
+      "order": 86
+    },
+    {
+      "id": 95,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 4",
+      "order": 87
+    },
+    {
+      "id": 96,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle left section 1",
+      "order": 319
+    },
+    {
+      "id": 97,
+      "name": "Upper left figure's face and beard",
+      "order": 95
+    },
+    {
+      "id": 98,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 5",
+      "order": 88
+    },
+    {
+      "id": 99,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 7",
+      "order": 90
+    },
+    {
+      "id": 100,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 6",
+      "order": 89
+    },
+    {
+      "id": 101,
+      "name": "Window's interior background and ornamental panes, upper-middle right section 4",
+      "order": 283
+    },
+    {
+      "id": 102,
+      "name": "Window's interior background and ornamental panes, upper-middle right section 8",
+      "order": 287
+    },
+    {
+      "id": 103,
+      "name": "Window's interior background and ornamental panes, upper-middle center section 5",
+      "order": 284
+    },
+    {
+      "id": 104,
+      "name": "Window's interior background and ornamental panes, lower-middle right section 11",
+      "order": 290
+    },
+    {
+      "id": 105,
+      "name": "Window's interior background and ornamental panes, upper-middle center section 6",
+      "order": 285
+    },
+    {
+      "id": 106,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 10",
+      "order": 125
+    },
+    {
+      "id": 107,
+      "name": "Window's upper face",
+      "order": 145
+    },
+    {
+      "id": 108,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 1",
+      "order": 146
+    },
+    {
+      "id": 109,
+      "name": "Window upper face's hair curls and neck beads, upper-middle center section 2",
+      "order": 147
+    },
+    {
+      "id": 110,
+      "name": "Window's side leaf-like ornaments, lower-middle center section 8",
+      "order": 202
+    },
+    {
+      "id": 111,
+      "name": "Background around the left upper heads, upper-middle left section 4",
+      "order": 81
+    },
+    {
+      "id": 112,
+      "name": "Window's side leaf-like ornaments, upper-middle right section 3",
+      "order": 197
+    },
+    {
+      "id": 113,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle left section 2",
+      "order": 320
+    },
+    {
+      "id": 114,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 9",
+      "order": 92
+    },
+    {
+      "id": 115,
+      "name": "Upper left figure's left eye highlight",
+      "order": 96
+    },
+    {
+      "id": 116,
+      "name": "Upper left figure's right eyelid detail, upper-middle left section 1",
+      "order": 97
+    },
+    {
+      "id": 117,
+      "name": "Adjacent profile's hair and face, upper-middle left section 2",
+      "order": 101
+    },
+    {
+      "id": 118,
+      "name": "Upper left figure's right eyelid detail, upper-middle left section 2",
+      "order": 98
+    },
+    {
+      "id": 119,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 4",
+      "order": 149
+    },
+    {
+      "id": 120,
+      "name": "Window's side leaf-like ornaments, upper-middle center section 1",
+      "order": 195
+    },
+    {
+      "id": 121,
+      "name": "Upper left figure's hair curls and hair-edge beads, upper-middle left section 10",
+      "order": 93
+    },
+    {
+      "id": 122,
+      "name": "Adjacent profile's small eye highlight",
+      "order": 102
+    },
+    {
+      "id": 123,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 1",
+      "order": 116
+    },
+    {
+      "id": 124,
+      "name": "Background around the left upper heads, upper-middle center section 6",
+      "order": 83
+    },
+    {
+      "id": 125,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 2",
+      "order": 117
+    },
+    {
+      "id": 126,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 3",
+      "order": 118
+    },
+    {
+      "id": 127,
+      "name": "Window upper face's hair curls and neck beads, upper-middle center section 3",
+      "order": 148
+    },
+    {
+      "id": 128,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 5",
+      "order": 120
+    },
+    {
+      "id": 129,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle left section 3",
+      "order": 321
+    },
+    {
+      "id": 130,
+      "name": "Window's interior background and ornamental panes, upper-middle right section 7",
+      "order": 286
+    },
+    {
+      "id": 131,
+      "name": "Upper left figure's tiny closed mouth slit",
+      "order": 99
+    },
+    {
+      "id": 132,
+      "name": "Window upper face's eye highlights, upper-middle right section 2",
+      "order": 166
+    },
+    {
+      "id": 133,
+      "name": "Window upper face's eye highlights, upper-middle right section 1",
+      "order": 165
+    },
+    {
+      "id": 134,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 6",
+      "order": 121
+    },
+    {
+      "id": 135,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle left section 4",
+      "order": 322
+    },
+    {
+      "id": 136,
+      "name": "Window's block frame and lower border, upper-middle center section 3",
+      "order": 298
+    },
+    {
+      "id": 137,
+      "name": "Window's block frame and lower border, upper-middle center section 2",
+      "order": 297
+    },
+    {
+      "id": 138,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 4",
+      "order": 119
+    },
+    {
+      "id": 139,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle left section 5",
+      "order": 323
+    },
+    {
+      "id": 140,
+      "name": "Window's block frame and lower border, lower-middle right section 5",
+      "order": 300
+    },
+    {
+      "id": 141,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 9",
+      "order": 124
+    },
+    {
+      "id": 142,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 7",
+      "order": 122
+    },
+    {
+      "id": 143,
+      "name": "Foreground crown and enclosed jewel details, upper-middle left section 8",
+      "order": 123
+    },
+    {
+      "id": 144,
+      "name": "Window upper face's hair curls and neck beads, upper-middle center section 5",
+      "order": 150
+    },
+    {
+      "id": 145,
+      "name": "Foreground bearded profile",
+      "order": 126
+    },
+    {
+      "id": 146,
+      "name": "Upper left figure's collar chest and sleeve, upper-middle left section 1",
+      "order": 103
+    },
+    {
+      "id": 147,
+      "name": "Upper left figure's collar chest and sleeve, upper-middle left section 2",
+      "order": 104
+    },
+    {
+      "id": 148,
+      "name": "Window upper face's closed mouth slit",
+      "order": 167
+    },
+    {
+      "id": 149,
+      "name": "Foreground profile's thin hair outlines, upper-middle left section 1",
+      "order": 128
+    },
+    {
+      "id": 150,
+      "name": "Window's block frame and lower border, lower-middle right section 8",
+      "order": 303
+    },
+    {
+      "id": 151,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle left section 6",
+      "order": 324
+    },
+    {
+      "id": 152,
+      "name": "Window's side leaf-like ornaments, upper-middle center section 2",
+      "order": 196
+    },
+    {
+      "id": 153,
+      "name": "Foreground profile's thin hair outlines, upper-middle left section 2",
+      "order": 129
+    },
+    {
+      "id": 154,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle left section 7",
+      "order": 325
+    },
+    {
+      "id": 155,
+      "name": "Foreground profile's eye-white pane",
+      "order": 127
+    },
+    {
+      "id": 156,
+      "name": "Foreground profile's thin hair outlines, upper-middle left section 3",
+      "order": 130
+    },
+    {
+      "id": 157,
+      "name": "Window upper face's hair curls and neck beads, upper-middle center section 6",
+      "order": 151
+    },
+    {
+      "id": 158,
+      "name": "Window upper face's hair curls and neck beads, upper-middle left section 7",
+      "order": 152
+    },
+    {
+      "id": 159,
+      "name": "Upper left figure's necklace beads and closed gaps, upper-middle left section 1",
+      "order": 111
+    },
+    {
+      "id": 160,
+      "name": "Upper left figure's collar chest and sleeve, upper-middle left section 3",
+      "order": 105
+    },
+    {
+      "id": 161,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle left section 8",
+      "order": 326
+    },
+    {
+      "id": 162,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 11",
+      "order": 156
+    },
+    {
+      "id": 163,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 8",
+      "order": 153
+    },
+    {
+      "id": 164,
+      "name": "Upper left figure's necklace beads and closed gaps, upper-middle left section 2",
+      "order": 112
+    },
+    {
+      "id": 165,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 13",
+      "order": 158
+    },
+    {
+      "id": 166,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 9",
+      "order": 154
+    },
+    {
+      "id": 167,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 17",
+      "order": 162
+    },
+    {
+      "id": 168,
+      "name": "Window upper face's hair curls and neck beads, upper-middle center section 19",
+      "order": 164
+    },
+    {
+      "id": 169,
+      "name": "Window upper face's hair curls and neck beads, upper-middle center section 10",
+      "order": 155
+    },
+    {
+      "id": 170,
+      "name": "Upper left figure's necklace beads and closed gaps, upper-middle left section 3",
+      "order": 113
+    },
+    {
+      "id": 171,
+      "name": "Upper left figure's necklace beads and closed gaps, upper-middle left section 4",
+      "order": 114
+    },
+    {
+      "id": 172,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 14",
+      "order": 159
+    },
+    {
+      "id": 173,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 12",
+      "order": 157
+    },
+    {
+      "id": 174,
+      "name": "Upper left figure's necklace beads and closed gaps, upper-middle left section 5",
+      "order": 115
+    },
+    {
+      "id": 175,
+      "name": "Foreground profile's small closed nose detail",
+      "order": 131
+    },
+    {
+      "id": 176,
+      "name": "Window upper face's hair curls and neck beads, upper-middle center section 15",
+      "order": 160
+    },
+    {
+      "id": 177,
+      "name": "Window upper face's hair curls and neck beads, upper-middle right section 16",
+      "order": 161
+    },
+    {
+      "id": 178,
+      "name": "Window middle face",
+      "order": 168
+    },
+    {
+      "id": 179,
+      "name": "Window upper face's hair curls and neck beads, upper-middle center section 18",
+      "order": 163
+    },
+    {
+      "id": 180,
+      "name": "Upper left figure's collar chest and sleeve, upper-middle left section 6",
+      "order": 108
+    },
+    {
+      "id": 181,
+      "name": "Window's block frame and lower border, upper-middle center section 4",
+      "order": 299
+    },
+    {
+      "id": 182,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 5",
+      "order": 176
+    },
+    {
+      "id": 183,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 2",
+      "order": 173
+    },
+    {
+      "id": 184,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle center section 1",
+      "order": 172
+    },
+    {
+      "id": 185,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle center section 3",
+      "order": 174
+    },
+    {
+      "id": 186,
+      "name": "Foreground figure's cloak sleeve and raised hand, upper-middle center section 4",
+      "order": 139
+    },
+    {
+      "id": 187,
+      "name": "Upper left figure's collar chest and sleeve, upper-middle left section 5",
+      "order": 107
+    },
+    {
+      "id": 188,
+      "name": "Upper left figure's collar chest and sleeve, upper-middle left section 4",
+      "order": 106
+    },
+    {
+      "id": 189,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 4",
+      "order": 175
+    },
+    {
+      "id": 190,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 6",
+      "order": 177
+    },
+    {
+      "id": 191,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle center section 7",
+      "order": 178
+    },
+    {
+      "id": 192,
+      "name": "Window middle face's eye highlights, upper-middle right section 1",
+      "order": 169
+    },
+    {
+      "id": 193,
+      "name": "Window middle face's eye highlights, upper-middle right section 2",
+      "order": 170
+    },
+    {
+      "id": 194,
+      "name": "Window's side leaf-like ornaments, upper-middle center section 4",
+      "order": 198
+    },
+    {
+      "id": 195,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle center section 10",
+      "order": 181
+    },
+    {
+      "id": 196,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle center section 8",
+      "order": 179
+    },
+    {
+      "id": 197,
+      "name": "Foreground figure's cloak sleeve and raised hand, upper-middle center section 1",
+      "order": 136
+    },
+    {
+      "id": 198,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 9",
+      "order": 180
+    },
+    {
+      "id": 199,
+      "name": "Foreground profile's closed border opening",
+      "order": 132
+    },
+    {
+      "id": 200,
+      "name": "Foreground figure's cloak sleeve and raised hand, upper-middle center section 2",
+      "order": 137
+    },
+    {
+      "id": 201,
+      "name": "Foreground figure's cloak sleeve and raised hand, upper-middle center section 3",
+      "order": 138
+    },
+    {
+      "id": 202,
+      "name": "Upper left garments and adjacent enclosed details, upper-middle center section 9",
+      "order": 327
+    },
+    {
+      "id": 203,
+      "name": "Upper left figure's round pendant",
+      "order": 110
+    },
+    {
+      "id": 204,
+      "name": "Foreground figure's neck collar and pendant, upper-middle left section 1",
+      "order": 133
+    },
+    {
+      "id": 205,
+      "name": "Window's side leaf-like ornaments, lower-middle center section 6",
+      "order": 200
+    },
+    {
+      "id": 206,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 12",
+      "order": 183
+    },
+    {
+      "id": 207,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle center section 11",
+      "order": 182
+    },
+    {
+      "id": 208,
+      "name": "Window middle face's closed mouth slit",
+      "order": 171
+    },
+    {
+      "id": 209,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 13",
+      "order": 184
+    },
+    {
+      "id": 210,
+      "name": "Foreground figure's neck collar and pendant, upper-middle left section 2",
+      "order": 134
+    },
+    {
+      "id": 211,
+      "name": "Window's interior background and ornamental panes, upper-middle center section 9",
+      "order": 288
+    },
+    {
+      "id": 212,
+      "name": "Foreground figure's neck collar and pendant, upper-middle left section 3",
+      "order": 135
+    },
+    {
+      "id": 213,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 16",
+      "order": 187
+    },
+    {
+      "id": 214,
+      "name": "Window's interior background and ornamental panes, upper-middle right section 10",
+      "order": 289
+    },
+    {
+      "id": 215,
+      "name": "Foreground figure's cloak sleeve and raised hand, lower-middle left section 5",
+      "order": 140
+    },
+    {
+      "id": 216,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle center section 14",
+      "order": 185
+    },
+    {
+      "id": 217,
+      "name": "Window middle face's hair beads and enclosed details, upper-middle right section 15",
+      "order": 186
+    },
+    {
+      "id": 218,
+      "name": "Foreground figure's cloak sleeve and raised hand, lower-middle center section 7",
+      "order": 142
+    },
+    {
+      "id": 219,
+      "name": "Window's block frame and lower border, lower-middle center section 6",
+      "order": 301
+    },
+    {
+      "id": 220,
+      "name": "Window's block frame and lower border, lower-middle center section 7",
+      "order": 302
+    },
+    {
+      "id": 221,
+      "name": "Window lower face and beard",
+      "order": 188
+    },
+    {
+      "id": 222,
+      "name": "Window lower face's hair collar and enclosed details, lower-middle right section 1",
+      "order": 189
+    },
+    {
+      "id": 223,
+      "name": "Window lower face's hair collar and enclosed details, lower-middle center section 2",
+      "order": 190
+    },
+    {
+      "id": 224,
+      "name": "Upper left figure's collar chest and sleeve, upper-middle left section 7",
+      "order": 109
+    },
+    {
+      "id": 225,
+      "name": "Foreground figure's cloak sleeve and raised hand, lower-middle left section 6",
+      "order": 141
+    },
+    {
+      "id": 226,
+      "name": "Window's side leaf-like ornaments, lower-middle center section 5",
+      "order": 199
+    },
+    {
+      "id": 227,
+      "name": "Foreground figure's cloak sleeve and raised hand, lower-middle left section 8",
+      "order": 143
+    },
+    {
+      "id": 228,
+      "name": "Window lower face's hair collar and enclosed details, lower-middle right section 3",
+      "order": 191
+    },
+    {
+      "id": 229,
+      "name": "Window lower face's eye highlights, lower-middle right section 1",
+      "order": 579
+    },
+    {
+      "id": 230,
+      "name": "Window lower face's eye highlights, lower-middle right section 2",
+      "order": 580
+    },
+    {
+      "id": 231,
+      "name": "Window lower face's eye highlights, lower-middle right section 3",
+      "order": 581
+    },
+    {
+      "id": 232,
+      "name": "Upper left garments and adjacent enclosed details, lower-middle left section 10",
+      "order": 328
+    },
+    {
+      "id": 233,
+      "name": "Foreground figure's cloak sleeve and raised hand, lower-middle center section 9",
+      "order": 144
+    },
+    {
+      "id": 234,
+      "name": "Window's side leaf-like ornaments, lower-middle center section 7",
+      "order": 201
+    },
+    {
+      "id": 235,
+      "name": "Upper left garments and adjacent enclosed details, lower-middle left section 11",
+      "order": 329
+    },
+    {
+      "id": 236,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 5",
+      "order": 334
+    },
+    {
+      "id": 237,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 2",
+      "order": 331
+    },
+    {
+      "id": 238,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 3",
+      "order": 332
+    },
+    {
+      "id": 239,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 1",
+      "order": 330
+    },
+    {
+      "id": 240,
+      "name": "Window's block frame and lower border, lower-middle center section 9",
+      "order": 304
+    },
+    {
+      "id": 241,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 4",
+      "order": 333
+    },
+    {
+      "id": 242,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 6",
+      "order": 335
+    },
+    {
+      "id": 243,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 7",
+      "order": 336
+    },
+    {
+      "id": 244,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 9",
+      "order": 338
+    },
+    {
+      "id": 245,
+      "name": "Window's interior background and ornamental panes, lower-middle right section 12",
+      "order": 291
+    },
+    {
+      "id": 246,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 8",
+      "order": 337
+    },
+    {
+      "id": 247,
+      "name": "Window's side leaf-like ornaments, lower-middle center section 9",
+      "order": 203
+    },
+    {
+      "id": 248,
+      "name": "Window lower face's hair collar and enclosed details, lower-middle center section 4",
+      "order": 192
+    },
+    {
+      "id": 249,
+      "name": "Foreground seated figure's broad robe folds, lower-middle center section 3",
+      "order": 218
+    },
+    {
+      "id": 250,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 12",
+      "order": 341
+    },
+    {
+      "id": 251,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 10",
+      "order": 339
+    },
+    {
+      "id": 252,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 11",
+      "order": 340
+    },
+    {
+      "id": 253,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 13",
+      "order": 342
+    },
+    {
+      "id": 254,
+      "name": "Foreground seated figure's broad robe folds, lower-middle left section 1",
+      "order": 216
+    },
+    {
+      "id": 255,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 15",
+      "order": 344
+    },
+    {
+      "id": 256,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 16",
+      "order": 345
+    },
+    {
+      "id": 257,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 17",
+      "order": 346
+    },
+    {
+      "id": 258,
+      "name": "Window's side leaf-like ornaments, lower-middle left section 10",
+      "order": 204
+    },
+    {
+      "id": 259,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 14",
+      "order": 343
+    },
+    {
+      "id": 260,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 20",
+      "order": 349
+    },
+    {
+      "id": 261,
+      "name": "Lower surrounding curved bands, lower-middle left section 4",
+      "order": 275
+    },
+    {
+      "id": 262,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 18",
+      "order": 347
+    },
+    {
+      "id": 263,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 21",
+      "order": 350
+    },
+    {
+      "id": 264,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 19",
+      "order": 348
+    },
+    {
+      "id": 265,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 24",
+      "order": 353
+    },
+    {
+      "id": 266,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 23",
+      "order": 352
+    },
+    {
+      "id": 267,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 27",
+      "order": 356
+    },
+    {
+      "id": 268,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 29",
+      "order": 358
+    },
+    {
+      "id": 269,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 22",
+      "order": 351
+    },
+    {
+      "id": 270,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 28",
+      "order": 357
+    },
+    {
+      "id": 271,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 26",
+      "order": 355
+    },
+    {
+      "id": 272,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 25",
+      "order": 354
+    },
+    {
+      "id": 273,
+      "name": "Window's interior background and ornamental panes, lower-middle right section 15",
+      "order": 294
+    },
+    {
+      "id": 274,
+      "name": "Lower surrounding curved bands, lower-middle left section 5",
+      "order": 276
+    },
+    {
+      "id": 275,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 30",
+      "order": 359
+    },
+    {
+      "id": 276,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 31",
+      "order": 360
+    },
+    {
+      "id": 277,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 32",
+      "order": 361
+    },
+    {
+      "id": 278,
+      "name": "Window lower face's hair collar and enclosed details, lower-middle center section 6",
+      "order": 194
+    },
+    {
+      "id": 279,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 33",
+      "order": 362
+    },
+    {
+      "id": 280,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 37",
+      "order": 366
+    },
+    {
+      "id": 281,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 35",
+      "order": 364
+    },
+    {
+      "id": 282,
+      "name": "Window's interior background and ornamental panes, lower-middle right section 14",
+      "order": 293
+    },
+    {
+      "id": 283,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 34",
+      "order": 363
+    },
+    {
+      "id": 284,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 36",
+      "order": 365
+    },
+    {
+      "id": 285,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 38",
+      "order": 367
+    },
+    {
+      "id": 286,
+      "name": "Window's interior background and ornamental panes, lower-middle right section 13",
+      "order": 292
+    },
+    {
+      "id": 287,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 39",
+      "order": 368
+    },
+    {
+      "id": 288,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 40",
+      "order": 369
+    },
+    {
+      "id": 289,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 41",
+      "order": 370
+    },
+    {
+      "id": 290,
+      "name": "Window's lower flame-like scroll, lower-middle right section 4",
+      "order": 208
+    },
+    {
+      "id": 291,
+      "name": "Window lower face's hair collar and enclosed details, lower-middle right section 5",
+      "order": 193
+    },
+    {
+      "id": 292,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 42",
+      "order": 371
+    },
+    {
+      "id": 293,
+      "name": "Lower surrounding curved bands, lower-middle left section 6",
+      "order": 277
+    },
+    {
+      "id": 294,
+      "name": "Window's lower flame-like scroll, lower-middle right section 1",
+      "order": 205
+    },
+    {
+      "id": 295,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 43",
+      "order": 372
+    },
+    {
+      "id": 296,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 46",
+      "order": 375
+    },
+    {
+      "id": 297,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 44",
+      "order": 373
+    },
+    {
+      "id": 298,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 45",
+      "order": 374
+    },
+    {
+      "id": 299,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 47",
+      "order": 376
+    },
+    {
+      "id": 300,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 49",
+      "order": 378
+    },
+    {
+      "id": 301,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 48",
+      "order": 377
+    },
+    {
+      "id": 302,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 50",
+      "order": 379
+    },
+    {
+      "id": 303,
+      "name": "Lower surrounding curved bands, lower-middle left section 7",
+      "order": 278
+    },
+    {
+      "id": 304,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 51",
+      "order": 380
+    },
+    {
+      "id": 305,
+      "name": "Window's block frame and lower border, lower-middle center section 10",
+      "order": 305
+    },
+    {
+      "id": 306,
+      "name": "Window's block frame and lower border, lower-middle center section 11",
+      "order": 306
+    },
+    {
+      "id": 307,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 1",
+      "order": 225
+    },
+    {
+      "id": 308,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 53",
+      "order": 382
+    },
+    {
+      "id": 309,
+      "name": "Lower surrounding curved bands, lower-middle left section 8",
+      "order": 279
+    },
+    {
+      "id": 310,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 52",
+      "order": 381
+    },
+    {
+      "id": 311,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 54",
+      "order": 383
+    },
+    {
+      "id": 312,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 2",
+      "order": 226
+    },
+    {
+      "id": 313,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 3",
+      "order": 227
+    },
+    {
+      "id": 314,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 4",
+      "order": 228
+    },
+    {
+      "id": 315,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 55",
+      "order": 384
+    },
+    {
+      "id": 316,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 56",
+      "order": 385
+    },
+    {
+      "id": 317,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 57",
+      "order": 386
+    },
+    {
+      "id": 318,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 5",
+      "order": 229
+    },
+    {
+      "id": 319,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 59",
+      "order": 388
+    },
+    {
+      "id": 320,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle center section 7",
+      "order": 231
+    },
+    {
+      "id": 321,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 58",
+      "order": 387
+    },
+    {
+      "id": 322,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle right section 8",
+      "order": 232
+    },
+    {
+      "id": 323,
+      "name": "Foreground seated figure's broad robe folds, lower-middle left section 2",
+      "order": 217
+    },
+    {
+      "id": 324,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 6",
+      "order": 230
+    },
+    {
+      "id": 325,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle left section 60",
+      "order": 389
+    },
+    {
+      "id": 326,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 61",
+      "order": 390
+    },
+    {
+      "id": 327,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 62",
+      "order": 391
+    },
+    {
+      "id": 328,
+      "name": "Foreground seated figure's broad robe folds, lower-middle left section 4",
+      "order": 219
+    },
+    {
+      "id": 329,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 13",
+      "order": 237
+    },
+    {
+      "id": 330,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 63",
+      "order": 392
+    },
+    {
+      "id": 331,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 1",
+      "order": 421
+    },
+    {
+      "id": 332,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 64",
+      "order": 393
+    },
+    {
+      "id": 333,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 66",
+      "order": 395
+    },
+    {
+      "id": 334,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 65",
+      "order": 394
+    },
+    {
+      "id": 335,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 2",
+      "order": 422
+    },
+    {
+      "id": 336,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 67",
+      "order": 396
+    },
+    {
+      "id": 337,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 9",
+      "order": 233
+    },
+    {
+      "id": 338,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 10",
+      "order": 234
+    },
+    {
+      "id": 339,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 3",
+      "order": 423
+    },
+    {
+      "id": 340,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 68",
+      "order": 397
+    },
+    {
+      "id": 341,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 69",
+      "order": 398
+    },
+    {
+      "id": 342,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 70",
+      "order": 399
+    },
+    {
+      "id": 343,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 4",
+      "order": 424
+    },
+    {
+      "id": 344,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 1",
+      "order": 476
+    },
+    {
+      "id": 345,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 11",
+      "order": 235
+    },
+    {
+      "id": 346,
+      "name": "Foreground seated figure's broad robe folds, bottom left section 5",
+      "order": 220
+    },
+    {
+      "id": 347,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 71",
+      "order": 400
+    },
+    {
+      "id": 348,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 72",
+      "order": 401
+    },
+    {
+      "id": 349,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 5",
+      "order": 425
+    },
+    {
+      "id": 350,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 6",
+      "order": 426
+    },
+    {
+      "id": 351,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 73",
+      "order": 402
+    },
+    {
+      "id": 352,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 7",
+      "order": 427
+    },
+    {
+      "id": 353,
+      "name": "Window's lower flame-like scroll, lower-middle right section 2",
+      "order": 206
+    },
+    {
+      "id": 354,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 76",
+      "order": 405
+    },
+    {
+      "id": 355,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 75",
+      "order": 404
+    },
+    {
+      "id": 356,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 8",
+      "order": 428
+    },
+    {
+      "id": 357,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 9",
+      "order": 429
+    },
+    {
+      "id": 358,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 74",
+      "order": 403
+    },
+    {
+      "id": 359,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 10",
+      "order": 430
+    },
+    {
+      "id": 360,
+      "name": "Window's lower flame-like scroll, lower-middle right section 3",
+      "order": 207
+    },
+    {
+      "id": 361,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 78",
+      "order": 407
+    },
+    {
+      "id": 362,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 77",
+      "order": 406
+    },
+    {
+      "id": 363,
+      "name": "Window's block frame and lower border, lower-middle right section 14",
+      "order": 309
+    },
+    {
+      "id": 364,
+      "name": "Window's block frame and lower border, lower-middle center section 12",
+      "order": 307
+    },
+    {
+      "id": 365,
+      "name": "Window's block frame and lower border, lower-middle right section 13",
+      "order": 308
+    },
+    {
+      "id": 366,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 11",
+      "order": 431
+    },
+    {
+      "id": 367,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 12",
+      "order": 432
+    },
+    {
+      "id": 368,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 13",
+      "order": 433
+    },
+    {
+      "id": 369,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 80",
+      "order": 409
+    },
+    {
+      "id": 370,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 81",
+      "order": 410
+    },
+    {
+      "id": 371,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 79",
+      "order": 408
+    },
+    {
+      "id": 372,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 15",
+      "order": 435
+    },
+    {
+      "id": 373,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 14",
+      "order": 434
+    },
+    {
+      "id": 374,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 16",
+      "order": 436
+    },
+    {
+      "id": 375,
+      "name": "Foreground seated figure's broad robe folds, bottom left section 6",
+      "order": 221
+    },
+    {
+      "id": 376,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 82",
+      "order": 411
+    },
+    {
+      "id": 377,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 17",
+      "order": 437
+    },
+    {
+      "id": 378,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 83",
+      "order": 412
+    },
+    {
+      "id": 379,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 19",
+      "order": 439
+    },
+    {
+      "id": 380,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 85",
+      "order": 414
+    },
+    {
+      "id": 381,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 18",
+      "order": 438
+    },
+    {
+      "id": 382,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 20",
+      "order": 440
+    },
+    {
+      "id": 383,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 84",
+      "order": 413
+    },
+    {
+      "id": 384,
+      "name": "Left throne's curled arm and adjacent scrolls, lower-middle left section 12",
+      "order": 236
+    },
+    {
+      "id": 385,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 86",
+      "order": 415
+    },
+    {
+      "id": 386,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 87",
+      "order": 416
+    },
+    {
+      "id": 387,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 88",
+      "order": 417
+    },
+    {
+      "id": 388,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 22",
+      "order": 442
+    },
+    {
+      "id": 389,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 21",
+      "order": 441
+    },
+    {
+      "id": 390,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 23",
+      "order": 443
+    },
+    {
+      "id": 391,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 24",
+      "order": 444
+    },
+    {
+      "id": 392,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 90",
+      "order": 419
+    },
+    {
+      "id": 393,
+      "name": "Window's lower flame-like scroll, lower-middle right section 5",
+      "order": 209
+    },
+    {
+      "id": 394,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 26",
+      "order": 446
+    },
+    {
+      "id": 395,
+      "name": "Diamond-pattern garment and enclosed edge triangles, lower-middle center section 89",
+      "order": 418
+    },
+    {
+      "id": 396,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 25",
+      "order": 445
+    },
+    {
+      "id": 397,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 2",
+      "order": 477
+    },
+    {
+      "id": 398,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 8",
+      "order": 483
+    },
+    {
+      "id": 399,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 3",
+      "order": 478
+    },
+    {
+      "id": 400,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 6",
+      "order": 481
+    },
+    {
+      "id": 401,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 4",
+      "order": 479
+    },
+    {
+      "id": 402,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 5",
+      "order": 480
+    },
+    {
+      "id": 403,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 7",
+      "order": 482
+    },
+    {
+      "id": 404,
+      "name": "Diamond-pattern garment and enclosed edge triangles, bottom center section 91",
+      "order": 420
+    },
+    {
+      "id": 405,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 27",
+      "order": 447
+    },
+    {
+      "id": 406,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 9",
+      "order": 484
+    },
+    {
+      "id": 407,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 10",
+      "order": 485
+    },
+    {
+      "id": 408,
+      "name": "Throne's bead border and enclosed interstices, lower-middle left section 28",
+      "order": 448
+    },
+    {
+      "id": 409,
+      "name": "Throne's diamond panels and enclosed border details, lower-middle left section 11",
+      "order": 486
+    },
+    {
+      "id": 410,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 29",
+      "order": 449
+    },
+    {
+      "id": 411,
+      "name": "Window's block frame and lower border, bottom center section 16",
+      "order": 311
+    },
+    {
+      "id": 412,
+      "name": "Window's block frame and lower border, bottom center section 15",
+      "order": 310
+    },
+    {
+      "id": 413,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 30",
+      "order": 450
+    },
+    {
+      "id": 414,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 31",
+      "order": 451
+    },
+    {
+      "id": 415,
+      "name": "Lower robe and throne trim, bottom center section 1",
+      "order": 556
+    },
+    {
+      "id": 416,
+      "name": "Window's lower flame-like scroll, bottom center section 6",
+      "order": 210
+    },
+    {
+      "id": 417,
+      "name": "Window's interior background and ornamental panes, bottom center section 16",
+      "order": 295
+    },
+    {
+      "id": 418,
+      "name": "Left throne's curled arm and adjacent scrolls, bottom left section 15",
+      "order": 239
+    },
+    {
+      "id": 419,
+      "name": "Left throne's curled arm and adjacent scrolls, bottom left section 14",
+      "order": 238
+    },
+    {
+      "id": 420,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 33",
+      "order": 453
+    },
+    {
+      "id": 421,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 32",
+      "order": 452
+    },
+    {
+      "id": 422,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 34",
+      "order": 454
+    },
+    {
+      "id": 423,
+      "name": "Lower robe and throne trim, bottom center section 2",
+      "order": 557
+    },
+    {
+      "id": 424,
+      "name": "Window's lower flame-like scroll, bottom right section 10",
+      "order": 214
+    },
+    {
+      "id": 425,
+      "name": "Window's lower flame-like scroll, bottom center section 9",
+      "order": 213
+    },
+    {
+      "id": 426,
+      "name": "Window's lower flame-like scroll, bottom center section 7",
+      "order": 211
+    },
+    {
+      "id": 427,
+      "name": "Window's lower flame-like scroll, bottom right section 8",
+      "order": 212
+    },
+    {
+      "id": 428,
+      "name": "Left throne's curled arm and adjacent scrolls, bottom left section 16",
+      "order": 240
+    },
+    {
+      "id": 429,
+      "name": "Left throne's curled arm and adjacent scrolls, bottom left section 17",
+      "order": 241
+    },
+    {
+      "id": 430,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 35",
+      "order": 455
+    },
+    {
+      "id": 431,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 36",
+      "order": 456
+    },
+    {
+      "id": 432,
+      "name": "Window's lower flame-like scroll, bottom right section 11",
+      "order": 215
+    },
+    {
+      "id": 433,
+      "name": "Foreground seated figure's broad robe folds, bottom center section 9",
+      "order": 224
+    },
+    {
+      "id": 434,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 37",
+      "order": 457
+    },
+    {
+      "id": 435,
+      "name": "Lower robe and throne trim, bottom center section 3",
+      "order": 558
+    },
+    {
+      "id": 436,
+      "name": "Window's block frame and lower border, bottom right section 17",
+      "order": 312
+    },
+    {
+      "id": 437,
+      "name": "Window's block frame and lower border, bottom right section 18",
+      "order": 313
+    },
+    {
+      "id": 438,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 39",
+      "order": 459
+    },
+    {
+      "id": 439,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 38",
+      "order": 458
+    },
+    {
+      "id": 440,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 40",
+      "order": 460
+    },
+    {
+      "id": 441,
+      "name": "Left throne's curled arm and adjacent scrolls, bottom left section 19",
+      "order": 243
+    },
+    {
+      "id": 442,
+      "name": "Window's block frame and lower border, bottom center section 19",
+      "order": 314
+    },
+    {
+      "id": 443,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 12",
+      "order": 487
+    },
+    {
+      "id": 444,
+      "name": "Left throne's curled arm and adjacent scrolls, bottom left section 18",
+      "order": 242
+    },
+    {
+      "id": 445,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 13",
+      "order": 488
+    },
+    {
+      "id": 446,
+      "name": "Window's block frame and lower border, bottom center section 20",
+      "order": 315
+    },
+    {
+      "id": 447,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 14",
+      "order": 489
+    },
+    {
+      "id": 448,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 15",
+      "order": 490
+    },
+    {
+      "id": 449,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 19",
+      "order": 494
+    },
+    {
+      "id": 450,
+      "name": "Window's block frame and lower border, bottom right section 21",
+      "order": 316
+    },
+    {
+      "id": 451,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 16",
+      "order": 491
+    },
+    {
+      "id": 452,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 18",
+      "order": 493
+    },
+    {
+      "id": 453,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 21",
+      "order": 496
+    },
+    {
+      "id": 454,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 17",
+      "order": 492
+    },
+    {
+      "id": 455,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 42",
+      "order": 462
+    },
+    {
+      "id": 456,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 41",
+      "order": 461
+    },
+    {
+      "id": 457,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 20",
+      "order": 495
+    },
+    {
+      "id": 458,
+      "name": "Window's block frame and lower border, bottom right section 22",
+      "order": 317
+    },
+    {
+      "id": 459,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 43",
+      "order": 463
+    },
+    {
+      "id": 460,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 23",
+      "order": 498
+    },
+    {
+      "id": 461,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 22",
+      "order": 497
+    },
+    {
+      "id": 462,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 24",
+      "order": 499
+    },
+    {
+      "id": 463,
+      "name": "Window's block frame and lower border, bottom right section 23",
+      "order": 318
+    },
+    {
+      "id": 464,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 27",
+      "order": 502
+    },
+    {
+      "id": 465,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 25",
+      "order": 500
+    },
+    {
+      "id": 466,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 28",
+      "order": 503
+    },
+    {
+      "id": 467,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 26",
+      "order": 501
+    },
+    {
+      "id": 468,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 44",
+      "order": 464
+    },
+    {
+      "id": 469,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 29",
+      "order": 504
+    },
+    {
+      "id": 470,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 31",
+      "order": 506
+    },
+    {
+      "id": 471,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 30",
+      "order": 505
+    },
+    {
+      "id": 472,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 45",
+      "order": 465
+    },
+    {
+      "id": 473,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 33",
+      "order": 508
+    },
+    {
+      "id": 474,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 32",
+      "order": 507
+    },
+    {
+      "id": 475,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 34",
+      "order": 509
+    },
+    {
+      "id": 476,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 46",
+      "order": 466
+    },
+    {
+      "id": 477,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 35",
+      "order": 510
+    },
+    {
+      "id": 478,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 39",
+      "order": 514
+    },
+    {
+      "id": 479,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 38",
+      "order": 513
+    },
+    {
+      "id": 480,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 40",
+      "order": 515
+    },
+    {
+      "id": 481,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 37",
+      "order": 512
+    },
+    {
+      "id": 482,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 41",
+      "order": 516
+    },
+    {
+      "id": 483,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 42",
+      "order": 517
+    },
+    {
+      "id": 484,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 48",
+      "order": 468
+    },
+    {
+      "id": 485,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 36",
+      "order": 511
+    },
+    {
+      "id": 486,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 47",
+      "order": 467
+    },
+    {
+      "id": 487,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 49",
+      "order": 469
+    },
+    {
+      "id": 488,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 44",
+      "order": 519
+    },
+    {
+      "id": 489,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 43",
+      "order": 518
+    },
+    {
+      "id": 490,
+      "name": "Foreground seated figure's broad robe folds, bottom left section 7",
+      "order": 222
+    },
+    {
+      "id": 491,
+      "name": "Foreground seated figure's broad robe folds, bottom center section 8",
+      "order": 223
+    },
+    {
+      "id": 492,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 45",
+      "order": 520
+    },
+    {
+      "id": 493,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 46",
+      "order": 521
+    },
+    {
+      "id": 494,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 48",
+      "order": 523
+    },
+    {
+      "id": 495,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 51",
+      "order": 471
+    },
+    {
+      "id": 496,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 50",
+      "order": 470
+    },
+    {
+      "id": 497,
+      "name": "Bottom scallops and flowing bands, bottom center section 1",
+      "order": 249
+    },
+    {
+      "id": 498,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 52",
+      "order": 472
+    },
+    {
+      "id": 499,
+      "name": "Lower robe and throne trim, bottom center section 4",
+      "order": 559
+    },
+    {
+      "id": 500,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 47",
+      "order": 522
+    },
+    {
+      "id": 501,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 51",
+      "order": 526
+    },
+    {
+      "id": 502,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 50",
+      "order": 525
+    },
+    {
+      "id": 503,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 52",
+      "order": 527
+    },
+    {
+      "id": 504,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 54",
+      "order": 529
+    },
+    {
+      "id": 505,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 53",
+      "order": 528
+    },
+    {
+      "id": 506,
+      "name": "Bottom scallops and flowing bands, bottom right section 2",
+      "order": 250
+    },
+    {
+      "id": 507,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 55",
+      "order": 530
+    },
+    {
+      "id": 508,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 49",
+      "order": 524
+    },
+    {
+      "id": 509,
+      "name": "Throne's lower trim and enclosed details, bottom center section 1",
+      "order": 560
+    },
+    {
+      "id": 510,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 54",
+      "order": 474
+    },
+    {
+      "id": 511,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 56",
+      "order": 531
+    },
+    {
+      "id": 512,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 57",
+      "order": 532
+    },
+    {
+      "id": 513,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 58",
+      "order": 533
+    },
+    {
+      "id": 514,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 53",
+      "order": 473
+    },
+    {
+      "id": 515,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 63",
+      "order": 538
+    },
+    {
+      "id": 516,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 59",
+      "order": 534
+    },
+    {
+      "id": 517,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 62",
+      "order": 537
+    },
+    {
+      "id": 518,
+      "name": "Bottom scallops and flowing bands, bottom right section 4",
+      "order": 252
+    },
+    {
+      "id": 519,
+      "name": "Bottom scallops and flowing bands, bottom center section 3",
+      "order": 251
+    },
+    {
+      "id": 520,
+      "name": "Throne's lower trim and enclosed details, bottom center section 3",
+      "order": 562
+    },
+    {
+      "id": 521,
+      "name": "Throne's lower trim and enclosed details, bottom center section 2",
+      "order": 561
+    },
+    {
+      "id": 522,
+      "name": "Throne's lower trim and enclosed details, bottom center section 4",
+      "order": 563
+    },
+    {
+      "id": 523,
+      "name": "Throne's lower trim and enclosed details, bottom left section 5",
+      "order": 564
+    },
+    {
+      "id": 524,
+      "name": "Bottom scallops and flowing bands, bottom center section 5",
+      "order": 253
+    },
+    {
+      "id": 525,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 61",
+      "order": 536
+    },
+    {
+      "id": 526,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 64",
+      "order": 539
+    },
+    {
+      "id": 527,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 65",
+      "order": 540
+    },
+    {
+      "id": 528,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 60",
+      "order": 535
+    },
+    {
+      "id": 529,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 68",
+      "order": 543
+    },
+    {
+      "id": 530,
+      "name": "Bottom scallops and flowing bands, bottom right section 6",
+      "order": 254
+    },
+    {
+      "id": 531,
+      "name": "Throne's bead border and enclosed interstices, bottom left section 55",
+      "order": 475
+    },
+    {
+      "id": 532,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 66",
+      "order": 541
+    },
+    {
+      "id": 533,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 67",
+      "order": 542
+    },
+    {
+      "id": 534,
+      "name": "Bottom scallops and flowing bands, bottom right section 7",
+      "order": 255
+    },
+    {
+      "id": 535,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 69",
+      "order": 544
+    },
+    {
+      "id": 536,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 1",
+      "order": 565
+    },
+    {
+      "id": 537,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 70",
+      "order": 545
+    },
+    {
+      "id": 538,
+      "name": "Left throne's curled arm and adjacent scrolls, bottom left section 20",
+      "order": 244
+    },
+    {
+      "id": 539,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 72",
+      "order": 547
+    },
+    {
+      "id": 540,
+      "name": "Bottom scallops and flowing bands, bottom center section 8",
+      "order": 256
+    },
+    {
+      "id": 541,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 73",
+      "order": 548
+    },
+    {
+      "id": 542,
+      "name": "Bottom scallops and flowing bands, bottom right section 9",
+      "order": 257
+    },
+    {
+      "id": 543,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom left section 3",
+      "order": 567
+    },
+    {
+      "id": 544,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 2",
+      "order": 566
+    },
+    {
+      "id": 545,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom left section 4",
+      "order": 568
+    },
+    {
+      "id": 546,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 6",
+      "order": 570
+    },
+    {
+      "id": 547,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 7",
+      "order": 571
+    },
+    {
+      "id": 548,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 5",
+      "order": 569
+    },
+    {
+      "id": 549,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 74",
+      "order": 549
+    },
+    {
+      "id": 550,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 71",
+      "order": 546
+    },
+    {
+      "id": 551,
+      "name": "Left throne's curled arm and adjacent scrolls, bottom left section 21",
+      "order": 245
+    },
+    {
+      "id": 552,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 75",
+      "order": 550
+    },
+    {
+      "id": 553,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 76",
+      "order": 551
+    },
+    {
+      "id": 554,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 77",
+      "order": 552
+    },
+    {
+      "id": 555,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 78",
+      "order": 553
+    },
+    {
+      "id": 556,
+      "name": "Bottom scallops and flowing bands, bottom center section 10",
+      "order": 258
+    },
+    {
+      "id": 557,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 79",
+      "order": 554
+    },
+    {
+      "id": 558,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom left section 8",
+      "order": 572
+    },
+    {
+      "id": 559,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 10",
+      "order": 574
+    },
+    {
+      "id": 560,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 9",
+      "order": 573
+    },
+    {
+      "id": 561,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 12",
+      "order": 576
+    },
+    {
+      "id": 562,
+      "name": "Throne's diamond panels and enclosed border details, bottom left section 80",
+      "order": 555
+    },
+    {
+      "id": 563,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom left section 11",
+      "order": 575
+    },
+    {
+      "id": 564,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom center section 13",
+      "order": 577
+    },
+    {
+      "id": 565,
+      "name": "Throne's bottom round ornaments and enclosed gaps, bottom left section 14",
+      "order": 578
+    },
+    {
+      "id": 566,
+      "name": "Bottom scallops and flowing bands, bottom right section 11",
+      "order": 259
+    },
+    {
+      "id": 567,
+      "name": "Lower horizontal base bands, bottom left section 1",
+      "order": 246
+    },
+    {
+      "id": 568,
+      "name": "Bottom scallops and flowing bands, bottom right section 12",
+      "order": 260
+    },
+    {
+      "id": 569,
+      "name": "Bottom scallops and flowing bands, bottom right section 15",
+      "order": 263
+    },
+    {
+      "id": 570,
+      "name": "Bottom scallops and flowing bands, bottom right section 13",
+      "order": 261
+    },
+    {
+      "id": 571,
+      "name": "Lower horizontal base bands, bottom left section 2",
+      "order": 247
+    },
+    {
+      "id": 572,
+      "name": "Bottom scallops and flowing bands, bottom right section 14",
+      "order": 262
+    },
+    {
+      "id": 573,
+      "name": "Bottom scallops and flowing bands, bottom right section 17",
+      "order": 265
+    },
+    {
+      "id": 574,
+      "name": "Bottom scallops and flowing bands, bottom right section 16",
+      "order": 264
+    },
+    {
+      "id": 575,
+      "name": "Lower horizontal base bands, bottom left section 3",
+      "order": 248
+    },
+    {
+      "id": 576,
+      "name": "Bottom scallops and flowing bands, bottom center section 18",
+      "order": 266
+    },
+    {
+      "id": 577,
+      "name": "Bottom scallops and flowing bands, bottom center section 19",
+      "order": 267
+    },
+    {
+      "id": 578,
+      "name": "Bottom scallops and flowing bands, bottom left section 21",
+      "order": 269
+    },
+    {
+      "id": 579,
+      "name": "Bottom scallops and flowing bands, bottom left section 20",
+      "order": 268
+    },
+    {
+      "id": 580,
+      "name": "Bottom scallops and flowing bands, bottom center section 22",
+      "order": 270
+    },
+    {
+      "id": 581,
+      "name": "Bottom scallops and flowing bands, bottom right section 23",
+      "order": 271
+    }
+  ],
+  "schemaVersion": 1
+}

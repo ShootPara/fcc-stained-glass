@@ -1,0 +1,20 @@
+{
+  "checkedAtUtc": "2026-11-06T20:54:27.410810+00:00",
+  "reason": "Match the actual .skip anchor class and use 48px minimum control targets; final main/CSS copied intentionally after clean-install checks.",
+  "changes": [
+    {
+      "path": "src/main.ts",
+      "beforeSha256": "d2592f206b6402fcf033bf253fcfc0652327f2c87f5a80a10a10831865ea0fe8",
+      "afterSha256": "f7219e6de0a3f4237ff251502569acf0a33f4fd5a99776039ad47e3f2133fc81"
+    },
+    {
+      "path": "src/styles.css",
+      "beforeSha256": "79ce2eeb1ae67783d7808b3cdf1a91bbe060dc464fa12d8f69dfa9d4401922c3",
+      "afterSha256": "a12505e6f2547bcd33192781d59e8ed3c2edd163d0fff9b9c0ab76f0a873f581"
+    }
+  ],
+  "command": "npm run typecheck",
+  "exitCode": 0,
+  "testsAffected": false,
+  "browserInteractionTested": false
+}

@@ -1,0 +1,607 @@
+{
+  "artworkId": "design-006",
+  "contentVersion": "0eb9a36e8c5bcdae211cfd752e40c702235a27c5c0ae4f1891aae60556c20e53",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Top-left frame corner, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Top frame left section, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Top frame just left of the arch peak, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Top frame just right of the arch peak, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Top frame right section, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Top-right frame corner, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Inner band of the pointed arch, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Background right of the plant, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Background above the arch on the left, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Outer band of the pointed arch on the right, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Background above the arch on the right, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Outer band of the pointed arch on the left, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Upper section of the left frame, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Upper section of the right frame, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Plant stem, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Fine outline fragment beside Top frame just left of the arch peak, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Fine outline fragment beside Top frame just left of the arch peak, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Fine outline fragment beside Top frame just left of the arch peak, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Background between the plant's left and right branches, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Fine outline fragment beside Inner band of the pointed arch, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Fine outline fragment beside Inner band of the pointed arch, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Fine outline fragment beside Outer band of the pointed arch on the left, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Fine outline fragment beside Outer band of the pointed arch on the left, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Background between the two leftmost leaves, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Fine outline fragment beside Inner band of the pointed arch, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Left frame beside the plant, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Right frame beside the plant, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Fine outline fragment beside Background between the two leftmost leaves, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Fine outline fragment beside Background between the two leftmost leaves, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Fine outline fragment beside Plant stem, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Fine outline fragment beside Plant stem, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Fine outline fragment beside Background between the plant's left and right branches, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Fine outline fragment beside Plant stem, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Fine outline fragment beside Background between the plant's left and right branches, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Fine outline fragment beside Background between the two leftmost leaves, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Background beneath the plant's left branches, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Curved band beneath the plant, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Fine outline fragment beside Background right of the plant, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Background above the right figure's head covering, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Fine outline fragment beside Curved band beneath the plant, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Fine outline fragment beside Curved band beneath the plant, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Fine outline fragment beside Background beneath the plant's left branches, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Fine outline fragment beside Curved band beneath the plant, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Fine outline fragment beside Background beneath the plant's left branches, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Fine outline fragment beside Curved band beneath the plant, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Right frame at the level of the plant's base, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Left frame at the level of the plant's base, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Background between the two figures and fruit, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Outer band of the right figure's head covering, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Fine outline fragment beside Background above the right figure's head covering, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Background beside the right figure's head covering, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Fine outline fragment beside Background above the right figure's head covering, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Left figure's curls across the top of the head, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Inner band of the right figure's head covering, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Right frame beside the right figure, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Left frame beside the left figure, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Small pane above the left figure's right temple, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Long outer curl beside the left figure's right temple, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Left figure's face and beard, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Band of the head covering left of the right figure's face, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Right figure's face, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Fine outline fragment beside Small pointed pane above the right figure's forehead, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Fine outline fragment beside Left figure's curls across the top of the head, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Fine outline fragment beside Left figure's curls across the top of the head, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Fine outline fragment beside Small pointed pane above the right figure's forehead, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Fine outline fragment beside Small pointed pane above the right figure's forehead, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Fine outline fragment beside Small pointed pane above the right figure's forehead, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Fine outline fragment beside Small pointed pane above the right figure's forehead, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Small pointed pane above the right figure's forehead, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Fine outline fragment beside Small pointed pane above the right figure's forehead, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Curl across the left figure's left temple, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Fine outline fragment beside Right figure's face, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Narrow pane at the left figure's right temple, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Left figure's eye on the right side of the picture, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Left figure's eye on the left side of the picture, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Tiny lower detail in the left-side eye, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Small background pane at the left figure's ear, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Small pane below the left figure's right temple, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Round fruit between the figures, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Long curl behind the left figure's left ear, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Tiny closed curl at the right figure's nostril, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Small curl beside the left figure's right cheek, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Fine outline fragment beside Band of the head covering left of the right figure's face, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Left inner drape below the right figure's face, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Outer curl behind the left figure's left ear, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Tiny enclosed curl below the left figure's ear, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Fine outline fragment beside Long curl behind the left figure's left ear, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Fine outline fragment beside Right frame beside the right figure, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Middle inner drape below the right figure's face, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Right inner drape below the right figure's face, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Right figure's upper garment, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Hand and arm holding the fruit, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Small inner drape at the right figure's neck, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Small pane beside the left figure's right shoulder, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Left figure's upper garment, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Fine outline fragment beside Small inner drape at the right figure's neck, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Fine outline fragment beside Outer curl behind the left figure's left ear, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Fine outline fragment beside Right frame beside the right figure, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Narrow pane between the arm and left figure's shoulder, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Fine outline fragment beside Lower curl of the right figure's head covering, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Lower curl of the right figure's head covering, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Wide curved band above the serpent, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Fine outline fragment beside Narrow pane between the arm and left figure's shoulder, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Lower section of the left frame, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Narrow curved band just above the serpent, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Fine outline fragment beside Lower curl of the right figure's head covering, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Serpent's head and body, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Fine outline fragment beside Serpent's forked tongue, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Long pointed pane between the arm and curved band, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Inside of the serpent's ear, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Fine outline fragment beside Inside of the serpent's ear, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Ring around the serpent's eye, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Serpent's left lower stripe, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Serpent's forked tongue, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Serpent's middle lower stripe, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Serpent's right lower stripe, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Bottom-left frame corner, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Bottom-right frame corner, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Fine outline fragment beside Serpent's forked tongue, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Small background pane beneath the serpent on the left, retained section 120",
+      "order": 120
+    }
+  ],
+  "schemaVersion": 1
+}

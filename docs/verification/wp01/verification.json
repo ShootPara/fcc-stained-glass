@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-06",
+  "node": "v24.22.1",
+  "npm": "11.9.0",
+  "extractedPathHasSpaces": true,
+  "gitMetadataPresent": false,
+  "nodeModulesInitiallyPresent": false,
+  "trackedFileCount": 219,
+  "changedTrackedFilesAfterInstall": [],
+  "changedTrackedFilesAfterChecks": [],
+  "sourceFileCount": 110,
+  "sourceBytes": 258074562,
+  "commands": [
+    {
+      "command": "npm ci",
+      "exitCode": 0,
+      "expectedExitCode": 0,
+      "seconds": 7.21,
+      "passed": true,
+      "log": "npm-ci.log"
+    },
+    {
+      "command": "npm run typecheck",
+      "exitCode": 0,
+      "expectedExitCode": 0,
+      "seconds": 1.11,
+      "passed": true,
+      "log": "typecheck.log"
+    },
+    {
+      "command": "npm run validate -- --stage catalog",
+      "exitCode": 0,
+      "expectedExitCode": 0,
+      "seconds": 2.0,
+      "passed": true,
+      "log": "validate-catalog.log"
+    },
+    {
+      "command": "npm test",
+      "exitCode": 0,
+      "expectedExitCode": 0,
+      "seconds": 4.37,
+      "passed": true,
+      "log": "unit-tests.log"
+    },
+    {
+      "command": "npm run catalog -- --mode development",
+      "exitCode": 0,
+      "expectedExitCode": 0,
+      "seconds": 1.73,
+      "passed": true,
+      "log": "catalog-development.log"
+    },
+    {
+      "command": "npm run prepare -- --id design-002",
+      "exitCode": 4,
+      "expectedExitCode": 4,
+      "seconds": 0.39,
+      "passed": true,
+      "log": "prepare-pending.log"
+    },
+    {
+      "command": "npm run validate",
+      "exitCode": 4,
+      "expectedExitCode": 4,
+      "seconds": 1.84,
+      "passed": true,
+      "log": "release-validation-pending.log"
+    },
+    {
+      "command": "npm run build",
+      "exitCode": 4,
+      "expectedExitCode": 4,
+      "seconds": 1.98,
+      "passed": true,
+      "log": "release-build-pending.log"
+    }
+  ]
+}

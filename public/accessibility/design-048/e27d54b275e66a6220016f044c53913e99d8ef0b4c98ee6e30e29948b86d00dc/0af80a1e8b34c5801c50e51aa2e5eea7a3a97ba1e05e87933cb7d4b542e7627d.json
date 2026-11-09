@@ -1,0 +1,707 @@
+{
+  "artworkId": "design-048",
+  "contentVersion": "e27d54b275e66a6220016f044c53913e99d8ef0b4c98ee6e30e29948b86d00dc",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper architectural corners and diagonal bands, top center section 13",
+      "order": 77
+    },
+    {
+      "id": 2,
+      "name": "Upper architectural corners and diagonal bands, top left section 12",
+      "order": 76
+    },
+    {
+      "id": 3,
+      "name": "Upper architectural corners and diagonal bands, top left section 16",
+      "order": 80
+    },
+    {
+      "id": 4,
+      "name": "Upper architectural corners and diagonal bands, top left section 18",
+      "order": 82
+    },
+    {
+      "id": 5,
+      "name": "Upper architectural corners and diagonal bands, top center section 1",
+      "order": 65
+    },
+    {
+      "id": 6,
+      "name": "Upper architectural corners and diagonal bands, upper-middle right section 19",
+      "order": 83
+    },
+    {
+      "id": 7,
+      "name": "Upper architectural corners and diagonal bands, top right section 2",
+      "order": 66
+    },
+    {
+      "id": 8,
+      "name": "Upper architectural corners and diagonal bands, top right section 17",
+      "order": 81
+    },
+    {
+      "id": 9,
+      "name": "Upper architectural corners and diagonal bands, top center section 6",
+      "order": 70
+    },
+    {
+      "id": 10,
+      "name": "Upper architectural corners and diagonal bands, top right section 8",
+      "order": 72
+    },
+    {
+      "id": 11,
+      "name": "Upper architectural corners and diagonal bands, top right section 9",
+      "order": 73
+    },
+    {
+      "id": 12,
+      "name": "Upper architectural corners and diagonal bands, top left section 10",
+      "order": 74
+    },
+    {
+      "id": 13,
+      "name": "Upper architectural corners and diagonal bands, top center section 3",
+      "order": 67
+    },
+    {
+      "id": 14,
+      "name": "Upper architectural corners and diagonal bands, top right section 4",
+      "order": 68
+    },
+    {
+      "id": 15,
+      "name": "Upper architectural corners and diagonal bands, top right section 11",
+      "order": 75
+    },
+    {
+      "id": 16,
+      "name": "Upper architectural corners and diagonal bands, top right section 5",
+      "order": 69
+    },
+    {
+      "id": 17,
+      "name": "Upper architectural corners and diagonal bands, top center section 7",
+      "order": 71
+    },
+    {
+      "id": 18,
+      "name": "Upper architectural corners and diagonal bands, top right section 14",
+      "order": 78
+    },
+    {
+      "id": 19,
+      "name": "Upper architectural corners and diagonal bands, top center section 15",
+      "order": 79
+    },
+    {
+      "id": 20,
+      "name": "Circular border bands, top center section 1",
+      "order": 30
+    },
+    {
+      "id": 21,
+      "name": "Cross staff and rounded finials, top right section 1",
+      "order": 14
+    },
+    {
+      "id": 22,
+      "name": "Cross staff and rounded finials, top center section 2",
+      "order": 15
+    },
+    {
+      "id": 23,
+      "name": "Circular border bands, top right section 2",
+      "order": 31
+    },
+    {
+      "id": 24,
+      "name": "Background inside lamb medallion, top right section 4",
+      "order": 47
+    },
+    {
+      "id": 25,
+      "name": "Circular border bands, top center section 3",
+      "order": 32
+    },
+    {
+      "id": 26,
+      "name": "Background inside lamb medallion, top right section 3",
+      "order": 46
+    },
+    {
+      "id": 27,
+      "name": "Circular border bands, top right section 4",
+      "order": 33
+    },
+    {
+      "id": 28,
+      "name": "Halo narrow rim",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Background inside lamb medallion, top center section 2",
+      "order": 45
+    },
+    {
+      "id": 30,
+      "name": "Background inside lamb medallion, top center section 1",
+      "order": 44
+    },
+    {
+      "id": 31,
+      "name": "Halo inner field",
+      "order": 27
+    },
+    {
+      "id": 32,
+      "name": "Circular border bands, top right section 5",
+      "order": 34
+    },
+    {
+      "id": 33,
+      "name": "Cross banner and its divided panes, top center section 2",
+      "order": 18
+    },
+    {
+      "id": 34,
+      "name": "Cross banner and its divided panes, top right section 1",
+      "order": 17
+    },
+    {
+      "id": 35,
+      "name": "Cross banner and its divided panes, top right section 4",
+      "order": 20
+    },
+    {
+      "id": 36,
+      "name": "Circular border bands, upper-middle left section 7",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Cross banner and its divided panes, top center section 3",
+      "order": 19
+    },
+    {
+      "id": 38,
+      "name": "Lamb's head neck and chest",
+      "order": 1
+    },
+    {
+      "id": 39,
+      "name": "Cross banner and its divided panes, upper-middle right section 6",
+      "order": 22
+    },
+    {
+      "id": 40,
+      "name": "Cross banner and its divided panes, top right section 5",
+      "order": 21
+    },
+    {
+      "id": 41,
+      "name": "Lamb's eye highlight",
+      "order": 13
+    },
+    {
+      "id": 42,
+      "name": "Circular border bands, upper-middle left section 8",
+      "order": 37
+    },
+    {
+      "id": 43,
+      "name": "Circular border bands, upper-middle right section 9",
+      "order": 38
+    },
+    {
+      "id": 44,
+      "name": "Cross banner and its divided panes, upper-middle right section 8",
+      "order": 24
+    },
+    {
+      "id": 45,
+      "name": "Circular border bands, upper-middle left section 6",
+      "order": 35
+    },
+    {
+      "id": 46,
+      "name": "Cross banner and its divided panes, upper-middle center section 7",
+      "order": 23
+    },
+    {
+      "id": 47,
+      "name": "Circular border bands, upper-middle right section 10",
+      "order": 39
+    },
+    {
+      "id": 48,
+      "name": "Background inside lamb medallion, upper-middle left section 7",
+      "order": 50
+    },
+    {
+      "id": 49,
+      "name": "Background inside lamb medallion, upper-middle right section 6",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Cross banner and its divided panes, upper-middle center section 9",
+      "order": 25
+    },
+    {
+      "id": 51,
+      "name": "Cross banner and its divided panes, upper-middle center section 10",
+      "order": 26
+    },
+    {
+      "id": 52,
+      "name": "Background inside lamb medallion, upper-middle right section 5",
+      "order": 48
+    },
+    {
+      "id": 53,
+      "name": "Small closed corner beside lamb's chest",
+      "order": 29
+    },
+    {
+      "id": 54,
+      "name": "Lamb's body and front bent leg",
+      "order": 2
+    },
+    {
+      "id": 55,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle right section 1",
+      "order": 3
+    },
+    {
+      "id": 56,
+      "name": "Circular border bands, upper-middle left section 12",
+      "order": 41
+    },
+    {
+      "id": 57,
+      "name": "Circular border bands, lower-middle left section 14",
+      "order": 43
+    },
+    {
+      "id": 58,
+      "name": "Circular border bands, upper-middle right section 11",
+      "order": 40
+    },
+    {
+      "id": 59,
+      "name": "Circular border bands, upper-middle right section 13",
+      "order": 42
+    },
+    {
+      "id": 60,
+      "name": "Background inside lamb medallion, upper-middle left section 8",
+      "order": 51
+    },
+    {
+      "id": 61,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle center section 2",
+      "order": 4
+    },
+    {
+      "id": 62,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle center section 3",
+      "order": 5
+    },
+    {
+      "id": 63,
+      "name": "Background inside lamb medallion, lower-middle left section 19",
+      "order": 62
+    },
+    {
+      "id": 64,
+      "name": "Background inside lamb medallion, lower-middle left section 9",
+      "order": 52
+    },
+    {
+      "id": 65,
+      "name": "Background inside lamb medallion, lower-middle left section 10",
+      "order": 53
+    },
+    {
+      "id": 66,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle center section 6",
+      "order": 8
+    },
+    {
+      "id": 67,
+      "name": "Background inside lamb medallion, lower-middle center section 12",
+      "order": 55
+    },
+    {
+      "id": 68,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle center section 5",
+      "order": 7
+    },
+    {
+      "id": 69,
+      "name": "Background inside lamb medallion, lower-middle right section 13",
+      "order": 56
+    },
+    {
+      "id": 70,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle right section 8",
+      "order": 10
+    },
+    {
+      "id": 71,
+      "name": "Cross staff and rounded finials, lower-middle left section 3",
+      "order": 16
+    },
+    {
+      "id": 72,
+      "name": "Background inside lamb medallion, lower-middle left section 11",
+      "order": 54
+    },
+    {
+      "id": 73,
+      "name": "Background inside lamb medallion, lower-middle right section 14",
+      "order": 57
+    },
+    {
+      "id": 74,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle center section 4",
+      "order": 6
+    },
+    {
+      "id": 75,
+      "name": "Background inside lamb medallion, lower-middle left section 15",
+      "order": 58
+    },
+    {
+      "id": 76,
+      "name": "Background inside lamb medallion, lower-middle left section 16",
+      "order": 59
+    },
+    {
+      "id": 77,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle center section 7",
+      "order": 9
+    },
+    {
+      "id": 78,
+      "name": "Background inside lamb medallion, lower-middle right section 17",
+      "order": 60
+    },
+    {
+      "id": 79,
+      "name": "Small lower-left corner ornaments, lower-middle left section 1",
+      "order": 84
+    },
+    {
+      "id": 80,
+      "name": "Background inside lamb medallion, lower-middle left section 20",
+      "order": 63
+    },
+    {
+      "id": 81,
+      "name": "Background inside lamb medallion, lower-middle right section 18",
+      "order": 61
+    },
+    {
+      "id": 82,
+      "name": "Small lower-left corner ornaments, lower-middle right section 2",
+      "order": 85
+    },
+    {
+      "id": 83,
+      "name": "Small lower-right scroll ornaments, lower-middle right section 3",
+      "order": 94
+    },
+    {
+      "id": 84,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle center section 9",
+      "order": 11
+    },
+    {
+      "id": 85,
+      "name": "Background inside lamb medallion, lower-middle center section 21",
+      "order": 64
+    },
+    {
+      "id": 86,
+      "name": "Lamb's remaining legs and small hoof panes, lower-middle center section 10",
+      "order": 12
+    },
+    {
+      "id": 87,
+      "name": "Small lower-left corner ornaments, lower-middle right section 5",
+      "order": 88
+    },
+    {
+      "id": 88,
+      "name": "Small lower-left corner ornaments, lower-middle left section 3",
+      "order": 86
+    },
+    {
+      "id": 89,
+      "name": "Small lower-left corner ornaments, lower-middle left section 8",
+      "order": 91
+    },
+    {
+      "id": 90,
+      "name": "Small lower-left corner ornaments, lower-middle left section 7",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Small lower-left corner ornaments, lower-middle left section 4",
+      "order": 87
+    },
+    {
+      "id": 92,
+      "name": "Small lower-right scroll ornaments, lower-middle right section 1",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Small lower-right scroll ornaments, lower-middle right section 5",
+      "order": 96
+    },
+    {
+      "id": 94,
+      "name": "Small lower-right scroll ornaments, lower-middle right section 2",
+      "order": 93
+    },
+    {
+      "id": 95,
+      "name": "Small lower-right scroll ornaments, lower-middle center section 4",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Small lower-left corner ornaments, lower-middle left section 6",
+      "order": 89
+    },
+    {
+      "id": 97,
+      "name": "Lower sweeping border bands, lower-middle right section 2",
+      "order": 99
+    },
+    {
+      "id": 98,
+      "name": "Lower sweeping border bands, lower-middle left section 1",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Lower sweeping border bands, bottom left section 3",
+      "order": 100
+    },
+    {
+      "id": 100,
+      "name": "Small lower-right scroll ornaments, lower-middle right section 6",
+      "order": 97
+    },
+    {
+      "id": 101,
+      "name": "Lower sweeping border bands, bottom left section 4",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Lower sweeping border bands, bottom right section 5",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Lower sweeping border bands, bottom center section 7",
+      "order": 104
+    },
+    {
+      "id": 104,
+      "name": "Lower sweeping border bands, bottom right section 6",
+      "order": 103
+    },
+    {
+      "id": 105,
+      "name": "Cross-shaped lower ornament and its bands, bottom center section 6",
+      "order": 112
+    },
+    {
+      "id": 106,
+      "name": "Cross-shaped lower ornament and its bands, bottom center section 3",
+      "order": 109
+    },
+    {
+      "id": 107,
+      "name": "Lower left round floral medallion, bottom left section 12",
+      "order": 128
+    },
+    {
+      "id": 108,
+      "name": "Background around lower ornament, bottom right section 1",
+      "order": 139
+    },
+    {
+      "id": 109,
+      "name": "Lower left round floral medallion, bottom left section 1",
+      "order": 117
+    },
+    {
+      "id": 110,
+      "name": "Cross-shaped lower ornament and its bands, bottom center section 1",
+      "order": 107
+    },
+    {
+      "id": 111,
+      "name": "Cross-shaped lower ornament and its bands, bottom right section 2",
+      "order": 108
+    },
+    {
+      "id": 112,
+      "name": "Lower right circular medallion, bottom right section 1",
+      "order": 133
+    },
+    {
+      "id": 113,
+      "name": "Lower left round floral medallion, bottom left section 8",
+      "order": 124
+    },
+    {
+      "id": 114,
+      "name": "Cross-shaped lower ornament and its bands, bottom right section 4",
+      "order": 110
+    },
+    {
+      "id": 115,
+      "name": "Lower right circular medallion, bottom right section 2",
+      "order": 134
+    },
+    {
+      "id": 116,
+      "name": "Lower left round floral medallion, bottom left section 10",
+      "order": 126
+    },
+    {
+      "id": 117,
+      "name": "Cross-shaped lower ornament and its bands, bottom center section 5",
+      "order": 111
+    },
+    {
+      "id": 118,
+      "name": "Lower left round floral medallion, bottom left section 9",
+      "order": 125
+    },
+    {
+      "id": 119,
+      "name": "Cross-shaped lower ornament and its bands, bottom center section 7",
+      "order": 113
+    },
+    {
+      "id": 120,
+      "name": "Lower right circular medallion, bottom right section 5",
+      "order": 137
+    },
+    {
+      "id": 121,
+      "name": "Cross-shaped lower ornament and its bands, bottom right section 9",
+      "order": 115
+    },
+    {
+      "id": 122,
+      "name": "Cross-shaped lower ornament and its bands, bottom left section 10",
+      "order": 116
+    },
+    {
+      "id": 123,
+      "name": "Cross-shaped lower ornament and its bands, bottom right section 8",
+      "order": 114
+    },
+    {
+      "id": 124,
+      "name": "Lower sweeping border bands, bottom center section 8",
+      "order": 105
+    },
+    {
+      "id": 125,
+      "name": "Lower left round floral medallion, bottom left section 2",
+      "order": 118
+    },
+    {
+      "id": 126,
+      "name": "Lower left round floral medallion, bottom left section 6",
+      "order": 122
+    },
+    {
+      "id": 127,
+      "name": "Lower right circular medallion, bottom right section 3",
+      "order": 135
+    },
+    {
+      "id": 128,
+      "name": "Lower left round floral medallion, bottom left section 3",
+      "order": 119
+    },
+    {
+      "id": 129,
+      "name": "Lower sweeping border bands, bottom center section 9",
+      "order": 106
+    },
+    {
+      "id": 130,
+      "name": "Lower left round floral medallion, bottom left section 4",
+      "order": 120
+    },
+    {
+      "id": 131,
+      "name": "Lower left round floral medallion, bottom left section 5",
+      "order": 121
+    },
+    {
+      "id": 132,
+      "name": "Lower left round floral medallion, bottom left section 7",
+      "order": 123
+    },
+    {
+      "id": 133,
+      "name": "Lower right circular medallion, bottom right section 6",
+      "order": 138
+    },
+    {
+      "id": 134,
+      "name": "Lower left round floral medallion, bottom left section 11",
+      "order": 127
+    },
+    {
+      "id": 135,
+      "name": "Lower left round floral medallion, bottom left section 13",
+      "order": 129
+    },
+    {
+      "id": 136,
+      "name": "Lower left round floral medallion, bottom left section 14",
+      "order": 130
+    },
+    {
+      "id": 137,
+      "name": "Lower right circular medallion, bottom right section 4",
+      "order": 136
+    },
+    {
+      "id": 138,
+      "name": "Lower left round floral medallion, bottom left section 15",
+      "order": 131
+    },
+    {
+      "id": 139,
+      "name": "Lower left round floral medallion, bottom left section 16",
+      "order": 132
+    },
+    {
+      "id": 140,
+      "name": "Background around lower ornament, bottom left section 2",
+      "order": 140
+    }
+  ],
+  "schemaVersion": 1
+}

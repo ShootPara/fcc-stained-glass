@@ -1,0 +1,382 @@
+{
+  "artworkId": "design-020",
+  "contentVersion": "fd89aa1c4bb416594d50f9d031fb9e98d23ee81a7aa84c68e054154e69bf41fd",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Background to the left of the raised hand, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Background around the raised fingers, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Background around the raised fingers, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Background between the hand and lettered bands, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Field behind the word JACOB, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Long background bands at the upper right, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Long background bands at the upper right, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Long background bands at the upper right, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Left upright finger, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Right upright finger, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Letter J, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Letter J, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Letter A and its counter in JACOB, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Palm, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Letter A and its counter in JACOB, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Background between the hand and lettered bands, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Bent finger across the palm, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Letter C, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Fine outline fragment beside Bent finger across the palm, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Background between the hand and lettered bands, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Fine outline fragment beside Field behind the word JACOB, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Letter O and its counter, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Letter O and its counter, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Fine outline fragment beside Palm, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Letter B and its counters, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Letter B and its counters, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Wrist cuff bands and inner openings, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Wrist cuff bands and inner openings, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Letter B and its counters, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Wrist cuff bands and inner openings, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Wrist cuff bands and inner openings, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Wrist cuff bands and inner openings, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Background between the hand and lettered bands, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Fine outline fragment beside Wrist cuff bands and inner openings, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Background around the flames and bowl, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Letter S, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Fine outline fragment beside Letter B and its counters, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Curled flame panes, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Letter E, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Curled flame panes, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Fine outline fragment beside Background around the flames and bowl, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Curled flame panes, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Field behind the word ESAU, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Curled flame panes, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Fine outline fragment beside Curled flame panes, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Letter A and its counter in ESAU, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Letter A and its counter in ESAU, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Rounded contents in the bowl, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Rounded contents in the bowl, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Rounded contents in the bowl, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Rounded contents in the bowl, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Fine outline fragment beside Rounded contents in the bowl, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Rounded contents in the bowl, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Rounded contents in the bowl, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Rounded contents in the bowl, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Bowl rim, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Rounded contents in the bowl, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Fine outline fragment beside Rounded contents in the bowl, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Rounded contents in the bowl, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Rounded contents in the bowl, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Rounded contents in the bowl, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Rounded contents in the bowl, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Bowl body, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Letter U, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Fine outline fragment beside Rounded contents in the bowl, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Fine outline fragment beside Rounded contents in the bowl, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Altar ledge and rectangular supports, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Altar ledge and rectangular supports, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Altar ledge and rectangular supports, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Altar ledge and rectangular supports, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Altar ledge and rectangular supports, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Altar ledge and rectangular supports, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Altar ledge and rectangular supports, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Altar ledge and rectangular supports, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Altar ledge and rectangular supports, retained section 75",
+      "order": 75
+    }
+  ],
+  "schemaVersion": 1
+}

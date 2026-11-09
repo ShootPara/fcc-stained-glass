@@ -1,0 +1,46 @@
+{
+  "artworkId": "design-016",
+  "barrierAddMask": {
+    "bytes": 1572864,
+    "path": "add.bin",
+    "sha256": "106f0647ae10a6516b1ab2968038161e287ef40d1b22ca047531ed768e594ef1"
+  },
+  "barrierRemoveMask": {
+    "bytes": 1572864,
+    "path": "remove.bin",
+    "sha256": "106f0647ae10a6516b1ab2968038161e287ef40d1b22ca047531ed768e594ef1"
+  },
+  "canonical": {
+    "bytes": 1572864,
+    "path": "canonical.bin",
+    "sha256": "16c9a2901959f9791cbb24faaf64958671688ba715d4dc67b08b33b031fde047"
+  },
+  "contentVersion": "36d6e10acd3df388096c5925cc52a6db0d3c328608791881172aa062fe149aaf",
+  "domainMask": {
+    "bytes": 1572864,
+    "path": "domain.bin",
+    "sha256": "852aad42795f401e21ded6e51fc392da9d94e2f386cacc08327046c319e903fc"
+  },
+  "expected": {
+    "hitLabelsSha256": "d2539956ddee70fe11be86d17062c59f62a184aef60829fdb8af363f40fc4198",
+    "inkAlphaSha256": "ed8c35f6f60c6786daaf56ccfca5a7a7a3f108b0ad58a5d02cbe5660f76fd45a",
+    "paintLabelsSha256": "163dd133499ffcb49878c9a109163a3242efa4663575ee042922d0be317c2b34",
+    "regionCount": 241
+  },
+  "height": 1536,
+  "schemaVersion": 1,
+  "settings": {
+    "algorithmVersion": "regions-v1",
+    "excludedSeedPoints": [
+      [
+        0,
+        0
+      ]
+    ],
+    "inkThreshold": 180,
+    "normalizationVersion": "gray-v1"
+  },
+  "sourceDigest": "d6788d9e9b1bf64585372ce0552bdb1ffa922cd44566ee526a4a5f7d60b4893d",
+  "sourceId": "design-016",
+  "width": 1024
+}

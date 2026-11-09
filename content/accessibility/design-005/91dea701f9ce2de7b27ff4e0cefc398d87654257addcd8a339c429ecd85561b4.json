@@ -1,0 +1,567 @@
+{
+  "artworkId": "design-005",
+  "contentVersion": "91dea701f9ce2de7b27ff4e0cefc398d87654257addcd8a339c429ecd85561b4",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Top-left frame corner",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Top frame left half",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Top frame right half",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Top-right frame corner",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Tree trunk and branching limbs",
+      "order": 22
+    },
+    {
+      "id": 6,
+      "name": "Background above the upper-left branch",
+      "order": 23
+    },
+    {
+      "id": 7,
+      "name": "Tiny triangle beside the top of the tree",
+      "order": 29
+    },
+    {
+      "id": 8,
+      "name": "Top pane beside the tree",
+      "order": 30
+    },
+    {
+      "id": 9,
+      "name": "Long leaf curving down from the top",
+      "order": 38
+    },
+    {
+      "id": 10,
+      "name": "Pointed leaf at the upper right",
+      "order": 39
+    },
+    {
+      "id": 11,
+      "name": "Narrow leaf beside the upper-right edge",
+      "order": 40
+    },
+    {
+      "id": 12,
+      "name": "Background at the top-right corner",
+      "order": 41
+    },
+    {
+      "id": 13,
+      "name": "Pointed leaf above the upper-left branch",
+      "order": 24
+    },
+    {
+      "id": 14,
+      "name": "Upper section of the left frame",
+      "order": 5
+    },
+    {
+      "id": 15,
+      "name": "Upper section of the right frame",
+      "order": 14
+    },
+    {
+      "id": 16,
+      "name": "Curved leaf above the elephant's trunk",
+      "order": 36
+    },
+    {
+      "id": 17,
+      "name": "Small pane near the upper-right edge",
+      "order": 42
+    },
+    {
+      "id": 18,
+      "name": "Pane beneath the pointed upper-left leaf",
+      "order": 25
+    },
+    {
+      "id": 19,
+      "name": "Small leaf beside the top of the tree",
+      "order": 32
+    },
+    {
+      "id": 20,
+      "name": "Small pointed pane left of the small top leaf",
+      "order": 31
+    },
+    {
+      "id": 21,
+      "name": "Pane between the two rightmost leaves",
+      "order": 45
+    },
+    {
+      "id": 22,
+      "name": "Loop of the monkey's hanging tail above the branch",
+      "order": 46
+    },
+    {
+      "id": 23,
+      "name": "Long inner leaf above the elephant's trunk",
+      "order": 37
+    },
+    {
+      "id": 24,
+      "name": "Background around the hanging monkey",
+      "order": 52
+    },
+    {
+      "id": 25,
+      "name": "Inner pane above the elephant's raised trunk",
+      "order": 33
+    },
+    {
+      "id": 26,
+      "name": "Inside the monkey's tail loop above the branch",
+      "order": 47
+    },
+    {
+      "id": 27,
+      "name": "Upper-left branch",
+      "order": 26
+    },
+    {
+      "id": 28,
+      "name": "Narrow pane at the upper-right edge",
+      "order": 43
+    },
+    {
+      "id": 29,
+      "name": "Long hanging strip of the monkey's tail",
+      "order": 50
+    },
+    {
+      "id": 30,
+      "name": "Small triangle beside the monkey's tail below the branch",
+      "order": 48
+    },
+    {
+      "id": 31,
+      "name": "Pointed pane beneath the left end of the branch",
+      "order": 27
+    },
+    {
+      "id": 32,
+      "name": "Square pane between the tree branches",
+      "order": 35
+    },
+    {
+      "id": 33,
+      "name": "Small loop below the upper-left branch",
+      "order": 49
+    },
+    {
+      "id": 34,
+      "name": "Triangular pane between the upper branches",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Small pane against the upper-left edge",
+      "order": 28
+    },
+    {
+      "id": 36,
+      "name": "Background beneath the rightmost leaves",
+      "order": 44
+    },
+    {
+      "id": 37,
+      "name": "Curled left side of the monkey's tail",
+      "order": 51
+    },
+    {
+      "id": 38,
+      "name": "Top pane in the diagonal band left of the trunk",
+      "order": 58
+    },
+    {
+      "id": 39,
+      "name": "Elephant's head, body and raised trunk",
+      "order": 75
+    },
+    {
+      "id": 40,
+      "name": "Small upper-left triangle inside the diagonal band",
+      "order": 59
+    },
+    {
+      "id": 41,
+      "name": "Diagonal band pane 1 below the top triangle",
+      "order": 60
+    },
+    {
+      "id": 42,
+      "name": "Diagonal band pane 2 below the top triangle",
+      "order": 61
+    },
+    {
+      "id": 43,
+      "name": "Diagonal band pane 3 below the top triangle",
+      "order": 62
+    },
+    {
+      "id": 44,
+      "name": "Monkey's body, hanging arm and lower hand",
+      "order": 53
+    },
+    {
+      "id": 45,
+      "name": "Background above the elephant's forehead",
+      "order": 77
+    },
+    {
+      "id": 46,
+      "name": "Narrow pane left of the raised trunk",
+      "order": 72
+    },
+    {
+      "id": 47,
+      "name": "Diagonal band pane 4 below the top triangle",
+      "order": 63
+    },
+    {
+      "id": 48,
+      "name": "Right frame at the upper branch",
+      "order": 15
+    },
+    {
+      "id": 49,
+      "name": "Long middle section of the left frame",
+      "order": 6
+    },
+    {
+      "id": 50,
+      "name": "Diagonal band pane 5 below the top triangle",
+      "order": 64
+    },
+    {
+      "id": 51,
+      "name": "Long middle section of the right frame",
+      "order": 16
+    },
+    {
+      "id": 52,
+      "name": "Monkey's face",
+      "order": 54
+    },
+    {
+      "id": 53,
+      "name": "Diagonal band pane 6 below the top triangle",
+      "order": 65
+    },
+    {
+      "id": 54,
+      "name": "Inside the monkey's mouth",
+      "order": 55
+    },
+    {
+      "id": 55,
+      "name": "Curved strip left of the elephant's trunk",
+      "order": 73
+    },
+    {
+      "id": 56,
+      "name": "Small pane beneath the monkey's jaw",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Monkey's outstretched hand",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Diagonal band pane 7 below the top triangle",
+      "order": 66
+    },
+    {
+      "id": 59,
+      "name": "Pane beside the elephant's left tusk",
+      "order": 74
+    },
+    {
+      "id": 60,
+      "name": "Elephant's eye",
+      "order": 76
+    },
+    {
+      "id": 61,
+      "name": "Diagonal band pane 8 below the top triangle",
+      "order": 67
+    },
+    {
+      "id": 62,
+      "name": "Diagonal band pane 9 below the top triangle",
+      "order": 68
+    },
+    {
+      "id": 63,
+      "name": "Elephant's two connected tusks",
+      "order": 78
+    },
+    {
+      "id": 64,
+      "name": "Diagonal band pane 10 below the top triangle",
+      "order": 69
+    },
+    {
+      "id": 65,
+      "name": "Narrow pane beside the elephant's left tusk",
+      "order": 79
+    },
+    {
+      "id": 66,
+      "name": "Small pane inside the elephant's curled trunk",
+      "order": 80
+    },
+    {
+      "id": 67,
+      "name": "Pane between the elephant's tusks",
+      "order": 81
+    },
+    {
+      "id": 68,
+      "name": "Diagonal band pane 11 below the top triangle",
+      "order": 70
+    },
+    {
+      "id": 69,
+      "name": "Bottom triangle inside the diagonal band",
+      "order": 71
+    },
+    {
+      "id": 70,
+      "name": "Background above and around the lion's mane",
+      "order": 85
+    },
+    {
+      "id": 71,
+      "name": "Lion's face and mane",
+      "order": 86
+    },
+    {
+      "id": 72,
+      "name": "Left frame above the lower diagonal branch",
+      "order": 7
+    },
+    {
+      "id": 73,
+      "name": "Right frame beside the elephant's head",
+      "order": 17
+    },
+    {
+      "id": 74,
+      "name": "Small pane above the left frame joint",
+      "order": 8
+    },
+    {
+      "id": 75,
+      "name": "Lower section of the right frame",
+      "order": 18
+    },
+    {
+      "id": 76,
+      "name": "Tiny triangle at the left frame joint",
+      "order": 9
+    },
+    {
+      "id": 77,
+      "name": "Left frame at the lower diagonal branch",
+      "order": 10
+    },
+    {
+      "id": 78,
+      "name": "Large pane at the lower-left edge",
+      "order": 99
+    },
+    {
+      "id": 79,
+      "name": "Lower section of the left frame",
+      "order": 11
+    },
+    {
+      "id": 80,
+      "name": "Pane behind the elephant at the right edge",
+      "order": 82
+    },
+    {
+      "id": 81,
+      "name": "Lion's eye on the right side of the picture",
+      "order": 88
+    },
+    {
+      "id": 82,
+      "name": "Tiny outer corner of the lion's right-side eye",
+      "order": 89
+    },
+    {
+      "id": 83,
+      "name": "Lion's eye on the left side of the picture",
+      "order": 87
+    },
+    {
+      "id": 84,
+      "name": "Tiny inner corner of the lion's right-side eye",
+      "order": 90
+    },
+    {
+      "id": 85,
+      "name": "Pane behind the elephant's front leg",
+      "order": 83
+    },
+    {
+      "id": 86,
+      "name": "Narrow pane along the left side of the lion's mane",
+      "order": 93
+    },
+    {
+      "id": 87,
+      "name": "Elephant's front leg",
+      "order": 84
+    },
+    {
+      "id": 88,
+      "name": "Lion's nose",
+      "order": 91
+    },
+    {
+      "id": 89,
+      "name": "Pane behind the lower left of the lion's mane",
+      "order": 94
+    },
+    {
+      "id": 90,
+      "name": "Inside the lion's mouth",
+      "order": 92
+    },
+    {
+      "id": 91,
+      "name": "Tiny pane beside the lion's right shoulder",
+      "order": 95
+    },
+    {
+      "id": 92,
+      "name": "Lion's near-side body and foreleg",
+      "order": 98
+    },
+    {
+      "id": 93,
+      "name": "Small pane below the lower-left branch",
+      "order": 100
+    },
+    {
+      "id": 94,
+      "name": "Lion's chest",
+      "order": 96
+    },
+    {
+      "id": 95,
+      "name": "Right frame at the lower diagonal branch",
+      "order": 19
+    },
+    {
+      "id": 96,
+      "name": "Small background pane above the lion's back",
+      "order": 101
+    },
+    {
+      "id": 97,
+      "name": "Right frame beside the lion's hindquarters",
+      "order": 20
+    },
+    {
+      "id": 98,
+      "name": "Lion's far-side foreleg and paw",
+      "order": 97
+    },
+    {
+      "id": 99,
+      "name": "Left frame at the level of the lion's chest",
+      "order": 12
+    },
+    {
+      "id": 100,
+      "name": "Bottom-left section of the frame",
+      "order": 13
+    },
+    {
+      "id": 101,
+      "name": "Pane beneath the lion's belly",
+      "order": 102
+    },
+    {
+      "id": 102,
+      "name": "Small pane between the lion's front paws",
+      "order": 103
+    },
+    {
+      "id": 103,
+      "name": "Small pane beside the lion's far-side paw",
+      "order": 106
+    },
+    {
+      "id": 104,
+      "name": "Wide curved band across the bottom",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Small pane in the bottom-left corner",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Broad pane at the bottom right",
+      "order": 112
+    },
+    {
+      "id": 107,
+      "name": "Bottom curved pane 1 from the left",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Bottom curved pane 3 from the left",
+      "order": 109
+    },
+    {
+      "id": 109,
+      "name": "Bottom curved pane 4 from the left",
+      "order": 110
+    },
+    {
+      "id": 110,
+      "name": "Bottom curved pane 2 from the left",
+      "order": 108
+    },
+    {
+      "id": 111,
+      "name": "Small curved pane at the bottom edge",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Bottom-right frame corner",
+      "order": 21
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,8 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected the full numbered seated figure and both sheets containing all thirteen small components. The two small closed inner-ear areas are intentional and retained. Eleven other tiny acute fold, pointed medallion, tracery and foot/base junction residues are explicitly excluded; no size-wide filter is used. Face and left hair/beard are connected in the supplied drawing, while the right hair, ears, hands, feet, book ornament and narrow real robe panels remain separate. Names describe visible features and position without inferring a historical identity. Canonical ink and source pixels remain unchanged. Explicit inspected tip IDs: 32,59,62,67,76,81,133,134,136,139,141. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

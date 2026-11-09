@@ -1,0 +1,1092 @@
+{
+  "artworkId": "design-028",
+  "contentVersion": "b739f2ad803f0a206ab6b0a30a337df6b226cc23ec58b81e3fe27af1fffb25e8",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper background and flowing hair bands, top left section 8",
+      "order": 13
+    },
+    {
+      "id": 2,
+      "name": "Upper background and flowing hair bands, top left section 10",
+      "order": 15
+    },
+    {
+      "id": 3,
+      "name": "Central face and continuous flowing hair",
+      "order": 215
+    },
+    {
+      "id": 4,
+      "name": "Upper background and flowing hair bands, top center section 9",
+      "order": 14
+    },
+    {
+      "id": 5,
+      "name": "Upper background and flowing hair bands, top center section 1",
+      "order": 6
+    },
+    {
+      "id": 6,
+      "name": "Upper background and flowing hair bands, top center section 2",
+      "order": 7
+    },
+    {
+      "id": 7,
+      "name": "Upper background and flowing hair bands, top center section 7",
+      "order": 12
+    },
+    {
+      "id": 8,
+      "name": "Upper background and flowing hair bands, top right section 3",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Upper right profile and eye panes, top right section 6",
+      "order": 38
+    },
+    {
+      "id": 10,
+      "name": "Upper background and flowing hair bands, top right section 4",
+      "order": 9
+    },
+    {
+      "id": 11,
+      "name": "Upper background and flowing hair bands, top right section 5",
+      "order": 10
+    },
+    {
+      "id": 12,
+      "name": "Upper background and flowing hair bands, top center section 14",
+      "order": 19
+    },
+    {
+      "id": 13,
+      "name": "Upper background and flowing hair bands, top center section 12",
+      "order": 17
+    },
+    {
+      "id": 14,
+      "name": "Upper background and flowing hair bands, top center section 6",
+      "order": 11
+    },
+    {
+      "id": 15,
+      "name": "Upper background and flowing hair bands, top center section 13",
+      "order": 18
+    },
+    {
+      "id": 16,
+      "name": "Upper background and flowing hair bands, top right section 15",
+      "order": 20
+    },
+    {
+      "id": 17,
+      "name": "Upper background and flowing hair bands, top center section 11",
+      "order": 16
+    },
+    {
+      "id": 18,
+      "name": "Upper background and flowing hair bands, top left section 16",
+      "order": 21
+    },
+    {
+      "id": 19,
+      "name": "Upper background and flowing hair bands, top left section 17",
+      "order": 22
+    },
+    {
+      "id": 20,
+      "name": "Upper background and flowing hair bands, top left section 18",
+      "order": 23
+    },
+    {
+      "id": 21,
+      "name": "Upper right profile and eye panes, top right section 1",
+      "order": 33
+    },
+    {
+      "id": 22,
+      "name": "Upper right profile and eye panes, top right section 3",
+      "order": 35
+    },
+    {
+      "id": 23,
+      "name": "Upper right profile and eye panes, top right section 2",
+      "order": 34
+    },
+    {
+      "id": 24,
+      "name": "Upper right profile and eye panes, top right section 4",
+      "order": 36
+    },
+    {
+      "id": 25,
+      "name": "Upper background and flowing hair bands, top right section 19",
+      "order": 24
+    },
+    {
+      "id": 26,
+      "name": "Upper right profile and eye panes, top right section 5",
+      "order": 37
+    },
+    {
+      "id": 27,
+      "name": "Upper right profile and eye panes, top left section 7",
+      "order": 39
+    },
+    {
+      "id": 28,
+      "name": "Upper right profile and eye panes, top center section 8",
+      "order": 40
+    },
+    {
+      "id": 29,
+      "name": "Upper background and flowing hair bands, top left section 20",
+      "order": 25
+    },
+    {
+      "id": 30,
+      "name": "Background around the central head, upper-middle center section 1",
+      "order": 216
+    },
+    {
+      "id": 31,
+      "name": "Left feather ornament and its enclosed details, top left section 1",
+      "order": 44
+    },
+    {
+      "id": 32,
+      "name": "Upper background and flowing hair bands, top left section 22",
+      "order": 27
+    },
+    {
+      "id": 33,
+      "name": "Left feather ornament and its enclosed details, top left section 2",
+      "order": 45
+    },
+    {
+      "id": 34,
+      "name": "Upper background and flowing hair bands, top center section 21",
+      "order": 26
+    },
+    {
+      "id": 35,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 4",
+      "order": 47
+    },
+    {
+      "id": 36,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 6",
+      "order": 49
+    },
+    {
+      "id": 37,
+      "name": "Upper background and flowing hair bands, upper-middle right section 27",
+      "order": 32
+    },
+    {
+      "id": 38,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 16",
+      "order": 59
+    },
+    {
+      "id": 39,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 5",
+      "order": 48
+    },
+    {
+      "id": 40,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 3",
+      "order": 46
+    },
+    {
+      "id": 41,
+      "name": "Upper background and flowing hair bands, upper-middle right section 23",
+      "order": 28
+    },
+    {
+      "id": 42,
+      "name": "Upper background and flowing hair bands, upper-middle right section 24",
+      "order": 29
+    },
+    {
+      "id": 43,
+      "name": "Upper background and flowing hair bands, upper-middle center section 25",
+      "order": 30
+    },
+    {
+      "id": 44,
+      "name": "Upper background and flowing hair bands, upper-middle right section 26",
+      "order": 31
+    },
+    {
+      "id": 45,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 7",
+      "order": 50
+    },
+    {
+      "id": 46,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 8",
+      "order": 51
+    },
+    {
+      "id": 47,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 15",
+      "order": 58
+    },
+    {
+      "id": 48,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 17",
+      "order": 60
+    },
+    {
+      "id": 49,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 2",
+      "order": 83
+    },
+    {
+      "id": 50,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 1",
+      "order": 82
+    },
+    {
+      "id": 51,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 3",
+      "order": 84
+    },
+    {
+      "id": 52,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 4",
+      "order": 85
+    },
+    {
+      "id": 53,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 5",
+      "order": 86
+    },
+    {
+      "id": 54,
+      "name": "Central figure's neck and small temple pane, upper-middle center section 1",
+      "order": 41
+    },
+    {
+      "id": 55,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 6",
+      "order": 87
+    },
+    {
+      "id": 56,
+      "name": "Left feather ornament and its enclosed details, upper-middle right section 9",
+      "order": 52
+    },
+    {
+      "id": 57,
+      "name": "Left feather ornament and its enclosed details, upper-middle right section 10",
+      "order": 53
+    },
+    {
+      "id": 58,
+      "name": "Central figure's neck and small temple pane, upper-middle right section 2",
+      "order": 42
+    },
+    {
+      "id": 59,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 7",
+      "order": 88
+    },
+    {
+      "id": 60,
+      "name": "Left feather ornament and its enclosed details, upper-middle right section 11",
+      "order": 54
+    },
+    {
+      "id": 61,
+      "name": "Left feather ornament and its enclosed details, upper-middle right section 13",
+      "order": 56
+    },
+    {
+      "id": 62,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 8",
+      "order": 89
+    },
+    {
+      "id": 63,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 12",
+      "order": 55
+    },
+    {
+      "id": 64,
+      "name": "Left feather ornament and its enclosed details, upper-middle center section 18",
+      "order": 61
+    },
+    {
+      "id": 65,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 9",
+      "order": 90
+    },
+    {
+      "id": 66,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 10",
+      "order": 91
+    },
+    {
+      "id": 67,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 11",
+      "order": 92
+    },
+    {
+      "id": 68,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 14",
+      "order": 57
+    },
+    {
+      "id": 69,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 13",
+      "order": 94
+    },
+    {
+      "id": 70,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 12",
+      "order": 93
+    },
+    {
+      "id": 71,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 14",
+      "order": 95
+    },
+    {
+      "id": 72,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 15",
+      "order": 96
+    },
+    {
+      "id": 73,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 16",
+      "order": 97
+    },
+    {
+      "id": 74,
+      "name": "Background around the central head, upper-middle center section 2",
+      "order": 217
+    },
+    {
+      "id": 75,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 19",
+      "order": 62
+    },
+    {
+      "id": 76,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 17",
+      "order": 98
+    },
+    {
+      "id": 77,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 18",
+      "order": 99
+    },
+    {
+      "id": 78,
+      "name": "Left feather ornament and its enclosed details, upper-middle center section 20",
+      "order": 63
+    },
+    {
+      "id": 79,
+      "name": "Left feather ornament and its enclosed details, upper-middle right section 22",
+      "order": 65
+    },
+    {
+      "id": 80,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 28",
+      "order": 71
+    },
+    {
+      "id": 81,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 21",
+      "order": 64
+    },
+    {
+      "id": 82,
+      "name": "Central figure's small closed mouth slit",
+      "order": 43
+    },
+    {
+      "id": 83,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 19",
+      "order": 100
+    },
+    {
+      "id": 84,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 25",
+      "order": 68
+    },
+    {
+      "id": 85,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 27",
+      "order": 70
+    },
+    {
+      "id": 86,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 26",
+      "order": 69
+    },
+    {
+      "id": 87,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 20",
+      "order": 101
+    },
+    {
+      "id": 88,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 21",
+      "order": 102
+    },
+    {
+      "id": 89,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 22",
+      "order": 103
+    },
+    {
+      "id": 90,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 23",
+      "order": 104
+    },
+    {
+      "id": 91,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 23",
+      "order": 66
+    },
+    {
+      "id": 92,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 24",
+      "order": 67
+    },
+    {
+      "id": 93,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 24",
+      "order": 105
+    },
+    {
+      "id": 94,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 26",
+      "order": 107
+    },
+    {
+      "id": 95,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 25",
+      "order": 106
+    },
+    {
+      "id": 96,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 28",
+      "order": 109
+    },
+    {
+      "id": 97,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 29",
+      "order": 110
+    },
+    {
+      "id": 98,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 27",
+      "order": 108
+    },
+    {
+      "id": 99,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 31",
+      "order": 74
+    },
+    {
+      "id": 100,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 30",
+      "order": 111
+    },
+    {
+      "id": 101,
+      "name": "Upper figure's collar and shoulder border, upper-middle right section 1",
+      "order": 113
+    },
+    {
+      "id": 102,
+      "name": "Diamond-pattern background and small enclosed gaps, upper-middle right section 31",
+      "order": 112
+    },
+    {
+      "id": 103,
+      "name": "Upper figure's collar and shoulder border, upper-middle right section 2",
+      "order": 114
+    },
+    {
+      "id": 104,
+      "name": "Upper figure's collar and shoulder border, upper-middle center section 4",
+      "order": 116
+    },
+    {
+      "id": 105,
+      "name": "Upper figure's collar and shoulder border, upper-middle right section 3",
+      "order": 115
+    },
+    {
+      "id": 106,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 32",
+      "order": 75
+    },
+    {
+      "id": 107,
+      "name": "Upper figure's collar and shoulder border, upper-middle right section 6",
+      "order": 118
+    },
+    {
+      "id": 108,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 29",
+      "order": 72
+    },
+    {
+      "id": 109,
+      "name": "Upper figure's collar and shoulder border, upper-middle right section 5",
+      "order": 117
+    },
+    {
+      "id": 110,
+      "name": "Left feather ornament and its enclosed details, upper-middle left section 30",
+      "order": 73
+    },
+    {
+      "id": 111,
+      "name": "Left feather ornament and its enclosed details, lower-middle left section 34",
+      "order": 77
+    },
+    {
+      "id": 112,
+      "name": "Left feather ornament and its enclosed details, upper-middle center section 33",
+      "order": 76
+    },
+    {
+      "id": 113,
+      "name": "Left feather ornament and its enclosed details, lower-middle left section 36",
+      "order": 79
+    },
+    {
+      "id": 114,
+      "name": "Left feather ornament and its enclosed details, lower-middle center section 35",
+      "order": 78
+    },
+    {
+      "id": 115,
+      "name": "Scale armor and collar panes, lower-middle center section 7",
+      "order": 125
+    },
+    {
+      "id": 116,
+      "name": "Scale armor and collar panes, lower-middle center section 4",
+      "order": 122
+    },
+    {
+      "id": 117,
+      "name": "Background between the diagonal frame bands, lower-middle center section 1",
+      "order": 154
+    },
+    {
+      "id": 118,
+      "name": "Scale armor and collar panes, lower-middle right section 2",
+      "order": 120
+    },
+    {
+      "id": 119,
+      "name": "Scale armor and collar panes, lower-middle right section 1",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Scale armor and collar panes, lower-middle right section 5",
+      "order": 123
+    },
+    {
+      "id": 121,
+      "name": "Scale armor and collar panes, lower-middle center section 3",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Scale armor and collar panes, lower-middle left section 17",
+      "order": 135
+    },
+    {
+      "id": 123,
+      "name": "Left feather ornament and its enclosed details, lower-middle left section 37",
+      "order": 80
+    },
+    {
+      "id": 124,
+      "name": "Scale armor and collar panes, lower-middle right section 10",
+      "order": 128
+    },
+    {
+      "id": 125,
+      "name": "Scale armor and collar panes, lower-middle right section 8",
+      "order": 126
+    },
+    {
+      "id": 126,
+      "name": "Scale armor and collar panes, lower-middle center section 9",
+      "order": 127
+    },
+    {
+      "id": 127,
+      "name": "Background between the diagonal frame bands, lower-middle right section 3",
+      "order": 156
+    },
+    {
+      "id": 128,
+      "name": "Scale armor and collar panes, lower-middle center section 6",
+      "order": 124
+    },
+    {
+      "id": 129,
+      "name": "Lower left bearded figure's face and closed details, lower-middle left section 2",
+      "order": 2
+    },
+    {
+      "id": 130,
+      "name": "Background between the diagonal frame bands, lower-middle center section 2",
+      "order": 155
+    },
+    {
+      "id": 131,
+      "name": "Scale armor and collar panes, lower-middle center section 12",
+      "order": 130
+    },
+    {
+      "id": 132,
+      "name": "Left feather ornament and its enclosed details, lower-middle center section 38",
+      "order": 81
+    },
+    {
+      "id": 133,
+      "name": "Scale armor and collar panes, lower-middle center section 13",
+      "order": 131
+    },
+    {
+      "id": 134,
+      "name": "Scale armor and collar panes, lower-middle right section 16",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Scale armor and collar panes, lower-middle right section 11",
+      "order": 129
+    },
+    {
+      "id": 136,
+      "name": "Background between the diagonal frame bands, lower-middle right section 5",
+      "order": 158
+    },
+    {
+      "id": 137,
+      "name": "Scale armor and collar panes, lower-middle center section 15",
+      "order": 133
+    },
+    {
+      "id": 138,
+      "name": "Scale armor and collar panes, lower-middle center section 20",
+      "order": 138
+    },
+    {
+      "id": 139,
+      "name": "Scale armor and collar panes, lower-middle right section 18",
+      "order": 136
+    },
+    {
+      "id": 140,
+      "name": "Scale armor and collar panes, lower-middle right section 14",
+      "order": 132
+    },
+    {
+      "id": 141,
+      "name": "Scale armor and collar panes, lower-middle right section 23",
+      "order": 141
+    },
+    {
+      "id": 142,
+      "name": "Scale armor and collar panes, lower-middle right section 22",
+      "order": 140
+    },
+    {
+      "id": 143,
+      "name": "Scale armor and collar panes, lower-middle center section 19",
+      "order": 137
+    },
+    {
+      "id": 144,
+      "name": "Scale armor and collar panes, lower-middle right section 26",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Lower left bearded figure's face and closed details, lower-middle left section 1",
+      "order": 1
+    },
+    {
+      "id": 146,
+      "name": "Scale armor and collar panes, lower-middle right section 24",
+      "order": 142
+    },
+    {
+      "id": 147,
+      "name": "Scale armor and collar panes, lower-middle center section 21",
+      "order": 139
+    },
+    {
+      "id": 148,
+      "name": "Scale armor and collar panes, bottom center section 35",
+      "order": 153
+    },
+    {
+      "id": 149,
+      "name": "Scale armor and collar panes, lower-middle right section 28",
+      "order": 146
+    },
+    {
+      "id": 150,
+      "name": "Scale armor and collar panes, lower-middle right section 30",
+      "order": 148
+    },
+    {
+      "id": 151,
+      "name": "Scale armor and collar panes, lower-middle center section 25",
+      "order": 143
+    },
+    {
+      "id": 152,
+      "name": "Scale armor and collar panes, lower-middle right section 27",
+      "order": 145
+    },
+    {
+      "id": 153,
+      "name": "Background between the diagonal frame bands, lower-middle left section 4",
+      "order": 157
+    },
+    {
+      "id": 154,
+      "name": "Scale armor and collar panes, lower-middle right section 29",
+      "order": 147
+    },
+    {
+      "id": 155,
+      "name": "Lower left bearded figure's face and closed details, lower-middle left section 3",
+      "order": 3
+    },
+    {
+      "id": 156,
+      "name": "Lower left bearded figure's face and closed details, lower-middle left section 4",
+      "order": 4
+    },
+    {
+      "id": 157,
+      "name": "Scale armor and collar panes, lower-middle right section 31",
+      "order": 149
+    },
+    {
+      "id": 158,
+      "name": "Upper figure's large lower hand",
+      "order": 162
+    },
+    {
+      "id": 159,
+      "name": "Long diagonal bands and lower-left garment, bottom center section 6",
+      "order": 168
+    },
+    {
+      "id": 160,
+      "name": "Lower helmet's plume and surrounding curved bands, lower-middle center section 1",
+      "order": 201
+    },
+    {
+      "id": 161,
+      "name": "Scale armor and collar panes, lower-middle right section 33",
+      "order": 151
+    },
+    {
+      "id": 162,
+      "name": "Scale armor and collar panes, lower-middle right section 32",
+      "order": 150
+    },
+    {
+      "id": 163,
+      "name": "Background between the diagonal frame bands, bottom right section 8",
+      "order": 161
+    },
+    {
+      "id": 164,
+      "name": "Scale armor and collar panes, lower-middle right section 34",
+      "order": 152
+    },
+    {
+      "id": 165,
+      "name": "Lower left bearded figure's face and closed details, lower-middle left section 5",
+      "order": 5
+    },
+    {
+      "id": 166,
+      "name": "Lower helmet's plume and surrounding curved bands, bottom center section 2",
+      "order": 202
+    },
+    {
+      "id": 167,
+      "name": "Background between the diagonal frame bands, bottom left section 6",
+      "order": 159
+    },
+    {
+      "id": 168,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 1",
+      "order": 163
+    },
+    {
+      "id": 169,
+      "name": "Lower helmet's plume and surrounding curved bands, bottom right section 3",
+      "order": 203
+    },
+    {
+      "id": 170,
+      "name": "Lower helmet's dome and ornament bands, bottom center section 2",
+      "order": 207
+    },
+    {
+      "id": 171,
+      "name": "Lower helmet's dome and ornament bands, bottom center section 1",
+      "order": 206
+    },
+    {
+      "id": 172,
+      "name": "Lower helmet's dome and ornament bands, bottom center section 3",
+      "order": 208
+    },
+    {
+      "id": 173,
+      "name": "Background between the diagonal frame bands, bottom right section 7",
+      "order": 160
+    },
+    {
+      "id": 174,
+      "name": "Lower helmet's plume and surrounding curved bands, bottom center section 4",
+      "order": 204
+    },
+    {
+      "id": 175,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 2",
+      "order": 164
+    },
+    {
+      "id": 176,
+      "name": "Lower helmet's plume and surrounding curved bands, bottom right section 5",
+      "order": 205
+    },
+    {
+      "id": 177,
+      "name": "Long diagonal bands and lower-left garment, bottom center section 19",
+      "order": 181
+    },
+    {
+      "id": 178,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 3",
+      "order": 165
+    },
+    {
+      "id": 179,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 15",
+      "order": 177
+    },
+    {
+      "id": 180,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 7",
+      "order": 169
+    },
+    {
+      "id": 181,
+      "name": "Lower helmet's dome and ornament bands, bottom right section 4",
+      "order": 209
+    },
+    {
+      "id": 182,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 5",
+      "order": 167
+    },
+    {
+      "id": 183,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 4",
+      "order": 166
+    },
+    {
+      "id": 184,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 8",
+      "order": 170
+    },
+    {
+      "id": 185,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 9",
+      "order": 171
+    },
+    {
+      "id": 186,
+      "name": "Long diagonal bands and lower-left garment, bottom center section 10",
+      "order": 172
+    },
+    {
+      "id": 187,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 20",
+      "order": 182
+    },
+    {
+      "id": 188,
+      "name": "Lower helmet's dome and ornament bands, bottom center section 7",
+      "order": 212
+    },
+    {
+      "id": 189,
+      "name": "Lower helmet's dome and ornament bands, bottom left section 5",
+      "order": 210
+    },
+    {
+      "id": 190,
+      "name": "Lower helmet's dome and ornament bands, bottom center section 8",
+      "order": 213
+    },
+    {
+      "id": 191,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 14",
+      "order": 176
+    },
+    {
+      "id": 192,
+      "name": "Long diagonal bands and lower-left garment, bottom center section 11",
+      "order": 173
+    },
+    {
+      "id": 193,
+      "name": "Lower helmet's dome and ornament bands, bottom center section 6",
+      "order": 211
+    },
+    {
+      "id": 194,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 12",
+      "order": 174
+    },
+    {
+      "id": 195,
+      "name": "Long diagonal bands and lower-left garment, bottom right section 17",
+      "order": 179
+    },
+    {
+      "id": 196,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 13",
+      "order": 175
+    },
+    {
+      "id": 197,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 18",
+      "order": 180
+    },
+    {
+      "id": 198,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 21",
+      "order": 183
+    },
+    {
+      "id": 199,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 22",
+      "order": 184
+    },
+    {
+      "id": 200,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 16",
+      "order": 178
+    },
+    {
+      "id": 201,
+      "name": "Long diagonal bands and lower-left garment, bottom center section 25",
+      "order": 187
+    },
+    {
+      "id": 202,
+      "name": "Long diagonal bands and lower-left garment, bottom right section 26",
+      "order": 188
+    },
+    {
+      "id": 203,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 24",
+      "order": 186
+    },
+    {
+      "id": 204,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 23",
+      "order": 185
+    },
+    {
+      "id": 205,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 27",
+      "order": 189
+    },
+    {
+      "id": 206,
+      "name": "Long diagonal bands and lower-left garment, bottom right section 29",
+      "order": 191
+    },
+    {
+      "id": 207,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 28",
+      "order": 190
+    },
+    {
+      "id": 208,
+      "name": "Long diagonal bands and lower-left garment, bottom right section 31",
+      "order": 193
+    },
+    {
+      "id": 209,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 30",
+      "order": 192
+    },
+    {
+      "id": 210,
+      "name": "Long diagonal bands and lower-left garment, bottom center section 32",
+      "order": 194
+    },
+    {
+      "id": 211,
+      "name": "Long diagonal bands and lower-left garment, bottom center section 33",
+      "order": 195
+    },
+    {
+      "id": 212,
+      "name": "Lower helmet's dome and ornament bands, bottom center section 9",
+      "order": 214
+    },
+    {
+      "id": 213,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 35",
+      "order": 197
+    },
+    {
+      "id": 214,
+      "name": "Long diagonal bands and lower-left garment, bottom center section 34",
+      "order": 196
+    },
+    {
+      "id": 215,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 36",
+      "order": 198
+    },
+    {
+      "id": 216,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 37",
+      "order": 199
+    },
+    {
+      "id": 217,
+      "name": "Long diagonal bands and lower-left garment, bottom left section 38",
+      "order": 200
+    }
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-portable/
+.work/
+backups/
+release-artifacts/
+playwright-report/
+test-results/
+coverage/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db

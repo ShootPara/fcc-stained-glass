@@ -1,0 +1,228 @@
+.gitattributes
+.gitignore
+.nvmrc
+AGENTS.md
+ASSET_CREDITS.md
+DECISIONS.md
+LICENSE
+README.md
+REQUIREMENTS.md
+STATUS.md
+TECHNICAL_DESIGN.md
+THIRD_PARTY_NOTICES.md
+content/artworks.json
+content/book.json
+content/historical-subjects.json
+content/media.json
+content/photos.json
+content/segmentation/design-002/config.json
+content/segmentation/design-003/config.json
+content/segmentation/design-004/config.json
+content/segmentation/design-005/config.json
+content/segmentation/design-006/config.json
+content/segmentation/design-007/config.json
+content/segmentation/design-008/config.json
+content/segmentation/design-009/config.json
+content/segmentation/design-010/config.json
+content/segmentation/design-011/config.json
+content/segmentation/design-012/config.json
+content/segmentation/design-013/config.json
+content/segmentation/design-014/config.json
+content/segmentation/design-015/config.json
+content/segmentation/design-016/config.json
+content/segmentation/design-017/config.json
+content/segmentation/design-018/config.json
+content/segmentation/design-019/config.json
+content/segmentation/design-020/config.json
+content/segmentation/design-021/config.json
+content/segmentation/design-022/config.json
+content/segmentation/design-023/config.json
+content/segmentation/design-024/config.json
+content/segmentation/design-025/config.json
+content/segmentation/design-026/config.json
+content/segmentation/design-027/config.json
+content/segmentation/design-028/config.json
+content/segmentation/design-029/config.json
+content/segmentation/design-030/config.json
+content/segmentation/design-031/config.json
+content/segmentation/design-032/config.json
+content/segmentation/design-033/config.json
+content/segmentation/design-034/config.json
+content/segmentation/design-035/config.json
+content/segmentation/design-036/config.json
+content/segmentation/design-037/config.json
+content/segmentation/design-038/config.json
+content/segmentation/design-039/config.json
+content/segmentation/design-040/config.json
+content/segmentation/design-041/config.json
+content/segmentation/design-042/config.json
+content/segmentation/design-043/config.json
+content/segmentation/design-044/config.json
+content/segmentation/design-045/config.json
+content/segmentation/design-046/config.json
+content/segmentation/design-047/config.json
+content/segmentation/design-048/config.json
+content/segmentation/design-049/config.json
+content/sources.json
+docs/SOURCE_PROVENANCE.md
+docs/WP01_FILES.txt
+docs/WP01_VERIFICATION.md
+docs/verification/wp01/catalog-development.log
+docs/verification/wp01/npm-ci.log
+docs/verification/wp01/prepare-pending.log
+docs/verification/wp01/release-build-pending.log
+docs/verification/wp01/release-validation-pending.log
+docs/verification/wp01/typecheck.log
+docs/verification/wp01/unit-tests.log
+docs/verification/wp01/validate-catalog.log
+docs/verification/wp01/verification.json
+generated/assets.json
+generated/pdfs.json
+index.html
+package-lock.json
+package.json
+project.json
+public/catalog.dev.json
+scripts/Check.ps1
+scripts/Import-Sources.ps1
+scripts/build-catalog.ts
+scripts/build-site.ts
+scripts/import-sources.ts
+scripts/lib/atomic-files.ts
+scripts/lib/cli.ts
+scripts/lib/contracts.ts
+scripts/lib/digests.ts
+scripts/lib/paths.ts
+scripts/prepare-assets.ts
+scripts/validate-content.ts
+source/acquisition.json
+source/coloring/002.png
+source/coloring/003.png
+source/coloring/004.png
+source/coloring/005.png
+source/coloring/006.png
+source/coloring/007.png
+source/coloring/008.png
+source/coloring/009.png
+source/coloring/010.png
+source/coloring/011.png
+source/coloring/012.png
+source/coloring/013.png
+source/coloring/014.png
+source/coloring/015.png
+source/coloring/016.png
+source/coloring/017.png
+source/coloring/018.png
+source/coloring/019.png
+source/coloring/020.png
+source/coloring/021.png
+source/coloring/022.png
+source/coloring/023.png
+source/coloring/024.png
+source/coloring/025.png
+source/coloring/026.png
+source/coloring/027.png
+source/coloring/028.png
+source/coloring/029.png
+source/coloring/030.png
+source/coloring/031.png
+source/coloring/032.png
+source/coloring/033.png
+source/coloring/034.png
+source/coloring/035.png
+source/coloring/036.png
+source/coloring/037.png
+source/coloring/038.png
+source/coloring/039.png
+source/coloring/040.png
+source/coloring/041.png
+source/coloring/042.png
+source/coloring/043.png
+source/coloring/044.png
+source/coloring/045.png
+source/coloring/046.png
+source/coloring/047.png
+source/coloring/048.png
+source/coloring/049.png
+source/cover/Design_01_Front.png
+source/fonts/LiberationSans-Regular.ttf
+source/fonts/OFL-Liberation.txt
+source/histories/Church History 1928.docx
+source/histories/Church History 1935.docx
+source/histories/h28.txt
+source/histories/h35.txt
+source/manifest.json
+source/photos/001 FCC Window First Congo South Window Pan4.jpg
+source/photos/002 FCC Window Igp4048 Tu2.jpg
+source/photos/003 FCC Window Igp4056.jpg
+source/photos/004 FCC Window Igp4060.jpg
+source/photos/005 FCC Window Igp4064.jpg
+source/photos/006 FCC Window Igp4075.jpg
+source/photos/007 FCC Window Igp4089.jpg
+source/photos/008 FCC Window Igp4095.jpg
+source/photos/009 FCC Window Igp4104.jpg
+source/photos/010 FCC Window Igp4108.jpg
+source/photos/011 FCC Window Igp4115.jpg
+source/photos/012 FCC Window Igp4119.jpg
+source/photos/013 FCC Window Igp4123.jpg
+source/photos/014 FCC Window Igp4131.jpg
+source/photos/015 FCC Window Igp4134.jpg
+source/photos/016 FCC Window Igp4140.jpg
+source/photos/017 FCC Window Igp4145.jpg
+source/photos/018 FCC Window Igp4162.jpg
+source/photos/019 FCC Window Igp4165.jpg
+source/photos/020 FCC Window Igp4170.jpg
+source/photos/021 FCC Window Igp4181.jpg
+source/photos/022 FCC Window Igp4185.jpg
+source/photos/023 FCC Window Igp4190.jpg
+source/photos/024 FCC Window Igp4233.jpg
+source/photos/025 FCC Window Igp4240.jpg
+source/photos/026 FCC Window Igp4245.jpg
+source/photos/027 FCC Window Igp4265.jpg
+source/photos/028 FCC Window Igp4270.jpg
+source/photos/029 FCC Window Igp4275.jpg
+source/photos/030 FCC Window Igp4280.jpg
+source/photos/031 FCC Window Igp4289.jpg
+source/photos/032 FCC Window Igp4296.jpg
+source/photos/033 FCC Window Igp4302.jpg
+source/photos/034 FCC Window Igp4305.jpg
+source/photos/035 FCC Window Igp4320.jpg
+source/photos/036 FCC Window Igp4325.jpg
+source/photos/037 FCC Window Igp4330.jpg
+source/photos/038 FCC Window Igp4334.jpg
+source/photos/039 FCC Window Igp4338.jpg
+source/photos/040 FCC Window Igp4343.jpg
+source/photos/041 FCC Window Igp4351.jpg
+source/photos/042 FCC Window Igp4353.jpg
+source/photos/043 FCC Window Igp4360.jpg
+source/photos/044 FCC Window Igp4365.jpg
+source/photos/045 FCC Window Igp4370.jpg
+source/photos/046 FCC Window Igp4375.jpg
+source/photos/047 FCC Window Igp4380.jpg
+source/photos/048 FCC Window Igp4385.jpg
+source/photos/049 FCC Window Igp4398.jpg
+source/photos/050 FCC Window Igp4487 8 9 Tonemapped.jpg
+source/photos/051 FCC Window Igp4495 6 7 Tonemapped.jpg
+source/photos/052 FCC Window Igp4500 1 2 Tonemapped.jpg
+source/photos/053 FCC Window Igp4505 6 7 Tonemapped.jpg
+source/photos/054 FCC Window Igp4510 1 2 Tonemapped.jpg
+source/photos/055 FCC Window North Window Panorama1.jpg
+src/main.ts
+src/shared/contracts.ts
+src/shared/public-catalog.ts
+src/shared/validation.ts
+src/styles.css
+tests/unit/base-path.test.ts
+tests/unit/catalog.test.ts
+tests/unit/digests.test.ts
+tests/unit/import.test.ts
+tests/unit/paths.test.ts
+tests/unit/prepare-lifecycle.test.ts
+tests/unit/public-catalog.test.ts
+tests/unit/schema.test.ts
+tsconfig.app.json
+tsconfig.json
+tsconfig.tools.json
+tsconfig.worker.json
+vite.config.ts
+vitest.config.ts

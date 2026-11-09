@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "algorithmVersion": "regions-v1",
+  "inkThreshold": 180,
+  "excludedSeedPoints": [[0, 0]],
+  "barrierAddMask": "barrier-add.png",
+  "notes": "White margin outside the frame excluded. Ten isolated one-pixel tips were compared with the source and colored overlay at 4x in .work/region-crops/design-003/small-01.png: (351,672), (352,673), (776,804), (408,856), (360,909), (698,920), (481,1157), (221,1176), (310,1323), (309,1324). Each is a disconnected raster tip at the end of a larger wave/fish pane, not an independently outlined feature. Authored connectivity-only barrier mask; canonical ink and source unchanged. Preserve eye, fin, mouth, wave panes and all fifteen round arch decorations. Full overlay and fill sample reviewed separately. Previous uncorrected version retained."
+}

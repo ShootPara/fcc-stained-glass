@@ -1,0 +1,13 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered source and all three small-component sheets. Bottom-row components 156–167 are antialias residue outside the thick frame, not drawing panes; exclude them explicitly along with inspected acute tips. Preserve the two tiny eye glints, small ear detail, fine hair-fold corners and the closed gap inside the raised forearm. No meaningful panes require merging. Names distinguish head/hair/halo, cropped eye details, staff and gripping hand, raised palm with round object, robe panels, masonry/window panes, lower leaves, foot and rounded ground forms. Source/canonical ink and earlier prepared versions remain unchanged. Explicit inspected tip IDs: 26,27,29,40,42,72,90,92,113,144,148,156,157,158,159,160,161,162,163,164,165,166,167. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

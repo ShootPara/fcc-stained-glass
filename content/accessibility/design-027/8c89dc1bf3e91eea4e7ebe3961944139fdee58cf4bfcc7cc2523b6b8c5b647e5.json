@@ -1,0 +1,1842 @@
+{
+  "artworkId": "design-027",
+  "contentVersion": "8c89dc1bf3e91eea4e7ebe3961944139fdee58cf4bfcc7cc2523b6b8c5b647e5",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Upper left architectural fields and scrolling trim, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Upper left architectural fields and scrolling trim, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Upper left architectural fields and scrolling trim, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Upper left architectural fields and scrolling trim, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Upper left architectural fields and scrolling trim, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Upper left architectural fields and scrolling trim, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Upper left architectural fields and scrolling trim, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Upper left architectural fields and scrolling trim, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Upper left architectural fields and scrolling trim, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Upper left architectural fields and scrolling trim, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Upper left architectural fields and scrolling trim, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Upper left architectural fields and scrolling trim, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Top scroll's narrow outline, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Top scroll's narrow outline, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Top scroll's narrow outline, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Top scroll's narrow outline, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Upper left architectural fields and scrolling trim, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Fine outline fragment beside Upper left architectural fields and scrolling trim, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Fine outline fragment beside Upper left ornament's narrow enclosed bands, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Upper left architectural fields and scrolling trim, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Upper left architectural fields and scrolling trim, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Upper left architectural fields and scrolling trim, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Upper left architectural fields and scrolling trim, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Upper left architectural fields and scrolling trim, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Upper left architectural fields and scrolling trim, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Upper left architectural fields and scrolling trim, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Upper left architectural fields and scrolling trim, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Upper left architectural fields and scrolling trim, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Upper left architectural fields and scrolling trim, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Upper left architectural fields and scrolling trim, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Upper left architectural fields and scrolling trim, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Upper left architectural fields and scrolling trim, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Upper left architectural fields and scrolling trim, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Round hair ornaments and enclosed gaps, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Upper left architectural fields and scrolling trim, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Round hair ornaments and enclosed gaps, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Round hair ornaments and enclosed gaps, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Round hair ornaments and enclosed gaps, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Round hair ornaments and enclosed gaps, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Upper left architectural fields and scrolling trim, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Upper left architectural fields and scrolling trim, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Upper left ornament's narrow enclosed bands, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Upper right figure's face and neck, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Round hair ornaments and enclosed gaps, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Round hair ornaments and enclosed gaps, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Round hair ornaments and enclosed gaps, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Round hair ornaments and enclosed gaps, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Round hair ornaments and enclosed gaps, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Round hair ornaments and enclosed gaps, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Round hair ornaments and enclosed gaps, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Fine outline fragment beside Cord and star pendant's enclosed details, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Cord and star pendant's enclosed details, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Round hair ornaments and enclosed gaps, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Cord and star pendant's enclosed details, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Round hair ornaments and enclosed gaps, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Round hair ornaments and enclosed gaps, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Round hair ornaments and enclosed gaps, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Cord ornament's round loop and highlight, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Left figure's head covering and enclosed ornament, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Left figure's head covering and enclosed ornament, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Round hair ornaments and enclosed gaps, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Round hair ornaments and enclosed gaps, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Round hair ornaments and enclosed gaps, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Left figure's head covering and enclosed ornament, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Cord and star pendant's enclosed details, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Upper right figure's tiny eye highlight, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Round hair ornaments and enclosed gaps, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Cord ornament's round loop and highlight, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Cord ornament's round loop and highlight, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Fine outline fragment beside Round hair ornaments and enclosed gaps, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Round hair ornaments and enclosed gaps, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Round hair ornaments and enclosed gaps, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Round hair ornaments and enclosed gaps, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Round hair ornaments and enclosed gaps, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Round hair ornaments and enclosed gaps, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Left figure's head covering and enclosed ornament, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Cord and star pendant's enclosed details, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Left figure's head covering and enclosed ornament, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Left figure's head covering and enclosed ornament, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Fine outline fragment beside Round hair ornaments and enclosed gaps, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Cord and star pendant's enclosed details, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Round hair ornaments and enclosed gaps, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Round hair ornaments and enclosed gaps, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Round hair ornaments and enclosed gaps, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Round hair ornaments and enclosed gaps, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Round hair ornaments and enclosed gaps, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Left figure's head covering and enclosed ornament, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Fine outline fragment beside Round hair ornaments and enclosed gaps, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Left figure's head covering and enclosed ornament, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Round hair ornaments and enclosed gaps, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Round hair ornaments and enclosed gaps, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Round hair ornaments and enclosed gaps, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Long diagonal narrow ornamental stripe, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Long diagonal narrow ornamental stripe, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Background beside the upper figures and diagonal band, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Long diagonal narrow ornamental stripe, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Round hair ornaments and enclosed gaps, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Long diagonal narrow ornamental stripe, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Fine outline fragment beside Left figure's head covering and enclosed ornament, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Long diagonal narrow ornamental stripe, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Round hair ornaments and enclosed gaps, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Round hair ornaments and enclosed gaps, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Long diagonal narrow ornamental stripe, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Long diagonal narrow ornamental stripe, retained section 120",
+      "order": 120
+    },
+    {
+      "id": 121,
+      "name": "Round hair ornaments and enclosed gaps, retained section 121",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Long diagonal narrow ornamental stripe, retained section 122",
+      "order": 122
+    },
+    {
+      "id": 123,
+      "name": "Long diagonal narrow ornamental stripe, retained section 123",
+      "order": 123
+    },
+    {
+      "id": 124,
+      "name": "Long diagonal narrow ornamental stripe, retained section 124",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Long diagonal narrow ornamental stripe, retained section 125",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Left figure's head covering and enclosed ornament, retained section 126",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Upper right figure's face and neck, retained section 127",
+      "order": 127
+    },
+    {
+      "id": 128,
+      "name": "Left figure's head covering and enclosed ornament, retained section 128",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Left figure's face beard and ear, retained section 129",
+      "order": 129
+    },
+    {
+      "id": 130,
+      "name": "Fine outline fragment beside Left figure's head covering and enclosed ornament, retained section 130",
+      "order": 130
+    },
+    {
+      "id": 131,
+      "name": "Left figure's head covering and enclosed ornament, retained section 131",
+      "order": 131
+    },
+    {
+      "id": 132,
+      "name": "Left figure's head covering and enclosed ornament, retained section 132",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Left figure's head covering and enclosed ornament, retained section 133",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Left figure's head covering and enclosed ornament, retained section 134",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Left figure's head covering and enclosed ornament, retained section 135",
+      "order": 135
+    },
+    {
+      "id": 136,
+      "name": "Round hair ornaments and enclosed gaps, retained section 136",
+      "order": 136
+    },
+    {
+      "id": 137,
+      "name": "Left figure's head covering and enclosed ornament, retained section 137",
+      "order": 137
+    },
+    {
+      "id": 138,
+      "name": "Left figure's head covering and enclosed ornament, retained section 138",
+      "order": 138
+    },
+    {
+      "id": 139,
+      "name": "Round hair ornaments and enclosed gaps, retained section 139",
+      "order": 139
+    },
+    {
+      "id": 140,
+      "name": "Cord and star pendant's enclosed details, retained section 140",
+      "order": 140
+    },
+    {
+      "id": 141,
+      "name": "Left figure's face beard and ear, retained section 141",
+      "order": 141
+    },
+    {
+      "id": 142,
+      "name": "Left figure's face beard and ear, retained section 142",
+      "order": 142
+    },
+    {
+      "id": 143,
+      "name": "Left figure's face beard and ear, retained section 143",
+      "order": 143
+    },
+    {
+      "id": 144,
+      "name": "Cord and star pendant's enclosed details, retained section 144",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Cropped left-edge ornament and enclosed openings, retained section 145",
+      "order": 145
+    },
+    {
+      "id": 146,
+      "name": "Left figure's face beard and ear, retained section 146",
+      "order": 146
+    },
+    {
+      "id": 147,
+      "name": "Left figure's face beard and ear, retained section 147",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Left figure's face beard and ear, retained section 148",
+      "order": 148
+    },
+    {
+      "id": 149,
+      "name": "Left figure's face beard and ear, retained section 149",
+      "order": 149
+    },
+    {
+      "id": 150,
+      "name": "Cord and star pendant's enclosed details, retained section 150",
+      "order": 150
+    },
+    {
+      "id": 151,
+      "name": "Cropped left-edge ornament and enclosed openings, retained section 151",
+      "order": 151
+    },
+    {
+      "id": 152,
+      "name": "Left figure's face beard and ear, retained section 152",
+      "order": 152
+    },
+    {
+      "id": 153,
+      "name": "Upper right figure's garment and collar, retained section 153",
+      "order": 153
+    },
+    {
+      "id": 154,
+      "name": "Left figure's face beard and ear, retained section 154",
+      "order": 154
+    },
+    {
+      "id": 155,
+      "name": "Cord and star pendant's enclosed details, retained section 155",
+      "order": 155
+    },
+    {
+      "id": 156,
+      "name": "Cord and star pendant's enclosed details, retained section 156",
+      "order": 156
+    },
+    {
+      "id": 157,
+      "name": "Left figure's face beard and ear, retained section 157",
+      "order": 157
+    },
+    {
+      "id": 158,
+      "name": "Left figure's face beard and ear, retained section 158",
+      "order": 158
+    },
+    {
+      "id": 159,
+      "name": "Fine outline fragment beside Upper left architectural fields and scrolling trim, retained section 159",
+      "order": 159
+    },
+    {
+      "id": 160,
+      "name": "Upper right figure's garment and collar, retained section 160",
+      "order": 160
+    },
+    {
+      "id": 161,
+      "name": "Background beside the upper figures and diagonal band, retained section 161",
+      "order": 161
+    },
+    {
+      "id": 162,
+      "name": "Cord and star pendant's enclosed details, retained section 162",
+      "order": 162
+    },
+    {
+      "id": 163,
+      "name": "Fine outline fragment beside Cropped left-edge ornament and enclosed openings, retained section 163",
+      "order": 163
+    },
+    {
+      "id": 164,
+      "name": "Upper right figure's garment and collar, retained section 164",
+      "order": 164
+    },
+    {
+      "id": 165,
+      "name": "Cord and star pendant's enclosed details, retained section 165",
+      "order": 165
+    },
+    {
+      "id": 166,
+      "name": "Cropped left-edge ornament and enclosed openings, retained section 166",
+      "order": 166
+    },
+    {
+      "id": 167,
+      "name": "Cropped left-edge ornament and enclosed openings, retained section 167",
+      "order": 167
+    },
+    {
+      "id": 168,
+      "name": "Fine outline fragment beside Cord and star pendant's enclosed details, retained section 168",
+      "order": 168
+    },
+    {
+      "id": 169,
+      "name": "Fine outline fragment beside Left figure's face beard and ear, retained section 169",
+      "order": 169
+    },
+    {
+      "id": 170,
+      "name": "Cropped left-edge ornament and enclosed openings, retained section 170",
+      "order": 170
+    },
+    {
+      "id": 171,
+      "name": "Left figure's face beard and ear, retained section 171",
+      "order": 171
+    },
+    {
+      "id": 172,
+      "name": "Upper right figure's garment and collar, retained section 172",
+      "order": 172
+    },
+    {
+      "id": 173,
+      "name": "Left figure's face beard and ear, retained section 173",
+      "order": 173
+    },
+    {
+      "id": 174,
+      "name": "Upper right figure's garment and collar, retained section 174",
+      "order": 174
+    },
+    {
+      "id": 175,
+      "name": "Cropped left-edge ornament and enclosed openings, retained section 175",
+      "order": 175
+    },
+    {
+      "id": 176,
+      "name": "Fine outline fragment beside Background beside the upper figures and diagonal band, retained section 176",
+      "order": 176
+    },
+    {
+      "id": 177,
+      "name": "Cropped left-edge ornament and enclosed openings, retained section 177",
+      "order": 177
+    },
+    {
+      "id": 178,
+      "name": "Cropped left-edge ornament and enclosed openings, retained section 178",
+      "order": 178
+    },
+    {
+      "id": 179,
+      "name": "Background beside the upper figures and diagonal band, retained section 179",
+      "order": 179
+    },
+    {
+      "id": 180,
+      "name": "Left figure's shoulder and garment, retained section 180",
+      "order": 180
+    },
+    {
+      "id": 181,
+      "name": "Upper right figure's garment and collar, retained section 181",
+      "order": 181
+    },
+    {
+      "id": 182,
+      "name": "Background beside the upper figures and diagonal band, retained section 182",
+      "order": 182
+    },
+    {
+      "id": 183,
+      "name": "Background beside the upper figures and diagonal band, retained section 183",
+      "order": 183
+    },
+    {
+      "id": 184,
+      "name": "Left figure's shoulder and garment, retained section 184",
+      "order": 184
+    },
+    {
+      "id": 185,
+      "name": "Left figure's shoulder and garment, retained section 185",
+      "order": 185
+    },
+    {
+      "id": 186,
+      "name": "Left figure's shoulder and garment, retained section 186",
+      "order": 186
+    },
+    {
+      "id": 187,
+      "name": "Upper right figure's garment and collar, retained section 187",
+      "order": 187
+    },
+    {
+      "id": 188,
+      "name": "Upper right figure's garment and collar, retained section 188",
+      "order": 188
+    },
+    {
+      "id": 189,
+      "name": "Upper right figure's garment and collar, retained section 189",
+      "order": 189
+    },
+    {
+      "id": 190,
+      "name": "Left figure's shoulder and garment, retained section 190",
+      "order": 190
+    },
+    {
+      "id": 191,
+      "name": "Upper right figure's garment and collar, retained section 191",
+      "order": 191
+    },
+    {
+      "id": 192,
+      "name": "Upper right figure's garment and collar, retained section 192",
+      "order": 192
+    },
+    {
+      "id": 193,
+      "name": "Upper right figure's garment and collar, retained section 193",
+      "order": 193
+    },
+    {
+      "id": 194,
+      "name": "Upper right figure's garment and collar, retained section 194",
+      "order": 194
+    },
+    {
+      "id": 195,
+      "name": "Upper right figure's garment and collar, retained section 195",
+      "order": 195
+    },
+    {
+      "id": 196,
+      "name": "Upper right figure's garment and collar, retained section 196",
+      "order": 196
+    },
+    {
+      "id": 197,
+      "name": "Upper right figure's garment and collar, retained section 197",
+      "order": 197
+    },
+    {
+      "id": 198,
+      "name": "Upper right figure's garment and collar, retained section 198",
+      "order": 198
+    },
+    {
+      "id": 199,
+      "name": "Upper right figure's garment and collar, retained section 199",
+      "order": 199
+    },
+    {
+      "id": 200,
+      "name": "Left figure's shoulder and garment, retained section 200",
+      "order": 200
+    },
+    {
+      "id": 201,
+      "name": "Fine outline fragment beside Left figure's shoulder and garment, retained section 201",
+      "order": 201
+    },
+    {
+      "id": 202,
+      "name": "Upper right figure's garment and collar, retained section 202",
+      "order": 202
+    },
+    {
+      "id": 203,
+      "name": "Upper right figure's garment and collar, retained section 203",
+      "order": 203
+    },
+    {
+      "id": 204,
+      "name": "Upper right figure's garment and collar, retained section 204",
+      "order": 204
+    },
+    {
+      "id": 205,
+      "name": "Upper right figure's garment and collar, retained section 205",
+      "order": 205
+    },
+    {
+      "id": 206,
+      "name": "Decorated round object's toothed rim and center flower, retained section 206",
+      "order": 206
+    },
+    {
+      "id": 207,
+      "name": "Lower right figure's hand and sleeve, retained section 207",
+      "order": 207
+    },
+    {
+      "id": 208,
+      "name": "Decorated round object's toothed rim and center flower, retained section 208",
+      "order": 208
+    },
+    {
+      "id": 209,
+      "name": "Lower right figure's hand and sleeve, retained section 209",
+      "order": 209
+    },
+    {
+      "id": 210,
+      "name": "Lower right figure's hand and sleeve, retained section 210",
+      "order": 210
+    },
+    {
+      "id": 211,
+      "name": "Lower right figure's hand and sleeve, retained section 211",
+      "order": 211
+    },
+    {
+      "id": 212,
+      "name": "Lower right figure's hand and sleeve, retained section 212",
+      "order": 212
+    },
+    {
+      "id": 213,
+      "name": "Lower right figure's hand and sleeve, retained section 213",
+      "order": 213
+    },
+    {
+      "id": 214,
+      "name": "Lower right figure's hand and sleeve, retained section 214",
+      "order": 214
+    },
+    {
+      "id": 215,
+      "name": "Decorated round object's toothed rim and center flower, retained section 215",
+      "order": 215
+    },
+    {
+      "id": 216,
+      "name": "Decorated round object's toothed rim and center flower, retained section 216",
+      "order": 216
+    },
+    {
+      "id": 217,
+      "name": "Decorated round object's toothed rim and center flower, retained section 217",
+      "order": 217
+    },
+    {
+      "id": 218,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 218",
+      "order": 218
+    },
+    {
+      "id": 219,
+      "name": "Decorated round object's toothed rim and center flower, retained section 219",
+      "order": 219
+    },
+    {
+      "id": 220,
+      "name": "Lower right figure's hand and sleeve, retained section 220",
+      "order": 220
+    },
+    {
+      "id": 221,
+      "name": "Decorated round object's toothed rim and center flower, retained section 221",
+      "order": 221
+    },
+    {
+      "id": 222,
+      "name": "Fine outline fragment beside Decorated round object's toothed rim and center flower, retained section 222",
+      "order": 222
+    },
+    {
+      "id": 223,
+      "name": "Lower right figure's hand and sleeve, retained section 223",
+      "order": 223
+    },
+    {
+      "id": 224,
+      "name": "Fine outline fragment beside Left figure's face beard and ear, retained section 224",
+      "order": 224
+    },
+    {
+      "id": 225,
+      "name": "Fine outline fragment beside Left figure's face beard and ear, retained section 225",
+      "order": 225
+    },
+    {
+      "id": 226,
+      "name": "Fine outline fragment beside Decorated round object's toothed rim and center flower, retained section 226",
+      "order": 226
+    },
+    {
+      "id": 227,
+      "name": "Decorated round object's toothed rim and center flower, retained section 227",
+      "order": 227
+    },
+    {
+      "id": 228,
+      "name": "Decorated round object's toothed rim and center flower, retained section 228",
+      "order": 228
+    },
+    {
+      "id": 229,
+      "name": "Decorated round object's toothed rim and center flower, retained section 229",
+      "order": 229
+    },
+    {
+      "id": 230,
+      "name": "Decorated round object's toothed rim and center flower, retained section 230",
+      "order": 230
+    },
+    {
+      "id": 231,
+      "name": "Decorated round object's toothed rim and center flower, retained section 231",
+      "order": 231
+    },
+    {
+      "id": 232,
+      "name": "Decorated round object's toothed rim and center flower, retained section 232",
+      "order": 232
+    },
+    {
+      "id": 233,
+      "name": "Decorated round object's toothed rim and center flower, retained section 233",
+      "order": 233
+    },
+    {
+      "id": 234,
+      "name": "Decorated round object's toothed rim and center flower, retained section 234",
+      "order": 234
+    },
+    {
+      "id": 235,
+      "name": "Decorated round object's toothed rim and center flower, retained section 235",
+      "order": 235
+    },
+    {
+      "id": 236,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 236",
+      "order": 236
+    },
+    {
+      "id": 237,
+      "name": "Fine outline fragment beside Decorated round object's toothed rim and center flower, retained section 237",
+      "order": 237
+    },
+    {
+      "id": 238,
+      "name": "Decorated round object's toothed rim and center flower, retained section 238",
+      "order": 238
+    },
+    {
+      "id": 239,
+      "name": "Lower right figure's hand and sleeve, retained section 239",
+      "order": 239
+    },
+    {
+      "id": 240,
+      "name": "Lower right figure's hand and sleeve, retained section 240",
+      "order": 240
+    },
+    {
+      "id": 241,
+      "name": "Decorated round object's toothed rim and center flower, retained section 241",
+      "order": 241
+    },
+    {
+      "id": 242,
+      "name": "Lower right figure's hand and sleeve, retained section 242",
+      "order": 242
+    },
+    {
+      "id": 243,
+      "name": "Decorated round object's toothed rim and center flower, retained section 243",
+      "order": 243
+    },
+    {
+      "id": 244,
+      "name": "Decorated round object's toothed rim and center flower, retained section 244",
+      "order": 244
+    },
+    {
+      "id": 245,
+      "name": "Lower right figure's hand and sleeve, retained section 245",
+      "order": 245
+    },
+    {
+      "id": 246,
+      "name": "Decorated round object's toothed rim and center flower, retained section 246",
+      "order": 246
+    },
+    {
+      "id": 247,
+      "name": "Background around the lower head and figures, retained section 247",
+      "order": 247
+    },
+    {
+      "id": 248,
+      "name": "Decorated round object's toothed rim and center flower, retained section 248",
+      "order": 248
+    },
+    {
+      "id": 249,
+      "name": "Background around the lower head and figures, retained section 249",
+      "order": 249
+    },
+    {
+      "id": 250,
+      "name": "Lower right figure's hand and sleeve, retained section 250",
+      "order": 250
+    },
+    {
+      "id": 251,
+      "name": "Decorated round object's toothed rim and center flower, retained section 251",
+      "order": 251
+    },
+    {
+      "id": 252,
+      "name": "Decorated round object's toothed rim and center flower, retained section 252",
+      "order": 252
+    },
+    {
+      "id": 253,
+      "name": "Lower right figure's hand and sleeve, retained section 253",
+      "order": 253
+    },
+    {
+      "id": 254,
+      "name": "Lower right figure's hand and sleeve, retained section 254",
+      "order": 254
+    },
+    {
+      "id": 255,
+      "name": "Background around the lower head and figures, retained section 255",
+      "order": 255
+    },
+    {
+      "id": 256,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 256",
+      "order": 256
+    },
+    {
+      "id": 257,
+      "name": "Fine outline fragment beside Decorated round object's toothed rim and center flower, retained section 257",
+      "order": 257
+    },
+    {
+      "id": 258,
+      "name": "Lower right figure's hand and sleeve, retained section 258",
+      "order": 258
+    },
+    {
+      "id": 259,
+      "name": "Lower right figure's hand and sleeve, retained section 259",
+      "order": 259
+    },
+    {
+      "id": 260,
+      "name": "Fine outline fragment beside Decorated round object's toothed rim and center flower, retained section 260",
+      "order": 260
+    },
+    {
+      "id": 261,
+      "name": "Lower right figure's hand and sleeve, retained section 261",
+      "order": 261
+    },
+    {
+      "id": 262,
+      "name": "Lower right figure's hand and sleeve, retained section 262",
+      "order": 262
+    },
+    {
+      "id": 263,
+      "name": "Decorated round object's toothed rim and center flower, retained section 263",
+      "order": 263
+    },
+    {
+      "id": 264,
+      "name": "Lower right figure's hand and sleeve, retained section 264",
+      "order": 264
+    },
+    {
+      "id": 265,
+      "name": "Lower right figure's hand and sleeve, retained section 265",
+      "order": 265
+    },
+    {
+      "id": 266,
+      "name": "Lower right figure's hand and sleeve, retained section 266",
+      "order": 266
+    },
+    {
+      "id": 267,
+      "name": "Lower right figure's hand and sleeve, retained section 267",
+      "order": 267
+    },
+    {
+      "id": 268,
+      "name": "Decorated round object's toothed rim and center flower, retained section 268",
+      "order": 268
+    },
+    {
+      "id": 269,
+      "name": "Decorated round object's toothed rim and center flower, retained section 269",
+      "order": 269
+    },
+    {
+      "id": 270,
+      "name": "Lower right figure's hand and sleeve, retained section 270",
+      "order": 270
+    },
+    {
+      "id": 271,
+      "name": "Decorated round object's toothed rim and center flower, retained section 271",
+      "order": 271
+    },
+    {
+      "id": 272,
+      "name": "Fine outline fragment beside Background around the lower head and figures, retained section 272",
+      "order": 272
+    },
+    {
+      "id": 273,
+      "name": "Background around the lower head and figures, retained section 273",
+      "order": 273
+    },
+    {
+      "id": 274,
+      "name": "Background around the lower head and figures, retained section 274",
+      "order": 274
+    },
+    {
+      "id": 275,
+      "name": "Background around the lower head and figures, retained section 275",
+      "order": 275
+    },
+    {
+      "id": 276,
+      "name": "Background around the lower head and figures, retained section 276",
+      "order": 276
+    },
+    {
+      "id": 277,
+      "name": "Lower right figure's hand and sleeve, retained section 277",
+      "order": 277
+    },
+    {
+      "id": 278,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 278",
+      "order": 278
+    },
+    {
+      "id": 279,
+      "name": "Background around the lower head and figures, retained section 279",
+      "order": 279
+    },
+    {
+      "id": 280,
+      "name": "Lower right figure's hand and sleeve, retained section 280",
+      "order": 280
+    },
+    {
+      "id": 281,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 281",
+      "order": 281
+    },
+    {
+      "id": 282,
+      "name": "Lower right figure's hand and sleeve, retained section 282",
+      "order": 282
+    },
+    {
+      "id": 283,
+      "name": "Lower right figure's hand and sleeve, retained section 283",
+      "order": 283
+    },
+    {
+      "id": 284,
+      "name": "Lower right figure's hand and sleeve, retained section 284",
+      "order": 284
+    },
+    {
+      "id": 285,
+      "name": "Lower right figure's hand and sleeve, retained section 285",
+      "order": 285
+    },
+    {
+      "id": 286,
+      "name": "Lower right figure's hand and sleeve, retained section 286",
+      "order": 286
+    },
+    {
+      "id": 287,
+      "name": "Lower right figure's hand and sleeve, retained section 287",
+      "order": 287
+    },
+    {
+      "id": 288,
+      "name": "Lower right figure's hand and sleeve, retained section 288",
+      "order": 288
+    },
+    {
+      "id": 289,
+      "name": "Lower right figure's hand and sleeve, retained section 289",
+      "order": 289
+    },
+    {
+      "id": 290,
+      "name": "Lower right figure's hand and sleeve, retained section 290",
+      "order": 290
+    },
+    {
+      "id": 291,
+      "name": "Lower right figure's hand and sleeve, retained section 291",
+      "order": 291
+    },
+    {
+      "id": 292,
+      "name": "Fine outline fragment beside Background around the lower head and figures, retained section 292",
+      "order": 292
+    },
+    {
+      "id": 293,
+      "name": "Background around the lower head and figures, retained section 293",
+      "order": 293
+    },
+    {
+      "id": 294,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 294",
+      "order": 294
+    },
+    {
+      "id": 295,
+      "name": "Background around the lower head and figures, retained section 295",
+      "order": 295
+    },
+    {
+      "id": 296,
+      "name": "Fine outline fragment beside Background around the lower head and figures, retained section 296",
+      "order": 296
+    },
+    {
+      "id": 297,
+      "name": "Lower right figure's hand and sleeve, retained section 297",
+      "order": 297
+    },
+    {
+      "id": 298,
+      "name": "Lower right figure's hand and sleeve, retained section 298",
+      "order": 298
+    },
+    {
+      "id": 299,
+      "name": "Lower right figure's hand and sleeve, retained section 299",
+      "order": 299
+    },
+    {
+      "id": 300,
+      "name": "Fine outline fragment beside Background around the lower head and figures, retained section 300",
+      "order": 300
+    },
+    {
+      "id": 301,
+      "name": "Background around the lower head and figures, retained section 301",
+      "order": 301
+    },
+    {
+      "id": 302,
+      "name": "Background around the lower head and figures, retained section 302",
+      "order": 302
+    },
+    {
+      "id": 303,
+      "name": "Lower right figure's hand and sleeve, retained section 303",
+      "order": 303
+    },
+    {
+      "id": 304,
+      "name": "Lower right figure's hand and sleeve, retained section 304",
+      "order": 304
+    },
+    {
+      "id": 305,
+      "name": "Lower right figure's hand and sleeve, retained section 305",
+      "order": 305
+    },
+    {
+      "id": 306,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 306",
+      "order": 306
+    },
+    {
+      "id": 307,
+      "name": "Lower right figure's hand and sleeve, retained section 307",
+      "order": 307
+    },
+    {
+      "id": 308,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 308",
+      "order": 308
+    },
+    {
+      "id": 309,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 309",
+      "order": 309
+    },
+    {
+      "id": 310,
+      "name": "Background around the lower head and figures, retained section 310",
+      "order": 310
+    },
+    {
+      "id": 311,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 311",
+      "order": 311
+    },
+    {
+      "id": 312,
+      "name": "Lower right figure's hand and sleeve, retained section 312",
+      "order": 312
+    },
+    {
+      "id": 313,
+      "name": "Lower right figure's hand and sleeve, retained section 313",
+      "order": 313
+    },
+    {
+      "id": 314,
+      "name": "Fine outline fragment beside Background around the lower head and figures, retained section 314",
+      "order": 314
+    },
+    {
+      "id": 315,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 315",
+      "order": 315
+    },
+    {
+      "id": 316,
+      "name": "Background around the lower head and figures, retained section 316",
+      "order": 316
+    },
+    {
+      "id": 317,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 317",
+      "order": 317
+    },
+    {
+      "id": 318,
+      "name": "Lower right figure's hand and sleeve, retained section 318",
+      "order": 318
+    },
+    {
+      "id": 319,
+      "name": "Background around the lower head and figures, retained section 319",
+      "order": 319
+    },
+    {
+      "id": 320,
+      "name": "Lower right figure's hand and sleeve, retained section 320",
+      "order": 320
+    },
+    {
+      "id": 321,
+      "name": "Background around the lower head and figures, retained section 321",
+      "order": 321
+    },
+    {
+      "id": 322,
+      "name": "Lower right figure's hand and sleeve, retained section 322",
+      "order": 322
+    },
+    {
+      "id": 323,
+      "name": "Lower right figure's hand and sleeve, retained section 323",
+      "order": 323
+    },
+    {
+      "id": 324,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 324",
+      "order": 324
+    },
+    {
+      "id": 325,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 325",
+      "order": 325
+    },
+    {
+      "id": 326,
+      "name": "Background around the lower head and figures, retained section 326",
+      "order": 326
+    },
+    {
+      "id": 327,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 327",
+      "order": 327
+    },
+    {
+      "id": 328,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 328",
+      "order": 328
+    },
+    {
+      "id": 329,
+      "name": "Lower bearded figure's face, retained section 329",
+      "order": 329
+    },
+    {
+      "id": 330,
+      "name": "Lower right figure's hand and sleeve, retained section 330",
+      "order": 330
+    },
+    {
+      "id": 331,
+      "name": "Background around the lower head and figures, retained section 331",
+      "order": 331
+    },
+    {
+      "id": 332,
+      "name": "Fine outline fragment beside Lower bearded figure's flowing hair and beard, retained section 332",
+      "order": 332
+    },
+    {
+      "id": 333,
+      "name": "Lower right figure's hand and sleeve, retained section 333",
+      "order": 333
+    },
+    {
+      "id": 334,
+      "name": "Lower right figure's hand and sleeve, retained section 334",
+      "order": 334
+    },
+    {
+      "id": 335,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 335",
+      "order": 335
+    },
+    {
+      "id": 336,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 336",
+      "order": 336
+    },
+    {
+      "id": 337,
+      "name": "Background around the lower head and figures, retained section 337",
+      "order": 337
+    },
+    {
+      "id": 338,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 338",
+      "order": 338
+    },
+    {
+      "id": 339,
+      "name": "Lower right figure's hand and sleeve, retained section 339",
+      "order": 339
+    },
+    {
+      "id": 340,
+      "name": "Background around the lower head and figures, retained section 340",
+      "order": 340
+    },
+    {
+      "id": 341,
+      "name": "Lower right figure's hand and sleeve, retained section 341",
+      "order": 341
+    },
+    {
+      "id": 342,
+      "name": "Lower right figure's hand and sleeve, retained section 342",
+      "order": 342
+    },
+    {
+      "id": 343,
+      "name": "Fine outline fragment beside Background around the lower head and figures, retained section 343",
+      "order": 343
+    },
+    {
+      "id": 344,
+      "name": "Lower right figure's hand and sleeve, retained section 344",
+      "order": 344
+    },
+    {
+      "id": 345,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 345",
+      "order": 345
+    },
+    {
+      "id": 346,
+      "name": "Background around the lower head and figures, retained section 346",
+      "order": 346
+    },
+    {
+      "id": 347,
+      "name": "Background around the lower head and figures, retained section 347",
+      "order": 347
+    },
+    {
+      "id": 348,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 348",
+      "order": 348
+    },
+    {
+      "id": 349,
+      "name": "Fine outline fragment beside Lower right figure's hand and sleeve, retained section 349",
+      "order": 349
+    },
+    {
+      "id": 350,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 350",
+      "order": 350
+    },
+    {
+      "id": 351,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 351",
+      "order": 351
+    },
+    {
+      "id": 352,
+      "name": "Background around the lower head and figures, retained section 352",
+      "order": 352
+    },
+    {
+      "id": 353,
+      "name": "Background around the lower head and figures, retained section 353",
+      "order": 353
+    },
+    {
+      "id": 354,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 354",
+      "order": 354
+    },
+    {
+      "id": 355,
+      "name": "Lower bearded figure's flowing hair and beard, retained section 355",
+      "order": 355
+    },
+    {
+      "id": 356,
+      "name": "Background around the lower head and figures, retained section 356",
+      "order": 356
+    },
+    {
+      "id": 357,
+      "name": "Lower central leaf ornament, retained section 357",
+      "order": 357
+    },
+    {
+      "id": 358,
+      "name": "Lower central leaf ornament, retained section 358",
+      "order": 358
+    },
+    {
+      "id": 359,
+      "name": "Background around the lower head and figures, retained section 359",
+      "order": 359
+    },
+    {
+      "id": 360,
+      "name": "Background around the lower head and figures, retained section 360",
+      "order": 360
+    },
+    {
+      "id": 361,
+      "name": "Fine outline fragment beside Lower central leaf ornament, retained section 361",
+      "order": 361
+    },
+    {
+      "id": 362,
+      "name": "Fine outline fragment beside Background around the lower head and figures, retained section 362",
+      "order": 362
+    },
+    {
+      "id": 363,
+      "name": "Fine outline fragment beside Background around the lower head and figures, retained section 363",
+      "order": 363
+    },
+    {
+      "id": 364,
+      "name": "Fine outline fragment beside Lower central leaf ornament, retained section 364",
+      "order": 364
+    },
+    {
+      "id": 365,
+      "name": "Lower central leaf ornament, retained section 365",
+      "order": 365
+    },
+    {
+      "id": 366,
+      "name": "Background around the lower head and figures, retained section 366",
+      "order": 366
+    },
+    {
+      "id": 367,
+      "name": "Background around the lower head and figures, retained section 367",
+      "order": 367
+    }
+  ],
+  "schemaVersion": 1
+}

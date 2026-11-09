@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "algorithmVersion": "regions-v1",
+  "inkThreshold": 180,
+  "excludedSeedPoints": [[0, 0]],
+  "barrierAddMask": "barrier-add.png",
+  "notes": "Paired 4x crops inspected in .work/region-crops/design-008/small-01.png and small-02.png. Explicit connectivity-only correction of original IDs 12,15,18,19,23,35,38,42,54,56,58: disconnected tips at fingers, hair ends, pane corners and elbow. Retain enclosed small details 41,45,46,47 and 50 in hair/ear/arm line junctions. No size cutoff. Source and canonical ink unchanged; previous version retained. Outside white margin excluded."
+}

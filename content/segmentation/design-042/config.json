@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered source, all three small-component sheets and a ten-times source eye crop. The left upper eye's narrow white stripe is distinct from its broad upper pane; the lower white area opens into the face, so do not force a separate iris band there. Retain the tiny pupil glint, small lower eye-outline corners and closed lip slit. Reconnect only the narrow stripe, other eye crescent, fine wing rib and closed wing interstice. Exclude explicit acute tips only. Two winged figures, cropped upper garments/feet, cloud bands and lower radiating panes remain separate. Visible-feature names and positions are authored without changing canonical ink, source art or prior saved packages. Explicit inspected tip IDs: 26,43,49,78,83,93,102,106. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

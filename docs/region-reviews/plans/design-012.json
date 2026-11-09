@@ -1,0 +1,22 @@
+{
+ "schemaVersion":1,"artworkId":"design-012","sourceVersion":"a245b4b5aa6319d71b7e92d435f2661265660ac6ce5860f20b83590b257f4625",
+ "observations":"Complete numbered source overlay and all eighteen small-component crops inspected. Nine isolated acute tips excluded explicitly. The thin pane beside the lower-left leaf comprises ten staircase fragments (68-77); reconnect only that narrow strip, preserving its separation from the neighboring leaf, frame and fruit. Curled upper border details remain separate. The grasping hand and bent fingers around the sword remain distinct. Eight round hilt decorations and the surrounding hilt band retain boundaries, including narrow gaps around the end circle. Large flowing bands, fruit bodies, curved outlines and leaf interiors remain distinct. Open leaf veins remain part of their containing leaf. Names distinguish repeated decorative details by feature and position. No canonical drawing pixels are changed, and old geometry remains available for saves.",
+ "evidence":[".work/review/design-012/a245b4b5aa6319d71b7e92d435f2661265660ac6ce5860f20b83590b257f4625/regions-numbered-2x.png",".work/region-crops/design-012/small-01.png",".work/region-crops/design-012/small-02.png"],
+ "tips":"18,31,42,49,79,84-86,88","joins":["68-77"],
+ "groups":[
+ {"name":"Continuous outer frame","ids":"1"},
+ {"name":"Broad flowing bands above and beside the sword","ids":"2-4,7-10,30,33,39,50,52,54-57,59-62"},
+ {"name":"Curled ornamental border and its inner panes","ids":"5,6,11-17,19-29"},
+ {"name":"Hand gripping the sword and bent fingers","ids":"32,34-36,38"},
+ {"name":"Sword hilt frame and inner spaces","ids":"37,40,43,47"},
+ {"name":"Round decorations on the sword hilt","ids":"41,44-46,48,51,53,58"},
+ {"name":"Large leaves around the fruit","ids":"63-65,78,91"},
+ {"name":"Narrow curved leaf interior","ids":"66"},
+ {"name":"Small background panes beside the lower-left leaf","ids":"67,80,81"},
+ {"name":"Thin pane beside the lower-left leaf","ids":"68-77"},
+ {"name":"Round fruit at the lower right","ids":"82"},
+ {"name":"Round fruit at the lower left","ids":"83"},
+ {"name":"Curved stems and outlines around the fruit","ids":"87,89,90,92,93"},
+ {"name":"Bottom corner panes beneath the fruit","ids":"94,95"}
+ ]
+}

@@ -1,0 +1,572 @@
+{
+  "artworkId": "design-019",
+  "contentVersion": "7483a547083d23884115e38ba2eaf100a328a248d2e8e93c2d8677ac96f0062c",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Continuous outer frame",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Curved divider beside the adult's face",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Sky and background beside the adult, top left section 2",
+      "order": 4
+    },
+    {
+      "id": 4,
+      "name": "Sky and background beside the adult, top right section 1",
+      "order": 3
+    },
+    {
+      "id": 5,
+      "name": "Adult's hair, headband and separate curls, top right section 2",
+      "order": 9
+    },
+    {
+      "id": 6,
+      "name": "Adult's hair, headband and separate curls, top center section 1",
+      "order": 8
+    },
+    {
+      "id": 7,
+      "name": "Adult's hair, headband and separate curls, top center section 3",
+      "order": 10
+    },
+    {
+      "id": 8,
+      "name": "Adult's hair, headband and separate curls, top center section 7",
+      "order": 14
+    },
+    {
+      "id": 9,
+      "name": "Adult's hair, headband and separate curls, top right section 4",
+      "order": 11
+    },
+    {
+      "id": 10,
+      "name": "Adult's hair, headband and separate curls, top center section 5",
+      "order": 12
+    },
+    {
+      "id": 11,
+      "name": "Adult's hair, headband and separate curls, top center section 6",
+      "order": 13
+    },
+    {
+      "id": 12,
+      "name": "Adult's face and neck",
+      "order": 19
+    },
+    {
+      "id": 13,
+      "name": "Pyramid faces and enclosed palm-tree detail, upper-middle left section 1",
+      "order": 22
+    },
+    {
+      "id": 14,
+      "name": "Adult's hair, headband and separate curls, upper-middle right section 10",
+      "order": 17
+    },
+    {
+      "id": 15,
+      "name": "Adult's hair, headband and separate curls, top center section 8",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Round earring",
+      "order": 18
+    },
+    {
+      "id": 17,
+      "name": "Pyramid faces and enclosed palm-tree detail, upper-middle center section 2",
+      "order": 23
+    },
+    {
+      "id": 18,
+      "name": "Small sky triangle between the pyramids",
+      "order": 25
+    },
+    {
+      "id": 19,
+      "name": "Adult's hair, headband and separate curls, top right section 9",
+      "order": 16
+    },
+    {
+      "id": 20,
+      "name": "Small closed triangle beside the adult's hair",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Sky and background beside the adult, upper-middle center section 4",
+      "order": 6
+    },
+    {
+      "id": 22,
+      "name": "Sky and background beside the adult, upper-middle right section 3",
+      "order": 5
+    },
+    {
+      "id": 23,
+      "name": "Adult's closed mouth detail",
+      "order": 21
+    },
+    {
+      "id": 24,
+      "name": "Pyramid faces and enclosed palm-tree detail, upper-middle left section 3",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "River and horizon bands, upper-middle center section 1",
+      "order": 26
+    },
+    {
+      "id": 26,
+      "name": "River and horizon bands, upper-middle left section 2",
+      "order": 27
+    },
+    {
+      "id": 27,
+      "name": "River and horizon bands, upper-middle left section 3",
+      "order": 28
+    },
+    {
+      "id": 28,
+      "name": "Adult's broad drape and long garment bands, upper-middle left section 1",
+      "order": 29
+    },
+    {
+      "id": 29,
+      "name": "Sky and background beside the adult, upper-middle left section 5",
+      "order": 7
+    },
+    {
+      "id": 30,
+      "name": "Adult's broad drape and long garment bands, lower-middle left section 4",
+      "order": 32
+    },
+    {
+      "id": 31,
+      "name": "Adult's broad drape and long garment bands, lower-middle center section 3",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Adult's broad drape and long garment bands, upper-middle left section 2",
+      "order": 30
+    },
+    {
+      "id": 33,
+      "name": "Adult's broad drape and long garment bands, lower-middle right section 5",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Adult's broad drape and long garment bands, lower-middle right section 6",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Adult's broad drape and long garment bands, lower-middle right section 10",
+      "order": 38
+    },
+    {
+      "id": 36,
+      "name": "Adult's broad drape and long garment bands, lower-middle left section 7",
+      "order": 35
+    },
+    {
+      "id": 37,
+      "name": "Adult's broad drape and long garment bands, lower-middle right section 12",
+      "order": 40
+    },
+    {
+      "id": 38,
+      "name": "Adult's broad drape and long garment bands, lower-middle center section 8",
+      "order": 36
+    },
+    {
+      "id": 39,
+      "name": "Adult's broad drape and long garment bands, lower-middle left section 9",
+      "order": 37
+    },
+    {
+      "id": 40,
+      "name": "Adult's broad drape and long garment bands, lower-middle right section 11",
+      "order": 39
+    },
+    {
+      "id": 41,
+      "name": "Adult's broad drape and long garment bands, lower-middle center section 13",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Adult's broad drape and long garment bands, lower-middle left section 14",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Basket rim and background around the baby, bottom center section 3",
+      "order": 49
+    },
+    {
+      "id": 44,
+      "name": "Adult's broad drape and long garment bands, lower-middle right section 15",
+      "order": 43
+    },
+    {
+      "id": 45,
+      "name": "Basket rim and background around the baby, lower-middle left section 1",
+      "order": 47
+    },
+    {
+      "id": 46,
+      "name": "Large hand above the basket",
+      "order": 45
+    },
+    {
+      "id": 47,
+      "name": "Background bands outside the basket, lower-middle left section 1",
+      "order": 50
+    },
+    {
+      "id": 48,
+      "name": "Enclosed gap between the large fingers",
+      "order": 46
+    },
+    {
+      "id": 49,
+      "name": "Basket rim and background around the baby, bottom center section 2",
+      "order": 48
+    },
+    {
+      "id": 50,
+      "name": "Adult's broad drape and long garment bands, bottom right section 16",
+      "order": 44
+    },
+    {
+      "id": 51,
+      "name": "Background bands outside the basket, bottom left section 2",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Baby's raised arm and right hand",
+      "order": 62
+    },
+    {
+      "id": 53,
+      "name": "Baby's raised left hand",
+      "order": 63
+    },
+    {
+      "id": 54,
+      "name": "Small closed gap at the baby's hairline",
+      "order": 64
+    },
+    {
+      "id": 55,
+      "name": "Small gap between the raised hands",
+      "order": 65
+    },
+    {
+      "id": 56,
+      "name": "Baby's curved hair bands, bottom left section 1",
+      "order": 66
+    },
+    {
+      "id": 57,
+      "name": "Baby's face and neck",
+      "order": 70
+    },
+    {
+      "id": 58,
+      "name": "Blanket and woven basket strips, bottom right section 2",
+      "order": 73
+    },
+    {
+      "id": 59,
+      "name": "Blanket and woven basket strips, bottom right section 1",
+      "order": 72
+    },
+    {
+      "id": 60,
+      "name": "Background bands outside the basket, bottom left section 3",
+      "order": 52
+    },
+    {
+      "id": 61,
+      "name": "Baby's curved hair bands, bottom left section 2",
+      "order": 67
+    },
+    {
+      "id": 62,
+      "name": "Blanket and woven basket strips, bottom right section 4",
+      "order": 75
+    },
+    {
+      "id": 63,
+      "name": "Blanket and woven basket strips, bottom right section 3",
+      "order": 74
+    },
+    {
+      "id": 64,
+      "name": "Blanket and woven basket strips, bottom center section 5",
+      "order": 76
+    },
+    {
+      "id": 65,
+      "name": "Background bands outside the basket, bottom left section 4",
+      "order": 53
+    },
+    {
+      "id": 66,
+      "name": "Blanket and woven basket strips, bottom center section 6",
+      "order": 77
+    },
+    {
+      "id": 67,
+      "name": "Blanket and woven basket strips, bottom center section 7",
+      "order": 78
+    },
+    {
+      "id": 68,
+      "name": "Baby's curved hair bands, bottom left section 3",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Blanket and woven basket strips, bottom right section 8",
+      "order": 79
+    },
+    {
+      "id": 70,
+      "name": "Background bands outside the basket, bottom left section 5",
+      "order": 54
+    },
+    {
+      "id": 71,
+      "name": "Baby's curved hair bands, bottom left section 4",
+      "order": 69
+    },
+    {
+      "id": 72,
+      "name": "Blanket and woven basket strips, bottom right section 13",
+      "order": 84
+    },
+    {
+      "id": 73,
+      "name": "Thin closed space below the baby's chin",
+      "order": 71
+    },
+    {
+      "id": 74,
+      "name": "Blanket and woven basket strips, bottom left section 15",
+      "order": 86
+    },
+    {
+      "id": 75,
+      "name": "Blanket and woven basket strips, bottom left section 9",
+      "order": 80
+    },
+    {
+      "id": 76,
+      "name": "Blanket and woven basket strips, bottom left section 12",
+      "order": 83
+    },
+    {
+      "id": 77,
+      "name": "Background bands outside the basket, bottom left section 6",
+      "order": 55
+    },
+    {
+      "id": 78,
+      "name": "Blanket and woven basket strips, bottom left section 14",
+      "order": 85
+    },
+    {
+      "id": 79,
+      "name": "Blanket and woven basket strips, bottom right section 11",
+      "order": 82
+    },
+    {
+      "id": 80,
+      "name": "Blanket and woven basket strips, bottom center section 10",
+      "order": 81
+    },
+    {
+      "id": 81,
+      "name": "Blanket and woven basket strips, bottom right section 16",
+      "order": 87
+    },
+    {
+      "id": 82,
+      "name": "Blanket and woven basket strips, bottom left section 18",
+      "order": 89
+    },
+    {
+      "id": 83,
+      "name": "Blanket and woven basket strips, bottom right section 26",
+      "order": 97
+    },
+    {
+      "id": 84,
+      "name": "Blanket and woven basket strips, bottom center section 29",
+      "order": 100
+    },
+    {
+      "id": 85,
+      "name": "Blanket and woven basket strips, bottom center section 31",
+      "order": 102
+    },
+    {
+      "id": 86,
+      "name": "Blanket and woven basket strips, bottom right section 19",
+      "order": 90
+    },
+    {
+      "id": 87,
+      "name": "Blanket and woven basket strips, bottom right section 22",
+      "order": 93
+    },
+    {
+      "id": 88,
+      "name": "Blanket and woven basket strips, bottom right section 25",
+      "order": 96
+    },
+    {
+      "id": 89,
+      "name": "Blanket and woven basket strips, bottom center section 21",
+      "order": 92
+    },
+    {
+      "id": 90,
+      "name": "Blanket and woven basket strips, bottom center section 17",
+      "order": 88
+    },
+    {
+      "id": 91,
+      "name": "Blanket and woven basket strips, bottom center section 34",
+      "order": 105
+    },
+    {
+      "id": 92,
+      "name": "Blanket and woven basket strips, bottom center section 20",
+      "order": 91
+    },
+    {
+      "id": 93,
+      "name": "Background bands outside the basket, bottom left section 7",
+      "order": 56
+    },
+    {
+      "id": 94,
+      "name": "Blanket and woven basket strips, bottom left section 23",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Blanket and woven basket strips, bottom center section 24",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Blanket and woven basket strips, bottom left section 27",
+      "order": 98
+    },
+    {
+      "id": 97,
+      "name": "Blanket and woven basket strips, bottom right section 28",
+      "order": 99
+    },
+    {
+      "id": 98,
+      "name": "Blanket and woven basket strips, bottom center section 30",
+      "order": 101
+    },
+    {
+      "id": 99,
+      "name": "Blanket and woven basket strips, bottom right section 32",
+      "order": 103
+    },
+    {
+      "id": 100,
+      "name": "Blanket and woven basket strips, bottom center section 33",
+      "order": 104
+    },
+    {
+      "id": 101,
+      "name": "Blanket and woven basket strips, bottom left section 36",
+      "order": 107
+    },
+    {
+      "id": 102,
+      "name": "Background bands outside the basket, bottom right section 8",
+      "order": 57
+    },
+    {
+      "id": 103,
+      "name": "Blanket and woven basket strips, bottom center section 35",
+      "order": 106
+    },
+    {
+      "id": 104,
+      "name": "Blanket and woven basket strips, bottom right section 37",
+      "order": 108
+    },
+    {
+      "id": 105,
+      "name": "Background bands outside the basket, bottom left section 9",
+      "order": 58
+    },
+    {
+      "id": 106,
+      "name": "Blanket and woven basket strips, bottom center section 39",
+      "order": 110
+    },
+    {
+      "id": 107,
+      "name": "Blanket and woven basket strips, bottom center section 38",
+      "order": 109
+    },
+    {
+      "id": 108,
+      "name": "Blanket and woven basket strips, bottom right section 40",
+      "order": 111
+    },
+    {
+      "id": 109,
+      "name": "Background bands outside the basket, bottom left section 10",
+      "order": 59
+    },
+    {
+      "id": 110,
+      "name": "Blanket and woven basket strips, bottom center section 41",
+      "order": 112
+    },
+    {
+      "id": 111,
+      "name": "Background bands outside the basket, bottom right section 11",
+      "order": 60
+    },
+    {
+      "id": 112,
+      "name": "Blanket and woven basket strips, bottom center section 42",
+      "order": 113
+    },
+    {
+      "id": 113,
+      "name": "Background bands outside the basket, bottom left section 12",
+      "order": 61
+    }
+  ],
+  "schemaVersion": 1
+}

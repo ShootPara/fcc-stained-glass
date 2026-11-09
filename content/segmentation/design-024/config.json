@@ -1,0 +1,14 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [
+    [
+      0,
+      0
+    ]
+  ],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered overlay and all five sheets of small components against the uncolored drawing. Exclude only explicit isolated acute endpoints; retain the eye highlight, closed finger space and the small interstices among the round head ornaments. Reconnect fragmented nostril, eye and narrow closed hand details without changing the visible ink. Round ornaments and their enclosed background gaps remain independently selectable. Upper figure, raised hand, lower profiles, curved staff and flowing background bands receive feature-based positional names. Source drawing pixels and earlier packages remain unchanged. Explicit inspected tip IDs: 12,17,26,38,40,42,43,48,52,53,57,59,77,87,101,103,110,114,116,133,135,158,165,173,182. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

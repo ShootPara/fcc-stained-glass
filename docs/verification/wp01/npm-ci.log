@@ -1,0 +1,9 @@
+
+> fcc-stained-glass@0.1.0 prepare
+> node --import tsx scripts/prepare-assets.ts
+
+Prepare artwork: npm run prepare -- --id design-002  OR  npm run prepare -- --all
+No assets changed.
+
+added 55 packages in 7s
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.

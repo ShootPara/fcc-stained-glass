@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "recordId": "design-002",
+  "reviewKind": "segmentation",
+  "reviewedDigest": "2054f05d47ca4931ffb863b778aca7148d9d911f6aad91e2980723593dedfec5",
+  "reviewer": "ChatGPT — visual review of the full colored and numbered overlays, correction mask, uniform fill, and all 45 keyboard names",
+  "reviewedAtUtc": "2026-11-06T20:42:28.086Z",
+  "outcome": "complete",
+  "contentVersion": "45e61ecb9662f4430786d85ea43b7edddeb2a8180b743d3f9c3e59dc3dd6a85e",
+  "keyboardMetadataDigest": "bed7e48d8017e1d7af66b511be450728aafc5237f055b84759e7a9508f62b806"
+}

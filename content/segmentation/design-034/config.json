@@ -1,0 +1,9 @@
+{
+  "algorithmVersion": "regions-v1",
+  "barrierAddMask": "barrier-add.png",
+  "barrierRemoveMask": "barrier-remove.png",
+  "excludedSeedPoints": [],
+  "inkThreshold": 180,
+  "notes": "Inspected full numbered source and all six small-component sheets. Retain real closed face/eye details, small leaf gaps and narrow drawn outlines; remove only explicit acute endpoint fragments. Reconnect the fragmented halo outlines, closed mouth slit, narrow neck crease, closed feather corner and lower narrow plume seam, while retaining each neighboring leaf/feather independently. Upper profile and separate beard, long extended arm with flowing water-like bands, lower profile and clasped hands, exposed foot, layered clothing and bottom waves all retain source boundaries. Names describe visible features and position without assigning historical identity. No source/canonical ink changes; prior packages remain. Explicit inspected tip IDs: 13,24,80,82,88,96,97,101,105,107,112,113,152,155,161,166,175,177,194,197,203,209,213,216,220,231,236,239. Source/canonical drawing unchanged.",
+  "schemaVersion": 1
+}

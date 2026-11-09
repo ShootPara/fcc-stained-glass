@@ -1,0 +1,43 @@
+{
+  "algorithmVersion": "regions-v1",
+  "artworkId": "design-041",
+  "canonical": {
+    "bytes": 665416,
+    "path": "canonical.png",
+    "sha256": "7194db8f3787708cb6ad631a975f2cde67d599ef6e21301c913a059da1ee2fad"
+  },
+  "contentVersion": "932d14c90302d8a3df7ad4fb7b56963092f11743695b55095eb42df411ff0b99",
+  "height": 1537,
+  "hitLabels": {
+    "compressedBytes": 67791,
+    "compressedSha256": "d608c54397a3e3e6251b1592901ea001e8c62e853bcabc11763e8a2921dc39b9",
+    "encoding": "gzip-u32le",
+    "path": "hit.bin",
+    "rawSha256": "b6ed1102e020cc0ad96499af4d6f445f81e8ae19b07f02a96a7e31950a0ae278",
+    "uncompressedBytes": 6289404
+  },
+  "inkAlpha": {
+    "compressedBytes": 673289,
+    "compressedSha256": "8351f180709db9a3ad178ac473c1888891737e0551855a8cdfa53425336b44c8",
+    "encoding": "gzip-u8",
+    "path": "ink.bin",
+    "rawSha256": "c12d303cb4fe01f5700019a5664a9a62f3fae9edbfc27fc70e740bf58f41fcda",
+    "uncompressedBytes": 1572351
+  },
+  "paintLabels": {
+    "compressedBytes": 42393,
+    "compressedSha256": "e2c1804610a4745d2ca4d5011167b9549d23dd3d522475b1df3aec435755f26d",
+    "encoding": "gzip-u32le",
+    "path": "paint.bin",
+    "rawSha256": "38c21a12dacb90492abd9963856d27b0cbdb78971b2cbd7e2a120ad45d9d3715",
+    "uncompressedBytes": 6289404
+  },
+  "regionCount": 268,
+  "regions": {
+    "bytes": 76278,
+    "path": "regions.json",
+    "sha256": "e91d6fcffd44ec04414d6346a7b1058612e9965d5205eb0246a0c0c0d24e34a7"
+  },
+  "schemaVersion": 1,
+  "width": 1023
+}

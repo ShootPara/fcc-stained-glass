@@ -1,0 +1,1122 @@
+{
+  "artworkId": "design-022",
+  "contentVersion": "ab7b14a199aaa1cb84be22aa8ce01154a6eb0685ee7f3383e772df98cb8d5dbb",
+  "regions": [
+    {
+      "id": 1,
+      "name": "Continuous outer frame and panel dividers, retained section 1",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Fine outline fragment beside Headgear slots, retained section 2",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Upper background fields and long curved bands, retained section 3",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Upper background fields and long curved bands, retained section 4",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Upper background fields and long curved bands, retained section 5",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Upper background fields and long curved bands, retained section 6",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Upper background fields and long curved bands, retained section 7",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Upper background fields and long curved bands, retained section 8",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Upper background fields and long curved bands, retained section 9",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Fine outline fragment beside Headgear slots, retained section 10",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Fine outline fragment beside Upper background fields and long curved bands, retained section 11",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "Upper background fields and long curved bands, retained section 12",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Head, retained section 13",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Headgear slots, retained section 14",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Fine outline fragment beside Headgear slots, retained section 15",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Headgear slots, retained section 16",
+      "order": 16
+    },
+    {
+      "id": 17,
+      "name": "Headgear slots, retained section 17",
+      "order": 17
+    },
+    {
+      "id": 18,
+      "name": "Headgear scroll's outer crescent, retained section 18",
+      "order": 18
+    },
+    {
+      "id": 19,
+      "name": "Headgear scroll's outer crescent, retained section 19",
+      "order": 19
+    },
+    {
+      "id": 20,
+      "name": "Headgear slots, retained section 20",
+      "order": 20
+    },
+    {
+      "id": 21,
+      "name": "Fine outline fragment beside Upper background fields and long curved bands, retained section 21",
+      "order": 21
+    },
+    {
+      "id": 22,
+      "name": "Headgear scroll's outer crescent, retained section 22",
+      "order": 22
+    },
+    {
+      "id": 23,
+      "name": "Headgear slots, retained section 23",
+      "order": 23
+    },
+    {
+      "id": 24,
+      "name": "Headgear's right curled slit, retained section 24",
+      "order": 24
+    },
+    {
+      "id": 25,
+      "name": "Headgear slots, retained section 25",
+      "order": 25
+    },
+    {
+      "id": 26,
+      "name": "Fine outline fragment beside Upper background fields and long curved bands, retained section 26",
+      "order": 26
+    },
+    {
+      "id": 27,
+      "name": "Headgear slots, retained section 27",
+      "order": 27
+    },
+    {
+      "id": 28,
+      "name": "Headgear's right curled slit, retained section 28",
+      "order": 28
+    },
+    {
+      "id": 29,
+      "name": "Fine outline fragment beside Upper background fields and long curved bands, retained section 29",
+      "order": 29
+    },
+    {
+      "id": 30,
+      "name": "Headgear's long left slit, retained section 30",
+      "order": 30
+    },
+    {
+      "id": 31,
+      "name": "Headgear's long left slit, retained section 31",
+      "order": 31
+    },
+    {
+      "id": 32,
+      "name": "Headgear's small right teardrop slit, retained section 32",
+      "order": 32
+    },
+    {
+      "id": 33,
+      "name": "Headgear's small right teardrop slit, retained section 33",
+      "order": 33
+    },
+    {
+      "id": 34,
+      "name": "Temple's curved slit, retained section 34",
+      "order": 34
+    },
+    {
+      "id": 35,
+      "name": "Temple's curved slit, retained section 35",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "name": "Left upper eyelid and eye-white panes, retained section 36",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "name": "Long enclosed ear-side slit, retained section 37",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "name": "Small closed eyebrow corner, retained section 38",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "name": "Left upper eyelid and eye-white panes, retained section 39",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "name": "Right upper eyelid pane, retained section 40",
+      "order": 40
+    },
+    {
+      "id": 41,
+      "name": "Left iris crescent, retained section 41",
+      "order": 41
+    },
+    {
+      "id": 42,
+      "name": "Left upper eyelid and eye-white panes, retained section 42",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "name": "Left iris crescent, retained section 43",
+      "order": 43
+    },
+    {
+      "id": 44,
+      "name": "Left iris crescent, retained section 44",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "name": "Inner ear curl, retained section 45",
+      "order": 45
+    },
+    {
+      "id": 46,
+      "name": "Upper background fields and long curved bands, retained section 46",
+      "order": 46
+    },
+    {
+      "id": 47,
+      "name": "Long enclosed ear-side slit, retained section 47",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "name": "Small temple opening, retained section 48",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "name": "Right outer eye-white wedges, retained section 49",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "name": "Curled shoulder crest and its inner panes, retained section 50",
+      "order": 50
+    },
+    {
+      "id": 51,
+      "name": "Right iris crescent, retained section 51",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 52",
+      "order": 52
+    },
+    {
+      "id": 53,
+      "name": "Right iris crescent, retained section 53",
+      "order": 53
+    },
+    {
+      "id": 54,
+      "name": "Right iris crescent, retained section 54",
+      "order": 54
+    },
+    {
+      "id": 55,
+      "name": "Right iris crescent, retained section 55",
+      "order": 55
+    },
+    {
+      "id": 56,
+      "name": "Right iris crescent, retained section 56",
+      "order": 56
+    },
+    {
+      "id": 57,
+      "name": "Right outer eye-white wedges, retained section 57",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "name": "Upper background fields and long curved bands, retained section 58",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "name": "Right outer eye-white wedges, retained section 59",
+      "order": 59
+    },
+    {
+      "id": 60,
+      "name": "Curled shoulder crest and its inner panes, retained section 60",
+      "order": 60
+    },
+    {
+      "id": 61,
+      "name": "Staff ornament beside the neck, retained section 61",
+      "order": 61
+    },
+    {
+      "id": 62,
+      "name": "Staff ornament beside the neck, retained section 62",
+      "order": 62
+    },
+    {
+      "id": 63,
+      "name": "Curled shoulder crest and its inner panes, retained section 63",
+      "order": 63
+    },
+    {
+      "id": 64,
+      "name": "Curled shoulder crest and its inner panes, retained section 64",
+      "order": 64
+    },
+    {
+      "id": 65,
+      "name": "Other enclosed temple, retained section 65",
+      "order": 65
+    },
+    {
+      "id": 66,
+      "name": "Small closed nostril, retained section 66",
+      "order": 66
+    },
+    {
+      "id": 67,
+      "name": "Curled shoulder crest and its inner panes, retained section 67",
+      "order": 67
+    },
+    {
+      "id": 68,
+      "name": "Small closed nostril, retained section 68",
+      "order": 68
+    },
+    {
+      "id": 69,
+      "name": "Fine outline fragment beside Curled shoulder crest and its inner panes, retained section 69",
+      "order": 69
+    },
+    {
+      "id": 70,
+      "name": "Other enclosed temple, retained section 70",
+      "order": 70
+    },
+    {
+      "id": 71,
+      "name": "Curled shoulder crest and its inner panes, retained section 71",
+      "order": 71
+    },
+    {
+      "id": 72,
+      "name": "Fine outline fragment beside Staff ornament beside the neck, retained section 72",
+      "order": 72
+    },
+    {
+      "id": 73,
+      "name": "Small closed mouth slit, retained section 73",
+      "order": 73
+    },
+    {
+      "id": 74,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 74",
+      "order": 74
+    },
+    {
+      "id": 75,
+      "name": "Small closed mouth slit, retained section 75",
+      "order": 75
+    },
+    {
+      "id": 76,
+      "name": "Other enclosed temple, retained section 76",
+      "order": 76
+    },
+    {
+      "id": 77,
+      "name": "Curled shoulder crest and its inner panes, retained section 77",
+      "order": 77
+    },
+    {
+      "id": 78,
+      "name": "Staff ornament beside the neck, retained section 78",
+      "order": 78
+    },
+    {
+      "id": 79,
+      "name": "Curled shoulder crest and its inner panes, retained section 79",
+      "order": 79
+    },
+    {
+      "id": 80,
+      "name": "Fine outline fragment beside Staff ornament beside the neck, retained section 80",
+      "order": 80
+    },
+    {
+      "id": 81,
+      "name": "Staff ornament beside the neck, retained section 81",
+      "order": 81
+    },
+    {
+      "id": 82,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 82",
+      "order": 82
+    },
+    {
+      "id": 83,
+      "name": "Curled shoulder crest and its inner panes, retained section 83",
+      "order": 83
+    },
+    {
+      "id": 84,
+      "name": "Other enclosed temple, retained section 84",
+      "order": 84
+    },
+    {
+      "id": 85,
+      "name": "Staff ornament beside the neck, retained section 85",
+      "order": 85
+    },
+    {
+      "id": 86,
+      "name": "Staff ornament beside the neck, retained section 86",
+      "order": 86
+    },
+    {
+      "id": 87,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 87",
+      "order": 87
+    },
+    {
+      "id": 88,
+      "name": "Staff ornament beside the neck, retained section 88",
+      "order": 88
+    },
+    {
+      "id": 89,
+      "name": "Long beard curl's inner slit, retained section 89",
+      "order": 89
+    },
+    {
+      "id": 90,
+      "name": "Curled shoulder crest and its inner panes, retained section 90",
+      "order": 90
+    },
+    {
+      "id": 91,
+      "name": "Long beard curl's inner slit, retained section 91",
+      "order": 91
+    },
+    {
+      "id": 92,
+      "name": "Small enclosed beard curl, retained section 92",
+      "order": 92
+    },
+    {
+      "id": 93,
+      "name": "Staff ornament beside the neck, retained section 93",
+      "order": 93
+    },
+    {
+      "id": 94,
+      "name": "Tiny separate opening at the beard curl tip, retained section 94",
+      "order": 94
+    },
+    {
+      "id": 95,
+      "name": "Curled shoulder crest and its inner panes, retained section 95",
+      "order": 95
+    },
+    {
+      "id": 96,
+      "name": "Shoulder crest's thin enclosed curl, retained section 96",
+      "order": 96
+    },
+    {
+      "id": 97,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 97",
+      "order": 97
+    },
+    {
+      "id": 98,
+      "name": "Lower beard slit beside the collar, retained section 98",
+      "order": 98
+    },
+    {
+      "id": 99,
+      "name": "Lower beard slit beside the collar, retained section 99",
+      "order": 99
+    },
+    {
+      "id": 100,
+      "name": "Shoulder crest's thin enclosed curl, retained section 100",
+      "order": 100
+    },
+    {
+      "id": 101,
+      "name": "Shoulder crest's thin enclosed curl, retained section 101",
+      "order": 101
+    },
+    {
+      "id": 102,
+      "name": "Fine outline fragment beside Curled shoulder crest and its inner panes, retained section 102",
+      "order": 102
+    },
+    {
+      "id": 103,
+      "name": "Other enclosed temple, retained section 103",
+      "order": 103
+    },
+    {
+      "id": 104,
+      "name": "Shoulder crest's thin enclosed curl, retained section 104",
+      "order": 104
+    },
+    {
+      "id": 105,
+      "name": "Curled shoulder crest and its inner panes, retained section 105",
+      "order": 105
+    },
+    {
+      "id": 106,
+      "name": "Fine outline fragment beside Tiny separate opening at the beard curl tip, retained section 106",
+      "order": 106
+    },
+    {
+      "id": 107,
+      "name": "Fine outline fragment beside Other enclosed temple, retained section 107",
+      "order": 107
+    },
+    {
+      "id": 108,
+      "name": "Lower beard slit beside the collar, retained section 108",
+      "order": 108
+    },
+    {
+      "id": 109,
+      "name": "Sleeve and lower chest panes, retained section 109",
+      "order": 109
+    },
+    {
+      "id": 110,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 110",
+      "order": 110
+    },
+    {
+      "id": 111,
+      "name": "Sleeve and lower chest panes, retained section 111",
+      "order": 111
+    },
+    {
+      "id": 112,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 112",
+      "order": 112
+    },
+    {
+      "id": 113,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 113",
+      "order": 113
+    },
+    {
+      "id": 114,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 114",
+      "order": 114
+    },
+    {
+      "id": 115,
+      "name": "Fine outline fragment beside Curled shoulder crest and its inner panes, retained section 115",
+      "order": 115
+    },
+    {
+      "id": 116,
+      "name": "Fine outline fragment beside Other enclosed temple, retained section 116",
+      "order": 116
+    },
+    {
+      "id": 117,
+      "name": "Fine outline fragment beside Staff ornament beside the neck, retained section 117",
+      "order": 117
+    },
+    {
+      "id": 118,
+      "name": "Fine outline fragment beside Other enclosed temple, retained section 118",
+      "order": 118
+    },
+    {
+      "id": 119,
+      "name": "Staff ornament beside the neck, retained section 119",
+      "order": 119
+    },
+    {
+      "id": 120,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 120",
+      "order": 120
+    },
+    {
+      "id": 121,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 121",
+      "order": 121
+    },
+    {
+      "id": 122,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 122",
+      "order": 122
+    },
+    {
+      "id": 123,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 123",
+      "order": 123
+    },
+    {
+      "id": 124,
+      "name": "Sleeve and lower chest panes, retained section 124",
+      "order": 124
+    },
+    {
+      "id": 125,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 125",
+      "order": 125
+    },
+    {
+      "id": 126,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 126",
+      "order": 126
+    },
+    {
+      "id": 127,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 127",
+      "order": 127
+    },
+    {
+      "id": 128,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 128",
+      "order": 128
+    },
+    {
+      "id": 129,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 129",
+      "order": 129
+    },
+    {
+      "id": 130,
+      "name": "Upper background fields and long curved bands, retained section 130",
+      "order": 130
+    },
+    {
+      "id": 131,
+      "name": "Upper background fields and long curved bands, retained section 131",
+      "order": 131
+    },
+    {
+      "id": 132,
+      "name": "Upper background fields and long curved bands, retained section 132",
+      "order": 132
+    },
+    {
+      "id": 133,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 133",
+      "order": 133
+    },
+    {
+      "id": 134,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 134",
+      "order": 134
+    },
+    {
+      "id": 135,
+      "name": "Upper background fields and long curved bands, retained section 135",
+      "order": 135
+    },
+    {
+      "id": 136,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 136",
+      "order": 136
+    },
+    {
+      "id": 137,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 137",
+      "order": 137
+    },
+    {
+      "id": 138,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 138",
+      "order": 138
+    },
+    {
+      "id": 139,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 139",
+      "order": 139
+    },
+    {
+      "id": 140,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 140",
+      "order": 140
+    },
+    {
+      "id": 141,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 141",
+      "order": 141
+    },
+    {
+      "id": 142,
+      "name": "Breastplate and its enclosed ornamental spaces, retained section 142",
+      "order": 142
+    },
+    {
+      "id": 143,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 143",
+      "order": 143
+    },
+    {
+      "id": 144,
+      "name": "Fine outline fragment beside Breastplate and its enclosed ornamental spaces, retained section 144",
+      "order": 144
+    },
+    {
+      "id": 145,
+      "name": "Fine outline fragment beside Upper background fields and long curved bands, retained section 145",
+      "order": 145
+    },
+    {
+      "id": 146,
+      "name": "Small enclosed lens above the middle divider, retained section 146",
+      "order": 146
+    },
+    {
+      "id": 147,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 147",
+      "order": 147
+    },
+    {
+      "id": 148,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 148",
+      "order": 148
+    },
+    {
+      "id": 149,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 149",
+      "order": 149
+    },
+    {
+      "id": 150,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 150",
+      "order": 150
+    },
+    {
+      "id": 151,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 151",
+      "order": 151
+    },
+    {
+      "id": 152,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 152",
+      "order": 152
+    },
+    {
+      "id": 153,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 153",
+      "order": 153
+    },
+    {
+      "id": 154,
+      "name": "Background bands around the horse panel, retained section 154",
+      "order": 154
+    },
+    {
+      "id": 155,
+      "name": "Background bands around the horse panel, retained section 155",
+      "order": 155
+    },
+    {
+      "id": 156,
+      "name": "Background bands around the horse panel, retained section 156",
+      "order": 156
+    },
+    {
+      "id": 157,
+      "name": "Background bands around the horse panel, retained section 157",
+      "order": 157
+    },
+    {
+      "id": 158,
+      "name": "Background bands around the horse panel, retained section 158",
+      "order": 158
+    },
+    {
+      "id": 159,
+      "name": "Background bands around the horse panel, retained section 159",
+      "order": 159
+    },
+    {
+      "id": 160,
+      "name": "Background bands around the horse panel, retained section 160",
+      "order": 160
+    },
+    {
+      "id": 161,
+      "name": "Background bands around the horse panel, retained section 161",
+      "order": 161
+    },
+    {
+      "id": 162,
+      "name": "Fine outline fragment beside Horse's forelock curls and their enclosed spaces, retained section 162",
+      "order": 162
+    },
+    {
+      "id": 163,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 163",
+      "order": 163
+    },
+    {
+      "id": 164,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 164",
+      "order": 164
+    },
+    {
+      "id": 165,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 165",
+      "order": 165
+    },
+    {
+      "id": 166,
+      "name": "Fine outline fragment beside Horse's forelock curls and their enclosed spaces, retained section 166",
+      "order": 166
+    },
+    {
+      "id": 167,
+      "name": "Horse's head and muzzle, retained section 167",
+      "order": 167
+    },
+    {
+      "id": 168,
+      "name": "Horse's mane strips, retained section 168",
+      "order": 168
+    },
+    {
+      "id": 169,
+      "name": "Background bands around the horse panel, retained section 169",
+      "order": 169
+    },
+    {
+      "id": 170,
+      "name": "Horse's mane strips, retained section 170",
+      "order": 170
+    },
+    {
+      "id": 171,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 171",
+      "order": 171
+    },
+    {
+      "id": 172,
+      "name": "Horse's forelock curls and their enclosed spaces, retained section 172",
+      "order": 172
+    },
+    {
+      "id": 173,
+      "name": "Fine outline fragment beside Horse's enclosed forehead and face-edge details, retained section 173",
+      "order": 173
+    },
+    {
+      "id": 174,
+      "name": "Horse's enclosed forehead and face-edge details, retained section 174",
+      "order": 174
+    },
+    {
+      "id": 175,
+      "name": "Fine outline fragment beside Horse's forelock curls and their enclosed spaces, retained section 175",
+      "order": 175
+    },
+    {
+      "id": 176,
+      "name": "Horse's enclosed forehead and face-edge details, retained section 176",
+      "order": 176
+    },
+    {
+      "id": 177,
+      "name": "Background bands around the horse panel, retained section 177",
+      "order": 177
+    },
+    {
+      "id": 178,
+      "name": "Horse's enclosed forehead and face-edge details, retained section 178",
+      "order": 178
+    },
+    {
+      "id": 179,
+      "name": "Horse's enclosed forehead and face-edge details, retained section 179",
+      "order": 179
+    },
+    {
+      "id": 180,
+      "name": "Fine outline fragment beside Horse's mane strips, retained section 180",
+      "order": 180
+    },
+    {
+      "id": 181,
+      "name": "Fine outline fragment beside Horse's mane strips, retained section 181",
+      "order": 181
+    },
+    {
+      "id": 182,
+      "name": "Fine outline fragment beside Horse's enclosed forehead and face-edge details, retained section 182",
+      "order": 182
+    },
+    {
+      "id": 183,
+      "name": "Horse's mane strips, retained section 183",
+      "order": 183
+    },
+    {
+      "id": 184,
+      "name": "Background bands around the horse panel, retained section 184",
+      "order": 184
+    },
+    {
+      "id": 185,
+      "name": "Horse's iris crescent, retained section 185",
+      "order": 185
+    },
+    {
+      "id": 186,
+      "name": "Horse's tiny eye highlight, retained section 186",
+      "order": 186
+    },
+    {
+      "id": 187,
+      "name": "Horse's outer eye-white corners, retained section 187",
+      "order": 187
+    },
+    {
+      "id": 188,
+      "name": "Horse's mane strips, retained section 188",
+      "order": 188
+    },
+    {
+      "id": 189,
+      "name": "Horse's outer eye-white corners, retained section 189",
+      "order": 189
+    },
+    {
+      "id": 190,
+      "name": "Background bands around the horse panel, retained section 190",
+      "order": 190
+    },
+    {
+      "id": 191,
+      "name": "Background bands around the horse panel, retained section 191",
+      "order": 191
+    },
+    {
+      "id": 192,
+      "name": "Horse's small enclosed cheek detail, retained section 192",
+      "order": 192
+    },
+    {
+      "id": 193,
+      "name": "Horse's mane strips, retained section 193",
+      "order": 193
+    },
+    {
+      "id": 194,
+      "name": "Fine outline fragment beside Background bands around the horse panel, retained section 194",
+      "order": 194
+    },
+    {
+      "id": 195,
+      "name": "Fine outline fragment beside Horse's mane strips, retained section 195",
+      "order": 195
+    },
+    {
+      "id": 196,
+      "name": "Horse's collar and lower neck panes, retained section 196",
+      "order": 196
+    },
+    {
+      "id": 197,
+      "name": "Horse's collar and lower neck panes, retained section 197",
+      "order": 197
+    },
+    {
+      "id": 198,
+      "name": "Fine outline fragment beside Horse's collar and lower neck panes, retained section 198",
+      "order": 198
+    },
+    {
+      "id": 199,
+      "name": "Horse's mane strips, retained section 199",
+      "order": 199
+    },
+    {
+      "id": 200,
+      "name": "Fine outline fragment beside Horse's mane strips, retained section 200",
+      "order": 200
+    },
+    {
+      "id": 201,
+      "name": "Lower curled ornament and surrounding panes, retained section 201",
+      "order": 201
+    },
+    {
+      "id": 202,
+      "name": "Lower curled ornament and surrounding panes, retained section 202",
+      "order": 202
+    },
+    {
+      "id": 203,
+      "name": "Horse's collar and lower neck panes, retained section 203",
+      "order": 203
+    },
+    {
+      "id": 204,
+      "name": "Fine outline fragment beside Horse's mane strips, retained section 204",
+      "order": 204
+    },
+    {
+      "id": 205,
+      "name": "Lower curled ornament and surrounding panes, retained section 205",
+      "order": 205
+    },
+    {
+      "id": 206,
+      "name": "Lower curled ornament and surrounding panes, retained section 206",
+      "order": 206
+    },
+    {
+      "id": 207,
+      "name": "Lower curled ornament and surrounding panes, retained section 207",
+      "order": 207
+    },
+    {
+      "id": 208,
+      "name": "Background bands around the horse panel, retained section 208",
+      "order": 208
+    },
+    {
+      "id": 209,
+      "name": "Fine outline fragment beside Round detail in the lower-left ornament, retained section 209",
+      "order": 209
+    },
+    {
+      "id": 210,
+      "name": "Lower curled ornament and surrounding panes, retained section 210",
+      "order": 210
+    },
+    {
+      "id": 211,
+      "name": "Fine outline fragment beside Lower curled ornament and surrounding panes, retained section 211",
+      "order": 211
+    },
+    {
+      "id": 212,
+      "name": "Fine outline fragment beside Lower curled ornament and surrounding panes, retained section 212",
+      "order": 212
+    },
+    {
+      "id": 213,
+      "name": "Round detail in the lower-left ornament, retained section 213",
+      "order": 213
+    },
+    {
+      "id": 214,
+      "name": "Fine outline fragment beside Lower curled ornament and surrounding panes, retained section 214",
+      "order": 214
+    },
+    {
+      "id": 215,
+      "name": "Lower curled ornament and surrounding panes, retained section 215",
+      "order": 215
+    },
+    {
+      "id": 216,
+      "name": "Fine outline fragment beside Small enclosed lower-left leaf, retained section 216",
+      "order": 216
+    },
+    {
+      "id": 217,
+      "name": "Small enclosed lower-left leaf, retained section 217",
+      "order": 217
+    },
+    {
+      "id": 218,
+      "name": "Lower curled ornament and surrounding panes, retained section 218",
+      "order": 218
+    },
+    {
+      "id": 219,
+      "name": "Lower curled ornament and surrounding panes, retained section 219",
+      "order": 219
+    },
+    {
+      "id": 220,
+      "name": "Fine outline fragment beside Lower curled ornament and surrounding panes, retained section 220",
+      "order": 220
+    },
+    {
+      "id": 221,
+      "name": "Lower curled ornament and surrounding panes, retained section 221",
+      "order": 221
+    },
+    {
+      "id": 222,
+      "name": "Fine outline fragment beside Small enclosed lower-left leaf, retained section 222",
+      "order": 222
+    },
+    {
+      "id": 223,
+      "name": "Lower curled ornament and surrounding panes, retained section 223",
+      "order": 223
+    }
+  ],
+  "schemaVersion": 1
+}
