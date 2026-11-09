@@ -3594,24 +3594,30 @@
   },
   "history": {
     "citations": [
-      "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — Architect's account and The Windows — h28.txt [P0040]-[P0041], [P0050]-[P0135]; transcription paragraphs, not printed pages.",
-      "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Formative Period and The Fourth Church 1928-1935 — h35.txt [P0030] (founding), [P0216] (dedication); transcription paragraphs, not printed pages."
+      "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — Architect’s account, The Memorial Window, and The Windows — h28.txt [P0040]–[P0048], [P0050]–[P0135]; transcription paragraphs, not printed pages.",
+      "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Formative Period and The Fourth Church 1928–1935 — h35.txt [P0030], [P0216]–[P0218]; transcription paragraphs, not printed pages."
     ],
     "paragraphs": [
-      "The stained glass tells Bible stories through people, animals, plants and symbols. The 1928 church guide describes a sequence from Creation to the lives and deaths of the disciples.",
-      "The guide credits A. L. Brink with the pictures in the side and south-end windows. It credits Alfred E. Floegel with the large memorial window above the Communion table. These are historical glass credits, separate from the modern photographs and coloring drawings.",
-      "The present church building was dedicated on 28 October 1928. Its 1928-2028 anniversary marks a century of this building. The congregation began in 1835.",
-      "Descriptions distinguish visible details from historical identifications. Locations from the old guide are historical descriptions; they have not all been checked against the church today."
+      "The stained glass of First Congregational Church tells stories through people, animals, plants and symbols. The congregation began in 1835, and the present building was dedicated on October 28, 1928. Its 1928–2028 anniversary marks a century of this church building.",
+      "The 1928 guide explains that stained glass once helped tell Bible stories to people who could not read. The side windows carry that tradition from Creation through the stories of Jesus and the disciples. Facing the chancel, the guide numbers windows 1–6 along the right side, beginning at the front. Windows 7–12 begin near the door on the left and continue toward the front.",
+      "The first six windows follow Creation, Adam and Eve, Noah and the Flood, and the stories of Jacob, Joseph and Moses. Across the church, the sequence includes Samson and David, the birth and ministry of Jesus, the Crucifixion, Resurrection and Ascension, and scenes of the saints. The photographs show individual scenes from these larger groups; their file numbers differ from the historical window and scene numbers.",
+      "The architect originally expected geometric patterns in the side windows and the south window. His 1928 account credits A. L. Brink with supplying biblical pictures in their place. Alfred E. Floegel of New York designed the great north memorial window above the Communion table, combining standing figures, smaller narrative scenes and Gothic ornament.",
+      "The north window remembers Rachel Babcock Upjohn. Her children, W. H. Upjohn, Mrs. R. S. Light, Mrs. D. S. Gilmore and Dorothy Upjohn DeLano, gave it in her memory. The 1935 history recalls her service to the church and her leadership of the Women’s Union. Across the five principal panels stand Paul, Mary, Christ, John the Baptist and Peter.",
+      "At the center, Christ the Peacemaker raises a hand in blessing and holds a globe topped by a cross. Sheep at his feet recall the Good Shepherd. Paul’s book represents his preaching and writing, and his sword recalls his martyrdom. Mary prays; John the Baptist carries a shepherd’s crook; Peter holds a scroll and keys. The 1928 guide interprets these details as expressions of Christian teaching, service and hope.",
+      "Below the standing figures, five smaller scenes run from left to right: the Nativity and the adoration of the Magi, Baptism, Crucifixion, Resurrection and Ascension. The memorial inscription lies beneath the central Crucifixion scene. Above, the Star of Bethlehem sends rays through the tracery. The guide describes the ornament as English Perpendicular Gothic; Michigan and United States coats of arms appear beneath Mary and John the Baptist.",
+      "The blue south memorial window honors W. Harold Upjohn and was given by Dr. W. E. Upjohn and his family. The 1935 history describes Christ surrounded by people representing Christianity’s influence through the ages, including Paul, Wycliffe, Erasmus, Michelangelo, Shakespeare, Shaftesbury, Pasteur, Joan of Arc and Lincoln. The photograph includes additional named figures, so the history’s list is not a complete portrait key.",
+      "The 1928 guide records a different set of south-window subjects, including Daniel, David, Gabriel and the four Evangelists. That earlier inventory and the memorial described in 1935 are separate historical accounts. The sources do not establish the date of the change. The photographed blue memorial is the design described in the later history."
     ]
   },
   "mode": "release",
   "photos": [
     {
-      "alt": "A tall pointed stained-glass window with five blue figure panels, smaller scenes below and decorative tracery above.",
+      "alt": "Stained glass: Christ stands at the center of this blue memorial window, surrounded by figures from religion, art, literature, science and public service.",
       "citations": [
-        "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Fourth Church 1928–1935 — h35.txt [P0218]"
+        "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Fourth Church 1928–1935 — h35.txt [P0218]; transcription paragraphs.",
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, Window No. 13 (The south window) — h28.txt [P0115], [P0116], [P0117], [P0118], [P0119], [P0120], [P0121], [P0122], [P0123], [P0124], [P0125], [P0126], [P0127], [P0128]; transcription paragraphs."
       ],
-      "description": "Five tall panels show standing figures above a row of smaller scenes. Blue glass and branching stone tracery fill the pointed upper arch. The visible named figures likely identify the W. Harold Upjohn memorial described in the 1935 history. Present-day location is unconfirmed.",
+      "description": "Christ stands at the center of this blue memorial window, surrounded by figures from religion, art, literature, science and public service. Given by Dr. W. E. Upjohn and his family, it honors W. Harold Upjohn. The 1935 history describes this design; the photograph also includes names absent from its list.",
       "displayOrder": 1,
       "id": "photo-001",
       "image": {
@@ -3629,20 +3635,20 @@
         "width": 1343
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "South memorial window, described in the 1935 history."
       },
       "relatedArtworkIds": [],
       "reviewState": "complete",
-      "title": "Large blue window with many figures"
+      "title": "W. Harold Upjohn memorial window"
     },
     {
-      "alt": "Stained glass with a golden sun, a star and crescent moon above it, a red curved band, and waves below.",
+      "alt": "Stained glass: The sun, crescent moon and star shine above bands of earth and water.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 1 — h28.txt [P0054]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0054]; transcription paragraphs."
       ],
-      "description": "A sun below a star and a crescent moon, with curved bands and waves. Likely historical subject: Sun, Moon, Stars, Earth and Water (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The sun, crescent moon and star shine above bands of earth and water. Together they represent the beginning of Creation.",
       "displayOrder": 2,
       "id": "photo-002",
       "image": {
@@ -3660,22 +3666,22 @@
         "width": 1324
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 1 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-002"
       ],
       "reviewState": "complete",
-      "title": "Sun, moon, star and waves"
+      "title": "Sun, Moon, Stars, Earth and Water"
     },
     {
-      "alt": "Stained glass showing fish, rainbow and waves.",
+      "alt": "Stained glass: A large fish rises among bands of water, with its eye, open mouth, gills and fins clearly outlined.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 1 — h28.txt [P0055]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0055]; transcription paragraphs."
       ],
-      "description": "The drawing shows fish, rainbow and waves. Likely historical subject: Creation of the Fishes (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A large fish rises among bands of water, with its eye, open mouth, gills and fins clearly outlined. The scene celebrates the creation of fish.",
       "displayOrder": 3,
       "id": "photo-003",
       "image": {
@@ -3693,22 +3699,22 @@
         "width": 1328
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 1 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-003"
       ],
       "reviewState": "complete",
-      "title": "Fish, rainbow and waves"
+      "title": "Creation of the Fishes"
     },
     {
-      "alt": "Stained glass showing monkey and winged bird.",
+      "alt": "Stained glass: A large land animal, a long-beaked winged creature and foliage represent the creation of animals.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 1 — h28.txt [P0056]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0056], [P0057]; transcription paragraphs."
       ],
-      "description": "The drawing shows monkey and winged bird. Likely historical subject: Creation of the Animals on Land No. 1 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A large land animal, a long-beaked winged creature and foliage represent the creation of animals. This is one of two land-animal scenes in Window 1.",
       "displayOrder": 4,
       "id": "photo-004",
       "image": {
@@ -3726,22 +3732,22 @@
         "width": 1251
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 1 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-004"
       ],
       "reviewState": "complete",
-      "title": "Monkey and winged bird"
+      "title": "Creation of the land animals"
     },
     {
-      "alt": "Stained glass showing lion, elephant and small monkey.",
+      "alt": "Stained glass: An elephant, a lion and a small monkey hanging from a branch represent the creation of animals.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 1 — h28.txt [P0057]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0056], [P0057]; transcription paragraphs."
       ],
-      "description": "The drawing shows lion, elephant and small monkey. Likely historical subject: Creation of the Animals on Land No. 2 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An elephant, a lion and a small monkey hanging from a branch represent the creation of animals. This is the other land-animal scene in Window 1.",
       "displayOrder": 5,
       "id": "photo-005",
       "image": {
@@ -3759,22 +3765,22 @@
         "width": 1212
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 1 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-005"
       ],
       "reviewState": "complete",
-      "title": "Lion, elephant and small monkey"
+      "title": "Creation of the land animals"
     },
     {
-      "alt": "Stained glass showing two figures, leaves and fish.",
+      "alt": "Stained glass: Eve offers an apple to Adam beside a tree and serpent.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 2 — h28.txt [P0061]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0061]; transcription paragraphs."
       ],
-      "description": "The drawing shows two figures, leaves and fish. Likely historical subject: Eve giving the apple to Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Eve offers an apple to Adam beside a tree and serpent. The scene tells the story of temptation in the Garden of Eden.",
       "displayOrder": 6,
       "id": "photo-006",
       "image": {
@@ -3792,22 +3798,22 @@
         "width": 1226
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 2 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-006"
       ],
       "reviewState": "complete",
-      "title": "Two figures, leaves and fish"
+      "title": "Eve giving the apple to Adam"
     },
     {
-      "alt": "Stained glass showing writing hand and bearded figure.",
+      "alt": "Stained glass: The hand of God reaches down toward the reclining Adam, representing the creation of the first man.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 2 — h28.txt [P0059]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0059]; transcription paragraphs."
       ],
-      "description": "The drawing shows writing hand and bearded figure. Likely historical subject: Creation of Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The hand of God reaches down toward the reclining Adam, representing the creation of the first man.",
       "displayOrder": 7,
       "id": "photo-007",
       "image": {
@@ -3825,22 +3831,22 @@
         "width": 1333
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 2 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-007"
       ],
       "reviewState": "complete",
-      "title": "Writing hand and bearded figure"
+      "title": "Creation of Adam"
     },
     {
-      "alt": "Stained glass showing standing woman and kneeling man.",
+      "alt": "Stained glass: Eve stands above the reclining Adam in this scene of her creation.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 2 — h28.txt [P0060]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0060]; transcription paragraphs."
       ],
-      "description": "The drawing shows standing woman and kneeling man. Likely historical subject: Creation of Eve (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Eve stands above the reclining Adam in this scene of her creation.",
       "displayOrder": 8,
       "id": "photo-008",
       "image": {
@@ -3858,22 +3864,22 @@
         "width": 1338
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 2 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-008"
       ],
       "reviewState": "complete",
-      "title": "Standing woman and kneeling man"
+      "title": "Creation of Eve"
     },
     {
-      "alt": "Stained glass: A branching thorny plant above a long-necked serpent with open jaws.",
+      "alt": "Stained glass: Thorny foliage grows above a serpent.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 2 — h28.txt [P0062]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0062]; transcription paragraphs."
       ],
-      "description": "A branching thorny plant above a long-necked serpent with open jaws. Likely historical subject: Thorns, Thistles and Serpent of Sin (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Thorny foliage grows above a serpent. The 1928 guide names these symbols as thorns, thistles and the serpent of sin.",
       "displayOrder": 9,
       "id": "photo-009",
       "image": {
@@ -3891,22 +3897,22 @@
         "width": 1246
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 2 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-009"
       ],
       "reviewState": "complete",
-      "title": "Tree and serpent"
+      "title": "Thorns, Thistles and Serpent of Sin"
     },
     {
-      "alt": "Stained glass showing boat and raised hands.",
+      "alt": "Stained glass: An ark floats above the waters of the Flood, while a drowning figure appears below.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 3 — h28.txt [P0066]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0066]; transcription paragraphs."
       ],
-      "description": "The drawing shows boat and raised hands. Likely historical subject: The Flood (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An ark floats above the waters of the Flood, while a drowning figure appears below.",
       "displayOrder": 10,
       "id": "photo-010",
       "image": {
@@ -3924,22 +3930,22 @@
         "width": 1188
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 3 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-010"
       ],
       "reviewState": "complete",
-      "title": "Boat and raised hands"
+      "title": "The Flood"
     },
     {
-      "alt": "Stained glass showing bird and a figure in a window.",
+      "alt": "Stained glass: Noah looks from the ark as a dove flies out over the water, seeking a sign that the Flood has receded.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 3 — h28.txt [P0067]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0067]; transcription paragraphs."
       ],
-      "description": "The drawing shows bird and a figure in a window. Likely historical subject: Noah sends out the Dove (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Noah looks from the ark as a dove flies out over the water, seeking a sign that the Flood has receded.",
       "displayOrder": 11,
       "id": "photo-011",
       "image": {
@@ -3957,22 +3963,22 @@
         "width": 1215
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 3 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-011"
       ],
       "reviewState": "complete",
-      "title": "Bird and a figure in a window"
+      "title": "Noah sends out the Dove"
     },
     {
-      "alt": "Stained glass showing sword, fruit and curling bands.",
+      "alt": "Stained glass: A hand holds a sword with a flame-like blade above a fruit-bearing branch.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 3 — h28.txt [P0064]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0064]; transcription paragraphs."
       ],
-      "description": "The drawing shows sword, fruit and curling bands. Likely historical subject: Adam and Eve. Their eviction from Paradise (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A hand holds a sword with a flame-like blade above a fruit-bearing branch. These symbols tell the story of Adam and Eve’s expulsion from Paradise.",
       "displayOrder": 12,
       "id": "photo-012",
       "image": {
@@ -3990,22 +3996,22 @@
         "width": 1340
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 3 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-012"
       ],
       "reviewState": "complete",
-      "title": "Sword, fruit and curling bands"
+      "title": "Expulsion from Paradise"
     },
     {
-      "alt": "Stained glass showing birds and stone walls.",
+      "alt": "Stained glass: Two serpent heads and curling bodies appear beside stone altars, flames and hands.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 3 — h28.txt [P0065]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0065]; transcription paragraphs."
       ],
-      "description": "Bird heads appear among stone walls and curling shapes. Likely historical subject: The offering of Cain and Abel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Two serpent heads and curling bodies appear beside stone altars, flames and hands. The paired offerings connect this scene with Cain and Abel in the 1928 guide.",
       "displayOrder": 13,
       "id": "photo-013",
       "image": {
@@ -4023,22 +4029,22 @@
         "width": 1278
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 3 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-013"
       ],
       "reviewState": "complete",
-      "title": "Birds and stone walls"
+      "title": "The offerings of Cain and Abel"
     },
     {
-      "alt": "Stained glass showing raised hand, fire and stone altar.",
+      "alt": "Stained glass: Noah worships at a sacrificial altar beneath a rainbow.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 4 — h28.txt [P0069]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0069]; transcription paragraphs."
       ],
-      "description": "The drawing shows raised hand, fire and stone altar. Likely historical subject: Noah's Offering (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Noah worships at a sacrificial altar beneath a rainbow. The offering follows his survival of the Flood.",
       "displayOrder": 14,
       "id": "photo-014",
       "image": {
@@ -4056,22 +4062,22 @@
         "width": 1336
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 4 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-014"
       ],
       "reviewState": "complete",
-      "title": "Raised hand, fire and stone altar"
+      "title": "Noah’s Offering"
     },
     {
-      "alt": "Stained glass showing building, clouds and the word Babylon.",
+      "alt": "Stained glass: A tower bears the inscription BABEL.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 4 — h28.txt [P0070]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0070]; transcription paragraphs."
       ],
-      "description": "The drawing shows building, clouds and the word Babylon. Likely historical subject: Tower of Babel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A tower bears the inscription BABEL. It represents the Tower of Babel in the Genesis story.",
       "displayOrder": 15,
       "id": "photo-015",
       "image": {
@@ -4089,22 +4095,22 @@
         "width": 1351
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 4 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-015"
       ],
       "reviewState": "complete",
-      "title": "Building, clouds and the word Babylon"
+      "title": "Tower of Babel"
     },
     {
-      "alt": "Stained glass showing fortress, flames and three faces.",
+      "alt": "Stained glass: Flames and lightning strike a city as figures flee below.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 4 — h28.txt [P0071]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0071]; transcription paragraphs."
       ],
-      "description": "The drawing shows fortress, flames and three faces. Likely historical subject: Destruction of Sodom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Flames and lightning strike a city as figures flee below. The scene depicts the destruction of Sodom.",
       "displayOrder": 16,
       "id": "photo-016",
       "image": {
@@ -4122,22 +4128,22 @@
         "width": 1318
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 4 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-016"
       ],
       "reviewState": "complete",
-      "title": "Fortress, flames and three faces"
+      "title": "Destruction of Sodom"
     },
     {
-      "alt": "Stained glass showing steps, feet and kneeling figure.",
+      "alt": "Stained glass: Jacob sleeps beneath a ladder with figures ascending and descending.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 4 — h28.txt [P0072]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0072]; transcription paragraphs."
       ],
-      "description": "The drawing shows steps, feet and kneeling figure. Likely historical subject: Jacob's Dream (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Jacob sleeps beneath a ladder with figures ascending and descending. His dream links earth and heaven.",
       "displayOrder": 17,
       "id": "photo-017",
       "image": {
@@ -4155,22 +4161,22 @@
         "width": 1241
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 4 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-017"
       ],
       "reviewState": "complete",
-      "title": "Steps, feet and kneeling figure"
+      "title": "Jacob’s Dream"
     },
     {
-      "alt": "Stained glass showing figure, horse and decorated chariot.",
+      "alt": "Stained glass: Joseph rides in an ornate ceremonial chariot in Egyptian dress, showing his rise to honor in Egypt.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 5 — h28.txt [P0076]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0076]; transcription paragraphs."
       ],
-      "description": "The drawing shows figure, horse and decorated chariot. Likely historical subject: Joseph honored (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Joseph rides in an ornate ceremonial chariot in Egyptian dress, showing his rise to honor in Egypt.",
       "displayOrder": 18,
       "id": "photo-018",
       "image": {
@@ -4188,22 +4194,22 @@
         "width": 1232
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 5 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-018"
       ],
       "reviewState": "complete",
-      "title": "Figure, horse and decorated chariot"
+      "title": "Joseph honored"
     },
     {
-      "alt": "Stained glass showing woman, child in a basket and pyramids.",
+      "alt": "Stained glass: An Egyptian woman reaches toward an infant in a basket, with pyramids behind her.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 5 — h28.txt [P0077]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0077]; transcription paragraphs."
       ],
-      "description": "The drawing shows woman, child in a basket and pyramids. Likely historical subject: Finding of Moses (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An Egyptian woman reaches toward an infant in a basket, with pyramids behind her. The child is Moses.",
       "displayOrder": 19,
       "id": "photo-019",
       "image": {
@@ -4221,22 +4227,22 @@
         "width": 1223
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 5 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-019"
       ],
       "reviewState": "complete",
-      "title": "Woman, child in a basket and pyramids"
+      "title": "Finding of Moses"
     },
     {
-      "alt": "Stained glass showing raised hand, lettered bands and bowl.",
+      "alt": "Stained glass: The names JACOB and ESAU appear beside a raised hand and a bowl of food.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 5 — h28.txt [P0074]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0074]; transcription paragraphs."
       ],
-      "description": "The drawing shows raised hand, lettered bands and bowl. Likely historical subject: Esau swears off his birthright (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The names JACOB and ESAU appear beside a raised hand and a bowl of food. Esau surrenders his birthright to Jacob.",
       "displayOrder": 20,
       "id": "photo-020",
       "image": {
@@ -4254,22 +4260,22 @@
         "width": 1310
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 5 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-020"
       ],
       "reviewState": "complete",
-      "title": "Raised hand, lettered bands and bowl"
+      "title": "Esau swears off his birthright"
     },
     {
-      "alt": "Stained glass showing camel, standing figure and bundle.",
+      "alt": "Stained glass: A young Joseph appears beside a merchant, a camel and a money bag.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 5 — h28.txt [P0075]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0075]; transcription paragraphs."
       ],
-      "description": "The drawing shows camel, standing figure and bundle. Likely historical subject: Selling of Joseph (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A young Joseph appears beside a merchant, a camel and a money bag. The scene depicts his sale into slavery.",
       "displayOrder": 21,
       "id": "photo-021",
       "image": {
@@ -4287,22 +4293,22 @@
         "width": 1339
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 5 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-021"
       ],
       "reviewState": "complete",
-      "title": "Camel, standing figure and bundle"
+      "title": "Selling of Joseph"
     },
     {
-      "alt": "Stained glass showing crowned figure and horse head.",
+      "alt": "Stained glass: An armored horseman appears among sweeping forms of blue and red.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 6 — h28.txt [P0080]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0080]; transcription paragraphs."
       ],
-      "description": "The drawing shows crowned figure and horse head. Likely historical subject: Through the Red Sea (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An armored horseman appears among sweeping forms of blue and red. The scene represents the passage through the Red Sea in the group devoted to Moses.",
       "displayOrder": 22,
       "id": "photo-022",
       "image": {
@@ -4320,22 +4326,22 @@
         "width": 1447
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 6 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-022"
       ],
       "reviewState": "complete",
-      "title": "Crowned figure and horse head"
+      "title": "Passage through the Red Sea"
     },
     {
-      "alt": "Stained glass showing bearded face, leaves and flames.",
+      "alt": "Stained glass: A divine face appears within a leafy bush topped by flames.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 6 — h28.txt [P0081]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0081]; transcription paragraphs."
       ],
-      "description": "The drawing shows bearded face, leaves and flames. Likely historical subject: Moses and the Burning Bush (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A divine face appears within a leafy bush topped by flames. The burning bush represents God’s call to Moses.",
       "displayOrder": 23,
       "id": "photo-023",
       "image": {
@@ -4353,23 +4359,22 @@
         "width": 1396
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 6 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-023"
       ],
       "reviewState": "complete",
-      "title": "Bearded face, leaves and flames"
+      "title": "Moses and the Burning Bush"
     },
     {
-      "alt": "Stained glass showing raised hand, grape cluster and two figures.",
+      "alt": "Stained glass: Moses holds a staff beside water flowing from a rock, with a kneeling figure drinking below.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 6 — h28.txt [P0082]; transcription paragraph, not a printed page number.",
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 13 — h28.txt [P0120]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0082]; transcription paragraphs."
       ],
-      "description": "The drawing shows raised hand, grape cluster and two figures. Likely historical subjects: Moses striking the rock; The Carriers of the Grapes of Eschol (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Moses holds a staff beside water flowing from a rock, with a kneeling figure drinking below. The scene tells of water provided to the Israelites in the wilderness.",
       "displayOrder": 24,
       "id": "photo-024",
       "image": {
@@ -4387,22 +4392,22 @@
         "width": 1254
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 6 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-024"
       ],
       "reviewState": "complete",
-      "title": "Raised hand, grape cluster and two figures"
+      "title": "Moses striking the rock"
     },
     {
-      "alt": "Stained glass showing standing figure with tablets and raised hand.",
+      "alt": "Stained glass: Moses holds two tablets representing the Law.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 6 — h28.txt [P0083]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0083]; transcription paragraphs."
       ],
-      "description": "The drawing shows standing figure with tablets and raised hand. Likely historical subject: Moses and the Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Moses holds two tablets representing the Law.",
       "displayOrder": 25,
       "id": "photo-025",
       "image": {
@@ -4420,22 +4425,22 @@
         "width": 1239
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 6 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "relatedArtworkIds": [
         "design-025"
       ],
       "reviewState": "complete",
-      "title": "Standing figure with tablets and raised hand"
+      "title": "Moses and the Law"
     },
     {
-      "alt": "Stained glass showing seated figure, lion and trees.",
+      "alt": "Stained glass: Samson forces open a lion’s jaws with his hands, showing the strength associated with him in the biblical story.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 7 — h28.txt [P0086]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0086]; transcription paragraphs."
       ],
-      "description": "The drawing shows seated figure, lion and trees. Likely historical subject: Samson slaying the Lion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Samson forces open a lion’s jaws with his hands, showing the strength associated with him in the biblical story.",
       "displayOrder": 26,
       "id": "photo-026",
       "image": {
@@ -4453,22 +4458,22 @@
         "width": 1252
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 7 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-026"
       ],
       "reviewState": "complete",
-      "title": "Seated figure, lion and trees"
+      "title": "Samson slaying the Lion"
     },
     {
-      "alt": "Stained glass showing figures, circular shield and flowing garments.",
+      "alt": "Stained glass: David appears with a sling beside an armored warrior and a severed head.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 7 — h28.txt [P0087]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0087]; transcription paragraphs."
       ],
-      "description": "Figures, a circular shield and flowing garments fill the drawing. Likely historical subject: David and Goliath (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "David appears with a sling beside an armored warrior and a severed head. The scene depicts his victory over Goliath.",
       "displayOrder": 27,
       "id": "photo-027",
       "image": {
@@ -4486,22 +4491,22 @@
         "width": 1378
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 7 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-027"
       ],
       "reviewState": "complete",
-      "title": "Figures, circular shield and flowing garments"
+      "title": "David and Goliath"
     },
     {
-      "alt": "Stained glass showing winged figure, branch and bowed head.",
+      "alt": "Stained glass: Absalom’s long hair catches in a tree as armed figures gather around him.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 7 — h28.txt [P0088]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0088]; transcription paragraphs."
       ],
-      "description": "The drawing shows winged figure, branch and bowed head. Likely historical subject: Death of Absalom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Absalom’s long hair catches in a tree as armed figures gather around him. The scene depicts his death.",
       "displayOrder": 28,
       "id": "photo-028",
       "image": {
@@ -4519,22 +4524,22 @@
         "width": 1229
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 7 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-028"
       ],
       "reviewState": "complete",
-      "title": "Winged figure, branch and bowed head"
+      "title": "Death of Absalom"
     },
     {
-      "alt": "Stained glass showing woman, grapes, donkey and figures.",
+      "alt": "Stained glass: Mary and the infant Jesus travel on a donkey with Joseph.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 7 — h28.txt [P0089]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0089]; transcription paragraphs."
       ],
-      "description": "The drawing shows woman, grapes, donkey and figures. Likely historical subject: Flight into Egypt (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Mary and the infant Jesus travel on a donkey with Joseph. The family flees into Egypt.",
       "displayOrder": 29,
       "id": "photo-029",
       "image": {
@@ -4552,22 +4557,22 @@
         "width": 1234
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 7 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-029"
       ],
       "reviewState": "complete",
-      "title": "Woman, grapes, donkey and figures"
+      "title": "Flight into Egypt"
     },
     {
-      "alt": "Stained glass showing winged face, clouds and kneeling woman.",
+      "alt": "Stained glass: A winged messenger appears above the praying Mary beside a lily.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 8 — h28.txt [P0091]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0091]; transcription paragraphs."
       ],
-      "description": "The drawing shows winged face, clouds and kneeling woman. Likely historical subject: Annunciation (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A winged messenger appears above the praying Mary beside a lily. The Annunciation tells of the announcement that she will bear Jesus.",
       "displayOrder": 30,
       "id": "photo-030",
       "image": {
@@ -4585,22 +4590,22 @@
         "width": 1328
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 8 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-030"
       ],
       "reviewState": "complete",
-      "title": "Winged face, clouds and kneeling woman"
+      "title": "Annunciation"
     },
     {
-      "alt": "Stained glass showing star, rays and three crowned figures.",
+      "alt": "Stained glass: Three crowned figures gather beneath a radiant star.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 8 — h28.txt [P0092]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0092]; transcription paragraphs."
       ],
-      "description": "The drawing shows star, rays and three crowned figures. Likely historical subject: Three Wise Men (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Three crowned figures gather beneath a radiant star. The Wise Men follow the star to find the infant Jesus.",
       "displayOrder": 31,
       "id": "photo-031",
       "image": {
@@ -4618,22 +4623,22 @@
         "width": 1348
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 8 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-031"
       ],
       "reviewState": "complete",
-      "title": "Star, rays and three crowned figures"
+      "title": "Three Wise Men"
     },
     {
-      "alt": "Stained glass showing crowned figure and three faces in a tower.",
+      "alt": "Stained glass: Three young men stand within a fiery enclosure before a seated king.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 8 — h28.txt [P0093]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0093]; transcription paragraphs."
       ],
-      "description": "The drawing shows crowned figure and three faces in a tower. Likely historical subject: Three Young Men in the Fiery Furnace (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Three young men stand within a fiery enclosure before a seated king. The scene tells of their survival in the furnace.",
       "displayOrder": 32,
       "id": "photo-032",
       "image": {
@@ -4651,22 +4656,22 @@
         "width": 1213
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 8 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-032"
       ],
       "reviewState": "complete",
-      "title": "Crowned figure and three faces in a tower"
+      "title": "Three Young Men in the Fiery Furnace"
     },
     {
-      "alt": "Stained glass showing woman and child with halos.",
+      "alt": "Stained glass: Mary holds the infant Christ, both shown with halos.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 8 — h28.txt [P0094]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0094]; transcription paragraphs."
       ],
-      "description": "The drawing shows woman and child with halos. Likely historical subject: Madonna (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Mary holds the infant Christ, both shown with halos. The traditional name Madonna refers to Mary as the mother of Jesus.",
       "displayOrder": 33,
       "id": "photo-033",
       "image": {
@@ -4684,22 +4689,22 @@
         "width": 1244
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 8 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-033"
       ],
       "reviewState": "complete",
-      "title": "Woman and child with halos"
+      "title": "Madonna"
     },
     {
-      "alt": "Stained glass showing two figures and pouring water.",
+      "alt": "Stained glass: John baptizes Christ beneath a dove, a symbol of the Holy Spirit.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 9 — h28.txt [P0096]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0096]; transcription paragraphs."
       ],
-      "description": "The drawing shows two figures and pouring water. Likely historical subject: Baptism (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "John baptizes Christ beneath a dove, a symbol of the Holy Spirit.",
       "displayOrder": 34,
       "id": "photo-034",
       "image": {
@@ -4717,22 +4722,22 @@
         "width": 1310
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 9 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-034"
       ],
       "reviewState": "complete",
-      "title": "Two figures and pouring water"
+      "title": "Baptism"
     },
     {
-      "alt": "Stained glass showing seated figure, donkey and flowers.",
+      "alt": "Stained glass: Christ rides a donkey toward Jerusalem, surrounded by palms and attendants.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 9 — h28.txt [P0097]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0097]; transcription paragraphs."
       ],
-      "description": "The drawing shows seated figure, donkey and flowers. Likely historical subject: Jesus enters into Jerusalem (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ rides a donkey toward Jerusalem, surrounded by palms and attendants.",
       "displayOrder": 35,
       "id": "photo-035",
       "image": {
@@ -4750,22 +4755,22 @@
         "width": 1331
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 9 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-035"
       ],
       "reviewState": "complete",
-      "title": "Seated figure, donkey and flowers"
+      "title": "Jesus enters into Jerusalem"
     },
     {
-      "alt": "Stained glass showing figure, boat and waves.",
+      "alt": "Stained glass: Christ sits in a boat on the water and raises a hand as he teaches.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 9 — h28.txt [P0098]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0098]; transcription paragraphs."
       ],
-      "description": "The drawing shows figure, boat and waves. Likely historical subject: Christ preaching from the boat (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ sits in a boat on the water and raises a hand as he teaches.",
       "displayOrder": 36,
       "id": "photo-036",
       "image": {
@@ -4783,22 +4788,22 @@
         "width": 1236
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 9 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-036"
       ],
       "reviewState": "complete",
-      "title": "Figure, boat and waves"
+      "title": "Christ preaching from the boat"
     },
     {
-      "alt": "Stained glass: An older standing figure raises a hand above a kneeling man in ragged clothing.",
+      "alt": "Stained glass: A father welcomes his ragged, kneeling son.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 9 — h28.txt [P0099]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0099]; transcription paragraphs."
       ],
-      "description": "An older standing figure raises a hand above a kneeling man in ragged clothing. Likely historical subject: Return of the Prodigal (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A father welcomes his ragged, kneeling son. The return of the prodigal son tells a story of forgiveness.",
       "displayOrder": 37,
       "id": "photo-037",
       "image": {
@@ -4816,22 +4821,22 @@
         "width": 1252
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 9 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-037"
       ],
       "reviewState": "complete",
-      "title": "Standing figure and kneeling man"
+      "title": "Return of the Prodigal"
     },
     {
-      "alt": "Stained glass showing two figures and an open stone box.",
+      "alt": "Stained glass: Christ addresses the shrouded Lazarus beside an open tomb.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 10 — h28.txt [P0101]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0101]; transcription paragraphs."
       ],
-      "description": "Two figures face each other beside an open stone box. Likely historical subject: Awakening of Lazarus (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ addresses the shrouded Lazarus beside an open tomb. The scene depicts Lazarus being raised from the dead.",
       "displayOrder": 38,
       "id": "photo-038",
       "image": {
@@ -4849,22 +4854,22 @@
         "width": 1327
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 10 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-038"
       ],
       "reviewState": "complete",
-      "title": "Two figures and an open stone box"
+      "title": "Awakening of Lazarus"
     },
     {
-      "alt": "Stained glass showing standing figure, staff and round object.",
+      "alt": "Stained glass: Christ holds a door knocker.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 10 — h28.txt [P0102]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0102]; transcription paragraphs."
       ],
-      "description": "The drawing shows standing figure, staff and round object. Likely historical subject: Christ visiting, or Christ at the Door (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ holds a door knocker. The 1928 guide calls this scene Christ visiting, or Christ at the Door.",
       "displayOrder": 39,
       "id": "photo-039",
       "image": {
@@ -4882,22 +4887,22 @@
         "width": 1348
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 10 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-039"
       ],
       "reviewState": "complete",
-      "title": "Standing figure, staff and round object"
+      "title": "Christ visiting / Christ at the Door"
     },
     {
-      "alt": "Stained glass showing cross and three figures.",
+      "alt": "Stained glass: Christ hangs on the cross, with Mary and John beside him.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 10 — h28.txt [P0103]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0103]; transcription paragraphs."
       ],
-      "description": "The drawing shows cross and three figures. Likely historical subject: Crucifixion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ hangs on the cross, with Mary and John beside him.",
       "displayOrder": 40,
       "id": "photo-040",
       "image": {
@@ -4915,22 +4920,22 @@
         "width": 1217
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 10 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-040"
       ],
       "reviewState": "complete",
-      "title": "Cross and three figures"
+      "title": "Crucifixion"
     },
     {
-      "alt": "Stained glass showing bearded figure above two smaller figures.",
+      "alt": "Stained glass: The risen Christ holds a victory banner above figures at the tomb.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 10 — h28.txt [P0104]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0104]; transcription paragraphs."
       ],
-      "description": "The drawing shows bearded figure above two smaller figures. Likely historical subject: Resurrection (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The risen Christ holds a victory banner above figures at the tomb. The scene depicts the Resurrection.",
       "displayOrder": 41,
       "id": "photo-041",
       "image": {
@@ -4948,22 +4953,22 @@
         "width": 1209
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 10 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-041"
       ],
       "reviewState": "complete",
-      "title": "Bearded figure above two smaller figures"
+      "title": "Resurrection"
     },
     {
-      "alt": "Stained glass showing feet, clouds and winged faces.",
+      "alt": "Stained glass: Christ’s feet disappear into a cloud above the gathered disciples.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 11 — h28.txt [P0106]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0106]; transcription paragraphs."
       ],
-      "description": "The drawing shows feet, clouds and winged faces. Likely historical subject: Ascension (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ’s feet disappear into a cloud above the gathered disciples. The scene depicts the Ascension.",
       "displayOrder": 42,
       "id": "photo-042",
       "image": {
@@ -4981,22 +4986,22 @@
         "width": 1309
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 11 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-042"
       ],
       "reviewState": "complete",
-      "title": "Feet, clouds and winged faces"
+      "title": "Ascension"
     },
     {
-      "alt": "Stained glass showing haloed face, raised hand and open book.",
+      "alt": "Stained glass: Christ teaches with an open book and a raised finger.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 11 — h28.txt [P0107]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0107]; transcription paragraphs."
       ],
-      "description": "The drawing shows haloed face, raised hand and open book. Likely historical subject: Christ and the Christian Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ teaches with an open book and a raised finger. The 1928 guide calls this scene Christ and the Christian Law.",
       "displayOrder": 43,
       "id": "photo-043",
       "image": {
@@ -5014,22 +5019,22 @@
         "width": 1332
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 11 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-043"
       ],
       "reviewState": "complete",
-      "title": "Haloed face, raised hand and open book"
+      "title": "Christ and the Christian Law"
     },
     {
-      "alt": "Stained glass showing dove, rays and flames.",
+      "alt": "Stained glass: A dove descends over heads marked by tongues of flame.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 11 — h28.txt [P0108]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0108]; transcription paragraphs."
       ],
-      "description": "The drawing shows dove, rays and flames. Likely historical subject: Descent of the Holy Ghost (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A dove descends over heads marked by tongues of flame. These symbols represent the coming of the Holy Spirit at Pentecost.",
       "displayOrder": 44,
       "id": "photo-044",
       "image": {
@@ -5047,22 +5052,22 @@
         "width": 1213
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 11 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-044"
       ],
       "reviewState": "complete",
-      "title": "Dove, rays and flames"
+      "title": "Descent of the Holy Ghost"
     },
     {
-      "alt": "Stained glass showing seated haloed figure with a book.",
+      "alt": "Stained glass: Christ sits enthroned within a luminous enclosure, holding a book and raising a hand in blessing.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 11 — h28.txt [P0109]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0109]; transcription paragraphs."
       ],
-      "description": "The drawing shows seated haloed figure with a book. Likely historical subject: Christ in Heaven (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ sits enthroned within a luminous enclosure, holding a book and raising a hand in blessing.",
       "displayOrder": 45,
       "id": "photo-045",
       "image": {
@@ -5080,22 +5085,22 @@
         "width": 1236
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 11 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-045"
       ],
       "reviewState": "complete",
-      "title": "Seated haloed figure with a book"
+      "title": "Christ in Heaven"
     },
     {
-      "alt": "Stained glass showing inverted figure and the words St Peter.",
+      "alt": "Stained glass: Peter is shown on an inverted cross beside the inscription ST PETER.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 12 — h28.txt [P0113]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0113]; transcription paragraphs."
       ],
-      "description": "The drawing shows inverted figure and the words St Peter. Likely historical subject: Martyrdom of St. Peter (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Peter is shown on an inverted cross beside the inscription ST PETER. The scene depicts his martyrdom.",
       "displayOrder": 46,
       "id": "photo-046",
       "image": {
@@ -5113,22 +5118,22 @@
         "width": 1218
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 12 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-046"
       ],
       "reviewState": "complete",
-      "title": "Inverted figure and the words St Peter"
+      "title": "Martyrdom of St. Peter"
     },
     {
-      "alt": "Stained glass showing figure carrying a child through water.",
+      "alt": "Stained glass: Christopher carries the Christ Child through water.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 12 — h28.txt [P0114]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0114]; transcription paragraphs."
       ],
-      "description": "The drawing shows figure carrying a child through water. Likely historical subject: St. Christopher ferrying the Christ Child across the river (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christopher carries the Christ Child through water. The child carries a cross.",
       "displayOrder": 47,
       "id": "photo-047",
       "image": {
@@ -5146,22 +5151,22 @@
         "width": 1221
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 12 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-047"
       ],
       "reviewState": "complete",
-      "title": "Figure carrying a child through water"
+      "title": "St. Christopher ferrying the Christ Child"
     },
     {
-      "alt": "Stained glass showing lamb, banner and crossed shapes.",
+      "alt": "Stained glass: A haloed lamb carries a cross and banner.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0111] and [P0131]; two plausible lamb entries."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0111]; transcription paragraphs."
       ],
-      "description": "The drawing shows lamb, banner and crossed shapes. Historical subject remains unidentified after review: two different lamb entries in the 1928 guide fit this detail. Present-day location is unconfirmed.",
+      "description": "A haloed lamb carries a cross and banner. The lamb represents Christ, and the banner expresses triumph. The 1928 guide lists this scene in Window 12.",
       "displayOrder": 48,
       "id": "photo-048",
       "image": {
@@ -5179,23 +5184,22 @@
         "width": 1326
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 12 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-048"
       ],
       "reviewState": "complete",
-      "title": "Lamb, banner and crossed shapes"
+      "title": "Christ as the Lamb"
     },
     {
-      "alt": "Stained glass: A grotesque creature holds a three-tined fork above a woolly ram beside a round cross-marked shape and three hanging balls.",
+      "alt": "Stained glass: A scarlet creature with a three-tined fork and flames appears above a lamb and cross.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 12 — h28.txt [P0112]; transcription paragraph, not a printed page number.",
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 14 — h28.txt [P0132]; transcription paragraph, not a printed page number."
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0112]; transcription paragraphs."
       ],
-      "description": "A grotesque creature holds a three-tined fork above a woolly ram beside a round cross-marked shape and three hanging balls. Likely historical subjects: Sin and Salvation. Sin symbolized by a scarlet Satan with three-tined fork and flames; Doctrine of Christ. Book—the New Testament. Three balls symbol of the Trinity (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A scarlet creature with a three-tined fork and flames appears above a lamb and cross. The 1928 guide calls the scene Sin and Salvation: the devil represents sin, while the lamb and cross represent Christ and salvation.",
       "displayOrder": 49,
       "id": "photo-049",
       "image": {
@@ -5213,22 +5217,23 @@
         "width": 1298
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "Window 12 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "relatedArtworkIds": [
         "design-049"
       ],
       "reviewState": "complete",
-      "title": "Creature with fork, ram and round window"
+      "title": "Sin and Salvation"
     },
     {
-      "alt": "A woman in blue holds a small child, surrounded by standing and kneeling visitors, with sheep below.",
+      "alt": "Stained glass: Mary and the infant Jesus receive the visiting Magi, with Joseph nearby.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0044]–[P0048]"
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0048]; transcription paragraphs.",
+        "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Fourth Church 1928–1935 — h35.txt [P0217]; transcription paragraphs."
       ],
-      "description": "A woman and child are surrounded by visitors in richly colored clothing. Sheep stand near the kneeling figures beneath a gold architectural canopy. The specific historical panel and its location remain under review. Likely Rachel Babcock Upjohn memorial window, based on the 1928 description. Present-day location is unconfirmed.",
+      "description": "Mary and the infant Jesus receive the visiting Magi, with Joseph nearby. This is the first of the five lower scenes in the Rachel Babcock Upjohn memorial window.",
       "displayOrder": 50,
       "id": "photo-050",
       "image": {
@@ -5246,20 +5251,21 @@
         "width": 1026
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "North memorial window, above the Communion table."
       },
       "relatedArtworkIds": [],
       "reviewState": "complete",
-      "title": "Woman, child and visitors"
+      "title": "The Nativity and the Magi"
     },
     {
-      "alt": "Two central figures stand beside water, with smaller attendants and a blue bird above them.",
+      "alt": "Stained glass: John baptizes Christ in the Jordan, accompanied by angels.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0044]–[P0048]"
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0048]; transcription paragraphs.",
+        "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Fourth Church 1928–1935 — h35.txt [P0217]; transcription paragraphs."
       ],
-      "description": "A central figure stands in water beside a bearded figure. Smaller attendants flank them, and a blue bird appears above the scene. The specific historical panel and its location remain under review. Likely Nativity and adoration by the Magi, based on the 1928 description. Present-day location is unconfirmed.",
+      "description": "John baptizes Christ in the Jordan, accompanied by angels. This is the second lower scene in the Rachel Babcock Upjohn memorial window.",
       "displayOrder": 51,
       "id": "photo-051",
       "image": {
@@ -5277,20 +5283,21 @@
         "width": 1017
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "North memorial window, above the Communion table."
       },
       "relatedArtworkIds": [],
       "reviewState": "complete",
-      "title": "Two figures beside water"
+      "title": "The Baptism of Christ"
     },
     {
-      "alt": "A central figure on a cross, with a woman in blue on the left and a figure in green on the right.",
+      "alt": "Stained glass: Mary and John stand at the foot of Christ’s cross.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0044]–[P0048]"
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0048]; transcription paragraphs.",
+        "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Fourth Church 1928–1935 — h35.txt [P0217]; transcription paragraphs."
       ],
-      "description": "Two standing figures flank a central cross under an elaborate gold canopy. A memorial inscription appears along the bottom. The specific historical panel and its location remain under review. Likely Baptism of Christ, based on the 1928 description. Present-day location is unconfirmed.",
+      "description": "Mary and John stand at the foot of Christ’s cross. The inscription beneath this central lower scene names Rachel Babcock Upjohn, in whose memory the north window was given.",
       "displayOrder": 52,
       "id": "photo-052",
       "image": {
@@ -5308,20 +5315,21 @@
         "width": 1030
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "North memorial window, above the Communion table."
       },
       "relatedArtworkIds": [],
       "reviewState": "complete",
-      "title": "Cross with two standing figures"
+      "title": "The Crucifixion"
     },
     {
-      "alt": "A standing haloed figure holds a cross-shaped banner above several companions under a gold canopy.",
+      "alt": "Stained glass: The risen Christ carries a victory banner beside the open tomb.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0044]–[P0048]"
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0048]; transcription paragraphs.",
+        "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Fourth Church 1928–1935 — h35.txt [P0217]; transcription paragraphs."
       ],
-      "description": "A central figure stands beside a cross-shaped banner, with companions gathered around and below. Plants and richly colored clothing frame the scene. The specific historical panel and its location remain under review. Likely Resurrection, based on the 1928 description. Present-day location is unconfirmed.",
+      "description": "The risen Christ carries a victory banner beside the open tomb. This is the fourth lower scene in the Rachel Babcock Upjohn memorial window.",
       "displayOrder": 53,
       "id": "photo-053",
       "image": {
@@ -5339,20 +5347,21 @@
         "width": 1007
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "North memorial window, above the Communion table."
       },
       "relatedArtworkIds": [],
       "reviewState": "complete",
-      "title": "Standing figure with banner and companions"
+      "title": "The Resurrection"
     },
     {
-      "alt": "A group of figures looks upward toward feet and the hem of a white garment above a cloud.",
+      "alt": "Stained glass: The disciples look upward toward Christ’s departing feet and robe above a cloud.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0044]–[P0048]"
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0048]; transcription paragraphs.",
+        "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Fourth Church 1928–1935 — h35.txt [P0217]; transcription paragraphs."
       ],
-      "description": "Several figures look upward toward feet and a white garment above a cloud. A gold architectural canopy surrounds the scene. The specific historical panel and its location remain under review. Likely Ascension, based on the 1928 description. Present-day location is unconfirmed.",
+      "description": "The disciples look upward toward Christ’s departing feet and robe above a cloud. This is the fifth lower scene in the Rachel Babcock Upjohn memorial window.",
       "displayOrder": 54,
       "id": "photo-054",
       "image": {
@@ -5370,20 +5379,21 @@
         "width": 1021
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "North memorial window, above the Communion table."
       },
       "relatedArtworkIds": [],
       "reviewState": "complete",
-      "title": "Feet above a group of figures"
+      "title": "The Ascension"
     },
     {
-      "alt": "Five adjoining stained-glass panels show standing figures in green, blue, purple and brown, with smaller figures and symbols beneath.",
+      "alt": "Stained glass: From left to right, the principal panels show Paul, Mary, Christ the Peacemaker, John the Baptist and Peter.",
       "citations": [
-        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0044]–[P0048]"
+        "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Memorial Window — h28.txt [P0044], [P0045], [P0046], [P0047]; transcription paragraphs.",
+        "Mrs. Stanley Morris, assisted by Mrs. James M. Hatfield. First Congregational Church Centennial History 1835–1935, October 1935. Supplied transcription; printed pagination not verified. — The Fourth Church 1928–1935 — h35.txt [P0217]; transcription paragraphs."
       ],
-      "description": "Five tall panels show standing figures under gold architectural canopies. Smaller figures, animals and symbols appear below them. The individual historical identifications and the present location remain under review. Likely Rachel Babcock Upjohn memorial window principal panels, based on the 1928 description. Present-day location is unconfirmed.",
+      "description": "From left to right, the principal panels show Paul, Mary, Christ the Peacemaker, John the Baptist and Peter. Their books, sword, globe, shepherd’s crook and keys express their roles in Christian teaching. Alfred E. Floegel designed the window.",
       "displayOrder": 55,
       "id": "photo-055",
       "image": {
@@ -5401,13 +5411,13 @@
         "width": 2000
       },
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "reviewState": "complete",
-        "value": null
+        "value": "North memorial window, above the Communion table."
       },
       "relatedArtworkIds": [],
       "reviewState": "complete",
-      "title": "Five tall panels with standing figures"
+      "title": "Rachel Babcock Upjohn memorial window"
     }
   ],
   "projectVersion": "0.1.0",

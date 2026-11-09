@@ -2,8 +2,8 @@
   "outcome": "complete",
   "recordId": "photo-007",
   "reviewKind": "subject",
-  "reviewedAtUtc": "2026-11-09T19:23:32.866Z",
-  "reviewedDigest": "286df09c5fa20d9408c691aba6c8321dea7a6793a3ff0db4f0d7862ab93d1670",
-  "reviewer": "Codex visual/source comparison, 9 November 2026; inferred matches explicitly labeled likely",
+  "reviewedAtUtc": "2026-11-09T23:44:29.447Z",
+  "reviewedDigest": "e908504f8baae5f4807d9d2de63218650ea7365be984f3214edd657925e7af2a",
+  "reviewer": "Codex editorial reconciliation of supplied crosswalk and historical transcriptions; owner-directed selection of best interpretation",
   "schemaVersion": 1
 }

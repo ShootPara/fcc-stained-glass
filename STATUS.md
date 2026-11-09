@@ -96,3 +96,10 @@ Older checkpoint wording is preserved in
 docs/STATUS_ARCHIVE_PRE_RELEASE_2026-11-09.md and the WP01–WP05 reports. Their
 earlier WP03/WP05 continuation instructions and unresolved design-009 notes are
 superseded by this status and the actual local files.
+
+## Historical editorial revision — 9 November 2026
+Expanded the About narrative from four to nine paragraphs using the existing H28/H35 transcriptions. Reconciled names, readable descriptions, alt text, historical window associations and source citations for all 55 photographs against the supplied crosswalk. Corrected north memorial Baptism/Crucifixion associations, selected the side-window lamb/Moses/salvation interpretations, and retained the two animal scenes without inventing their variant order. Recorded 110 updated photo subject/location editorial receipts; no new physical survey or independent visual identification is claimed.
+
+App code, coloring records, geometry, saved progress, PDFs and print review are unchanged. Existing source histories and crosswalk were reused. All 307 tests in 23 files passed. Local strict production build passed with 48 available drawings and 845 runtime files. Final prose was refined afterward; the release catalog and GitHub publication build validate the final content. Desktop browser inspection confirmed the expanded narrative in the existing layout. Physical phone and print tests were not performed.
+
+Publication verification is recorded below when complete. Next action: verify live About content after Pages deployment.

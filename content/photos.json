@@ -1,2968 +1,2414 @@
 {
   "photos": [
     {
-      "alt": "A tall pointed stained-glass window with five blue figure panels, smaller scenes below and decorative tracery above.",
+      "alt": "Stained glass: Christ stands at the center of this blue memorial window, surrounded by figures from religion, art, literature, science and public service.",
       "coverage": "whole-window",
-      "description": "Five tall panels show standing figures above a row of smaller scenes. Blue glass and branching stone tracery fill the pointed upper arch. The visible named figures likely identify the W. Harold Upjohn memorial described in the 1935 history. Present-day location is unconfirmed.",
+      "description": "Christ stands at the center of this blue memorial window, surrounded by figures from religion, art, literature, science and public service. Given by Dr. W. E. Upjohn and his family, it honors W. Harold Upjohn. The 1935 history describes this design; the photograph also includes names absent from its list.",
       "displayOrder": 1,
       "historicalEvidence": [
         {
-          "locator": "h35.txt [P0218]",
+          "locator": "h35.txt [P0218]; transcription paragraphs.",
           "section": "The Fourth Church 1928–1935",
           "sourceId": "H35"
+        },
+        {
+          "locator": "h28.txt [P0115], [P0116], [P0117], [P0118], [P0119], [P0120], [P0121], [P0122], [P0123], [P0124], [P0125], [P0126], [P0127], [P0128]; transcription paragraphs.",
+          "section": "The Windows, Window No. 13 (The south window)",
+          "sourceId": "H28"
         }
       ],
       "id": "photo-001",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full photograph.",
-            "sourceId": "photo-001"
-          },
-          {
-            "locator": "h35.txt [P0217]–[P0218]",
+            "locator": "h35.txt [P0218]; transcription paragraphs.",
             "section": "The Fourth Church 1928–1935",
             "sourceId": "H35"
+          },
+          {
+            "locator": "h28.txt [P0115], [P0116], [P0117], [P0118], [P0119], [P0120], [P0121], [P0122], [P0123], [P0124], [P0125], [P0126], [P0127], [P0128]; transcription paragraphs.",
+            "section": "The Windows, Window No. 13 (The south window)",
+            "sourceId": "H28"
           }
         ],
-        "rationale": "Historical descriptions support a memorial attribution, but no current in-person location survey is included. The filename alone is not proof of modern location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "South memorial window, described in the 1935 history."
       },
       "sourceId": "photo-001",
       "subjects": {
         "confidence": "unidentified",
         "evidence": [
           {
-            "section": "Inspected full photograph.",
-            "sourceId": "photo-001"
-          },
-          {
-            "locator": "h35.txt [P0218]",
+            "locator": "h35.txt [P0218]; transcription paragraphs.",
             "section": "The Fourth Church 1928–1935",
             "sourceId": "H35"
+          },
+          {
+            "locator": "h28.txt [P0115], [P0116], [P0117], [P0118], [P0119], [P0120], [P0121], [P0122], [P0123], [P0124], [P0125], [P0126], [P0127], [P0128]; transcription paragraphs.",
+            "section": "The Windows, Window No. 13 (The south window)",
+            "sourceId": "H28"
           }
         ],
-        "rationale": "The blue multi-figure window visibly names Michelangelo, Erasmus, Shakespeare, Lyman Abbot, Shaftesbury, Pasteur, Joan and Lincoln around Christ, matching H35's south memorial. No corresponding subject record from the numbered 1928 inventory is asserted.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: W. Harold Upjohn memorial window. Blue multi-figure window with central Christ and readable names including Wycliffe, Shakespeare, Erasmus, Lyman Abbot, Lincoln and Pasteur. Matches 1935 description, not 1928 Window 13.",
         "value": null
       },
-      "title": "Large blue window with many figures"
+      "title": "W. Harold Upjohn memorial window"
     },
     {
-      "alt": "Stained glass with a golden sun, a star and crescent moon above it, a red curved band, and waves below.",
+      "alt": "Stained glass: The sun, crescent moon and star shine above bands of earth and water.",
       "coverage": "detail",
-      "description": "A sun below a star and a crescent moon, with curved bands and waves. Likely historical subject: Sun, Moon, Stars, Earth and Water (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The sun, crescent moon and star shine above bands of earth and water. Together they represent the beginning of Creation.",
       "displayOrder": 2,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0054]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 1",
+          "locator": "h28.txt [P0054]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-002",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-002"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0054]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 1 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-002",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Sun, crescent, star and water match the named creation symbols.",
-            "sourceId": "design-002"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-002"
-          },
-          {
-            "locator": "h28.txt [P0054]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 1",
+            "locator": "h28.txt [P0054]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Sun, crescent, star and water match the named creation symbols.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Sun, Moon, Stars, Earth and Water. Star, crescent moon, sun, and wavy landscape/water bands are visible. The historical title is Sun, Moon, Stars, Earth and Water; the blue upper shape should not separately be asserted to be a globe.",
         "value": [
           "h28-window-01-subject-01"
         ]
       },
-      "title": "Sun, moon, star and waves"
+      "title": "Sun, Moon, Stars, Earth and Water"
     },
     {
-      "alt": "Stained glass showing fish, rainbow and waves.",
+      "alt": "Stained glass: A large fish rises among bands of water, with its eye, open mouth, gills and fins clearly outlined.",
       "coverage": "detail",
-      "description": "The drawing shows fish, rainbow and waves. Likely historical subject: Creation of the Fishes (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A large fish rises among bands of water, with its eye, open mouth, gills and fins clearly outlined. The scene celebrates the creation of fish.",
       "displayOrder": 3,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0055]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 1",
+          "locator": "h28.txt [P0055]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-003",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-003"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0055]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 1 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-003",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A prominent fish rises through water beneath a rainbow.",
-            "sourceId": "design-003"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-003"
-          },
-          {
-            "locator": "h28.txt [P0055]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 1",
+            "locator": "h28.txt [P0055]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A prominent fish rises through water beneath a rainbow.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Creation of the Fishes. One large fish is clearly visible among the wave bands, with an eye, open mouth, curved gill line and fins. Land/sky/water forms also appear; Creation of the Fishes is the historical title.",
         "value": [
           "h28-window-01-subject-02"
         ]
       },
-      "title": "Fish, rainbow and waves"
+      "title": "Creation of the Fishes"
     },
     {
-      "alt": "Stained glass showing monkey and winged bird.",
+      "alt": "Stained glass: A large land animal, a long-beaked winged creature and foliage represent the creation of animals.",
       "coverage": "detail",
-      "description": "The drawing shows monkey and winged bird. Likely historical subject: Creation of the Animals on Land No. 1 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A large land animal, a long-beaked winged creature and foliage represent the creation of animals. This is one of two land-animal scenes in Window 1.",
       "displayOrder": 4,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0056]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 1",
+          "locator": "h28.txt [P0056], [P0057]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-004",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-004"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0056], [P0057]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 1 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-004",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Monkey and winged bird among leaves fit the first land-animal scene. The two creation-animal entries are not individually described, so this is an inference.",
-            "sourceId": "design-004"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-004"
-          },
-          {
-            "locator": "h28.txt [P0056]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 1",
+            "locator": "h28.txt [P0056], [P0057]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Monkey and winged bird among leaves fit the first land-animal scene. The two creation-animal entries are not individually described, so this is an inference.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Creation of the land animals. Large dinosaur-like land animal beside a long-beaked, winged, long-tailed creature and foliage. This supports the land-animal creation pair, but does not establish the booklet’s No. 1 versus No. 2 assignment or an exact animal species.",
         "value": [
-          "h28-window-01-subject-03"
+          "h28-window-01-subject-03",
+          "h28-window-01-subject-04"
         ]
       },
-      "title": "Monkey and winged bird"
+      "title": "Creation of the land animals"
     },
     {
-      "alt": "Stained glass showing lion, elephant and small monkey.",
+      "alt": "Stained glass: An elephant, a lion and a small monkey hanging from a branch represent the creation of animals.",
       "coverage": "detail",
-      "description": "The drawing shows lion, elephant and small monkey. Likely historical subject: Creation of the Animals on Land No. 2 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An elephant, a lion and a small monkey hanging from a branch represent the creation of animals. This is the other land-animal scene in Window 1.",
       "displayOrder": 5,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0057]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 1",
+          "locator": "h28.txt [P0056], [P0057]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-005",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-005"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0056], [P0057]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 1 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-005",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Lion, elephant and small monkey fit the second land-animal scene; its distinction from the first entry remains inferred.",
-            "sourceId": "design-005"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-005"
-          },
-          {
-            "locator": "h28.txt [P0057]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 1",
+            "locator": "h28.txt [P0056], [P0057]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Lion, elephant and small monkey fit the second land-animal scene; its distinction from the first entry remains inferred.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Creation of the land animals. Elephant, lion and small monkey hanging from a branch. This supports the land-animal creation pair, but does not establish the booklet’s No. 1 versus No. 2 assignment.",
         "value": [
+          "h28-window-01-subject-03",
           "h28-window-01-subject-04"
         ]
       },
-      "title": "Lion, elephant and small monkey"
+      "title": "Creation of the land animals"
     },
     {
-      "alt": "Stained glass showing two figures, leaves and fish.",
+      "alt": "Stained glass: Eve offers an apple to Adam beside a tree and serpent.",
       "coverage": "detail",
-      "description": "The drawing shows two figures, leaves and fish. Likely historical subject: Eve giving the apple to Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Eve offers an apple to Adam beside a tree and serpent. The scene tells the story of temptation in the Garden of Eden.",
       "displayOrder": 6,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0061]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 2",
+          "locator": "h28.txt [P0061]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-006",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-006"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0061]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 2 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-006",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Two faces meet beneath a fruit-bearing tree; one holds the round fruit toward the other.",
-            "sourceId": "design-006"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-006"
-          },
-          {
-            "locator": "h28.txt [P0061]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 2",
+            "locator": "h28.txt [P0061]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Two faces meet beneath a fruit-bearing tree; one holds the round fruit toward the other.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Eve giving the apple to Adam. Two figures, apple offered between them, tree and serpent.",
         "value": [
           "h28-window-02-subject-07"
         ]
       },
-      "title": "Two figures, leaves and fish"
+      "title": "Eve giving the apple to Adam"
     },
     {
-      "alt": "Stained glass showing writing hand and bearded figure.",
+      "alt": "Stained glass: The hand of God reaches down toward the reclining Adam, representing the creation of the first man.",
       "coverage": "detail",
-      "description": "The drawing shows writing hand and bearded figure. Likely historical subject: Creation of Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The hand of God reaches down toward the reclining Adam, representing the creation of the first man.",
       "displayOrder": 7,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0059]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 2",
+          "locator": "h28.txt [P0059]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-007",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-007"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0059]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 2 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-007",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A hand descends from above toward a reclining bearded man, supporting creation of Adam rather than a writing scene.",
-            "sourceId": "design-007"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-007"
-          },
-          {
-            "locator": "h28.txt [P0059]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 2",
+            "locator": "h28.txt [P0059]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A hand descends from above toward a reclining bearded man, supporting creation of Adam rather than a writing scene.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Creation of Adam. Hand of God reaching to reclining Adam.",
         "value": [
           "h28-window-02-subject-05"
         ]
       },
-      "title": "Writing hand and bearded figure"
+      "title": "Creation of Adam"
     },
     {
-      "alt": "Stained glass showing standing woman and kneeling man.",
+      "alt": "Stained glass: Eve stands above the reclining Adam in this scene of her creation.",
       "coverage": "detail",
-      "description": "The drawing shows standing woman and kneeling man. Likely historical subject: Creation of Eve (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Eve stands above the reclining Adam in this scene of her creation.",
       "displayOrder": 8,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0060]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 2",
+          "locator": "h28.txt [P0060]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-008",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-008"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0060]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 2 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-008",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A standing woman appears above a reclining man, supporting creation of Eve.",
-            "sourceId": "design-008"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-008"
-          },
-          {
-            "locator": "h28.txt [P0060]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 2",
+            "locator": "h28.txt [P0060]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A standing woman appears above a reclining man, supporting creation of Eve.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Creation of Eve. Eve stands above reclining Adam.",
         "value": [
           "h28-window-02-subject-06"
         ]
       },
-      "title": "Standing woman and kneeling man"
+      "title": "Creation of Eve"
     },
     {
-      "alt": "Stained glass: A branching thorny plant above a long-necked serpent with open jaws.",
+      "alt": "Stained glass: Thorny foliage grows above a serpent.",
       "coverage": "detail",
-      "description": "A branching thorny plant above a long-necked serpent with open jaws. Likely historical subject: Thorns, Thistles and Serpent of Sin (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Thorny foliage grows above a serpent. The 1928 guide names these symbols as thorns, thistles and the serpent of sin.",
       "displayOrder": 9,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0062]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 2",
+          "locator": "h28.txt [P0062]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-009",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-009"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0062]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 2 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-009",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A long-necked serpent lies beneath a thorny branching plant. This is not a bird.",
-            "sourceId": "design-009"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-009"
-          },
-          {
-            "locator": "h28.txt [P0062]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 2",
+            "locator": "h28.txt [P0062]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A long-necked serpent lies beneath a thorny branching plant. This is not a bird.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Thorns, Thistles and Serpent of Sin. Thorny foliage and serpent.",
         "value": [
           "h28-window-02-subject-08"
         ]
       },
-      "title": "Tree and serpent"
+      "title": "Thorns, Thistles and Serpent of Sin"
     },
     {
-      "alt": "Stained glass showing boat and raised hands.",
+      "alt": "Stained glass: An ark floats above the waters of the Flood, while a drowning figure appears below.",
       "coverage": "detail",
-      "description": "The drawing shows boat and raised hands. Likely historical subject: The Flood (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An ark floats above the waters of the Flood, while a drowning figure appears below.",
       "displayOrder": 10,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0066]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 3",
+          "locator": "h28.txt [P0066]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-010",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-010"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0066]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 3 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-010",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "An ark floats above raised human hands and water.",
-            "sourceId": "design-010"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-010"
-          },
-          {
-            "locator": "h28.txt [P0066]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 3",
+            "locator": "h28.txt [P0066]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "An ark floats above raised human hands and water.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: The Flood. Ark above water with drowning figure below.",
         "value": [
           "h28-window-03-subject-11"
         ]
       },
-      "title": "Boat and raised hands"
+      "title": "The Flood"
     },
     {
-      "alt": "Stained glass showing bird and a figure in a window.",
+      "alt": "Stained glass: Noah looks from the ark as a dove flies out over the water, seeking a sign that the Flood has receded.",
       "coverage": "detail",
-      "description": "The drawing shows bird and a figure in a window. Likely historical subject: Noah sends out the Dove (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Noah looks from the ark as a dove flies out over the water, seeking a sign that the Flood has receded.",
       "displayOrder": 11,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0067]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 3",
+          "locator": "h28.txt [P0067]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-011",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-011"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0067]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 3 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-011",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A dove flies beside a bearded face in the ark window, with water below.",
-            "sourceId": "design-011"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-011"
-          },
-          {
-            "locator": "h28.txt [P0067]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 3",
+            "locator": "h28.txt [P0067]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A dove flies beside a bearded face in the ark window, with water below.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Noah sends out the Dove. Noah in ark window with bird flying out.",
         "value": [
           "h28-window-03-subject-12"
         ]
       },
-      "title": "Bird and a figure in a window"
+      "title": "Noah sends out the Dove"
     },
     {
-      "alt": "Stained glass showing sword, fruit and curling bands.",
+      "alt": "Stained glass: A hand holds a sword with a flame-like blade above a fruit-bearing branch.",
       "coverage": "detail",
-      "description": "The drawing shows sword, fruit and curling bands. Likely historical subject: Adam and Eve. Their eviction from Paradise (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A hand holds a sword with a flame-like blade above a fruit-bearing branch. These symbols tell the story of Adam and Eve’s expulsion from Paradise.",
       "displayOrder": 12,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0064]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 3",
+          "locator": "h28.txt [P0064]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-012",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-012"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0064]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 3 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-012",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A flaming sword and fruit support eviction from Paradise; no individual people are shown.",
-            "sourceId": "design-012"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-012"
-          },
-          {
-            "locator": "h28.txt [P0064]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 3",
+            "locator": "h28.txt [P0064]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A flaming sword and fruit support eviction from Paradise; no individual people are shown.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Expulsion from Paradise. A hand gripping a sword hilt is certain. The blade has a wavy/flame-like outline and a fruit-bearing branch appears below. Expulsion from Paradise is a probable symbolic interpretation supported by the historical list; neither Adam nor Eve is pictured.",
         "value": [
           "h28-window-03-subject-09"
         ]
       },
-      "title": "Sword, fruit and curling bands"
+      "title": "Expulsion from Paradise"
     },
     {
-      "alt": "Stained glass showing birds and stone walls.",
+      "alt": "Stained glass: Two serpent heads and curling bodies appear beside stone altars, flames and hands.",
       "coverage": "detail",
-      "description": "Bird heads appear among stone walls and curling shapes. Likely historical subject: The offering of Cain and Abel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Two serpent heads and curling bodies appear beside stone altars, flames and hands. The paired offerings connect this scene with Cain and Abel in the 1928 guide.",
       "displayOrder": 13,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0065]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 3",
+          "locator": "h28.txt [P0065]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-013",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-013"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0065]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 3 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-013",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Two birds flank masonry altars, with a burning offering below; the subject is inferred from the offering motif.",
-            "sourceId": "design-013"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-013"
-          },
-          {
-            "locator": "h28.txt [P0065]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 3",
+            "locator": "h28.txt [P0065]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Two birds flank masonry altars, with a burning offering below; the subject is inferred from the offering motif.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: The offerings of Cain and Abel. Two serpent heads with curling bodies, two stone altar-like structures, red flames and hands are visible. The paired altars and early Genesis context make Cain and Abel’s offerings plausible, but the supplied text does not explain the serpents. Previous high confidence is withdrawn; the exact narrative needs corroboration.",
         "value": [
           "h28-window-03-subject-10"
         ]
       },
-      "title": "Birds and stone walls"
+      "title": "The offerings of Cain and Abel"
     },
     {
-      "alt": "Stained glass showing raised hand, fire and stone altar.",
+      "alt": "Stained glass: Noah worships at a sacrificial altar beneath a rainbow.",
       "coverage": "detail",
-      "description": "The drawing shows raised hand, fire and stone altar. Likely historical subject: Noah's Offering (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Noah worships at a sacrificial altar beneath a rainbow. The offering follows his survival of the Flood.",
       "displayOrder": 14,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0069]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 4",
+          "locator": "h28.txt [P0069]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-014",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-014"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0069]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 4 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-014",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A bearded figure raises a hand beside a burning stone altar under an arch.",
-            "sourceId": "design-014"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-014"
-          },
-          {
-            "locator": "h28.txt [P0069]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 4",
+            "locator": "h28.txt [P0069]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A bearded figure raises a hand beside a burning stone altar under an arch.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Noah’s Offering. Bearded worshipper at sacrificial altar under rainbow.",
         "value": [
           "h28-window-04-subject-13"
         ]
       },
-      "title": "Raised hand, fire and stone altar"
+      "title": "Noah’s Offering"
     },
     {
-      "alt": "Stained glass showing building, clouds and the word Babylon.",
+      "alt": "Stained glass: A tower bears the inscription BABEL.",
       "coverage": "detail",
-      "description": "The drawing shows building, clouds and the word Babylon. Likely historical subject: Tower of Babel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A tower bears the inscription BABEL. It represents the Tower of Babel in the Genesis story.",
       "displayOrder": 15,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0070]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 4",
+          "locator": "h28.txt [P0070]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-015",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-015"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0070]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 4 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-015",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "The tall building and visible BABYLON lettering support the guide's Babel entry.",
-            "sourceId": "design-015"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-015"
-          },
-          {
-            "locator": "h28.txt [P0070]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 4",
+            "locator": "h28.txt [P0070]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "The tall building and visible BABYLON lettering support the guide's Babel entry.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Tower of Babel. Tower with BABEL inscription.",
         "value": [
           "h28-window-04-subject-14"
         ]
       },
-      "title": "Building, clouds and the word Babylon"
+      "title": "Tower of Babel"
     },
     {
-      "alt": "Stained glass showing fortress, flames and three faces.",
+      "alt": "Stained glass: Flames and lightning strike a city as figures flee below.",
       "coverage": "detail",
-      "description": "The drawing shows fortress, flames and three faces. Likely historical subject: Destruction of Sodom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Flames and lightning strike a city as figures flee below. The scene depicts the destruction of Sodom.",
       "displayOrder": 16,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0071]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 4",
+          "locator": "h28.txt [P0071]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-016",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-016"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0071]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 4 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-016",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Three fleeing faces appear beneath a burning city.",
-            "sourceId": "design-016"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-016"
-          },
-          {
-            "locator": "h28.txt [P0071]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 4",
+            "locator": "h28.txt [P0071]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Three fleeing faces appear beneath a burning city.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Destruction of Sodom. City in flames, lightning, escaping figures.",
         "value": [
           "h28-window-04-subject-15"
         ]
       },
-      "title": "Fortress, flames and three faces"
+      "title": "Destruction of Sodom"
     },
     {
-      "alt": "Stained glass showing steps, feet and kneeling figure.",
+      "alt": "Stained glass: Jacob sleeps beneath a ladder with figures ascending and descending.",
       "coverage": "detail",
-      "description": "The drawing shows steps, feet and kneeling figure. Likely historical subject: Jacob's Dream (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Jacob sleeps beneath a ladder with figures ascending and descending. His dream links earth and heaven.",
       "displayOrder": 17,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0072]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 4",
+          "locator": "h28.txt [P0072]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-017",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-017"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0072]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 4 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-017",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A reclining figure looks toward feet on ascending steps, beside an oil vessel.",
-            "sourceId": "design-017"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-017"
-          },
-          {
-            "locator": "h28.txt [P0072]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 4",
+            "locator": "h28.txt [P0072]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A reclining figure looks toward feet on ascending steps, beside an oil vessel.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Jacob’s Dream. Sleeping figure beneath ladder and ascending/descending figures.",
         "value": [
           "h28-window-04-subject-16"
         ]
       },
-      "title": "Steps, feet and kneeling figure"
+      "title": "Jacob’s Dream"
     },
     {
-      "alt": "Stained glass showing figure, horse and decorated chariot.",
+      "alt": "Stained glass: Joseph rides in an ornate ceremonial chariot in Egyptian dress, showing his rise to honor in Egypt.",
       "coverage": "detail",
-      "description": "The drawing shows figure, horse and decorated chariot. Likely historical subject: Joseph honored (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Joseph rides in an ornate ceremonial chariot in Egyptian dress, showing his rise to honor in Egypt.",
       "displayOrder": 18,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0076]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 5",
+          "locator": "h28.txt [P0076]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-018",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-018"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0076]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 5 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-018",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "An Egyptian-dressed figure rides an ornate horse-drawn chariot.",
-            "sourceId": "design-018"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-018"
-          },
-          {
-            "locator": "h28.txt [P0076]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 5",
+            "locator": "h28.txt [P0076]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "An Egyptian-dressed figure rides an ornate horse-drawn chariot.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Joseph honored. Egyptian-styled figure riding in ceremonial chariot.",
         "value": [
           "h28-window-05-subject-19"
         ]
       },
-      "title": "Figure, horse and decorated chariot"
+      "title": "Joseph honored"
     },
     {
-      "alt": "Stained glass showing woman, child in a basket and pyramids.",
+      "alt": "Stained glass: An Egyptian woman reaches toward an infant in a basket, with pyramids behind her.",
       "coverage": "detail",
-      "description": "The drawing shows woman, child in a basket and pyramids. Likely historical subject: Finding of Moses (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An Egyptian woman reaches toward an infant in a basket, with pyramids behind her. The child is Moses.",
       "displayOrder": 19,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0077]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 5",
+          "locator": "h28.txt [P0077]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-019",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-019"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0077]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 5 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-019",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A woman reaches toward an infant in a basket with pyramids behind.",
-            "sourceId": "design-019"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-019"
-          },
-          {
-            "locator": "h28.txt [P0077]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 5",
+            "locator": "h28.txt [P0077]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A woman reaches toward an infant in a basket with pyramids behind.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Finding of Moses. Egyptian woman, infant in basket, pyramids.",
         "value": [
           "h28-window-05-subject-20"
         ]
       },
-      "title": "Woman, child in a basket and pyramids"
+      "title": "Finding of Moses"
     },
     {
-      "alt": "Stained glass showing raised hand, lettered bands and bowl.",
+      "alt": "Stained glass: The names JACOB and ESAU appear beside a raised hand and a bowl of food.",
       "coverage": "detail",
-      "description": "The drawing shows raised hand, lettered bands and bowl. Likely historical subject: Esau swears off his birthright (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The names JACOB and ESAU appear beside a raised hand and a bowl of food. Esau surrenders his birthright to Jacob.",
       "displayOrder": 20,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0074]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 5",
+          "locator": "h28.txt [P0074]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-020",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-020"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0074]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 5 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-020",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "The visible JACOB and ESAU names, oath hand and steaming bowl support the birthright scene.",
-            "sourceId": "design-020"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-020"
-          },
-          {
-            "locator": "h28.txt [P0074]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 5",
+            "locator": "h28.txt [P0074]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "The visible JACOB and ESAU names, oath hand and steaming bowl support the birthright scene.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Esau swears off his birthright. JACOB and ESAU inscriptions, raised oath hand, bowl of food.",
         "value": [
           "h28-window-05-subject-17"
         ]
       },
-      "title": "Raised hand, lettered bands and bowl"
+      "title": "Esau swears off his birthright"
     },
     {
-      "alt": "Stained glass showing camel, standing figure and bundle.",
+      "alt": "Stained glass: A young Joseph appears beside a merchant, a camel and a money bag.",
       "coverage": "detail",
-      "description": "The drawing shows camel, standing figure and bundle. Likely historical subject: Selling of Joseph (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A young Joseph appears beside a merchant, a camel and a money bag. The scene depicts his sale into slavery.",
       "displayOrder": 21,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0075]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 5",
+          "locator": "h28.txt [P0075]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-021",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-021"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0075]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 5 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-021",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A partially clothed young figure stands beside a camel and tied bundle, consistent with Joseph being sold; the guide gives no detailed composition.",
-            "sourceId": "design-021"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-021"
-          },
-          {
-            "locator": "h28.txt [P0075]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 5",
+            "locator": "h28.txt [P0075]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A partially clothed young figure stands beside a camel and tied bundle, consistent with Joseph being sold; the guide gives no detailed composition.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Selling of Joseph. Youth, merchant’s hand, camel and money bag.",
         "value": [
           "h28-window-05-subject-18"
         ]
       },
-      "title": "Camel, standing figure and bundle"
+      "title": "Selling of Joseph"
     },
     {
-      "alt": "Stained glass showing crowned figure and horse head.",
+      "alt": "Stained glass: An armored horseman appears among sweeping forms of blue and red.",
       "coverage": "detail",
-      "description": "The drawing shows crowned figure and horse head. Likely historical subject: Through the Red Sea (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An armored horseman appears among sweeping forms of blue and red. The scene represents the passage through the Red Sea in the group devoted to Moses.",
       "displayOrder": 22,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0080]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 6",
+          "locator": "h28.txt [P0080]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-022",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-022"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0080]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 6 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-022",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A crowned Egyptian-looking figure and horse appear amid sweeping water-like bands; the Red Sea identification remains an inference.",
-            "sourceId": "design-022"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-022"
-          },
-          {
-            "locator": "h28.txt [P0080]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 6",
+            "locator": "h28.txt [P0080]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A crowned Egyptian-looking figure and horse appear amid sweeping water-like bands; the Red Sea identification remains an inference.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Passage through the Red Sea. Armored horseman amid wave-like blue and red forms. Identification supported by the Moses group and elimination of its other three distinctive scenes.",
         "value": [
           "h28-window-06-subject-21"
         ]
       },
-      "title": "Crowned figure and horse head"
+      "title": "Passage through the Red Sea"
     },
     {
-      "alt": "Stained glass showing bearded face, leaves and flames.",
+      "alt": "Stained glass: A divine face appears within a leafy bush topped by flames.",
       "coverage": "detail",
-      "description": "The drawing shows bearded face, leaves and flames. Likely historical subject: Moses and the Burning Bush (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A divine face appears within a leafy bush topped by flames. The burning bush represents God’s call to Moses.",
       "displayOrder": 23,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0081]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 6",
+          "locator": "h28.txt [P0081]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-023",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-023"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0081]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 6 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-023",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A bearded face appears among branches beneath a row of flames.",
-            "sourceId": "design-023"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-023"
-          },
-          {
-            "locator": "h28.txt [P0081]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 6",
+            "locator": "h28.txt [P0081]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A bearded face appears among branches beneath a row of flames.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Moses and the Burning Bush. Divine face within leafy bush topped by flames.",
         "value": [
           "h28-window-06-subject-22"
         ]
       },
-      "title": "Bearded face, leaves and flames"
+      "title": "Moses and the Burning Bush"
     },
     {
-      "alt": "Stained glass showing raised hand, grape cluster and two figures.",
+      "alt": "Stained glass: Moses holds a staff beside water flowing from a rock, with a kneeling figure drinking below.",
       "coverage": "detail",
-      "description": "The drawing shows raised hand, grape cluster and two figures. Likely historical subjects: Moses striking the rock; The Carriers of the Grapes of Eschol (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Moses holds a staff beside water flowing from a rock, with a kneeling figure drinking below. The scene tells of water provided to the Israelites in the wilderness.",
       "displayOrder": 24,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0082]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 6",
-          "sourceId": "H28"
-        },
-        {
-          "locator": "h28.txt [P0120]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 13",
+          "locator": "h28.txt [P0082]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-024",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-024"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0082]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 6 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-024",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "The upper raised hand and flowing bands support Moses and water; the lower two carriers share a large grape cluster. These separate motifs fit both cited entries, without proving their original window arrangement.",
-            "sourceId": "design-024"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-024"
-          },
-          {
-            "locator": "h28.txt [P0082]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 6",
-            "sourceId": "H28"
-          },
-          {
-            "locator": "h28.txt [P0120]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 13",
+            "locator": "h28.txt [P0082]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "The upper raised hand and flowing bands support Moses and water; the lower two carriers share a large grape cluster. These separate motifs fit both cited entries, without proving their original window arrangement.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Moses striking the rock. Moses with staff, water issuing beside rock and kneeling drinker.",
         "value": [
-          "h28-window-06-subject-23",
-          "h28-window-13-subject-52"
+          "h28-window-06-subject-23"
         ]
       },
-      "title": "Raised hand, grape cluster and two figures"
+      "title": "Moses striking the rock"
     },
     {
-      "alt": "Stained glass showing standing figure with tablets and raised hand.",
+      "alt": "Stained glass: Moses holds two tablets representing the Law.",
       "coverage": "detail",
-      "description": "The drawing shows standing figure with tablets and raised hand. Likely historical subject: Moses and the Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Moses holds two tablets representing the Law.",
       "displayOrder": 25,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0083]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 6",
+          "locator": "h28.txt [P0083]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-025",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-025"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0083]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 6 in the 1928 guide. Right side when looking toward the chancel, counting from the chancel."
       },
       "sourceId": "photo-025",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A standing bearded figure holds two tablets and raises a hand.",
-            "sourceId": "design-025"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-025"
-          },
-          {
-            "locator": "h28.txt [P0083]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 6",
+            "locator": "h28.txt [P0083]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A standing bearded figure holds two tablets and raises a hand.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Moses and the Law. Moses holding paired tablets.",
         "value": [
           "h28-window-06-subject-24"
         ]
       },
-      "title": "Standing figure with tablets and raised hand"
+      "title": "Moses and the Law"
     },
     {
-      "alt": "Stained glass showing seated figure, lion and trees.",
+      "alt": "Stained glass: Samson forces open a lion’s jaws with his hands, showing the strength associated with him in the biblical story.",
       "coverage": "detail",
-      "description": "The drawing shows seated figure, lion and trees. Likely historical subject: Samson slaying the Lion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Samson forces open a lion’s jaws with his hands, showing the strength associated with him in the biblical story.",
       "displayOrder": 26,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0086]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 7",
+          "locator": "h28.txt [P0086]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-026",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-026"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0086]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 7 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-026",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A seated strong figure bends over a lion, with hands at its open mouth.",
-            "sourceId": "design-026"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-026"
-          },
-          {
-            "locator": "h28.txt [P0086]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 7",
+            "locator": "h28.txt [P0086]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A seated strong figure bends over a lion, with hands at its open mouth.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Samson slaying the Lion. Man forcing open lion’s jaws.",
         "value": [
           "h28-window-07-subject-25"
         ]
       },
-      "title": "Seated figure, lion and trees"
+      "title": "Samson slaying the Lion"
     },
     {
-      "alt": "Stained glass showing figures, circular shield and flowing garments.",
+      "alt": "Stained glass: David appears with a sling beside an armored warrior and a severed head.",
       "coverage": "detail",
-      "description": "Figures, a circular shield and flowing garments fill the drawing. Likely historical subject: David and Goliath (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "David appears with a sling beside an armored warrior and a severed head. The scene depicts his victory over Goliath.",
       "displayOrder": 27,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0087]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 7",
+          "locator": "h28.txt [P0087]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-027",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-027"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0087]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 7 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-027",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A smaller figure with sling/pouch faces an armored warrior with shield and a fallen head below.",
-            "sourceId": "design-027"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-027"
-          },
-          {
-            "locator": "h28.txt [P0087]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 7",
+            "locator": "h28.txt [P0087]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A smaller figure with sling/pouch faces an armored warrior with shield and a fallen head below.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: David and Goliath. Young David with sling, giant’s severed head and armored figure.",
         "value": [
           "h28-window-07-subject-26"
         ]
       },
-      "title": "Figures, circular shield and flowing garments"
+      "title": "David and Goliath"
     },
     {
-      "alt": "Stained glass showing winged figure, branch and bowed head.",
+      "alt": "Stained glass: Absalom’s long hair catches in a tree as armed figures gather around him.",
       "coverage": "detail",
-      "description": "The drawing shows winged figure, branch and bowed head. Likely historical subject: Death of Absalom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Absalom’s long hair catches in a tree as armed figures gather around him. The scene depicts his death.",
       "displayOrder": 28,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0088]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 7",
+          "locator": "h28.txt [P0088]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-028",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-028"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0088]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 7 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-028",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "The central young figure's hair extends upward into a tree while armed figures surround him, supporting Absalom; this is not treated as a confirmed portrait.",
-            "sourceId": "design-028"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-028"
-          },
-          {
-            "locator": "h28.txt [P0088]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 7",
+            "locator": "h28.txt [P0088]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "The central young figure's hair extends upward into a tree while armed figures surround him, supporting Absalom; this is not treated as a confirmed portrait.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Death of Absalom. Long-haired dead/dying figure caught at tree branch.",
         "value": [
           "h28-window-07-subject-27"
         ]
       },
-      "title": "Winged figure, branch and bowed head"
+      "title": "Death of Absalom"
     },
     {
-      "alt": "Stained glass showing woman, grapes, donkey and figures.",
+      "alt": "Stained glass: Mary and the infant Jesus travel on a donkey with Joseph.",
       "coverage": "detail",
-      "description": "The drawing shows woman, grapes, donkey and figures. Likely historical subject: Flight into Egypt (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Mary and the infant Jesus travel on a donkey with Joseph. The family flees into Egypt.",
       "displayOrder": 29,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0089]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 7",
+          "locator": "h28.txt [P0089]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-029",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-029"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0089]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 7 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-029",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A woman and small child ride a donkey led by a staff-bearing man.",
-            "sourceId": "design-029"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-029"
-          },
-          {
-            "locator": "h28.txt [P0089]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 7",
+            "locator": "h28.txt [P0089]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A woman and small child ride a donkey led by a staff-bearing man.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Flight into Egypt. Mary and child, Joseph, donkey and traveling vessel.",
         "value": [
           "h28-window-07-subject-28"
         ]
       },
-      "title": "Woman, grapes, donkey and figures"
+      "title": "Flight into Egypt"
     },
     {
-      "alt": "Stained glass showing winged face, clouds and kneeling woman.",
+      "alt": "Stained glass: A winged messenger appears above the praying Mary beside a lily.",
       "coverage": "detail",
-      "description": "The drawing shows winged face, clouds and kneeling woman. Likely historical subject: Annunciation (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A winged messenger appears above the praying Mary beside a lily. The Annunciation tells of the announcement that she will bear Jesus.",
       "displayOrder": 30,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0091]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 8",
+          "locator": "h28.txt [P0091]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-030",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-030"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0091]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 8 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-030",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A winged messenger appears above a praying woman beside a lily.",
-            "sourceId": "design-030"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-030"
-          },
-          {
-            "locator": "h28.txt [P0091]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 8",
+            "locator": "h28.txt [P0091]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A winged messenger appears above a praying woman beside a lily.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Annunciation. Winged messenger above praying Mary, with lily.",
         "value": [
           "h28-window-08-subject-29"
         ]
       },
-      "title": "Winged face, clouds and kneeling woman"
+      "title": "Annunciation"
     },
     {
-      "alt": "Stained glass showing star, rays and three crowned figures.",
+      "alt": "Stained glass: Three crowned figures gather beneath a radiant star.",
       "coverage": "detail",
-      "description": "The drawing shows star, rays and three crowned figures. Likely historical subject: Three Wise Men (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Three crowned figures gather beneath a radiant star. The Wise Men follow the star to find the infant Jesus.",
       "displayOrder": 31,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0092]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 8",
+          "locator": "h28.txt [P0092]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-031",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-031"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0092]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 8 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-031",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Three crowned figures look toward a radiant star.",
-            "sourceId": "design-031"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-031"
-          },
-          {
-            "locator": "h28.txt [P0092]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 8",
+            "locator": "h28.txt [P0092]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Three crowned figures look toward a radiant star.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Three Wise Men. Three crowned figures beneath star and rays.",
         "value": [
           "h28-window-08-subject-30"
         ]
       },
-      "title": "Star, rays and three crowned figures"
+      "title": "Three Wise Men"
     },
     {
-      "alt": "Stained glass showing crowned figure and three faces in a tower.",
+      "alt": "Stained glass: Three young men stand within a fiery enclosure before a seated king.",
       "coverage": "detail",
-      "description": "The drawing shows crowned figure and three faces in a tower. Likely historical subject: Three Young Men in the Fiery Furnace (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Three young men stand within a fiery enclosure before a seated king. The scene tells of their survival in the furnace.",
       "displayOrder": 32,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0093]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 8",
+          "locator": "h28.txt [P0093]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-032",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-032"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0093]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 8 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-032",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Three faces are enclosed above flames, with a ruler and attendants beside them.",
-            "sourceId": "design-032"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-032"
-          },
-          {
-            "locator": "h28.txt [P0093]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 8",
+            "locator": "h28.txt [P0093]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Three faces are enclosed above flames, with a ruler and attendants beside them.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Three Young Men in the Fiery Furnace. Three figures in flaming enclosure before seated king.",
         "value": [
           "h28-window-08-subject-31"
         ]
       },
-      "title": "Crowned figure and three faces in a tower"
+      "title": "Three Young Men in the Fiery Furnace"
     },
     {
-      "alt": "Stained glass showing woman and child with halos.",
+      "alt": "Stained glass: Mary holds the infant Christ, both shown with halos.",
       "coverage": "detail",
-      "description": "The drawing shows woman and child with halos. Likely historical subject: Madonna (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Mary holds the infant Christ, both shown with halos. The traditional name Madonna refers to Mary as the mother of Jesus.",
       "displayOrder": 33,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0094]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 8",
+          "locator": "h28.txt [P0094]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-033",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-033"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0094]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 8 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-033",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A haloed woman holds a haloed child.",
-            "sourceId": "design-033"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-033"
-          },
-          {
-            "locator": "h28.txt [P0094]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 8",
+            "locator": "h28.txt [P0094]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A haloed woman holds a haloed child.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Madonna. Mary holding infant Christ.",
         "value": [
           "h28-window-08-subject-32"
         ]
       },
-      "title": "Woman and child with halos"
+      "title": "Madonna"
     },
     {
-      "alt": "Stained glass showing two figures and pouring water.",
+      "alt": "Stained glass: John baptizes Christ beneath a dove, a symbol of the Holy Spirit.",
       "coverage": "detail",
-      "description": "The drawing shows two figures and pouring water. Likely historical subject: Baptism (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "John baptizes Christ beneath a dove, a symbol of the Holy Spirit.",
       "displayOrder": 34,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0096]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 9",
+          "locator": "h28.txt [P0096]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-034",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-034"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0096]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 9 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-034",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A rough-clothed figure pours water over a kneeling haloed figure beneath a dove.",
-            "sourceId": "design-034"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-034"
-          },
-          {
-            "locator": "h28.txt [P0096]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 9",
+            "locator": "h28.txt [P0096]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A rough-clothed figure pours water over a kneeling haloed figure beneath a dove.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Baptism. John baptizing Christ under dove.",
         "value": [
           "h28-window-09-subject-33"
         ]
       },
-      "title": "Two figures and pouring water"
+      "title": "Baptism"
     },
     {
-      "alt": "Stained glass showing seated figure, donkey and flowers.",
+      "alt": "Stained glass: Christ rides a donkey toward Jerusalem, surrounded by palms and attendants.",
       "coverage": "detail",
-      "description": "The drawing shows seated figure, donkey and flowers. Likely historical subject: Jesus enters into Jerusalem (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ rides a donkey toward Jerusalem, surrounded by palms and attendants.",
       "displayOrder": 35,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0097]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 9",
+          "locator": "h28.txt [P0097]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-035",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-035"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0097]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 9 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-035",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A haloed figure rides a donkey among attendants and flowers.",
-            "sourceId": "design-035"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-035"
-          },
-          {
-            "locator": "h28.txt [P0097]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 9",
+            "locator": "h28.txt [P0097]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A haloed figure rides a donkey among attendants and flowers.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Jesus enters into Jerusalem. Christ rides donkey beside palms and city.",
         "value": [
           "h28-window-09-subject-34"
         ]
       },
-      "title": "Seated figure, donkey and flowers"
+      "title": "Jesus enters into Jerusalem"
     },
     {
-      "alt": "Stained glass showing figure, boat and waves.",
+      "alt": "Stained glass: Christ sits in a boat on the water and raises a hand as he teaches.",
       "coverage": "detail",
-      "description": "The drawing shows figure, boat and waves. Likely historical subject: Christ preaching from the boat (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ sits in a boat on the water and raises a hand as he teaches.",
       "displayOrder": 36,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0098]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 9",
+          "locator": "h28.txt [P0098]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-036",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-036"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0098]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 9 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-036",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A haloed teacher raises a finger from a boat on waves.",
-            "sourceId": "design-036"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-036"
-          },
-          {
-            "locator": "h28.txt [P0098]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 9",
+            "locator": "h28.txt [P0098]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A haloed teacher raises a finger from a boat on waves.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Christ preaching from the boat. Christ seated in boat on water, hand raised.",
         "value": [
           "h28-window-09-subject-35"
         ]
       },
-      "title": "Figure, boat and waves"
+      "title": "Christ preaching from the boat"
     },
     {
-      "alt": "Stained glass: An older standing figure raises a hand above a kneeling man in ragged clothing.",
+      "alt": "Stained glass: A father welcomes his ragged, kneeling son.",
       "coverage": "detail",
-      "description": "An older standing figure raises a hand above a kneeling man in ragged clothing. Likely historical subject: Return of the Prodigal (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A father welcomes his ragged, kneeling son. The return of the prodigal son tells a story of forgiveness.",
       "displayOrder": 37,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0099]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 9",
+          "locator": "h28.txt [P0099]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-037",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-037"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0099]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 9 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-037",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A kneeling ragged figure bows before an older standing figure who raises his hand; the return-of-the-prodigal reading is inferred.",
-            "sourceId": "design-037"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-037"
-          },
-          {
-            "locator": "h28.txt [P0099]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 9",
+            "locator": "h28.txt [P0099]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A kneeling ragged figure bows before an older standing figure who raises his hand; the return-of-the-prodigal reading is inferred.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Return of the Prodigal. Ragged kneeling son embraced/blessed by father.",
         "value": [
           "h28-window-09-subject-36"
         ]
       },
-      "title": "Standing figure and kneeling man"
+      "title": "Return of the Prodigal"
     },
     {
-      "alt": "Stained glass showing two figures and an open stone box.",
+      "alt": "Stained glass: Christ addresses the shrouded Lazarus beside an open tomb.",
       "coverage": "detail",
-      "description": "Two figures face each other beside an open stone box. Likely historical subject: Awakening of Lazarus (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ addresses the shrouded Lazarus beside an open tomb. The scene depicts Lazarus being raised from the dead.",
       "displayOrder": 38,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0101]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 10",
+          "locator": "h28.txt [P0101]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-038",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-038"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0101]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 10 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-038",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A haloed figure reaches toward a wrapped standing figure beside an open stone tomb.",
-            "sourceId": "design-038"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-038"
-          },
-          {
-            "locator": "h28.txt [P0101]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 10",
+            "locator": "h28.txt [P0101]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A haloed figure reaches toward a wrapped standing figure beside an open stone tomb.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Awakening of Lazarus. Christ addresses shrouded figure beside open tomb.",
         "value": [
           "h28-window-10-subject-37"
         ]
       },
-      "title": "Two figures and an open stone box"
+      "title": "Awakening of Lazarus"
     },
     {
-      "alt": "Stained glass showing standing figure, staff and round object.",
+      "alt": "Stained glass: Christ holds a door knocker.",
       "coverage": "detail",
-      "description": "The drawing shows standing figure, staff and round object. Likely historical subject: Christ visiting, or Christ at the Door (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ holds a door knocker. The 1928 guide calls this scene Christ visiting, or Christ at the Door.",
       "displayOrder": 39,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0102]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 10",
+          "locator": "h28.txt [P0102]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-039",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-039"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0102]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 10 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-039",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A haloed staff-bearing visitor stands beside a doorway, holding a round object.",
-            "sourceId": "design-039"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-039"
-          },
-          {
-            "locator": "h28.txt [P0102]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 10",
+            "locator": "h28.txt [P0102]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A haloed staff-bearing visitor stands beside a doorway, holding a round object.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Christ visiting / Christ at the Door. Christ holds door knocker.",
         "value": [
           "h28-window-10-subject-38"
         ]
       },
-      "title": "Standing figure, staff and round object"
+      "title": "Christ visiting / Christ at the Door"
     },
     {
-      "alt": "Stained glass showing cross and three figures.",
+      "alt": "Stained glass: Christ hangs on the cross, with Mary and John beside him.",
       "coverage": "detail",
-      "description": "The drawing shows cross and three figures. Likely historical subject: Crucifixion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ hangs on the cross, with Mary and John beside him.",
       "displayOrder": 40,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0103]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 10",
+          "locator": "h28.txt [P0103]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-040",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-040"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0103]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 10 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-040",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "The central crucified figure is flanked by two praying mourners.",
-            "sourceId": "design-040"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-040"
-          },
-          {
-            "locator": "h28.txt [P0103]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 10",
+            "locator": "h28.txt [P0103]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "The central crucified figure is flanked by two praying mourners.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Crucifixion. Christ on cross with Mary and John.",
         "value": [
           "h28-window-10-subject-39"
         ]
       },
-      "title": "Cross and three figures"
+      "title": "Crucifixion"
     },
     {
-      "alt": "Stained glass showing bearded figure above two smaller figures.",
+      "alt": "Stained glass: The risen Christ holds a victory banner above figures at the tomb.",
       "coverage": "detail",
-      "description": "The drawing shows bearded figure above two smaller figures. Likely historical subject: Resurrection (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The risen Christ holds a victory banner above figures at the tomb. The scene depicts the Resurrection.",
       "displayOrder": 41,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0104]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 10",
+          "locator": "h28.txt [P0104]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-041",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-041"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0104]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 10 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-041",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A risen haloed figure appears above an angel and an armored guard.",
-            "sourceId": "design-041"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-041"
-          },
-          {
-            "locator": "h28.txt [P0104]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 10",
+            "locator": "h28.txt [P0104]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A risen haloed figure appears above an angel and an armored guard.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Resurrection. Risen Christ with victory banner above figures at tomb.",
         "value": [
           "h28-window-10-subject-40"
         ]
       },
-      "title": "Bearded figure above two smaller figures"
+      "title": "Resurrection"
     },
     {
-      "alt": "Stained glass showing feet, clouds and winged faces.",
+      "alt": "Stained glass: Christ’s feet disappear into a cloud above the gathered disciples.",
       "coverage": "detail",
-      "description": "The drawing shows feet, clouds and winged faces. Likely historical subject: Ascension (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ’s feet disappear into a cloud above the gathered disciples. The scene depicts the Ascension.",
       "displayOrder": 42,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0106]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 11",
+          "locator": "h28.txt [P0106]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-042",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-042"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0106]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 11 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-042",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Feet and a robe rise above clouds and winged faces.",
-            "sourceId": "design-042"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-042"
-          },
-          {
-            "locator": "h28.txt [P0106]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 11",
+            "locator": "h28.txt [P0106]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Feet and a robe rise above clouds and winged faces.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Ascension. Christ’s feet departing in cloud above gathered disciples.",
         "value": [
           "h28-window-11-subject-41"
         ]
       },
-      "title": "Feet, clouds and winged faces"
+      "title": "Ascension"
     },
     {
-      "alt": "Stained glass showing haloed face, raised hand and open book.",
+      "alt": "Stained glass: Christ teaches with an open book and a raised finger.",
       "coverage": "detail",
-      "description": "The drawing shows haloed face, raised hand and open book. Likely historical subject: Christ and the Christian Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ teaches with an open book and a raised finger. The 1928 guide calls this scene Christ and the Christian Law.",
       "displayOrder": 43,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0107]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 11",
+          "locator": "h28.txt [P0107]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-043",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-043"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0107]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 11 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-043",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A blessing figure holds an open lettered book beneath a radiating halo.",
-            "sourceId": "design-043"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-043"
-          },
-          {
-            "locator": "h28.txt [P0107]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 11",
+            "locator": "h28.txt [P0107]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A blessing figure holds an open lettered book beneath a radiating halo.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Christ and the Christian Law. Christ teaching with raised finger and open book.",
         "value": [
           "h28-window-11-subject-42"
         ]
       },
-      "title": "Haloed face, raised hand and open book"
+      "title": "Christ and the Christian Law"
     },
     {
-      "alt": "Stained glass showing dove, rays and flames.",
+      "alt": "Stained glass: A dove descends over heads marked by tongues of flame.",
       "coverage": "detail",
-      "description": "The drawing shows dove, rays and flames. Likely historical subject: Descent of the Holy Ghost (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A dove descends over heads marked by tongues of flame. These symbols represent the coming of the Holy Spirit at Pentecost.",
       "displayOrder": 44,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0108]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 11",
+          "locator": "h28.txt [P0108]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-044",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-044"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0108]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 11 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-044",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A dove radiates beams above rows of individual flames.",
-            "sourceId": "design-044"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-044"
-          },
-          {
-            "locator": "h28.txt [P0108]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 11",
+            "locator": "h28.txt [P0108]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A dove radiates beams above rows of individual flames.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Descent of the Holy Ghost. Dove descending over heads marked by tongues of flame.",
         "value": [
           "h28-window-11-subject-43"
         ]
       },
-      "title": "Dove, rays and flames"
+      "title": "Descent of the Holy Ghost"
     },
     {
-      "alt": "Stained glass showing seated haloed figure with a book.",
+      "alt": "Stained glass: Christ sits enthroned within a luminous enclosure, holding a book and raising a hand in blessing.",
       "coverage": "detail",
-      "description": "The drawing shows seated haloed figure with a book. Likely historical subject: Christ in Heaven (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ sits enthroned within a luminous enclosure, holding a book and raising a hand in blessing.",
       "displayOrder": 45,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0109]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 11",
+          "locator": "h28.txt [P0109]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-045",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-045"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0109]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 11 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-045",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A haloed seated figure blesses while holding a decorated book.",
-            "sourceId": "design-045"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-045"
-          },
-          {
-            "locator": "h28.txt [P0109]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 11",
+            "locator": "h28.txt [P0109]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A haloed seated figure blesses while holding a decorated book.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Christ in Heaven. Enthroned Christ within luminous enclosure, holding book and blessing.",
         "value": [
           "h28-window-11-subject-44"
         ]
       },
-      "title": "Seated haloed figure with a book"
+      "title": "Christ in Heaven"
     },
     {
-      "alt": "Stained glass showing inverted figure and the words St Peter.",
+      "alt": "Stained glass: Peter is shown on an inverted cross beside the inscription ST PETER.",
       "coverage": "detail",
-      "description": "The drawing shows inverted figure and the words St Peter. Likely historical subject: Martyrdom of St. Peter (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Peter is shown on an inverted cross beside the inscription ST PETER. The scene depicts his martyrdom.",
       "displayOrder": 46,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0113]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 12",
+          "locator": "h28.txt [P0113]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-046",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-046"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0113]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 12 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-046",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "An inverted crucified figure is explicitly labeled ST PETER.",
-            "sourceId": "design-046"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-046"
-          },
-          {
-            "locator": "h28.txt [P0113]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 12",
+            "locator": "h28.txt [P0113]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "An inverted crucified figure is explicitly labeled ST PETER.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Martyrdom of St. Peter. Upside-down crucifixion and ST PETER inscription.",
         "value": [
           "h28-window-12-subject-47"
         ]
       },
-      "title": "Inverted figure and the words St Peter"
+      "title": "Martyrdom of St. Peter"
     },
     {
-      "alt": "Stained glass showing figure carrying a child through water.",
+      "alt": "Stained glass: Christopher carries the Christ Child through water.",
       "coverage": "detail",
-      "description": "The drawing shows figure carrying a child through water. Likely historical subject: St. Christopher ferrying the Christ Child across the river (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christopher carries the Christ Child through water. The child carries a cross.",
       "displayOrder": 47,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0114]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 12",
+          "locator": "h28.txt [P0114]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-047",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-047"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0114]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 12 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-047",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "A bearded man carries a cross-bearing child across waves with a leafy staff.",
-            "sourceId": "design-047"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-047"
-          },
-          {
-            "locator": "h28.txt [P0114]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 12",
+            "locator": "h28.txt [P0114]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A bearded man carries a cross-bearing child across waves with a leafy staff.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: St. Christopher ferrying the Christ Child. Man carrying Christ Child with cross through water.",
         "value": [
           "h28-window-12-subject-48"
         ]
       },
-      "title": "Figure carrying a child through water"
+      "title": "St. Christopher ferrying the Christ Child"
     },
     {
-      "alt": "Stained glass showing lamb, banner and crossed shapes.",
+      "alt": "Stained glass: A haloed lamb carries a cross and banner.",
       "coverage": "detail",
-      "description": "The drawing shows lamb, banner and crossed shapes. Historical subject remains unidentified after review: two different lamb entries in the 1928 guide fit this detail. Present-day location is unconfirmed.",
+      "description": "A haloed lamb carries a cross and banner. The lamb represents Christ, and the banner expresses triumph. The 1928 guide lists this scene in Window 12.",
       "displayOrder": 48,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0111] and [P0131]; two plausible lamb entries.",
+          "locator": "h28.txt [P0111]; transcription paragraphs.",
           "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-048",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-048"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0111]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 12 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-048",
       "subjects": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "A haloed lamb and banner fit both H28 subject 45 and subject 61. The crop lacks enough architectural context to select one honestly.",
-            "sourceId": "design-048"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-048"
-          },
-          {
-            "locator": "h28.txt [P0111] and [P0131]; two plausible lamb entries.",
+            "locator": "h28.txt [P0111]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "A haloed lamb and banner fit both H28 subject 45 and subject 61. The crop lacks enough architectural context to select one honestly.",
-        "value": null
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Christ as the Lamb. Haloed lamb carrying cross/banner.",
+        "value": [
+          "h28-window-12-subject-45"
+        ]
       },
-      "title": "Lamb, banner and crossed shapes"
+      "title": "Christ as the Lamb"
     },
     {
-      "alt": "Stained glass: A grotesque creature holds a three-tined fork above a woolly ram beside a round cross-marked shape and three hanging balls.",
+      "alt": "Stained glass: A scarlet creature with a three-tined fork and flames appears above a lamb and cross.",
       "coverage": "detail",
-      "description": "A grotesque creature holds a three-tined fork above a woolly ram beside a round cross-marked shape and three hanging balls. Likely historical subjects: Sin and Salvation. Sin symbolized by a scarlet Satan with three-tined fork and flames; Doctrine of Christ. Book—the New Testament. Three balls symbol of the Trinity (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A scarlet creature with a three-tined fork and flames appears above a lamb and cross. The 1928 guide calls the scene Sin and Salvation: the devil represents sin, while the lamb and cross represent Christ and salvation.",
       "displayOrder": 49,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0112]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 12",
-          "sourceId": "H28"
-        },
-        {
-          "locator": "h28.txt [P0132]; transcription paragraph, not a printed page number.",
-          "section": "The Windows, window 14",
+          "locator": "h28.txt [P0112]; transcription paragraphs.",
+          "section": "The Windows",
           "sourceId": "H28"
         }
       ],
       "id": "photo-049",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full detail photograph.",
-            "sourceId": "photo-049"
-          },
-          {
-            "locator": "h28.txt [P0050]–[P0135]; historical sequence, not a modern survey.",
+            "locator": "h28.txt [P0112]; transcription paragraphs.",
             "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "Reviewed the source photograph, matched drawing and guide location descriptions. A cropped detail and historical sequence do not independently establish its present-day physical location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "Window 12 in the 1928 guide. Left side when looking toward the chancel, counting from the door toward the chancel."
       },
       "sourceId": "photo-049",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "The upper grotesque creature holds a three-tined fork amid flames; below, an animal stands beside a cross-marked round/book-like emblem and three hanging balls. These support the two guide motifs, but do not establish their original arrangement.",
-            "sourceId": "design-049"
-          },
-          {
-            "section": "Inspected original photograph in the matching visual-pairing sheet.",
-            "sourceId": "photo-049"
-          },
-          {
-            "locator": "h28.txt [P0112]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 12",
-            "sourceId": "H28"
-          },
-          {
-            "locator": "h28.txt [P0132]; transcription paragraph, not a printed page number.",
-            "section": "The Windows, window 14",
+            "locator": "h28.txt [P0112]; transcription paragraphs.",
+            "section": "The Windows",
             "sourceId": "H28"
           }
         ],
-        "rationale": "The upper grotesque creature holds a three-tined fork amid flames; below, an animal stands beside a cross-marked round/book-like emblem and three hanging balls. These support the two guide motifs, but do not establish their original arrangement.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Sin and Salvation. Scarlet devil with three-tined fork and flames above lamb and cross.",
         "value": [
-          "h28-window-12-subject-46",
-          "h28-window-14-subject-62"
+          "h28-window-12-subject-46"
         ]
       },
-      "title": "Creature with fork, ram and round window"
+      "title": "Sin and Salvation"
     },
     {
-      "alt": "A woman in blue holds a small child, surrounded by standing and kneeling visitors, with sheep below.",
+      "alt": "Stained glass: Mary and the infant Jesus receive the visiting Magi, with Joseph nearby.",
       "coverage": "panel",
-      "description": "A woman and child are surrounded by visitors in richly colored clothing. Sheep stand near the kneeling figures beneath a gold architectural canopy. The specific historical panel and its location remain under review. Likely Rachel Babcock Upjohn memorial window, based on the 1928 description. Present-day location is unconfirmed.",
+      "description": "Mary and the infant Jesus receive the visiting Magi, with Joseph nearby. This is the first of the five lower scenes in the Rachel Babcock Upjohn memorial window.",
       "displayOrder": 50,
       "historicalEvidence": [
         {
-          "locator": "h28.txt [P0044]–[P0048]",
+          "locator": "h28.txt [P0048]; transcription paragraphs.",
           "section": "The Memorial Window",
           "sourceId": "H28"
+        },
+        {
+          "locator": "h35.txt [P0217]; transcription paragraphs.",
+          "section": "The Fourth Church 1928–1935",
+          "sourceId": "H35"
         }
       ],
       "id": "photo-050",
       "location": {
-        "confidence": "unidentified",
+        "confidence": "likely",
         "evidence": [
           {
-            "section": "Full photograph.",
-            "sourceId": "photo-050"
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
+            "section": "The Memorial Window",
+            "sourceId": "H28"
           },
           {
-            "locator": "h35.txt [P0217]–[P0218]",
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
             "section": "The Fourth Church 1928–1935",
             "sourceId": "H35"
           }
         ],
-        "rationale": "Historical descriptions support a memorial attribution, but no current in-person location survey is included. The filename alone is not proof of modern location.",
-        "value": null
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "North memorial window, above the Communion table."
       },
       "sourceId": "photo-050",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Inspected full photograph.",
-            "sourceId": "photo-050"
-          },
-          {
-            "locator": "h28.txt [P0044]–[P0048]",
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
             "section": "The Memorial Window",
             "sourceId": "H28"
-          }
-        ],
-        "rationale": "Inspected original image: A woman in blue holds a small child, surrounded by standing and kneeling visitors, with sheep below. The composition matches the cited memorial description; this is a visual attribution, not an inferred filename.",
-        "value": [
-          "h28-memorial-christ",
-          "h28-memorial-mary",
-          "h28-memorial-john-baptist",
-          "h28-memorial-paul",
-          "h28-memorial-peter",
-          "h28-memorial-nativity",
-          "h28-memorial-baptism",
-          "h28-memorial-crucifixion",
-          "h28-memorial-resurrection",
-          "h28-memorial-ascension"
-        ]
-      },
-      "title": "Woman, child and visitors"
-    },
-    {
-      "alt": "Two central figures stand beside water, with smaller attendants and a blue bird above them.",
-      "coverage": "panel",
-      "description": "A central figure stands in water beside a bearded figure. Smaller attendants flank them, and a blue bird appears above the scene. The specific historical panel and its location remain under review. Likely Nativity and adoration by the Magi, based on the 1928 description. Present-day location is unconfirmed.",
-      "displayOrder": 51,
-      "historicalEvidence": [
-        {
-          "locator": "h28.txt [P0044]–[P0048]",
-          "section": "The Memorial Window",
-          "sourceId": "H28"
-        }
-      ],
-      "id": "photo-051",
-      "location": {
-        "confidence": "unidentified",
-        "evidence": [
-          {
-            "section": "Full photograph.",
-            "sourceId": "photo-051"
           },
           {
-            "locator": "h35.txt [P0217]–[P0218]",
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
             "section": "The Fourth Church 1928–1935",
             "sourceId": "H35"
           }
         ],
-        "rationale": "Historical descriptions support a memorial attribution, but no current in-person location survey is included. The filename alone is not proof of modern location.",
-        "value": null
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: The Nativity and the Magi. Mary and infant with Joseph and visiting Magi.",
+        "value": [
+          "h28-memorial-nativity"
+        ]
+      },
+      "title": "The Nativity and the Magi"
+    },
+    {
+      "alt": "Stained glass: John baptizes Christ in the Jordan, accompanied by angels.",
+      "coverage": "panel",
+      "description": "John baptizes Christ in the Jordan, accompanied by angels. This is the second lower scene in the Rachel Babcock Upjohn memorial window.",
+      "displayOrder": 51,
+      "historicalEvidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraphs.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h35.txt [P0217]; transcription paragraphs.",
+          "section": "The Fourth Church 1928–1935",
+          "sourceId": "H35"
+        }
+      ],
+      "id": "photo-051",
+      "location": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
+            "section": "The Memorial Window",
+            "sourceId": "H28"
+          },
+          {
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
+            "section": "The Fourth Church 1928–1935",
+            "sourceId": "H35"
+          }
+        ],
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "North memorial window, above the Communion table."
       },
       "sourceId": "photo-051",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Inspected full photograph.",
-            "sourceId": "photo-051"
-          },
-          {
-            "locator": "h28.txt [P0044]–[P0048]",
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
             "section": "The Memorial Window",
             "sourceId": "H28"
-          }
-        ],
-        "rationale": "Inspected original image: Two central figures stand beside water, with smaller attendants and a blue bird above them. The composition matches the cited memorial description; this is a visual attribution, not an inferred filename.",
-        "value": [
-          "h28-memorial-nativity"
-        ]
-      },
-      "title": "Two figures beside water"
-    },
-    {
-      "alt": "A central figure on a cross, with a woman in blue on the left and a figure in green on the right.",
-      "coverage": "panel",
-      "description": "Two standing figures flank a central cross under an elaborate gold canopy. A memorial inscription appears along the bottom. The specific historical panel and its location remain under review. Likely Baptism of Christ, based on the 1928 description. Present-day location is unconfirmed.",
-      "displayOrder": 52,
-      "historicalEvidence": [
-        {
-          "locator": "h28.txt [P0044]–[P0048]",
-          "section": "The Memorial Window",
-          "sourceId": "H28"
-        }
-      ],
-      "id": "photo-052",
-      "location": {
-        "confidence": "unidentified",
-        "evidence": [
-          {
-            "section": "Full photograph.",
-            "sourceId": "photo-052"
           },
           {
-            "locator": "h35.txt [P0217]–[P0218]",
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
             "section": "The Fourth Church 1928–1935",
             "sourceId": "H35"
           }
         ],
-        "rationale": "Historical descriptions support a memorial attribution, but no current in-person location survey is included. The filename alone is not proof of modern location.",
-        "value": null
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: The Baptism of Christ. John baptizes Christ with accompanying angels.",
+        "value": [
+          "h28-memorial-baptism"
+        ]
+      },
+      "title": "The Baptism of Christ"
+    },
+    {
+      "alt": "Stained glass: Mary and John stand at the foot of Christ’s cross.",
+      "coverage": "panel",
+      "description": "Mary and John stand at the foot of Christ’s cross. The inscription beneath this central lower scene names Rachel Babcock Upjohn, in whose memory the north window was given.",
+      "displayOrder": 52,
+      "historicalEvidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraphs.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h35.txt [P0217]; transcription paragraphs.",
+          "section": "The Fourth Church 1928–1935",
+          "sourceId": "H35"
+        }
+      ],
+      "id": "photo-052",
+      "location": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
+            "section": "The Memorial Window",
+            "sourceId": "H28"
+          },
+          {
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
+            "section": "The Fourth Church 1928–1935",
+            "sourceId": "H35"
+          }
+        ],
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "North memorial window, above the Communion table."
       },
       "sourceId": "photo-052",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Inspected full photograph.",
-            "sourceId": "photo-052"
-          },
-          {
-            "locator": "h28.txt [P0044]–[P0048]",
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
             "section": "The Memorial Window",
             "sourceId": "H28"
-          }
-        ],
-        "rationale": "Inspected original image: A central figure on a cross, with a woman in blue on the left and a figure in green on the right. The composition matches the cited memorial description; this is a visual attribution, not an inferred filename.",
-        "value": [
-          "h28-memorial-baptism"
-        ]
-      },
-      "title": "Cross with two standing figures"
-    },
-    {
-      "alt": "A standing haloed figure holds a cross-shaped banner above several companions under a gold canopy.",
-      "coverage": "panel",
-      "description": "A central figure stands beside a cross-shaped banner, with companions gathered around and below. Plants and richly colored clothing frame the scene. The specific historical panel and its location remain under review. Likely Resurrection, based on the 1928 description. Present-day location is unconfirmed.",
-      "displayOrder": 53,
-      "historicalEvidence": [
-        {
-          "locator": "h28.txt [P0044]–[P0048]",
-          "section": "The Memorial Window",
-          "sourceId": "H28"
-        }
-      ],
-      "id": "photo-053",
-      "location": {
-        "confidence": "unidentified",
-        "evidence": [
-          {
-            "section": "Full photograph.",
-            "sourceId": "photo-053"
           },
           {
-            "locator": "h35.txt [P0217]–[P0218]",
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
             "section": "The Fourth Church 1928–1935",
             "sourceId": "H35"
           }
         ],
-        "rationale": "Historical descriptions support a memorial attribution, but no current in-person location survey is included. The filename alone is not proof of modern location.",
-        "value": null
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: The Crucifixion. Crucified Christ, Mary and John; Rachel Babcock Upjohn memorial inscription below.",
+        "value": [
+          "h28-memorial-crucifixion"
+        ]
+      },
+      "title": "The Crucifixion"
+    },
+    {
+      "alt": "Stained glass: The risen Christ carries a victory banner beside the open tomb.",
+      "coverage": "panel",
+      "description": "The risen Christ carries a victory banner beside the open tomb. This is the fourth lower scene in the Rachel Babcock Upjohn memorial window.",
+      "displayOrder": 53,
+      "historicalEvidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraphs.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h35.txt [P0217]; transcription paragraphs.",
+          "section": "The Fourth Church 1928–1935",
+          "sourceId": "H35"
+        }
+      ],
+      "id": "photo-053",
+      "location": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
+            "section": "The Memorial Window",
+            "sourceId": "H28"
+          },
+          {
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
+            "section": "The Fourth Church 1928–1935",
+            "sourceId": "H35"
+          }
+        ],
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "North memorial window, above the Communion table."
       },
       "sourceId": "photo-053",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Inspected full photograph.",
-            "sourceId": "photo-053"
-          },
-          {
-            "locator": "h28.txt [P0044]–[P0048]",
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
             "section": "The Memorial Window",
             "sourceId": "H28"
-          }
-        ],
-        "rationale": "Inspected original image: A standing haloed figure holds a cross-shaped banner above several companions under a gold canopy. The composition matches the cited memorial description; this is a visual attribution, not an inferred filename.",
-        "value": [
-          "h28-memorial-resurrection"
-        ]
-      },
-      "title": "Standing figure with banner and companions"
-    },
-    {
-      "alt": "A group of figures looks upward toward feet and the hem of a white garment above a cloud.",
-      "coverage": "panel",
-      "description": "Several figures look upward toward feet and a white garment above a cloud. A gold architectural canopy surrounds the scene. The specific historical panel and its location remain under review. Likely Ascension, based on the 1928 description. Present-day location is unconfirmed.",
-      "displayOrder": 54,
-      "historicalEvidence": [
-        {
-          "locator": "h28.txt [P0044]–[P0048]",
-          "section": "The Memorial Window",
-          "sourceId": "H28"
-        }
-      ],
-      "id": "photo-054",
-      "location": {
-        "confidence": "unidentified",
-        "evidence": [
-          {
-            "section": "Full photograph.",
-            "sourceId": "photo-054"
           },
           {
-            "locator": "h35.txt [P0217]–[P0218]",
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
             "section": "The Fourth Church 1928–1935",
             "sourceId": "H35"
           }
         ],
-        "rationale": "Historical descriptions support a memorial attribution, but no current in-person location survey is included. The filename alone is not proof of modern location.",
-        "value": null
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: The Resurrection. Risen Christ with victory banner beside open tomb and witnesses.",
+        "value": [
+          "h28-memorial-resurrection"
+        ]
+      },
+      "title": "The Resurrection"
+    },
+    {
+      "alt": "Stained glass: The disciples look upward toward Christ’s departing feet and robe above a cloud.",
+      "coverage": "panel",
+      "description": "The disciples look upward toward Christ’s departing feet and robe above a cloud. This is the fifth lower scene in the Rachel Babcock Upjohn memorial window.",
+      "displayOrder": 54,
+      "historicalEvidence": [
+        {
+          "locator": "h28.txt [P0048]; transcription paragraphs.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h35.txt [P0217]; transcription paragraphs.",
+          "section": "The Fourth Church 1928–1935",
+          "sourceId": "H35"
+        }
+      ],
+      "id": "photo-054",
+      "location": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
+            "section": "The Memorial Window",
+            "sourceId": "H28"
+          },
+          {
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
+            "section": "The Fourth Church 1928–1935",
+            "sourceId": "H35"
+          }
+        ],
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "North memorial window, above the Communion table."
       },
       "sourceId": "photo-054",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Inspected full photograph.",
-            "sourceId": "photo-054"
-          },
-          {
-            "locator": "h28.txt [P0044]–[P0048]",
+            "locator": "h28.txt [P0048]; transcription paragraphs.",
             "section": "The Memorial Window",
             "sourceId": "H28"
-          }
-        ],
-        "rationale": "Inspected original image: A group of figures looks upward toward feet and the hem of a white garment above a cloud. The composition matches the cited memorial description; this is a visual attribution, not an inferred filename.",
-        "value": [
-          "h28-memorial-ascension"
-        ]
-      },
-      "title": "Feet above a group of figures"
-    },
-    {
-      "alt": "Five adjoining stained-glass panels show standing figures in green, blue, purple and brown, with smaller figures and symbols beneath.",
-      "coverage": "panels",
-      "description": "Five tall panels show standing figures under gold architectural canopies. Smaller figures, animals and symbols appear below them. The individual historical identifications and the present location remain under review. Likely Rachel Babcock Upjohn memorial window principal panels, based on the 1928 description. Present-day location is unconfirmed.",
-      "displayOrder": 55,
-      "historicalEvidence": [
-        {
-          "locator": "h28.txt [P0044]–[P0048]",
-          "section": "The Memorial Window",
-          "sourceId": "H28"
-        }
-      ],
-      "id": "photo-055",
-      "location": {
-        "confidence": "unidentified",
-        "evidence": [
-          {
-            "section": "Full photograph.",
-            "sourceId": "photo-055"
           },
           {
-            "locator": "h35.txt [P0217]–[P0218]",
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
             "section": "The Fourth Church 1928–1935",
             "sourceId": "H35"
           }
         ],
-        "rationale": "Historical descriptions support a memorial attribution, but no current in-person location survey is included. The filename alone is not proof of modern location.",
-        "value": null
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: The Ascension. Christ departs above gathered disciples.",
+        "value": [
+          "h28-memorial-ascension"
+        ]
+      },
+      "title": "The Ascension"
+    },
+    {
+      "alt": "Stained glass: From left to right, the principal panels show Paul, Mary, Christ the Peacemaker, John the Baptist and Peter.",
+      "coverage": "panels",
+      "description": "From left to right, the principal panels show Paul, Mary, Christ the Peacemaker, John the Baptist and Peter. Their books, sword, globe, shepherd’s crook and keys express their roles in Christian teaching. Alfred E. Floegel designed the window.",
+      "displayOrder": 55,
+      "historicalEvidence": [
+        {
+          "locator": "h28.txt [P0044], [P0045], [P0046], [P0047]; transcription paragraphs.",
+          "section": "The Memorial Window",
+          "sourceId": "H28"
+        },
+        {
+          "locator": "h35.txt [P0217]; transcription paragraphs.",
+          "section": "The Fourth Church 1928–1935",
+          "sourceId": "H35"
+        }
+      ],
+      "id": "photo-055",
+      "location": {
+        "confidence": "likely",
+        "evidence": [
+          {
+            "locator": "h28.txt [P0044], [P0045], [P0046], [P0047]; transcription paragraphs.",
+            "section": "The Memorial Window",
+            "sourceId": "H28"
+          },
+          {
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
+            "section": "The Fourth Church 1928–1935",
+            "sourceId": "H35"
+          }
+        ],
+        "rationale": "Historical window association selected from the crosswalk and cited guide descriptions; no new physical survey claimed.",
+        "value": "North memorial window, above the Communion table."
       },
       "sourceId": "photo-055",
       "subjects": {
         "confidence": "likely",
         "evidence": [
           {
-            "section": "Inspected full photograph.",
-            "sourceId": "photo-055"
-          },
-          {
-            "locator": "h28.txt [P0044]–[P0048]",
+            "locator": "h28.txt [P0044], [P0045], [P0046], [P0047]; transcription paragraphs.",
             "section": "The Memorial Window",
             "sourceId": "H28"
+          },
+          {
+            "locator": "h35.txt [P0217]; transcription paragraphs.",
+            "section": "The Fourth Church 1928–1935",
+            "sourceId": "H35"
           }
         ],
-        "rationale": "Inspected original image: Five adjoining stained-glass panels show standing figures in green, blue, purple and brown, with smaller figures and symbols beneath. The composition matches the cited memorial description; this is a visual attribution, not an inferred filename.",
+        "rationale": "Editorial reconciliation of the supplied photo crosswalk and H28/H35 descriptions. Selected public identification: Rachel Babcock Upjohn memorial window. Left to right: Paul, Mary, Christ, John the Baptist, Peter. Book/sword, prayer, globe/blessing, lamb/crook, keys/scroll correspond to 1928 description.",
         "value": [
           "h28-memorial-christ",
           "h28-memorial-mary",
@@ -2971,7 +2417,7 @@
           "h28-memorial-peter"
         ]
       },
-      "title": "Five tall panels with standing figures"
+      "title": "Rachel Babcock Upjohn memorial window"
     }
   ],
   "schemaVersion": 1

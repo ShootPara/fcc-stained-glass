@@ -1,13 +1,26 @@
 {
   "schemaVersion": 1,
   "paragraphs": [
-    "The stained glass tells Bible stories through people, animals, plants and symbols. The 1928 church guide describes a sequence from Creation to the lives and deaths of the disciples.",
-    "The guide credits A. L. Brink with the pictures in the side and south-end windows. It credits Alfred E. Floegel with the large memorial window above the Communion table. These are historical glass credits, separate from the modern photographs and coloring drawings.",
-    "The present church building was dedicated on 28 October 1928. Its 1928-2028 anniversary marks a century of this building. The congregation began in 1835.",
-    "Descriptions distinguish visible details from historical identifications. Locations from the old guide are historical descriptions; they have not all been checked against the church today."
+    "The stained glass of First Congregational Church tells stories through people, animals, plants and symbols. The congregation began in 1835, and the present building was dedicated on October 28, 1928. Its 1928–2028 anniversary marks a century of this church building.",
+    "The 1928 guide explains that stained glass once helped tell Bible stories to people who could not read. The side windows carry that tradition from Creation through the stories of Jesus and the disciples. Facing the chancel, the guide numbers windows 1–6 along the right side, beginning at the front. Windows 7–12 begin near the door on the left and continue toward the front.",
+    "The first six windows follow Creation, Adam and Eve, Noah and the Flood, and the stories of Jacob, Joseph and Moses. Across the church, the sequence includes Samson and David, the birth and ministry of Jesus, the Crucifixion, Resurrection and Ascension, and scenes of the saints. The photographs show individual scenes from these larger groups; their file numbers differ from the historical window and scene numbers.",
+    "The architect originally expected geometric patterns in the side windows and the south window. His 1928 account credits A. L. Brink with supplying biblical pictures in their place. Alfred E. Floegel of New York designed the great north memorial window above the Communion table, combining standing figures, smaller narrative scenes and Gothic ornament.",
+    "The north window remembers Rachel Babcock Upjohn. Her children, W. H. Upjohn, Mrs. R. S. Light, Mrs. D. S. Gilmore and Dorothy Upjohn DeLano, gave it in her memory. The 1935 history recalls her service to the church and her leadership of the Women’s Union. Across the five principal panels stand Paul, Mary, Christ, John the Baptist and Peter.",
+    "At the center, Christ the Peacemaker raises a hand in blessing and holds a globe topped by a cross. Sheep at his feet recall the Good Shepherd. Paul’s book represents his preaching and writing, and his sword recalls his martyrdom. Mary prays; John the Baptist carries a shepherd’s crook; Peter holds a scroll and keys. The 1928 guide interprets these details as expressions of Christian teaching, service and hope.",
+    "Below the standing figures, five smaller scenes run from left to right: the Nativity and the adoration of the Magi, Baptism, Crucifixion, Resurrection and Ascension. The memorial inscription lies beneath the central Crucifixion scene. Above, the Star of Bethlehem sends rays through the tracery. The guide describes the ornament as English Perpendicular Gothic; Michigan and United States coats of arms appear beneath Mary and John the Baptist.",
+    "The blue south memorial window honors W. Harold Upjohn and was given by Dr. W. E. Upjohn and his family. The 1935 history describes Christ surrounded by people representing Christianity’s influence through the ages, including Paul, Wycliffe, Erasmus, Michelangelo, Shakespeare, Shaftesbury, Pasteur, Joan of Arc and Lincoln. The photograph includes additional named figures, so the history’s list is not a complete portrait key.",
+    "The 1928 guide records a different set of south-window subjects, including Daniel, David, Gabriel and the four Evangelists. That earlier inventory and the memorial described in 1935 are separate historical accounts. The sources do not establish the date of the change. The photographed blue memorial is the design described in the later history."
   ],
   "sources": [
-    { "sourceId": "H28", "section": "Architect's account and The Windows", "locator": "h28.txt [P0040]-[P0041], [P0050]-[P0135]; transcription paragraphs, not printed pages." },
-    { "sourceId": "H35", "section": "The Formative Period and The Fourth Church 1928-1935", "locator": "h35.txt [P0030] (founding), [P0216] (dedication); transcription paragraphs, not printed pages." }
+    {
+      "sourceId": "H28",
+      "section": "Architect’s account, The Memorial Window, and The Windows",
+      "locator": "h28.txt [P0040]–[P0048], [P0050]–[P0135]; transcription paragraphs, not printed pages."
+    },
+    {
+      "sourceId": "H35",
+      "section": "The Formative Period and The Fourth Church 1928–1935",
+      "locator": "h35.txt [P0030], [P0216]–[P0218]; transcription paragraphs, not printed pages."
+    }
   ]
 }
