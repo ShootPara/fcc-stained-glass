@@ -3581,14 +3581,14 @@
   "book": {
     "coloringPages": 48,
     "file": {
-      "bytes": 49886701,
+      "bytes": 49886816,
       "path": "downloads/fcc-coloring-book.pdf",
-      "sha256": "dd5a7680f42e45348e90940eb24475214d5f41c5dd8baaa0716b8b6add37b419"
+      "sha256": "977a14b0a94ea8f2fd5ff7c4c93a3dcaa5b1d9ede3203cff2b8794516341432a"
     },
     "manifest": {
       "bytes": 9730,
       "path": "downloads/book-manifest.json",
-      "sha256": "a92cac975dc91d9abfb9e1596442c8893292b6484c5df28915e6d132006ed5da"
+      "sha256": "f08949fbc1024f62e1b3544d9f422a28108d523f27732e614984fd7d83d4a70c"
     },
     "totalPages": 51
   },

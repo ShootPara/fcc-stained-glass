@@ -3,7 +3,7 @@
 Project root: `D:\Projects\ChatGPT\Coloring Book\fcc-stained-glass`.
 Runtime: Node **v24.13.0**, npm **11.6.2**, Windows PowerShell.
 Scope: finish WP05, preserve the studio and device-local saves, then publish.
-Publication: **pending final clean-copy and anonymous-source verification**.
+Publication: **pending final public source-ZIP verification and Pages deployment**.
 
 ## Completed content
 
@@ -49,7 +49,7 @@ asset/catalog mutation for the final runs.
 | audit-site: root, renamed subpath, extracted portable ZIP | Passed; all 1,004 deployed file hashes at each URL |
 | Clean-copy npm.cmd ci | Passed; no-op lifecycle, 69 packages, zero audit vulnerabilities |
 | Clean-copy import --verify-existing | Passed; 110 unchanged sources |
-| Clean-copy prepare --all --include-archives | Running at this checkpoint |
+| Clean-copy prepare --all --include-archives | Passed: 97 versions, 55 derivatives; 692 files match byte-for-byte |
 
 The initial 304-test full run passed. One later run overlapped catalog promotion
 and correctly failed its transaction guard (302 passed, four skipped); this was
@@ -72,8 +72,8 @@ Machine-readable runs are under .work/reports, including:
 
 48 individual blank Letter PDFs and the complete **51-page book** are linked
 from the gallery/editor. Book: public/downloads/fcc-coloring-book.pdf.
-SHA-256: `dd5a7680f42e45348e90940eb24475214d5f41c5dd8baaa0716b8b6add37b419`.
-Size: **49,886,701 bytes**. Cover, introduction, 48 sheets, sources/credits.
+SHA-256: `977a14b0a94ea8f2fd5ff7c4c93a3dcaa5b1d9ede3203cff2b8794516341432a`.
+Size: **49,886,816 bytes**. Cover, introduction, 48 sheets, sources/credits.
 
 All 51 final page rasters pass the safe-area check. Only the three corrected
 caption pages (PDF 10, 38, 50) changed from the earlier inspected render set;
@@ -126,6 +126,27 @@ and an independent browser process worker/memory-leak count. Worker bundling,
 navigation and native rendering paths were exercised; do not equate that with
 a measured worker leak audit.
 
+Clean-copy portability: the disposable folder with spaces contains no .git.
+All 97 packages and 55 derivatives were recreated from source/config/frozen
+recipes; **692 files / 172,762,395 bytes** match exactly. All 48 PDF files,
+48 print receipts and the book also regenerated exactly. A release build with
+Git discovery disabled passed (845 required deployed files, 275,213,323 bytes;
+the working checkout additionally retains older unreferenced public derivatives).
+Normal npm run dev started at port 5181 and the design-005 browser fill passed.
+
+The public HTTPS repository was cloned with credential helpers, global/system
+Git config, extra authorization headers and interactive prompts disabled for
+that process. Anonymous clone completed successfully; clean npm ci passed with
+zero vulnerabilities and the no-op prepare lifecycle. Initial source commit:
+`e909c516c80b34dcb865916f56b0303f3a146bff`.
+
+The final book introduction now includes the online address required by the
+specification. Only PDF page 2 changed; it was visually inspected, all 51 final
+rasters pass margins, and the other 50 match the earlier inspected set exactly.
+The final native-pixel/interior-stream audit also passes. Earlier downloaded
+book evidence above predates this final introduction-only change; final live
+download hashes will be recorded after deployment.
+
 ## Files and preservation
 
 Changed areas: authored region plans/observations, tracked correction masks,
@@ -144,10 +165,10 @@ and are excluded from publication, along with .work and node_modules.
 ## Size and publication checkpoint
 
 Root build: **314,691,234 bytes**, 1,004 files excluding its own receipt.
-Relative build: **314,691,261 bytes**.
+Final relative build: **314,691,376 bytes**, including the online address in the introduction.
 Portable ZIP: release-artifacts/fcc-stained-glass-site.zip,
-**304,142,959 bytes**, SHA-256
-`5f0f22e45ecec9cfafb0e56b4f4890e9d3c8d51a33d927dc33cad35dca0f706c`.
+**304,143,114 bytes**, SHA-256
+`dde3d72ff7ba4edde6dc47526c5bf9c174d750487318f3c4783c0756de1c51e7`.
 It was extracted and independently served/hashed, not merely created.
 
 Each tracked file is below the 95 MiB guard; the book is the largest runtime file.
@@ -155,6 +176,6 @@ The raw project includes substantial retained recipe data; final Git/ZIP size
 measurements and actual deployed commit/URL will be appended after publication.
 
 No software blocker is currently known. Remaining work at this checkpoint is
-clean regeneration comparison, public anonymous clone/source-ZIP verification,
+public source-ZIP verification,
 publication and live verification. Physical-device/print checks stay explicitly
 unperformed rather than being converted into passes.

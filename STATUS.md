@@ -34,7 +34,7 @@ All **48 individual Letter PDFs** and the **51-page book** are implemented,
 linked and reviewed. The book uses the supplied two-building cover, introduction,
 all numbered sheets and source/credit pages. Corrected captions for 009, 037 and
 049 are included. Current book SHA-256:
-`dd5a7680f42e45348e90940eb24475214d5f41c5dd8baaa0716b8b6add37b419`.
+`977a14b0a94ea8f2fd5ff7c4c93a3dcaa5b1d9ede3203cff2b8794516341432a`.
 
 ## Verified locally
 
@@ -54,7 +54,7 @@ Node **v24.13.0**, npm **11.6.2**, Windows.
 - Portable ZIP built: release-artifacts/fcc-stained-glass-site.zip, 304,142,959
   bytes; extracted and served successfully.
 - Clean copy in a path with spaces: npm ci and all-source verification passed.
-  Independent regeneration is running at this checkpoint.
+  Independent regeneration passed: all 97 versions and 55 photo derivatives match byte-for-byte. All 48 PDFs and the book were independently regenerated exactly; no-Git release build and normal development startup passed.
 
 The root production build is about 315 MB, below the 1 GiB hosting guard. Every
 file is below the 95 MiB per-file guard. Raw source-tree size includes retained

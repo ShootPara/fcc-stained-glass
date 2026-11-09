@@ -46,8 +46,8 @@ export async function buildSite(root=PROJECT_ROOT){
   // exact public bytes in the output too, including retained restoration versions.
   const publicFiles=await fileInventory(root,'public');
   for(const file of publicFiles.filter(f=>f.path!=='catalog.dev.json'))if(!files.some(f=>f.path===file.path&&f.sha256===file.sha256))throw new Error(`Missing or altered deployed asset: ${file.path}`);
-  let commit:string|null=null;try{commit=(await promisify(execFile)('git',['rev-parse','HEAD'],{cwd:root})).stdout.trim();}catch{}
-  const receipt={schemaVersion:1,projectVersion:project.projectVersion,base,repositoryUrl:catalog.repositoryUrl,commit,node:process.version,catalogSha256:await sha256File(path.join(root,'public/catalog.json')),deployedBytes:bytes,files};
+  let commit:string|null=null,dirty=false;try{commit=(await promisify(execFile)('git',['rev-parse','HEAD'],{cwd:root})).stdout.trim();dirty=Boolean((await promisify(execFile)('git',['status','--porcelain'],{cwd:root})).stdout.trim());}catch{}
+  const receipt={schemaVersion:1,projectVersion:project.projectVersion,base,repositoryUrl:catalog.repositoryUrl,commit,dirty,node:process.version,catalogSha256:await sha256File(path.join(root,'public/catalog.json')),deployedBytes:bytes,files};
   const updates=files.map(f=>({path:`dist/${f.path}`,fromFile:path.join(root,stage,f.path)}));
   await promoteBatch(root,'build-site',[...updates,{path:'dist/build-receipt.json',bytes:jsonBytes(receipt)}]);
   // Remove only obsolete regular files from the named output, never source work.

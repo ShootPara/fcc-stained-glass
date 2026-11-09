@@ -7,12 +7,12 @@
   },
   "coverPage": 1,
   "file": {
-    "bytes": 49886701,
+    "bytes": 49886816,
     "path": "downloads/fcc-coloring-book.pdf",
-    "sha256": "dd5a7680f42e45348e90940eb24475214d5f41c5dd8baaa0716b8b6add37b419"
+    "sha256": "977a14b0a94ea8f2fd5ff7c4c93a3dcaa5b1d9ede3203cff2b8794516341432a"
   },
   "height": 792,
-  "inputDigest": "50734fb9891250d992ccfa03eb5a55bd370d1bc1b561d31ccc0a0687e24a5e81",
+  "inputDigest": "e8a7f8a3a0f3c1f96a63bc155911f982699bf440ed89c018d4419009825d8325",
   "introPage": 2,
   "layoutVersion": "letter-book-v1",
   "schemaVersion": 1,
