@@ -106,3 +106,6 @@ Publication verification is recorded below when complete. Next action: verify li
 
 Publication complete: application commit 62f9c3d28bc765d49951a05b0c7e79c8bccc9197. Pages run 42723816632 and Verify run 42723816784 both succeeded. Live catalog matches the final local release byte-for-byte (SHA-256 3821078d131772703520d4a673610f050eb0c8c736f1781ced042772fb4a20c9), with 55 photos and nine narrative paragraphs. Live browser confirmed the expanded About content and corrected names. Coloring catalog and book entries remain exactly unchanged. No remaining editorial/publication blocker; next action is to incorporate any owner-supplied historical corrections.
 
+
+Coloring-title-only follow-up: website coloring titles now reuse the reviewed paired photo titles. Focused public catalog suite: 53/53 passed; strict release catalog passed. Structural comparison confirms only the 48 artwork title fields changed in the public catalog. No PDFs, drawings, geometry or save identities changed.
+
