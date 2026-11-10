@@ -41,7 +41,7 @@
         "rationale": "Direct visual comparison confirms the five-point star at the upper left, the crescent at the upper right, distinctive curled sun rays, the central sweeping band, and the lower waves. The coloring drawing simplifies glass textures and some outlines.",
         "value": "photo-002"
       },
-      "publicDescription": "A sun below a star and a crescent moon, with curved bands and waves. Likely historical subject: Sun, Moon, Stars, Earth and Water (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "The sun, crescent moon and star shine above bands of earth and water. Together they represent the beginning of Creation.",
       "sourceId": "design-002",
       "subjects": {
         "confidence": "likely",
@@ -65,7 +65,7 @@
           "h28-window-01-subject-01"
         ]
       },
-      "title": "Sun, moon, star and waves"
+      "title": "Sun, Moon, Stars, Earth and Water"
     },
     {
       "bookNumber": 2,
@@ -108,7 +108,7 @@
         "rationale": "Visual comparison, 2026-11-09: Fish rises diagonally from curled waves beneath a rainbow with dotted arc and zigzag band. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-003"
       },
-      "publicDescription": "The drawing shows fish, rainbow and waves. Likely historical subject: Creation of the Fishes (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A large fish rises among bands of water, with its eye, open mouth, gills and fins clearly outlined. The scene celebrates the creation of fish.",
       "sourceId": "design-003",
       "subjects": {
         "confidence": "likely",
@@ -132,7 +132,7 @@
           "h28-window-01-subject-02"
         ]
       },
-      "title": "Fish, rainbow and waves"
+      "title": "Creation of the Fishes"
     },
     {
       "bookNumber": 3,
@@ -175,7 +175,7 @@
         "rationale": "Visual comparison, 2026-11-09: Seated monkey has curled tail and raised head; winged bird occupies the right-hand diagonal panel beneath leaves. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-004"
       },
-      "publicDescription": "The drawing shows monkey and winged bird. Likely historical subject: Creation of the Animals on Land No. 1 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A large land animal, a long-beaked winged creature and foliage represent the creation of animals. This is one of two land-animal scenes in Window 1.",
       "sourceId": "design-004",
       "subjects": {
         "confidence": "likely",
@@ -199,7 +199,7 @@
           "h28-window-01-subject-03"
         ]
       },
-      "title": "Monkey and winged bird"
+      "title": "Creation of the land animals"
     },
     {
       "bookNumber": 4,
@@ -242,7 +242,7 @@
         "rationale": "Visual comparison, 2026-11-09: Lion sits at lower left, elephant trunk curls at right, and a small monkey hangs from a branch above. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-005"
       },
-      "publicDescription": "The drawing shows lion, elephant and small monkey. Likely historical subject: Creation of the Animals on Land No. 2 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "An elephant, a lion and a small monkey hanging from a branch represent the creation of animals. This is the other land-animal scene in Window 1.",
       "sourceId": "design-005",
       "subjects": {
         "confidence": "likely",
@@ -266,7 +266,7 @@
           "h28-window-01-subject-04"
         ]
       },
-      "title": "Lion, elephant and small monkey"
+      "title": "Creation of the land animals"
     },
     {
       "bookNumber": 5,
@@ -309,7 +309,7 @@
         "rationale": "Visual comparison, 2026-11-09: Two faces sit beneath an arch of leaves; a fish occupies the lower left and a curved shape separates the faces. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-006"
       },
-      "publicDescription": "The drawing shows two figures, leaves and fish. Likely historical subject: Eve giving the apple to Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Eve offers an apple to Adam beside a tree and serpent. The scene tells the story of temptation in the Garden of Eden.",
       "sourceId": "design-006",
       "subjects": {
         "confidence": "likely",
@@ -333,7 +333,7 @@
           "h28-window-02-subject-07"
         ]
       },
-      "title": "Two figures, leaves and fish"
+      "title": "Eve giving the apple to Adam"
     },
     {
       "bookNumber": 6,
@@ -376,7 +376,7 @@
         "rationale": "Visual comparison, 2026-11-09: Writing hand points toward a diagonal lettered strip; a bearded reclining figure lies below wavy panels. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-007"
       },
-      "publicDescription": "The drawing shows writing hand and bearded figure. Likely historical subject: Creation of Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "The hand of God reaches down toward the reclining Adam, representing the creation of the first man.",
       "sourceId": "design-007",
       "subjects": {
         "confidence": "likely",
@@ -400,7 +400,7 @@
           "h28-window-02-subject-05"
         ]
       },
-      "title": "Writing hand and bearded figure"
+      "title": "Creation of Adam"
     },
     {
       "bookNumber": 7,
@@ -443,7 +443,7 @@
         "rationale": "Visual comparison, 2026-11-09: Long-haired standing woman raises a finger at upper right; a kneeling bearded figure occupies lower left. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-008"
       },
-      "publicDescription": "The drawing shows standing woman and kneeling man. Likely historical subject: Creation of Eve (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Eve stands above the reclining Adam in this scene of her creation.",
       "sourceId": "design-008",
       "subjects": {
         "confidence": "likely",
@@ -467,7 +467,7 @@
           "h28-window-02-subject-06"
         ]
       },
-      "title": "Standing woman and kneeling man"
+      "title": "Creation of Eve"
     },
     {
       "bookNumber": 8,
@@ -510,7 +510,7 @@
         "rationale": "Visual comparison, 2026-11-09: Branching tree fills an upper round panel; a long-necked bird is enclosed below among curved dividing bands. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-009"
       },
-      "publicDescription": "A branching thorny plant above a long-necked serpent with open jaws. Likely historical subject: Thorns, Thistles and Serpent of Sin (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Thorny foliage grows above a serpent. The 1928 guide names these symbols as thorns, thistles and the serpent of sin.",
       "sourceId": "design-009",
       "subjects": {
         "confidence": "likely",
@@ -534,7 +534,7 @@
           "h28-window-02-subject-08"
         ]
       },
-      "title": "Tree and serpent"
+      "title": "Thorns, Thistles and Serpent of Sin"
     },
     {
       "bookNumber": 9,
@@ -577,7 +577,7 @@
         "rationale": "Visual comparison, 2026-11-09: Boat with round portholes rides waves above raised hands and a face; a leafy branch fills the right edge. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-010"
       },
-      "publicDescription": "The drawing shows boat and raised hands. Likely historical subject: The Flood (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "An ark floats above the waters of the Flood, while a drowning figure appears below.",
       "sourceId": "design-010",
       "subjects": {
         "confidence": "likely",
@@ -601,7 +601,7 @@
           "h28-window-03-subject-11"
         ]
       },
-      "title": "Boat and raised hands"
+      "title": "The Flood"
     },
     {
       "bookNumber": 10,
@@ -644,7 +644,7 @@
         "rationale": "Visual comparison, 2026-11-09: Bird flies toward a small window with a face; diagonal rays above and many wave bands below match. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-011"
       },
-      "publicDescription": "The drawing shows bird and a figure in a window. Likely historical subject: Noah sends out the Dove (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Noah looks from the ark as a dove flies out over the water, seeking a sign that the Flood has receded.",
       "sourceId": "design-011",
       "subjects": {
         "confidence": "likely",
@@ -668,7 +668,7 @@
           "h28-window-03-subject-12"
         ]
       },
-      "title": "Bird and a figure in a window"
+      "title": "Noah sends out the Dove"
     },
     {
       "bookNumber": 11,
@@ -711,7 +711,7 @@
         "rationale": "Visual comparison, 2026-11-09: Curving blade with dotted crosspiece descends from a hand; leaves and round fruit sit at lower left. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-012"
       },
-      "publicDescription": "The drawing shows sword, fruit and curling bands. Likely historical subject: Adam and Eve. Their eviction from Paradise (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A hand holds a sword with a flame-like blade above a fruit-bearing branch. These symbols tell the story of Adam and Eve’s expulsion from Paradise.",
       "sourceId": "design-012",
       "subjects": {
         "confidence": "likely",
@@ -735,7 +735,7 @@
           "h28-window-03-subject-09"
         ]
       },
-      "title": "Sword, fruit and curling bands"
+      "title": "Expulsion from Paradise"
     },
     {
       "bookNumber": 12,
@@ -778,7 +778,7 @@
         "rationale": "Visual comparison, 2026-11-09: Two prominent bird heads protrude among separated stone wall sections, with matching curling shapes at right. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-013"
       },
-      "publicDescription": "Bird heads appear among stone walls and curling shapes. Likely historical subject: The offering of Cain and Abel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Two serpent heads and curling bodies appear beside stone altars, flames and hands. The paired offerings connect this scene with Cain and Abel in the 1928 guide.",
       "sourceId": "design-013",
       "subjects": {
         "confidence": "likely",
@@ -802,7 +802,7 @@
           "h28-window-03-subject-10"
         ]
       },
-      "title": "Birds and stone walls"
+      "title": "The offerings of Cain and Abel"
     },
     {
       "bookNumber": 13,
@@ -845,7 +845,7 @@
         "rationale": "Visual comparison, 2026-11-09: Raised hand and bearded face stand beside a fire on a stone altar; curved bands span the upper panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-014"
       },
-      "publicDescription": "The drawing shows raised hand, fire and stone altar. Likely historical subject: Noah's Offering (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Noah worships at a sacrificial altar beneath a rainbow. The offering follows his survival of the Flood.",
       "sourceId": "design-014",
       "subjects": {
         "confidence": "likely",
@@ -869,7 +869,7 @@
           "h28-window-04-subject-13"
         ]
       },
-      "title": "Raised hand, fire and stone altar"
+      "title": "Noah’s Offering"
     },
     {
       "bookNumber": 14,
@@ -912,7 +912,7 @@
         "rationale": "Visual comparison, 2026-11-09: Stepped building with ladder-like roof rail sits amid clouds; the curved right band reads BABYLON. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-015"
       },
-      "publicDescription": "The drawing shows building, clouds and the word Babylon. Likely historical subject: Tower of Babel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A tower bears the inscription BABEL. It represents the Tower of Babel in the Genesis story.",
       "sourceId": "design-015",
       "subjects": {
         "confidence": "likely",
@@ -936,7 +936,7 @@
           "h28-window-04-subject-14"
         ]
       },
-      "title": "Building, clouds and the word Babylon"
+      "title": "Tower of Babel"
     },
     {
       "bookNumber": 15,
@@ -979,7 +979,7 @@
         "rationale": "Visual comparison, 2026-11-09: Flames rise above a crenellated fortress, with three faces along the bottom and angled panels above. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-016"
       },
-      "publicDescription": "The drawing shows fortress, flames and three faces. Likely historical subject: Destruction of Sodom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Flames and lightning strike a city as figures flee below. The scene depicts the destruction of Sodom.",
       "sourceId": "design-016",
       "subjects": {
         "confidence": "likely",
@@ -1003,7 +1003,7 @@
           "h28-window-04-subject-15"
         ]
       },
-      "title": "Fortress, flames and three faces"
+      "title": "Destruction of Sodom"
     },
     {
       "bookNumber": 16,
@@ -1046,7 +1046,7 @@
         "rationale": "Visual comparison, 2026-11-09: Paired feet descend steps above a kneeling figure looking upward beside curved bands. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-017"
       },
-      "publicDescription": "The drawing shows steps, feet and kneeling figure. Likely historical subject: Jacob's Dream (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Jacob sleeps beneath a ladder with figures ascending and descending. His dream links earth and heaven.",
       "sourceId": "design-017",
       "subjects": {
         "confidence": "likely",
@@ -1070,7 +1070,7 @@
           "h28-window-04-subject-16"
         ]
       },
-      "title": "Steps, feet and kneeling figure"
+      "title": "Jacob’s Dream"
     },
     {
       "bookNumber": 17,
@@ -1113,7 +1113,7 @@
         "rationale": "Visual comparison, 2026-11-09: Helmeted standing figure holds a tall fan-shaped object; decorated chariot wheel and horse fill the lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-018"
       },
-      "publicDescription": "The drawing shows figure, horse and decorated chariot. Likely historical subject: Joseph honored (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Joseph rides in an ornate ceremonial chariot in Egyptian dress, showing his rise to honor in Egypt.",
       "sourceId": "design-018",
       "subjects": {
         "confidence": "likely",
@@ -1137,7 +1137,7 @@
           "h28-window-05-subject-19"
         ]
       },
-      "title": "Figure, horse and decorated chariot"
+      "title": "Joseph honored"
     },
     {
       "bookNumber": 18,
@@ -1180,7 +1180,7 @@
         "rationale": "Visual comparison, 2026-11-09: Woman looks down at a child in a woven basket; pyramids and small palms appear at upper left. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-019"
       },
-      "publicDescription": "The drawing shows woman, child in a basket and pyramids. Likely historical subject: Finding of Moses (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "An Egyptian woman reaches toward an infant in a basket, with pyramids behind her. The child is Moses.",
       "sourceId": "design-019",
       "subjects": {
         "confidence": "likely",
@@ -1204,7 +1204,7 @@
           "h28-window-05-subject-20"
         ]
       },
-      "title": "Woman, child in a basket and pyramids"
+      "title": "Finding of Moses"
     },
     {
       "bookNumber": 19,
@@ -1247,7 +1247,7 @@
         "rationale": "Visual comparison, 2026-11-09: Raised two-finger hand is flanked by JACOB lettering; ESAU lettering and a steaming bowl occupy lower panels. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-020"
       },
-      "publicDescription": "The drawing shows raised hand, lettered bands and bowl. Likely historical subject: Esau swears off his birthright (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "The names JACOB and ESAU appear beside a raised hand and a bowl of food. Esau surrenders his birthright to Jacob.",
       "sourceId": "design-020",
       "subjects": {
         "confidence": "likely",
@@ -1271,7 +1271,7 @@
           "h28-window-05-subject-17"
         ]
       },
-      "title": "Raised hand, lettered bands and bowl"
+      "title": "Esau swears off his birthright"
     },
     {
       "bookNumber": 20,
@@ -1314,7 +1314,7 @@
         "rationale": "Visual comparison, 2026-11-09: Loaded camel arches over a standing figure; an extended hand enters from left and a tied bundle sits below. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-021"
       },
-      "publicDescription": "The drawing shows camel, standing figure and bundle. Likely historical subject: Selling of Joseph (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A young Joseph appears beside a merchant, a camel and a money bag. The scene depicts his sale into slavery.",
       "sourceId": "design-021",
       "subjects": {
         "confidence": "likely",
@@ -1338,7 +1338,7 @@
           "h28-window-05-subject-18"
         ]
       },
-      "title": "Camel, standing figure and bundle"
+      "title": "Selling of Joseph"
     },
     {
       "bookNumber": 21,
@@ -1381,7 +1381,7 @@
         "rationale": "Visual comparison, 2026-11-09: Crowned bearded figure occupies the upper panel; a horse head faces right beneath the horizontal divider. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-022"
       },
-      "publicDescription": "The drawing shows crowned figure and horse head. Likely historical subject: Through the Red Sea (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "An armored horseman appears among sweeping forms of blue and red. The scene represents the passage through the Red Sea in the group devoted to Moses.",
       "sourceId": "design-022",
       "subjects": {
         "confidence": "likely",
@@ -1405,7 +1405,7 @@
           "h28-window-06-subject-21"
         ]
       },
-      "title": "Crowned figure and horse head"
+      "title": "Passage through the Red Sea"
     },
     {
       "bookNumber": 22,
@@ -1448,7 +1448,7 @@
         "rationale": "Visual comparison, 2026-11-09: Bearded face is enclosed by an oval and leaves; rows of flames rise above the upper horizontal band. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-023"
       },
-      "publicDescription": "The drawing shows bearded face, leaves and flames. Likely historical subject: Moses and the Burning Bush (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A divine face appears within a leafy bush topped by flames. The burning bush represents God’s call to Moses.",
       "sourceId": "design-023",
       "subjects": {
         "confidence": "likely",
@@ -1472,7 +1472,7 @@
           "h28-window-06-subject-22"
         ]
       },
-      "title": "Bearded face, leaves and flames"
+      "title": "Moses and the Burning Bush"
     },
     {
       "bookNumber": 23,
@@ -1520,7 +1520,7 @@
         "rationale": "Visual comparison, 2026-11-09: Bearded figure extends a hand across the upper panel; the lower panel pairs a grape cluster and bowed face. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-024"
       },
-      "publicDescription": "The drawing shows raised hand, grape cluster and two figures. Likely historical subjects: Moses striking the rock; The Carriers of the Grapes of Eschol (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Moses holds a staff beside water flowing from a rock, with a kneeling figure drinking below. The scene tells of water provided to the Israelites in the wilderness.",
       "sourceId": "design-024",
       "subjects": {
         "confidence": "likely",
@@ -1550,7 +1550,7 @@
           "h28-window-13-subject-52"
         ]
       },
-      "title": "Raised hand, grape cluster and two figures"
+      "title": "Moses striking the rock"
     },
     {
       "bookNumber": 24,
@@ -1593,7 +1593,7 @@
         "rationale": "Visual comparison, 2026-11-09: Standing bearded figure raises a hand and holds two tablets, with matching horizon bands and curved clouds. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-025"
       },
-      "publicDescription": "The drawing shows standing figure with tablets and raised hand. Likely historical subject: Moses and the Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Moses holds two tablets representing the Law.",
       "sourceId": "design-025",
       "subjects": {
         "confidence": "likely",
@@ -1617,7 +1617,7 @@
           "h28-window-06-subject-24"
         ]
       },
-      "title": "Standing figure with tablets and raised hand"
+      "title": "Moses and the Law"
     },
     {
       "bookNumber": 25,
@@ -1660,7 +1660,7 @@
         "rationale": "Visual comparison, 2026-11-09: Curly-haired seated figure turns toward curling tree shapes; a lion lies below the diagonal garment. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-026"
       },
-      "publicDescription": "The drawing shows seated figure, lion and trees. Likely historical subject: Samson slaying the Lion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Samson forces open a lion’s jaws with his hands, showing the strength associated with him in the biblical story.",
       "sourceId": "design-026",
       "subjects": {
         "confidence": "likely",
@@ -1684,7 +1684,7 @@
           "h28-window-07-subject-25"
         ]
       },
-      "title": "Seated figure, lion and trees"
+      "title": "Samson slaying the Lion"
     },
     {
       "bookNumber": 26,
@@ -1727,7 +1727,7 @@
         "rationale": "Visual comparison, 2026-11-09: Helmeted figure and circular patterned shield stand left of a seated figure with a hanging pouch; a bowed head appears below. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-027"
       },
-      "publicDescription": "Figures, a circular shield and flowing garments fill the drawing. Likely historical subject: David and Goliath (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "David appears with a sling beside an armored warrior and a severed head. The scene depicts his victory over Goliath.",
       "sourceId": "design-027",
       "subjects": {
         "confidence": "likely",
@@ -1751,7 +1751,7 @@
           "h28-window-07-subject-26"
         ]
       },
-      "title": "Figures, circular shield and flowing garments"
+      "title": "David and Goliath"
     },
     {
       "bookNumber": 27,
@@ -1794,7 +1794,7 @@
         "rationale": "Visual comparison, 2026-11-09: Winged figure with swept hair bends forward over a staff-like diagonal; patterned garments fill the lower portion. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-028"
       },
-      "publicDescription": "The drawing shows winged figure, branch and bowed head. Likely historical subject: Death of Absalom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Absalom’s long hair catches in a tree as armed figures gather around him. The scene depicts his death.",
       "sourceId": "design-028",
       "subjects": {
         "confidence": "likely",
@@ -1818,7 +1818,7 @@
           "h28-window-07-subject-27"
         ]
       },
-      "title": "Winged figure, branch and bowed head"
+      "title": "Death of Absalom"
     },
     {
       "bookNumber": 28,
@@ -1861,7 +1861,7 @@
         "rationale": "Visual comparison, 2026-11-09: Head-covered woman holds a grape cluster above a donkey; a bearded face and staff fill the left lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-029"
       },
-      "publicDescription": "The drawing shows woman, grapes, donkey and figures. Likely historical subject: Flight into Egypt (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Mary and the infant Jesus travel on a donkey with Joseph. The family flees into Egypt.",
       "sourceId": "design-029",
       "subjects": {
         "confidence": "likely",
@@ -1885,7 +1885,7 @@
           "h28-window-07-subject-28"
         ]
       },
-      "title": "Woman, grapes, donkey and figures"
+      "title": "Flight into Egypt"
     },
     {
       "bookNumber": 29,
@@ -1928,7 +1928,7 @@
         "rationale": "Visual comparison, 2026-11-09: Winged face emerges from clouds above a kneeling woman with folded hands; flower sits at lower left. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-030"
       },
-      "publicDescription": "The drawing shows winged face, clouds and kneeling woman. Likely historical subject: Annunciation (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A winged messenger appears above the praying Mary beside a lily. The Annunciation tells of the announcement that she will bear Jesus.",
       "sourceId": "design-030",
       "subjects": {
         "confidence": "likely",
@@ -1952,7 +1952,7 @@
           "h28-window-08-subject-29"
         ]
       },
-      "title": "Winged face, clouds and kneeling woman"
+      "title": "Annunciation"
     },
     {
       "bookNumber": 30,
@@ -1995,7 +1995,7 @@
         "rationale": "Visual comparison, 2026-11-09: Star emits long converging rays above three crowned figures, with a round-topped vessel in the center. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-031"
       },
-      "publicDescription": "The drawing shows star, rays and three crowned figures. Likely historical subject: Three Wise Men (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Three crowned figures gather beneath a radiant star. The Wise Men follow the star to find the infant Jesus.",
       "sourceId": "design-031",
       "subjects": {
         "confidence": "likely",
@@ -2019,7 +2019,7 @@
           "h28-window-08-subject-30"
         ]
       },
-      "title": "Star, rays and three crowned figures"
+      "title": "Three Wise Men"
     },
     {
       "bookNumber": 31,
@@ -2062,7 +2062,7 @@
         "rationale": "Visual comparison, 2026-11-09: Seated crowned figure gestures toward a domed tower containing three faces above flames. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-032"
       },
-      "publicDescription": "The drawing shows crowned figure and three faces in a tower. Likely historical subject: Three Young Men in the Fiery Furnace (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Three young men stand within a fiery enclosure before a seated king. The scene tells of their survival in the furnace.",
       "sourceId": "design-032",
       "subjects": {
         "confidence": "likely",
@@ -2086,7 +2086,7 @@
           "h28-window-08-subject-31"
         ]
       },
-      "title": "Crowned figure and three faces in a tower"
+      "title": "Three Young Men in the Fiery Furnace"
     },
     {
       "bookNumber": 32,
@@ -2129,7 +2129,7 @@
         "rationale": "Visual comparison, 2026-11-09: Woman with large ringed halo holds a child with a smaller halo; diagonal background bands and robe folds match. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-033"
       },
-      "publicDescription": "The drawing shows woman and child with halos. Likely historical subject: Madonna (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Mary holds the infant Christ, both shown with halos. The traditional name Madonna refers to Mary as the mother of Jesus.",
       "sourceId": "design-033",
       "subjects": {
         "confidence": "likely",
@@ -2153,7 +2153,7 @@
           "h28-window-08-subject-32"
         ]
       },
-      "title": "Woman and child with halos"
+      "title": "Madonna"
     },
     {
       "bookNumber": 33,
@@ -2196,7 +2196,7 @@
         "rationale": "Visual comparison, 2026-11-09: Standing bearded figure pours water onto a kneeling head beside leafy shapes and a dove-like upper symbol. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-034"
       },
-      "publicDescription": "The drawing shows two figures and pouring water. Likely historical subject: Baptism (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "John baptizes Christ beneath a dove, a symbol of the Holy Spirit.",
       "sourceId": "design-034",
       "subjects": {
         "confidence": "likely",
@@ -2220,7 +2220,7 @@
           "h28-window-09-subject-33"
         ]
       },
-      "title": "Two figures and pouring water"
+      "title": "Baptism"
     },
     {
       "bookNumber": 34,
@@ -2263,7 +2263,7 @@
         "rationale": "Visual comparison, 2026-11-09: Haloed seated figure rides a donkey; another face appears at right and large flowers occupy the bottom. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-035"
       },
-      "publicDescription": "The drawing shows seated figure, donkey and flowers. Likely historical subject: Jesus enters into Jerusalem (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christ rides a donkey toward Jerusalem, surrounded by palms and attendants.",
       "sourceId": "design-035",
       "subjects": {
         "confidence": "likely",
@@ -2287,7 +2287,7 @@
           "h28-window-09-subject-34"
         ]
       },
-      "title": "Seated figure, donkey and flowers"
+      "title": "Jesus enters into Jerusalem"
     },
     {
       "bookNumber": 35,
@@ -2330,7 +2330,7 @@
         "rationale": "Visual comparison, 2026-11-09: Haloed figure raises a hand from a curved boat above multiple wave bands. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-036"
       },
-      "publicDescription": "The drawing shows figure, boat and waves. Likely historical subject: Christ preaching from the boat (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christ sits in a boat on the water and raises a hand as he teaches.",
       "sourceId": "design-036",
       "subjects": {
         "confidence": "likely",
@@ -2354,7 +2354,7 @@
           "h28-window-09-subject-35"
         ]
       },
-      "title": "Figure, boat and waves"
+      "title": "Christ preaching from the boat"
     },
     {
       "bookNumber": 36,
@@ -2397,7 +2397,7 @@
         "rationale": "Visual comparison, 2026-11-09: Bearded figure with a curved staff cradles a lamb; another animal looks up at right and a small figure appears in the building behind. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-037"
       },
-      "publicDescription": "An older standing figure raises a hand above a kneeling man in ragged clothing. Likely historical subject: Return of the Prodigal (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A father welcomes his ragged, kneeling son. The return of the prodigal son tells a story of forgiveness.",
       "sourceId": "design-037",
       "subjects": {
         "confidence": "likely",
@@ -2421,7 +2421,7 @@
           "h28-window-09-subject-36"
         ]
       },
-      "title": "Standing figure and kneeling man"
+      "title": "Return of the Prodigal"
     },
     {
       "bookNumber": 37,
@@ -2464,7 +2464,7 @@
         "rationale": "Visual comparison, 2026-11-09: Two haloed figures face each other beside a tall tree and open stone box; the right figure is wrapped in bands. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-038"
       },
-      "publicDescription": "Two figures face each other beside an open stone box. Likely historical subject: Awakening of Lazarus (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christ addresses the shrouded Lazarus beside an open tomb. The scene depicts Lazarus being raised from the dead.",
       "sourceId": "design-038",
       "subjects": {
         "confidence": "likely",
@@ -2488,7 +2488,7 @@
           "h28-window-10-subject-37"
         ]
       },
-      "title": "Two figures and an open stone box"
+      "title": "Awakening of Lazarus"
     },
     {
       "bookNumber": 38,
@@ -2531,7 +2531,7 @@
         "rationale": "Visual comparison, 2026-11-09: Standing haloed figure holds a tall curved staff and a round object; a brick-lined arch stands at right. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-039"
       },
-      "publicDescription": "The drawing shows standing figure, staff and round object. Likely historical subject: Christ visiting, or Christ at the Door (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christ holds a door knocker. The 1928 guide calls this scene Christ visiting, or Christ at the Door.",
       "sourceId": "design-039",
       "subjects": {
         "confidence": "likely",
@@ -2555,7 +2555,7 @@
           "h28-window-10-subject-38"
         ]
       },
-      "title": "Standing figure, staff and round object"
+      "title": "Christ visiting / Christ at the Door"
     },
     {
       "bookNumber": 39,
@@ -2598,7 +2598,7 @@
         "rationale": "Visual comparison, 2026-11-09: Central figure extends arms on a cross beneath INRI; two standing figures flank the lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-040"
       },
-      "publicDescription": "The drawing shows cross and three figures. Likely historical subject: Crucifixion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christ hangs on the cross, with Mary and John beside him.",
       "sourceId": "design-040",
       "subjects": {
         "confidence": "likely",
@@ -2622,7 +2622,7 @@
           "h28-window-10-subject-39"
         ]
       },
-      "title": "Cross and three figures"
+      "title": "Crucifixion"
     },
     {
       "bookNumber": 40,
@@ -2665,7 +2665,7 @@
         "rationale": "Visual comparison, 2026-11-09: Haloed bearded figure raises a hand in the large upper panel; winged and mitred figures occupy lower angled panels. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-041"
       },
-      "publicDescription": "The drawing shows bearded figure above two smaller figures. Likely historical subject: Resurrection (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "The risen Christ holds a victory banner above figures at the tomb. The scene depicts the Resurrection.",
       "sourceId": "design-041",
       "subjects": {
         "confidence": "likely",
@@ -2689,7 +2689,7 @@
           "h28-window-10-subject-40"
         ]
       },
-      "title": "Bearded figure above two smaller figures"
+      "title": "Resurrection"
     },
     {
       "bookNumber": 41,
@@ -2732,7 +2732,7 @@
         "rationale": "Visual comparison, 2026-11-09: Feet and garment hem emerge above clouds between two winged faces; descending rays fill the lower cloud opening. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-042"
       },
-      "publicDescription": "The drawing shows feet, clouds and winged faces. Likely historical subject: Ascension (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christ’s feet disappear into a cloud above the gathered disciples. The scene depicts the Ascension.",
       "sourceId": "design-042",
       "subjects": {
         "confidence": "likely",
@@ -2756,7 +2756,7 @@
           "h28-window-11-subject-41"
         ]
       },
-      "title": "Feet, clouds and winged faces"
+      "title": "Ascension"
     },
     {
       "bookNumber": 42,
@@ -2799,7 +2799,7 @@
         "rationale": "Visual comparison, 2026-11-09: Large haloed face with raised hand sits beside an open book bearing matching symbols. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-043"
       },
-      "publicDescription": "The drawing shows haloed face, raised hand and open book. Likely historical subject: Christ and the Christian Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christ teaches with an open book and a raised finger. The 1928 guide calls this scene Christ and the Christian Law.",
       "sourceId": "design-043",
       "subjects": {
         "confidence": "likely",
@@ -2823,7 +2823,7 @@
           "h28-window-11-subject-42"
         ]
       },
-      "title": "Haloed face, raised hand and open book"
+      "title": "Christ and the Christian Law"
     },
     {
       "bookNumber": 43,
@@ -2866,7 +2866,7 @@
         "rationale": "Visual comparison, 2026-11-09: Descending bird and radiating bands stand above repeated scalloped panels containing flames. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-044"
       },
-      "publicDescription": "The drawing shows dove, rays and flames. Likely historical subject: Descent of the Holy Ghost (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A dove descends over heads marked by tongues of flame. These symbols represent the coming of the Holy Spirit at Pentecost.",
       "sourceId": "design-044",
       "subjects": {
         "confidence": "likely",
@@ -2890,7 +2890,7 @@
           "h28-window-11-subject-43"
         ]
       },
-      "title": "Dove, rays and flames"
+      "title": "Descent of the Holy Ghost"
     },
     {
       "bookNumber": 44,
@@ -2933,7 +2933,7 @@
         "rationale": "Visual comparison, 2026-11-09: Seated haloed figure raises a hand and holds a decorated book amid matching round and curved panels. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-045"
       },
-      "publicDescription": "The drawing shows seated haloed figure with a book. Likely historical subject: Christ in Heaven (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christ sits enthroned within a luminous enclosure, holding a book and raising a hand in blessing.",
       "sourceId": "design-045",
       "subjects": {
         "confidence": "likely",
@@ -2957,7 +2957,7 @@
           "h28-window-11-subject-44"
         ]
       },
-      "title": "Seated haloed figure with a book"
+      "title": "Christ in Heaven"
     },
     {
       "bookNumber": 45,
@@ -3000,7 +3000,7 @@
         "rationale": "Visual comparison, 2026-11-09: Inverted figure is enclosed by a pointed frame amid flames; bottom letters read ST PETER. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-046"
       },
-      "publicDescription": "The drawing shows inverted figure and the words St Peter. Likely historical subject: Martyrdom of St. Peter (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Peter is shown on an inverted cross beside the inscription ST PETER. The scene depicts his martyrdom.",
       "sourceId": "design-046",
       "subjects": {
         "confidence": "likely",
@@ -3024,7 +3024,7 @@
           "h28-window-12-subject-47"
         ]
       },
-      "title": "Inverted figure and the words St Peter"
+      "title": "Martyrdom of St. Peter"
     },
     {
       "bookNumber": 46,
@@ -3067,7 +3067,7 @@
         "rationale": "Visual comparison, 2026-11-09: Large bearded figure uses a staff while carrying a child holding a cross through water. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-047"
       },
-      "publicDescription": "The drawing shows figure carrying a child through water. Likely historical subject: St. Christopher ferrying the Christ Child across the river (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "Christopher carries the Christ Child through water. The child carries a cross.",
       "sourceId": "design-047",
       "subjects": {
         "confidence": "likely",
@@ -3091,7 +3091,7 @@
           "h28-window-12-subject-48"
         ]
       },
-      "title": "Figure carrying a child through water"
+      "title": "St. Christopher ferrying the Christ Child"
     },
     {
       "bookNumber": 47,
@@ -3134,7 +3134,7 @@
         "rationale": "Visual comparison, 2026-11-09: Lamb carries a cross-topped banner inside a circle; crossed key-like shapes and curved bands fill the lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-048"
       },
-      "publicDescription": "The drawing shows lamb, banner and crossed shapes. Historical subject remains unidentified after review: two different lamb entries in the 1928 guide fit this detail. Present-day location is unconfirmed.",
+      "publicDescription": "A haloed lamb carries a cross and banner. The lamb represents Christ, and the banner expresses triumph. The 1928 guide lists this scene in Window 12.",
       "sourceId": "design-048",
       "subjects": {
         "confidence": "unidentified",
@@ -3156,7 +3156,7 @@
         "rationale": "A haloed lamb and banner fit both H28 subject 45 and subject 61. The crop lacks enough architectural context to select one honestly.",
         "value": null
       },
-      "title": "Lamb, banner and crossed shapes"
+      "title": "Christ as the Lamb"
     },
     {
       "bookNumber": 48,
@@ -3204,7 +3204,7 @@
         "rationale": "Visual comparison, 2026-11-09: Large bird bends toward its breast above flame-like curls; lamb and cross-topped round object fill the lower panel. This confirms only the media pairing; historical subject and church location remain unconfirmed.",
         "value": "photo-049"
       },
-      "publicDescription": "A grotesque creature holds a three-tined fork above a woolly ram beside a round cross-marked shape and three hanging balls. Likely historical subjects: Sin and Salvation. Sin symbolized by a scarlet Satan with three-tined fork and flames; Doctrine of Christ. Book—the New Testament. Three balls symbol of the Trinity (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "publicDescription": "A scarlet creature with a three-tined fork and flames appears above a lamb and cross. The 1928 guide calls the scene Sin and Salvation: the devil represents sin, while the lamb and cross represent Christ and salvation.",
       "sourceId": "design-049",
       "subjects": {
         "confidence": "likely",
@@ -3234,7 +3234,7 @@
           "h28-window-14-subject-62"
         ]
       },
-      "title": "Creature with fork, ram and round window"
+      "title": "Sin and Salvation"
     }
   ],
   "schemaVersion": 1

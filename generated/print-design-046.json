@@ -2,12 +2,12 @@
   "artworkId": "design-046",
   "effectiveDpi": 172.79999999999998,
   "file": {
-    "bytes": 1097630,
+    "bytes": 1097230,
     "path": "print/design-046.pdf",
-    "sha256": "7488298c00bd2a536b3c90205803bdcd9b0e939ee9a8cd7c277626db78b13300"
+    "sha256": "ef107bc1e0b7ad19c0f5db916259b36503244d2474d0b3b71cc68fe95778f42f"
   },
   "height": 792,
-  "inputDigest": "f7ac33441169cf8ebced64518bdefd89dd6d0abe43e000652d25d76ae5200b19",
+  "inputDigest": "3f7c9ef245114cff06ec4455fc60ab295cd6d174f9a9b654f1f0dfaa2aca1730",
   "pages": 1,
   "schemaVersion": 1,
   "width": 612

@@ -1,13 +1,7 @@
 {
-  "schemaVersion": 1,
-  "reviewKind": "print-layout",
-  "reviewer": "Codex visual inspection of all 51 Poppler page renders and native-detail sample",
-  "reviewedAtUtc": "2026-11-09T16:27:27Z",
-  "outcome": "complete",
-  "bookInputDigest": "fd781bbc701bd79040eeb000e2b01eeaf84808f64e1af7b1ff4d0a5ad144f887",
-  "bookSha256": "977a14b0a94ea8f2fd5ff7c4c93a3dcaa5b1d9ede3203cff2b8794516341432a",
+  "bookInputDigest": "68fbd8b0ca1071b1a53bb65f61ac91b96dad1ef11a88410e91affcd59d4436ca",
+  "bookSha256": "bf19476e820cf339a367b9fd819b4697ba68408f4acf5211f2e871954d712bb7",
   "coverSha256": "b0b0b4d6e0d4a0e328d29a116a159ab894219701cb2e342a36fa0fd7972f70d0",
-  "observations": "The supplied two-building illustration remains recognizable after deterministic inversion to black on white, without tracing or redrawing. Five required cover lines are legible and the building centennial is distinguished from the congregation's founding. Corrected the initial top heading position; final ink-bounds check passes on every page. Introduction and source/credit text are readable and unclipped. Inspected the complete 51-page sequence in thirteen four-page contact sheets and the corrected cover separately, plus a 150-dpi rendering of the dense tower design. All 48 designs appear once in authored order with numbers 1-48 and explicit location uncertainty; no caption overlaps the artwork. Source borders that reach a drawing's own edge are retained rather than cropped or repaired. Independent PDF decoding verifies exact native drawing pixels and identical reused interior streams between the combined book and individual sheets. Physical print inspection remains pending.",
   "evidence": [
     ".work/pdf-review/bounds.json",
     ".work/pdf-review/pixel-audit.json",
@@ -16,7 +10,16 @@
     ".work/pdf-review/fine-33.png",
     ".work/pdf-review/final-bounds.json: 51 pages, zero safe-area violations",
     ".work/pdf-review/final-10.png, final-38.png and final-50.png: corrected captions visually inspected; all other 48 page rasters exactly match the previously inspected book",
-    ".work/pdf-review/release-02.png: required online URL added to introduction and visually inspected; other 50 release rasters exactly match the final set; release-bounds.json has zero violations"
+    ".work/pdf-review/release-02.png: required online URL added to introduction and visually inspected; other 50 release rasters exactly match the final set; release-bounds.json has zero violations",
+    ".work/pdf-review/titles-1.png through titles-3.png: all 48 title areas visually inspected",
+    ".work/pdf-review/renamed-02.png: revised introduction visually inspected",
+    ".work/pdf-review/renamed-bounds.json: all 51 pages, zero safe-area violations"
   ],
-  "physicalPrinting": "not-tested"
+  "observations": "Reviewed all 48 new scene titles in three full-resolution title-strip sheets. Each title fits on one line with clear separation from the drawing. The revised introduction naming paragraph is readable and unclipped. All 51 Poppler-rendered pages pass safe-area bounds. Independently extracted text verifies all 48 individual sheet titles, their PDF metadata titles and all 48 corresponding book-page titles against the authored records. Original source art, prepared geometry, page order, cover and credits are unchanged; physical printing was not tested.",
+  "outcome": "complete",
+  "physicalPrinting": "not-tested",
+  "reviewKind": "print-layout",
+  "reviewedAtUtc": "2026-11-10T01:42:33.375Z",
+  "reviewer": "Codex visual review of all 48 rendered title strips and revised introduction; Poppler safe-area check on all 51 pages",
+  "schemaVersion": 1
 }

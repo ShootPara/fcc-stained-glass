@@ -109,3 +109,6 @@ Publication complete: application commit 62f9c3d28bc765d49951a05b0c7e79c8bccc919
 
 Coloring-title-only follow-up: website coloring titles now reuse the reviewed paired photo titles. Focused public catalog suite: 53/53 passed; strict release catalog passed. Structural comparison confirms only the 48 artwork title fields changed in the public catalog. No PDFs, drawings, geometry or save identities changed.
 
+
+Complete naming follow-up: corrected titles now live in the 48 artwork source records; descriptions that repeated old shape labels also use the reconciled photo wording. Removed the temporary website-only title override. Regenerated all 48 individual PDFs and the 51-page book; updated the book naming note. All 59 focused public-catalog/print tests passed. PDF text and metadata title checks passed for every sheet and corresponding book page. Visually inspected all 48 title areas and revised introduction; all 51 Poppler pages have zero safe-area violations. Exact-hash print review and strict release catalog passed. Source drawings, geometry and saved-work identities are unchanged. Book SHA-256 bf19476e820cf339a367b9fd819b4697ba68408f4acf5211f2e871954d712bb7. Publication pending below.
+

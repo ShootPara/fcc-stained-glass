@@ -8,7 +8,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 1 — h28.txt [P0054]; transcription paragraph, not a printed page number."
       ],
-      "description": "A sun below a star and a crescent moon, with curved bands and waves. Likely historical subject: Sun, Moon, Stars, Earth and Water (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The sun, crescent moon and star shine above bands of earth and water. Together they represent the beginning of Creation.",
       "id": "design-002",
       "location": {
         "confidence": "unidentified",
@@ -19,9 +19,9 @@
       "originalPhotoId": "photo-002",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 817564,
+        "bytes": 817700,
         "path": "print/design-002.pdf",
-        "sha256": "288b6f2d16ffd538d57a387c4c5dd96ceaec3ba1f792acba8deb86dfbf02349d"
+        "sha256": "917c5a6acdbeff3f70e0a4f3eda2c28e1b33df007926357f1dc2dd5504502927"
       },
       "reviewState": "complete",
       "title": "Sun, Moon, Stars, Earth and Water",
@@ -59,7 +59,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 1 — h28.txt [P0055]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows fish, rainbow and waves. Likely historical subject: Creation of the Fishes (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A large fish rises among bands of water, with its eye, open mouth, gills and fins clearly outlined. The scene celebrates the creation of fish.",
       "id": "design-003",
       "location": {
         "confidence": "unidentified",
@@ -70,9 +70,9 @@
       "originalPhotoId": "photo-003",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 847507,
+        "bytes": 846783,
         "path": "print/design-003.pdf",
-        "sha256": "cebbf85bced059f8b5d3c8fbde76e590aaeeaeb74688b2ad3db9d5550517a2cb"
+        "sha256": "ce64c99c4c82132b8e4dfef93d5cd8d383cf618cd9e6dfc91e0e38e0ba1dd4ab"
       },
       "reviewState": "complete",
       "title": "Creation of the Fishes",
@@ -133,7 +133,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 1 — h28.txt [P0056]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows monkey and winged bird. Likely historical subject: Creation of the Animals on Land No. 1 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A large land animal, a long-beaked winged creature and foliage represent the creation of animals. This is one of two land-animal scenes in Window 1.",
       "id": "design-004",
       "location": {
         "confidence": "unidentified",
@@ -144,9 +144,9 @@
       "originalPhotoId": "photo-004",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 951812,
+        "bytes": 951553,
         "path": "print/design-004.pdf",
-        "sha256": "22039c31ab94ee4831edca00735d37cc2860ee6fe4f670224a21109fd1c6200e"
+        "sha256": "83b59075ff30c2f251eb9606f3e613252c435802579a27beeb569d448ef40b27"
       },
       "reviewState": "complete",
       "title": "Creation of the land animals",
@@ -207,7 +207,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 1 — h28.txt [P0057]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows lion, elephant and small monkey. Likely historical subject: Creation of the Animals on Land No. 2 (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An elephant, a lion and a small monkey hanging from a branch represent the creation of animals. This is the other land-animal scene in Window 1.",
       "id": "design-005",
       "location": {
         "confidence": "unidentified",
@@ -218,9 +218,9 @@
       "originalPhotoId": "photo-005",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 957231,
+        "bytes": 957003,
         "path": "print/design-005.pdf",
-        "sha256": "0b3961a0286bf6b5c5f65a1455a886f6f8a6153ed4237843a32703036e7bb707"
+        "sha256": "a5fd692e3b80d961cad0622c0b1af23f12b72980d5fca5a37347e4b378139c29"
       },
       "reviewState": "complete",
       "title": "Creation of the land animals",
@@ -304,7 +304,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 2 — h28.txt [P0061]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows two figures, leaves and fish. Likely historical subject: Eve giving the apple to Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Eve offers an apple to Adam beside a tree and serpent. The scene tells the story of temptation in the Garden of Eden.",
       "id": "design-006",
       "location": {
         "confidence": "unidentified",
@@ -315,9 +315,9 @@
       "originalPhotoId": "photo-006",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1045455,
+        "bytes": 1045115,
         "path": "print/design-006.pdf",
-        "sha256": "8a8205bf17925be298c06a1750f5ed39b80cad74569907831b207e70f9da2111"
+        "sha256": "313a67b0704168dfa39f310bf91bddffa89130af51c565ef9f61453cb3cda8bb"
       },
       "reviewState": "complete",
       "title": "Eve giving the apple to Adam",
@@ -378,7 +378,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 2 — h28.txt [P0059]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows writing hand and bearded figure. Likely historical subject: Creation of Adam (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The hand of God reaches down toward the reclining Adam, representing the creation of the first man.",
       "id": "design-007",
       "location": {
         "confidence": "unidentified",
@@ -389,9 +389,9 @@
       "originalPhotoId": "photo-007",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 980740,
+        "bytes": 980376,
         "path": "print/design-007.pdf",
-        "sha256": "3af1d9c471f03b2287482bd901a7a73876e57662bb60946c2e5274fa3955dbbc"
+        "sha256": "e7ab811ec3c99a0f9445f17242bc9cfc9f8e5c9cf2bc17fb10dfd66082f7ef92"
       },
       "reviewState": "complete",
       "title": "Creation of Adam",
@@ -452,7 +452,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 2 — h28.txt [P0060]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows standing woman and kneeling man. Likely historical subject: Creation of Eve (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Eve stands above the reclining Adam in this scene of her creation.",
       "id": "design-008",
       "location": {
         "confidence": "unidentified",
@@ -463,9 +463,9 @@
       "originalPhotoId": "photo-008",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 961703,
+        "bytes": 960946,
         "path": "print/design-008.pdf",
-        "sha256": "3dbde75cacbf0a7b4fb3fa6836d4825a1c0020357e85ad0beea53127f874a53b"
+        "sha256": "47205762d2734c35336bc302c6e6e49c1d7ae60710b4c7bfedcabce1602a1108"
       },
       "reviewState": "complete",
       "title": "Creation of Eve",
@@ -526,7 +526,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 2 — h28.txt [P0062]; transcription paragraph, not a printed page number."
       ],
-      "description": "A branching thorny plant above a long-necked serpent with open jaws. Likely historical subject: Thorns, Thistles and Serpent of Sin (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Thorny foliage grows above a serpent. The 1928 guide names these symbols as thorns, thistles and the serpent of sin.",
       "id": "design-009",
       "location": {
         "confidence": "unidentified",
@@ -537,9 +537,9 @@
       "originalPhotoId": "photo-009",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1059208,
+        "bytes": 1059684,
         "path": "print/design-009.pdf",
-        "sha256": "9edf6271166fb694ca8e3b741ddb88d0ea6bf7f3d0f01c5794216599510528cf"
+        "sha256": "7036cb134095a2bbcce55c51c2cceedace0953f8a9a7db9d63fb0cc3387fcca8"
       },
       "reviewState": "complete",
       "title": "Thorns, Thistles and Serpent of Sin",
@@ -600,7 +600,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 3 — h28.txt [P0066]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows boat and raised hands. Likely historical subject: The Flood (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An ark floats above the waters of the Flood, while a drowning figure appears below.",
       "id": "design-010",
       "location": {
         "confidence": "unidentified",
@@ -611,9 +611,9 @@
       "originalPhotoId": "photo-010",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1108660,
+        "bytes": 1108528,
         "path": "print/design-010.pdf",
-        "sha256": "449ac6b088d12c98788b52e1e06823ebb438265885ce4f3bc88b7e57e4ba2e50"
+        "sha256": "e43f66811fcb63daf27ac5bd081d3d31b2392008fcbd4a4f960c8b21b0308cbc"
       },
       "reviewState": "complete",
       "title": "The Flood",
@@ -674,7 +674,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 3 — h28.txt [P0067]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows bird and a figure in a window. Likely historical subject: Noah sends out the Dove (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Noah looks from the ark as a dove flies out over the water, seeking a sign that the Flood has receded.",
       "id": "design-011",
       "location": {
         "confidence": "unidentified",
@@ -685,9 +685,9 @@
       "originalPhotoId": "photo-011",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 809524,
+        "bytes": 809714,
         "path": "print/design-011.pdf",
-        "sha256": "e1a91d8f1395189714353e78314cd5759a44ebc6a92c2087a619923572bf5052"
+        "sha256": "9ed1357be29ec9dc846f918a8e5376c917bb76b8b98f46f23a4ee23deffcc209"
       },
       "reviewState": "complete",
       "title": "Noah sends out the Dove",
@@ -748,7 +748,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 3 — h28.txt [P0064]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows sword, fruit and curling bands. Likely historical subject: Adam and Eve. Their eviction from Paradise (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A hand holds a sword with a flame-like blade above a fruit-bearing branch. These symbols tell the story of Adam and Eve’s expulsion from Paradise.",
       "id": "design-012",
       "location": {
         "confidence": "unidentified",
@@ -759,9 +759,9 @@
       "originalPhotoId": "photo-012",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 904117,
+        "bytes": 904139,
         "path": "print/design-012.pdf",
-        "sha256": "4389e354fef2df31b774fb3ad4bae700005dda1358ad1744a56f243c6929ec8e"
+        "sha256": "2d8f80b037d1e98b1ff3c91783a805513a36971ca88941d98142dee1d4146f72"
       },
       "reviewState": "complete",
       "title": "Expulsion from Paradise",
@@ -822,7 +822,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 3 — h28.txt [P0065]; transcription paragraph, not a printed page number."
       ],
-      "description": "Bird heads appear among stone walls and curling shapes. Likely historical subject: The offering of Cain and Abel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Two serpent heads and curling bodies appear beside stone altars, flames and hands. The paired offerings connect this scene with Cain and Abel in the 1928 guide.",
       "id": "design-013",
       "location": {
         "confidence": "unidentified",
@@ -833,9 +833,9 @@
       "originalPhotoId": "photo-013",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1151244,
+        "bytes": 1151348,
         "path": "print/design-013.pdf",
-        "sha256": "8737d4b31c26786600d58c1a0b7212474a01dabd11ff9ce807c3ac3d9012e99b"
+        "sha256": "2789eae47b7bec368b2ef96b066e14f40649799733c777d3fdf7395913c5ce99"
       },
       "reviewState": "complete",
       "title": "The offerings of Cain and Abel",
@@ -896,7 +896,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 4 — h28.txt [P0069]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows raised hand, fire and stone altar. Likely historical subject: Noah's Offering (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Noah worships at a sacrificial altar beneath a rainbow. The offering follows his survival of the Flood.",
       "id": "design-014",
       "location": {
         "confidence": "unidentified",
@@ -907,9 +907,9 @@
       "originalPhotoId": "photo-014",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1012188,
+        "bytes": 1012252,
         "path": "print/design-014.pdf",
-        "sha256": "b9710c5cc619e00434247aba69f1892f3239e04ea444c16e799855c92b7e004d"
+        "sha256": "f3928a9c846a3c54c3fe0061a41ede59814e9903dc0228800bf8d598e518bbe1"
       },
       "reviewState": "complete",
       "title": "Noah’s Offering",
@@ -970,7 +970,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 4 — h28.txt [P0070]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows building, clouds and the word Babylon. Likely historical subject: Tower of Babel (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A tower bears the inscription BABEL. It represents the Tower of Babel in the Genesis story.",
       "id": "design-015",
       "location": {
         "confidence": "unidentified",
@@ -981,9 +981,9 @@
       "originalPhotoId": "photo-015",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 949234,
+        "bytes": 948928,
         "path": "print/design-015.pdf",
-        "sha256": "9ff01027db679ab6f8d0dce09e2ee7da92d087eae07246b5ffce5a723247bf84"
+        "sha256": "0a14e6380e3780669242617a3b7c186f40eaa3332fe99f3ad6ea333db32c30db"
       },
       "reviewState": "complete",
       "title": "Tower of Babel",
@@ -1044,7 +1044,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 4 — h28.txt [P0071]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows fortress, flames and three faces. Likely historical subject: Destruction of Sodom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Flames and lightning strike a city as figures flee below. The scene depicts the destruction of Sodom.",
       "id": "design-016",
       "location": {
         "confidence": "unidentified",
@@ -1055,9 +1055,9 @@
       "originalPhotoId": "photo-016",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1126768,
+        "bytes": 1126884,
         "path": "print/design-016.pdf",
-        "sha256": "d53ef60b4b4d655be398a7bdfcb290ae8c1714dfbf107410782666aaca2e2672"
+        "sha256": "bac5d886b3860d3ecb4a3da20e920256cf4c12aa90740441defe9763f0ffc4b8"
       },
       "reviewState": "complete",
       "title": "Destruction of Sodom",
@@ -1118,7 +1118,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 4 — h28.txt [P0072]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows steps, feet and kneeling figure. Likely historical subject: Jacob's Dream (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Jacob sleeps beneath a ladder with figures ascending and descending. His dream links earth and heaven.",
       "id": "design-017",
       "location": {
         "confidence": "unidentified",
@@ -1129,9 +1129,9 @@
       "originalPhotoId": "photo-017",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1073686,
+        "bytes": 1073806,
         "path": "print/design-017.pdf",
-        "sha256": "56cf830b412869a4ccb17db64686a78e715e1a46acd3656f347324b5ac9a98c8"
+        "sha256": "e69e4099b4ff939c894d8561af6fcba4bbc3c41c3756f4c73df4547e8101ab99"
       },
       "reviewState": "complete",
       "title": "Jacob’s Dream",
@@ -1192,7 +1192,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 5 — h28.txt [P0076]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows figure, horse and decorated chariot. Likely historical subject: Joseph honored (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Joseph rides in an ornate ceremonial chariot in Egyptian dress, showing his rise to honor in Egypt.",
       "id": "design-018",
       "location": {
         "confidence": "unidentified",
@@ -1203,9 +1203,9 @@
       "originalPhotoId": "photo-018",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1018918,
+        "bytes": 1018751,
         "path": "print/design-018.pdf",
-        "sha256": "85c9742549726fc19718f66a1bc0400564f5fe0214168de317a609cd935bda16"
+        "sha256": "f3a2ac560a3727994ba6c4939a0195c79146dc72e98be61966be89f58f840175"
       },
       "reviewState": "complete",
       "title": "Joseph honored",
@@ -1266,7 +1266,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 5 — h28.txt [P0077]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows woman, child in a basket and pyramids. Likely historical subject: Finding of Moses (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An Egyptian woman reaches toward an infant in a basket, with pyramids behind her. The child is Moses.",
       "id": "design-019",
       "location": {
         "confidence": "unidentified",
@@ -1277,9 +1277,9 @@
       "originalPhotoId": "photo-019",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 960953,
+        "bytes": 960069,
         "path": "print/design-019.pdf",
-        "sha256": "07a1f2e7d37d75eb7e8f474a401b80e67ecd779be346cc478ab38a3ecfadfb0e"
+        "sha256": "b10dce05df7ea6b9d765845a436a0734e6d9532d0284ff33414947c8a21a50fa"
       },
       "reviewState": "complete",
       "title": "Finding of Moses",
@@ -1340,7 +1340,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 5 — h28.txt [P0074]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows raised hand, lettered bands and bowl. Likely historical subject: Esau swears off his birthright (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The names JACOB and ESAU appear beside a raised hand and a bowl of food. Esau surrenders his birthright to Jacob.",
       "id": "design-020",
       "location": {
         "confidence": "unidentified",
@@ -1351,9 +1351,9 @@
       "originalPhotoId": "photo-020",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 860861,
+        "bytes": 860829,
         "path": "print/design-020.pdf",
-        "sha256": "82f8f7fbccdce0aca68752b8b5e3573b065435d34b4792f253be05c704f2291b"
+        "sha256": "b9480426baf95496f2f4e56662c8caca59ce391f52b22ed5717803c498e20f54"
       },
       "reviewState": "complete",
       "title": "Esau swears off his birthright",
@@ -1414,7 +1414,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 5 — h28.txt [P0075]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows camel, standing figure and bundle. Likely historical subject: Selling of Joseph (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A young Joseph appears beside a merchant, a camel and a money bag. The scene depicts his sale into slavery.",
       "id": "design-021",
       "location": {
         "confidence": "unidentified",
@@ -1425,9 +1425,9 @@
       "originalPhotoId": "photo-021",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1021140,
+        "bytes": 1021013,
         "path": "print/design-021.pdf",
-        "sha256": "2084155b15e0dadfbb9a8dc371509f318b6effc9d25c5493af0dd3cc0a678b07"
+        "sha256": "bfcc41f9af0f591677001450bd9f7b7018cb2fc34d7bff67d6da00a04e4ac0f6"
       },
       "reviewState": "complete",
       "title": "Selling of Joseph",
@@ -1488,7 +1488,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 6 — h28.txt [P0080]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows crowned figure and horse head. Likely historical subject: Through the Red Sea (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "An armored horseman appears among sweeping forms of blue and red. The scene represents the passage through the Red Sea in the group devoted to Moses.",
       "id": "design-022",
       "location": {
         "confidence": "unidentified",
@@ -1499,9 +1499,9 @@
       "originalPhotoId": "photo-022",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1032360,
+        "bytes": 1032522,
         "path": "print/design-022.pdf",
-        "sha256": "e1d3189a327a37b6b06ba526fd807d84d9a0bf44da0eda640868a31cbd78bf29"
+        "sha256": "58af9d8ec3285002b57007d47e640673aabca7de338ce82e311972f70280b4f5"
       },
       "reviewState": "complete",
       "title": "Passage through the Red Sea",
@@ -1562,7 +1562,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 6 — h28.txt [P0081]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows bearded face, leaves and flames. Likely historical subject: Moses and the Burning Bush (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A divine face appears within a leafy bush topped by flames. The burning bush represents God’s call to Moses.",
       "id": "design-023",
       "location": {
         "confidence": "unidentified",
@@ -1573,9 +1573,9 @@
       "originalPhotoId": "photo-023",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1103078,
+        "bytes": 1103003,
         "path": "print/design-023.pdf",
-        "sha256": "495f6df83f4814dd3f81865b2ab52136688da4e1df0ff353975e733d5d47e157"
+        "sha256": "2ff1548687c66bd9d91a306743778455eec39c84855d98b301d12fd1adb70622"
       },
       "reviewState": "complete",
       "title": "Moses and the Burning Bush",
@@ -1637,7 +1637,7 @@
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 6 — h28.txt [P0082]; transcription paragraph, not a printed page number.",
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 13 — h28.txt [P0120]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows raised hand, grape cluster and two figures. Likely historical subjects: Moses striking the rock; The Carriers of the Grapes of Eschol (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Moses holds a staff beside water flowing from a rock, with a kneeling figure drinking below. The scene tells of water provided to the Israelites in the wilderness.",
       "id": "design-024",
       "location": {
         "confidence": "unidentified",
@@ -1648,9 +1648,9 @@
       "originalPhotoId": "photo-024",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1028028,
+        "bytes": 1027780,
         "path": "print/design-024.pdf",
-        "sha256": "867db9f8223e6c15e6a0bb21cddce3a9b519c2bf7ce6cc69e723b44c9f4946a0"
+        "sha256": "c6d32bd1f8f26993ef78267672e962899a0bf1b607eae2b1155f437d78efcaa0"
       },
       "reviewState": "complete",
       "title": "Moses striking the rock",
@@ -1711,7 +1711,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 6 — h28.txt [P0083]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows standing figure with tablets and raised hand. Likely historical subject: Moses and the Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Moses holds two tablets representing the Law.",
       "id": "design-025",
       "location": {
         "confidence": "unidentified",
@@ -1722,9 +1722,9 @@
       "originalPhotoId": "photo-025",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 947306,
+        "bytes": 947056,
         "path": "print/design-025.pdf",
-        "sha256": "2243c51c1f048a8b92b6c13b386da90b6678f9ef56a4054cbc3d56e55adbdb6c"
+        "sha256": "de73ced9ec2ad474112f7d336f392aa449c9ddaa486925bdb8351c81847a7416"
       },
       "reviewState": "complete",
       "title": "Moses and the Law",
@@ -1785,7 +1785,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 7 — h28.txt [P0086]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows seated figure, lion and trees. Likely historical subject: Samson slaying the Lion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Samson forces open a lion’s jaws with his hands, showing the strength associated with him in the biblical story.",
       "id": "design-026",
       "location": {
         "confidence": "unidentified",
@@ -1796,9 +1796,9 @@
       "originalPhotoId": "photo-026",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 992915,
+        "bytes": 993166,
         "path": "print/design-026.pdf",
-        "sha256": "68801dedd23ea42f3f8feea78b08e74fe30a48b86f815ff9ea6d9c87cc7b116b"
+        "sha256": "09cda4803ed9b99dbb741ff1dc62ba3d619e0db237d5e8264b16ff273b41163b"
       },
       "reviewState": "complete",
       "title": "Samson slaying the Lion",
@@ -1859,7 +1859,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 7 — h28.txt [P0087]; transcription paragraph, not a printed page number."
       ],
-      "description": "Figures, a circular shield and flowing garments fill the drawing. Likely historical subject: David and Goliath (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "David appears with a sling beside an armored warrior and a severed head. The scene depicts his victory over Goliath.",
       "id": "design-027",
       "location": {
         "confidence": "unidentified",
@@ -1870,9 +1870,9 @@
       "originalPhotoId": "photo-027",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1149895,
+        "bytes": 1149238,
         "path": "print/design-027.pdf",
-        "sha256": "586ee3feeff386951c94c59d55b96bb47912946a8587946006062975469a66ae"
+        "sha256": "81008df5fce907bdc347d729a03b866580db1749f6f610b4a705a4d4bd551370"
       },
       "reviewState": "complete",
       "title": "David and Goliath",
@@ -1933,7 +1933,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 7 — h28.txt [P0088]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows winged figure, branch and bowed head. Likely historical subject: Death of Absalom (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Absalom’s long hair catches in a tree as armed figures gather around him. The scene depicts his death.",
       "id": "design-028",
       "location": {
         "confidence": "unidentified",
@@ -1944,9 +1944,9 @@
       "originalPhotoId": "photo-028",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1074086,
+        "bytes": 1073900,
         "path": "print/design-028.pdf",
-        "sha256": "9a803549385f12230c7cc8392cc552746e55ec7fc7b08df6a2fad7b7c9385da2"
+        "sha256": "3cb5322f6fea3067e1e7aa17bf45a72f67cc386d080a026fcd0b34c3398ee4cb"
       },
       "reviewState": "complete",
       "title": "Death of Absalom",
@@ -2007,7 +2007,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 7 — h28.txt [P0089]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows woman, grapes, donkey and figures. Likely historical subject: Flight into Egypt (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Mary and the infant Jesus travel on a donkey with Joseph. The family flees into Egypt.",
       "id": "design-029",
       "location": {
         "confidence": "unidentified",
@@ -2018,9 +2018,9 @@
       "originalPhotoId": "photo-029",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1088315,
+        "bytes": 1087382,
         "path": "print/design-029.pdf",
-        "sha256": "de387176fcb82f637d47f4f62150c0dd2692219f90c3656e68268c9e0f48bde5"
+        "sha256": "21bdb759948d198adaae7cb0c1ba0ba8e6c6927c81e8708d716e4fadb0c8b0b6"
       },
       "reviewState": "complete",
       "title": "Flight into Egypt",
@@ -2081,7 +2081,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 8 — h28.txt [P0091]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows winged face, clouds and kneeling woman. Likely historical subject: Annunciation (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A winged messenger appears above the praying Mary beside a lily. The Annunciation tells of the announcement that she will bear Jesus.",
       "id": "design-030",
       "location": {
         "confidence": "unidentified",
@@ -2092,9 +2092,9 @@
       "originalPhotoId": "photo-030",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1008775,
+        "bytes": 1007425,
         "path": "print/design-030.pdf",
-        "sha256": "017e5b7b7250a61d483aefdbd5c76821f481cf7b50ea7f3069de6aa85b805c8a"
+        "sha256": "8f095b23b995430e39247915699503cd4f56c112e4d02c5fd8684cac0fde3d37"
       },
       "reviewState": "complete",
       "title": "Annunciation",
@@ -2155,7 +2155,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 8 — h28.txt [P0092]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows star, rays and three crowned figures. Likely historical subject: Three Wise Men (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Three crowned figures gather beneath a radiant star. The Wise Men follow the star to find the infant Jesus.",
       "id": "design-031",
       "location": {
         "confidence": "unidentified",
@@ -2166,9 +2166,9 @@
       "originalPhotoId": "photo-031",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1128606,
+        "bytes": 1128726,
         "path": "print/design-031.pdf",
-        "sha256": "1a57685189345d96c13108de556f3c4922d5c50c81074cda72fb16801ae4fa5f"
+        "sha256": "c948260a1eeb54c0a7b881eb74b62bafe02086625c0c787e29856215ac3a6cb8"
       },
       "reviewState": "complete",
       "title": "Three Wise Men",
@@ -2252,7 +2252,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 8 — h28.txt [P0093]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows crowned figure and three faces in a tower. Likely historical subject: Three Young Men in the Fiery Furnace (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Three young men stand within a fiery enclosure before a seated king. The scene tells of their survival in the furnace.",
       "id": "design-032",
       "location": {
         "confidence": "unidentified",
@@ -2263,9 +2263,9 @@
       "originalPhotoId": "photo-032",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1141396,
+        "bytes": 1141680,
         "path": "print/design-032.pdf",
-        "sha256": "e7986ff21becea7042ce7946d60ba043e118fbb86853672137aababb28cc4725"
+        "sha256": "79a3a277672c6b8c432155a25a7e64b5909fc8d66fd5b290c0f30d28d21e77ac"
       },
       "reviewState": "complete",
       "title": "Three Young Men in the Fiery Furnace",
@@ -2326,7 +2326,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 8 — h28.txt [P0094]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows woman and child with halos. Likely historical subject: Madonna (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Mary holds the infant Christ, both shown with halos. The traditional name Madonna refers to Mary as the mother of Jesus.",
       "id": "design-033",
       "location": {
         "confidence": "unidentified",
@@ -2337,9 +2337,9 @@
       "originalPhotoId": "photo-033",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1019999,
+        "bytes": 1018890,
         "path": "print/design-033.pdf",
-        "sha256": "16b42c46e9999b2fc1e3b4fa6827c48678c9fdf2129a549fa47e0b8551df5294"
+        "sha256": "c736e0a697ef09287f3e1d52b3c94b192e2850be2ab9edd4e51944d9ac0f52d5"
       },
       "reviewState": "complete",
       "title": "Madonna",
@@ -2400,7 +2400,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 9 — h28.txt [P0096]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows two figures and pouring water. Likely historical subject: Baptism (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "John baptizes Christ beneath a dove, a symbol of the Holy Spirit.",
       "id": "design-034",
       "location": {
         "confidence": "unidentified",
@@ -2411,9 +2411,9 @@
       "originalPhotoId": "photo-034",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1101910,
+        "bytes": 1101731,
         "path": "print/design-034.pdf",
-        "sha256": "a750f74001c7a2da3caf9c0b9dac7565f80b9339a9d41721d629837d7b9ba340"
+        "sha256": "b11d1ab10b39269a00704930e55f04771a372f9f037d26104fd2fc5da2ffa215"
       },
       "reviewState": "complete",
       "title": "Baptism",
@@ -2474,7 +2474,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 9 — h28.txt [P0097]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows seated figure, donkey and flowers. Likely historical subject: Jesus enters into Jerusalem (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ rides a donkey toward Jerusalem, surrounded by palms and attendants.",
       "id": "design-035",
       "location": {
         "confidence": "unidentified",
@@ -2485,9 +2485,9 @@
       "originalPhotoId": "photo-035",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1007722,
+        "bytes": 1007317,
         "path": "print/design-035.pdf",
-        "sha256": "8171da992ded8629be49bf91f8c5cc74c123efbc53f226e0647b649a77315746"
+        "sha256": "af829e8ffa2349dcd1052f0dd5430064481d81ccc3451d347fdcfa5f1fffe86c"
       },
       "reviewState": "complete",
       "title": "Jesus enters into Jerusalem",
@@ -2548,7 +2548,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 9 — h28.txt [P0098]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows figure, boat and waves. Likely historical subject: Christ preaching from the boat (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ sits in a boat on the water and raises a hand as he teaches.",
       "id": "design-036",
       "location": {
         "confidence": "unidentified",
@@ -2559,9 +2559,9 @@
       "originalPhotoId": "photo-036",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1057514,
+        "bytes": 1057213,
         "path": "print/design-036.pdf",
-        "sha256": "cb58be52656438b8f301c49e0ea3135a1f8f3d2f0fa17d0d26fa1d9e72d9ed37"
+        "sha256": "65d2d0a11de9a1f4638a43727f3180d76ed19d1003dfeca2d980b16d08f14312"
       },
       "reviewState": "complete",
       "title": "Christ preaching from the boat",
@@ -2622,7 +2622,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 9 — h28.txt [P0099]; transcription paragraph, not a printed page number."
       ],
-      "description": "An older standing figure raises a hand above a kneeling man in ragged clothing. Likely historical subject: Return of the Prodigal (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A father welcomes his ragged, kneeling son. The return of the prodigal son tells a story of forgiveness.",
       "id": "design-037",
       "location": {
         "confidence": "unidentified",
@@ -2633,9 +2633,9 @@
       "originalPhotoId": "photo-037",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1106760,
+        "bytes": 1106439,
         "path": "print/design-037.pdf",
-        "sha256": "8b11a133f7d612f85a0bd6d781fb999081c92392d1d04ae1619a30cd9773f37d"
+        "sha256": "399f676f600af0f7bbf5dd5f00eb0b53838a9a1859cd53c7089c32e377a75a82"
       },
       "reviewState": "complete",
       "title": "Return of the Prodigal",
@@ -2696,7 +2696,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 10 — h28.txt [P0101]; transcription paragraph, not a printed page number."
       ],
-      "description": "Two figures face each other beside an open stone box. Likely historical subject: Awakening of Lazarus (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ addresses the shrouded Lazarus beside an open tomb. The scene depicts Lazarus being raised from the dead.",
       "id": "design-038",
       "location": {
         "confidence": "unidentified",
@@ -2707,9 +2707,9 @@
       "originalPhotoId": "photo-038",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1020745,
+        "bytes": 1020584,
         "path": "print/design-038.pdf",
-        "sha256": "56e0765060c617c89510d6b3971d52d732720aa5a834ef2d1467402cff2d812b"
+        "sha256": "1a24f01bdbe21c68ebbad5b4a7559c212e2f545c2e3f0b9077c345aa81e89d9a"
       },
       "reviewState": "complete",
       "title": "Awakening of Lazarus",
@@ -2770,7 +2770,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 10 — h28.txt [P0102]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows standing figure, staff and round object. Likely historical subject: Christ visiting, or Christ at the Door (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ holds a door knocker. The 1928 guide calls this scene Christ visiting, or Christ at the Door.",
       "id": "design-039",
       "location": {
         "confidence": "unidentified",
@@ -2781,9 +2781,9 @@
       "originalPhotoId": "photo-039",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 960625,
+        "bytes": 960374,
         "path": "print/design-039.pdf",
-        "sha256": "94030e491b0dac1d0d9187e89eeda1736561bc011aec9206de0ec2b9393fead0"
+        "sha256": "d6d6a0e20597524b4f90c89ce8f1b94600eb0fe350f47846fd24a428c349b0bf"
       },
       "reviewState": "complete",
       "title": "Christ visiting / Christ at the Door",
@@ -2844,7 +2844,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 10 — h28.txt [P0103]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows cross and three figures. Likely historical subject: Crucifixion (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ hangs on the cross, with Mary and John beside him.",
       "id": "design-040",
       "location": {
         "confidence": "unidentified",
@@ -2855,9 +2855,9 @@
       "originalPhotoId": "photo-040",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1031195,
+        "bytes": 1031159,
         "path": "print/design-040.pdf",
-        "sha256": "da27671ec80fca77b75194b7960c75105334484fff38109db661562f090c4bdf"
+        "sha256": "ae4675e1a5231ce1e30beb7c2f9ca5401e56fdf7b77d608f89e26b4b16f7f76a"
       },
       "reviewState": "complete",
       "title": "Crucifixion",
@@ -2918,7 +2918,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 10 — h28.txt [P0104]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows bearded figure above two smaller figures. Likely historical subject: Resurrection (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "The risen Christ holds a victory banner above figures at the tomb. The scene depicts the Resurrection.",
       "id": "design-041",
       "location": {
         "confidence": "unidentified",
@@ -2929,9 +2929,9 @@
       "originalPhotoId": "photo-041",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1113098,
+        "bytes": 1112093,
         "path": "print/design-041.pdf",
-        "sha256": "45b96052593b3d40a7bba05bf07114771d611f24fa2c9b5a5d457ff10734de91"
+        "sha256": "4354cabd5e740668c2473222c74d6f81ec96c73f5eaeaeb1a8511842f15d98b8"
       },
       "reviewState": "complete",
       "title": "Resurrection",
@@ -2992,7 +2992,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 11 — h28.txt [P0106]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows feet, clouds and winged faces. Likely historical subject: Ascension (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ’s feet disappear into a cloud above the gathered disciples. The scene depicts the Ascension.",
       "id": "design-042",
       "location": {
         "confidence": "unidentified",
@@ -3003,9 +3003,9 @@
       "originalPhotoId": "photo-042",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 823053,
+        "bytes": 822598,
         "path": "print/design-042.pdf",
-        "sha256": "695130fe00fe364ec38e6cfbd6baae95319e66ae21812e64a2af3d4f39ef1780"
+        "sha256": "062dba26f425aa5a5dcf57922ba1a3eafc4733918429dacafffb3d0d707ba563"
       },
       "reviewState": "complete",
       "title": "Ascension",
@@ -3066,7 +3066,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 11 — h28.txt [P0107]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows haloed face, raised hand and open book. Likely historical subject: Christ and the Christian Law (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ teaches with an open book and a raised finger. The 1928 guide calls this scene Christ and the Christian Law.",
       "id": "design-043",
       "location": {
         "confidence": "unidentified",
@@ -3077,9 +3077,9 @@
       "originalPhotoId": "photo-043",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1019149,
+        "bytes": 1018962,
         "path": "print/design-043.pdf",
-        "sha256": "eb9dd936a8104c2b5cb440142eec2bde9ad247cbb491158dcbcd32ffe52f19ca"
+        "sha256": "7da9f5594350fcbe293b176867f37a293edaeb08058af7a449610e3bf7c7f531"
       },
       "reviewState": "complete",
       "title": "Christ and the Christian Law",
@@ -3140,7 +3140,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 11 — h28.txt [P0108]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows dove, rays and flames. Likely historical subject: Descent of the Holy Ghost (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A dove descends over heads marked by tongues of flame. These symbols represent the coming of the Holy Spirit at Pentecost.",
       "id": "design-044",
       "location": {
         "confidence": "unidentified",
@@ -3151,9 +3151,9 @@
       "originalPhotoId": "photo-044",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1047734,
+        "bytes": 1047623,
         "path": "print/design-044.pdf",
-        "sha256": "9e3fa3ebd37d80469062489d0654f6f6693c7587e0246036e1059888e3d8c3eb"
+        "sha256": "ee63ac12bcb8ab4847441bff7401c1928b9b926126dd587b2187380d9e170c14"
       },
       "reviewState": "complete",
       "title": "Descent of the Holy Ghost",
@@ -3214,7 +3214,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 11 — h28.txt [P0109]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows seated haloed figure with a book. Likely historical subject: Christ in Heaven (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christ sits enthroned within a luminous enclosure, holding a book and raising a hand in blessing.",
       "id": "design-045",
       "location": {
         "confidence": "unidentified",
@@ -3225,9 +3225,9 @@
       "originalPhotoId": "photo-045",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1081295,
+        "bytes": 1080839,
         "path": "print/design-045.pdf",
-        "sha256": "61e6f0edd573a83029c5873c76ff6cdcb452f7392e4b0dc14b3527bb8f196620"
+        "sha256": "213968b20a1bf5d0e38f2f5fe4197db5f6eaeb4fe4f3988d7ec67c3a22edd88a"
       },
       "reviewState": "complete",
       "title": "Christ in Heaven",
@@ -3288,7 +3288,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 12 — h28.txt [P0113]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows inverted figure and the words St Peter. Likely historical subject: Martyrdom of St. Peter (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Peter is shown on an inverted cross beside the inscription ST PETER. The scene depicts his martyrdom.",
       "id": "design-046",
       "location": {
         "confidence": "unidentified",
@@ -3299,9 +3299,9 @@
       "originalPhotoId": "photo-046",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1097630,
+        "bytes": 1097230,
         "path": "print/design-046.pdf",
-        "sha256": "7488298c00bd2a536b3c90205803bdcd9b0e939ee9a8cd7c277626db78b13300"
+        "sha256": "ef107bc1e0b7ad19c0f5db916259b36503244d2474d0b3b71cc68fe95778f42f"
       },
       "reviewState": "complete",
       "title": "Martyrdom of St. Peter",
@@ -3362,7 +3362,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 12 — h28.txt [P0114]; transcription paragraph, not a printed page number."
       ],
-      "description": "The drawing shows figure carrying a child through water. Likely historical subject: St. Christopher ferrying the Christ Child across the river (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "Christopher carries the Christ Child through water. The child carries a cross.",
       "id": "design-047",
       "location": {
         "confidence": "unidentified",
@@ -3373,9 +3373,9 @@
       "originalPhotoId": "photo-047",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1130029,
+        "bytes": 1130011,
         "path": "print/design-047.pdf",
-        "sha256": "9414a81658e8f8910488855987fdd7587d59ef1b46e13a80f3c1373453fbf329"
+        "sha256": "c67182fd2ded59f7bd13fbed5b9bc6570ce5b54ac17c074042d29d22f542732b"
       },
       "reviewState": "complete",
       "title": "St. Christopher ferrying the Christ Child",
@@ -3436,7 +3436,7 @@
       "citations": [
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows — h28.txt [P0111] and [P0131]; two plausible lamb entries."
       ],
-      "description": "The drawing shows lamb, banner and crossed shapes. Historical subject remains unidentified after review: two different lamb entries in the 1928 guide fit this detail. Present-day location is unconfirmed.",
+      "description": "A haloed lamb carries a cross and banner. The lamb represents Christ, and the banner expresses triumph. The 1928 guide lists this scene in Window 12.",
       "id": "design-048",
       "location": {
         "confidence": "unidentified",
@@ -3447,9 +3447,9 @@
       "originalPhotoId": "photo-048",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1055021,
+        "bytes": 1054967,
         "path": "print/design-048.pdf",
-        "sha256": "d0fc9a00e30ae152696e1270d0792a92dea8db944f86e3b8a8d3a07c22818b0e"
+        "sha256": "d997d857ebfd8d41b69a2696b2ea727ca7e7001e3b158640ee425845f493709b"
       },
       "reviewState": "complete",
       "title": "Christ as the Lamb",
@@ -3511,7 +3511,7 @@
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 12 — h28.txt [P0112]; transcription paragraph, not a printed page number.",
         "First Congregational Church, Kalamazoo. Our Church Its History Its Structure Its Service, 1928. Supplied transcription; printed pagination not verified. — The Windows, window 14 — h28.txt [P0132]; transcription paragraph, not a printed page number."
       ],
-      "description": "A grotesque creature holds a three-tined fork above a woolly ram beside a round cross-marked shape and three hanging balls. Likely historical subjects: Sin and Salvation. Sin symbolized by a scarlet Satan with three-tined fork and flames; Doctrine of Christ. Book—the New Testament. Three balls symbol of the Trinity (1928 guide; visual interpretation). Present-day location is unconfirmed.",
+      "description": "A scarlet creature with a three-tined fork and flames appears above a lamb and cross. The 1928 guide calls the scene Sin and Salvation: the devil represents sin, while the lamb and cross represent Christ and salvation.",
       "id": "design-049",
       "location": {
         "confidence": "unidentified",
@@ -3522,9 +3522,9 @@
       "originalPhotoId": "photo-049",
       "pairingReviewState": "complete",
       "printable": {
-        "bytes": 1036781,
+        "bytes": 1036114,
         "path": "print/design-049.pdf",
-        "sha256": "c8444aabc643c4517663fae4a79fb74fef1486f7754db170103057ad46e20fc8"
+        "sha256": "c61e384531e8ee5e4be6b0afb08c15d667b088157b20eb8845ad9b9aa014f489"
       },
       "reviewState": "complete",
       "title": "Sin and Salvation",
@@ -3581,14 +3581,14 @@
   "book": {
     "coloringPages": 48,
     "file": {
-      "bytes": 49886816,
+      "bytes": 49875190,
       "path": "downloads/fcc-coloring-book.pdf",
-      "sha256": "977a14b0a94ea8f2fd5ff7c4c93a3dcaa5b1d9ede3203cff2b8794516341432a"
+      "sha256": "bf19476e820cf339a367b9fd819b4697ba68408f4acf5211f2e871954d712bb7"
     },
     "manifest": {
       "bytes": 9730,
       "path": "downloads/book-manifest.json",
-      "sha256": "f08949fbc1024f62e1b3544d9f422a28108d523f27732e614984fd7d83d4a70c"
+      "sha256": "f21c45008a9dcd5b44a32c313ab2310f8dd05dedb20c3e765d2733e13300ce7b"
     },
     "totalPages": 51
   },

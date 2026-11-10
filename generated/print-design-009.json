@@ -2,12 +2,12 @@
   "artworkId": "design-009",
   "effectiveDpi": 172.79999999999998,
   "file": {
-    "bytes": 1059208,
+    "bytes": 1059684,
     "path": "print/design-009.pdf",
-    "sha256": "9edf6271166fb694ca8e3b741ddb88d0ea6bf7f3d0f01c5794216599510528cf"
+    "sha256": "7036cb134095a2bbcce55c51c2cceedace0953f8a9a7db9d63fb0cc3387fcca8"
   },
   "height": 792,
-  "inputDigest": "2552174ae959a138b31a46e3c1349d73b92b1565595fbf667a936fa9061f901b",
+  "inputDigest": "b4fa3e4b1f7ea38272bb80e20307d22b7db4fa99d018b124694c236db75bc824",
   "pages": 1,
   "schemaVersion": 1,
   "width": 612

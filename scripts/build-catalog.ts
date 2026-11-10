@@ -84,8 +84,7 @@ export function projectDevelopmentCatalog(
         && artwork.originalPhoto.confidence !== 'unidentified' && Boolean(resources.photos[candidate]);
       const locationReviewed = currentReview(data, id, 'location');
       return {
-        id: artwork.id, bookNumber: artwork.bookNumber,
-        title: (showPhoto ? data.photos.find(photo => photo.id === candidate)?.title : undefined) ?? artwork.title,
+        id: artwork.id, bookNumber: artwork.bookNumber, title: artwork.title,
         description: artwork.publicDescription, available: Boolean(active),
         availabilityMessage: active ? null : 'This coloring page is not ready yet.',
         originalPhotoId: showPhoto ? candidate : null,

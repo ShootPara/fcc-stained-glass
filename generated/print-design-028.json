@@ -2,12 +2,12 @@
   "artworkId": "design-028",
   "effectiveDpi": 179.6625,
   "file": {
-    "bytes": 1074086,
+    "bytes": 1073900,
     "path": "print/design-028.pdf",
-    "sha256": "9a803549385f12230c7cc8392cc552746e55ec7fc7b08df6a2fad7b7c9385da2"
+    "sha256": "3cb5322f6fea3067e1e7aa17bf45a72f67cc386d080a026fcd0b34c3398ee4cb"
   },
   "height": 792,
-  "inputDigest": "cb22b368e3ddd219fe78d27377ec03f77c18ee85c953ae0d8cdae198e346c5c9",
+  "inputDigest": "f3c4870a2d9a2658f7adbb159aaa88ceb26865afc0df6d590cdd44185d7342f1",
   "pages": 1,
   "schemaVersion": 1,
   "width": 612

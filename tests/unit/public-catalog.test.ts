@@ -231,7 +231,7 @@ test('caption edits, filename changes, and unrelated media changes leave a pairi
   selected.originalFilename = 'renamed fixture.jpg';
   data.manifest.files.find(file => file.id === 'photo-001')!.sha256 = '0'.repeat(64);
   const after = projectDevelopmentCatalog(data, resourcesFor(data));
-  expect(publishedArtwork(after)).toMatchObject({ title: 'A clearer photo title', description: 'Revised public drawing text.', pairingReviewState: 'complete', originalPhotoId: 'photo-002', originalPhotoConfidence: 'likely' });
+  expect(publishedArtwork(after)).toMatchObject({ title: 'A clearer drawing title', description: 'Revised public drawing text.', pairingReviewState: 'complete', originalPhotoId: 'photo-002', originalPhotoConfidence: 'likely' });
   expect(publishedPhoto(after)).toMatchObject({ title: 'A clearer photo title', alt: 'Revised alternative text.', description: 'Revised public photo text.', relatedArtworkIds: ['design-002'] });
   expect(after.sourceSnapshotDigest).not.toBe(before.sourceSnapshotDigest);
 });

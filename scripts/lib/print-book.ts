@@ -95,7 +95,7 @@ export async function makeBook(root:string,context:Context,sheets:Sheet[],sheetB
     'This book includes 48 coloring pages. Each drawing has a number from 1 to 48. The cover and these notes are not numbered coloring pages.',
     'Print on US Letter paper at 100% size. On A4 paper, choose Fit. The drawings leave room around the edges for most home printers.',
     'Use pencils, crayons or markers. If markers show through the paper, place a spare sheet underneath the page you are coloring.',
-    'Names describe visible shapes. Some historical subjects and locations in the church have not yet been identified.',
+    'The page titles identify the scenes and symbols depicted in the stained glass, using the church’s historical guides.',
   ]);
   for(const sheet of sheets) {
     const bytes=sheetBytes.get(sheet.artworkId);
