@@ -103,3 +103,6 @@ Expanded the About narrative from four to nine paragraphs using the existing H28
 App code, coloring records, geometry, saved progress, PDFs and print review are unchanged. Existing source histories and crosswalk were reused. All 307 tests in 23 files passed. Local strict production build passed with 48 available drawings and 845 runtime files. Final prose was refined afterward; the release catalog and GitHub publication build validate the final content. Desktop browser inspection confirmed the expanded narrative in the existing layout. Physical phone and print tests were not performed.
 
 Publication verification is recorded below when complete. Next action: verify live About content after Pages deployment.
+
+Publication complete: application commit 62f9c3d28bc765d49951a05b0c7e79c8bccc9197. Pages run 42723816632 and Verify run 42723816784 both succeeded. Live catalog matches the final local release byte-for-byte (SHA-256 3821078d131772703520d4a673610f050eb0c8c736f1781ced042772fb4a20c9), with 55 photos and nine narrative paragraphs. Live browser confirmed the expanded About content and corrected names. Coloring catalog and book entries remain exactly unchanged. No remaining editorial/publication blocker; next action is to incorporate any owner-supplied historical corrections.
+
